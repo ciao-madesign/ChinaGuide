@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国路 — Corso e guida di viaggio in Cina</title>
+<meta name="description" content="Un taccuino di viaggio interattivo: corso di preparazione sulla Cina, guida giorno-per-giorno per un itinerario di 13 giorni, frasario, checklist, budget e mappe.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23b5301c'/%3E%3Ctext x='32' y='45' font-size='34' text-anchor='middle' fill='%23fbeee0' font-family='serif'%3E中%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brandmini">
+    <div class="seal-badge brush">中</div>
+    <span>中国路</span>
+  </div>
+  <button class="hamburger" id="hamburger" aria-label="Apri il menu">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+  </button>
+</div>
+
+<div class="overlay-backdrop" id="overlay-backdrop"></div>
+
+<div class="app">
+  <nav class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="brand-row">
+        <div class="seal-badge brush">中</div>
+        <div>
+          <h1>中国路</h1>
+          <p>Corso &amp; guida di viaggio</p>
+        </div>
+      </div>
+    </div>
+
+    <ul class="navlist" id="navlist-home"></ul>
+    <div class="navdivider"></div>
+
+    <div class="navsection">Corso di preparazione</div>
+    <ul class="navlist" id="navlist-corso"></ul>
+    <div class="navdivider"></div>
+
+    <div class="navsection">Guida di viaggio · 13 giorni</div>
+    <ul class="navlist" id="navlist-guida"></ul>
+    <div class="navdivider"></div>
+
+    <div class="navsection">Strumenti</div>
+    <ul class="navlist" id="navlist-strumenti"></ul>
+
+    <p class="sidebar-footer">写于准备中国之旅<br>Taccuino di preparazione al viaggio</p>
+  </nav>
+
+  <main id="main"></main>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
