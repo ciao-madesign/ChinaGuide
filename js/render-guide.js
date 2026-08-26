@@ -1,9 +1,25 @@
 import { HOME, intro, days, closing } from './data-guide.js';
-import { getIllustration } from './illustrations.js';
+import { sealStampSvg } from './illustrations.js';
+import { illustrationCard, extraPhotoCard, standaloneCard } from './postcard.js';
+import { OVERVIEW_MAP_PHOTO } from './photos.js';
 import { buildMapBlock } from './maps.js';
 import { store } from './store.js';
+import { buildDayNoteBox, buildGeneralNoteBox } from './notebox.js';
 
 function el(tag, cls, html){ const e=document.createElement(tag); if(cls) e.className=cls; if(html!=null) e.innerHTML=html; return e; }
+
+function watermark(char){
+  const d = document.createElement('div');
+  d.className='cn-watermark';
+  d.textContent = char;
+  return d;
+}
+function eyebrowRow(text, stampChar){
+  const row = document.createElement('div');
+  row.className='eyebrow-row';
+  row.innerHTML = `${sealStampSvg(stampChar)}<p class="eyebrow">${text}</p>`;
+  return row;
+}
 
 const ALL_POINTS = days.flatMap(d => d.points.map(p => ({...p, day:d.num})));
 
@@ -15,13 +31,6 @@ function renderSections(sections){
     s.p.forEach(txt=>{ const p=document.createElement('p'); p.textContent=txt; wrap.appendChild(p); });
   });
   return wrap;
-}
-
-function illustrationCard(key, caption){
-  const card = document.createElement('div');
-  card.className = 'postcard';
-  card.innerHTML = `<div class="washi"></div>${getIllustration(key)}<div class="cap">${caption}</div>`;
-  return card;
 }
 
 function footerNav(kind, idx, navigate){
@@ -53,8 +62,9 @@ function footerNav(kind, idx, navigate){
 }
 
 function renderHome(mainEl, navigate){
+  mainEl.appendChild(watermark('程'));
   const hero = document.createElement('div'); hero.className='hero';
-  hero.appendChild(el('p','eyebrow',HOME.eyebrow));
+  hero.appendChild(eyebrowRow(HOME.eyebrow, '程'));
   const h1=document.createElement('h1'); h1.className='heroTitle display'; h1.textContent=HOME.title; hero.appendChild(h1);
   hero.appendChild(el('p','heroSub',HOME.subtitle));
   const stats=document.createElement('div'); stats.className='herostats';
@@ -67,6 +77,13 @@ function renderHome(mainEl, navigate){
   hero.appendChild(renderSections(HOME.sections));
   mainEl.appendChild(hero);
 
+  mainEl.appendChild(el('div','divider-brush'));
+  mainEl.appendChild(el('h3',null,'I 13 giorni, in anteprima'));
+  const gallery = document.createElement('div');
+  gallery.className='gallery compact';
+  days.forEach(d=> gallery.appendChild(illustrationCard(d.illustration, `${d.num}. ${d.nav}`)));
+  mainEl.appendChild(gallery);
+
   const btn = document.createElement('button');
   btn.className='primary';
   btn.textContent='Inizia da "Prima di partire" →';
@@ -75,16 +92,19 @@ function renderHome(mainEl, navigate){
 }
 
 function renderIntro(mainEl, navigate){
-  mainEl.appendChild(el('p','eyebrow',intro.eyebrow));
+  mainEl.appendChild(watermark('備'));
+  mainEl.appendChild(eyebrowRow(intro.eyebrow, '備'));
   mainEl.appendChild(el('h2','title display',intro.title));
   mainEl.appendChild(el('p','subtitle',intro.subtitle));
   mainEl.appendChild(renderSections(intro.sections));
+  mainEl.appendChild(buildGeneralNoteBox());
   mainEl.appendChild(footerNav('intro', 0, navigate));
 }
 
 function renderDay(mainEl, idx, navigate){
   const d = days[idx];
-  mainEl.appendChild(el('p','eyebrow',`Giorno ${d.num}`));
+  mainEl.appendChild(watermark(String(d.num).padStart(2,'0')));
+  mainEl.appendChild(eyebrowRow(`Giorno ${d.num}`, String(d.num)));
   mainEl.appendChild(el('h2','title display',d.city));
   mainEl.appendChild(el('p','subtitle',d.title + ' — ' + d.subtitle));
 
@@ -121,12 +141,18 @@ function renderDay(mainEl, idx, navigate){
 
   mainEl.appendChild(buildMapBlock(d.points, `Mappa del giorno ${d.num}`, false));
 
+  const extraPhoto = extraPhotoCard(d.illustration, `${d.city} — un altro scorcio`);
+  if(extraPhoto) mainEl.appendChild(extraPhoto);
+
   if(d.foto && d.foto!=='—'){
     const pn = document.createElement('div');
     pn.className='callout';
     pn.innerHTML = `<span class="lbl">Cosa vedrai</span>${d.foto}`;
     mainEl.appendChild(pn);
   }
+
+  mainEl.appendChild(el('div','divider-brush'));
+  mainEl.appendChild(buildDayNoteBox(d.key, `Giorno ${d.num} — ${d.city}`));
 
   const visited = store.visitedDays().has(d.key);
   const stampBtn = document.createElement('button');
@@ -141,12 +167,14 @@ function renderDay(mainEl, idx, navigate){
 
 function renderClosing(mainEl, idx, navigate){
   const c = closing[idx];
-  mainEl.appendChild(el('p','eyebrow',c.eyebrow));
+  mainEl.appendChild(watermark(c.isOverviewMap ? '圖' : '單'));
+  mainEl.appendChild(eyebrowRow(c.eyebrow, c.isOverviewMap ? '圖' : '單'));
   mainEl.appendChild(el('h2','title display',c.title));
   mainEl.appendChild(el('p','subtitle',c.subtitle));
 
   if(c.isOverviewMap){
     mainEl.appendChild(buildMapBlock(null, 'Percorso completo — 13 giorni', true, ALL_POINTS));
+    mainEl.appendChild(standaloneCard(OVERVIEW_MAP_PHOTO, 'Le province attraversate dal tuo itinerario'));
   }
   if(c.key==='checklist'){
     const state = store.checklistState();

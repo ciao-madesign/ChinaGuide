@@ -1,16 +1,19 @@
 /* =====================================================================
-   DATI — Corso di preparazione (10 lezioni + quiz finale)
+   DATI — Corso di preparazione (10 lezioni approfondite + quiz finale)
    ===================================================================== */
 
 export const lessons = [
 {
-  key:"lesson-1", illustration:"lesson-1",
+  key:"lesson-1", illustration:"lesson-1", illustration2:"lesson-1b",
   title:"Geografia e territorio", eyebrow:"Lezione 01", subtitle:"Un continente travestito da paese",
   sections:[
     {h:"Le dimensioni del problema", p:"La Cina copre circa 9,6 milioni di km² — quasi trenta volte l'Italia — con cinque fusi orari geografici compressi in uno solo (l'ora di Pechino, valida ovunque). Confina con 14 paesi, più di ogni altra nazione al mondo insieme alla Russia."},
     {h:"Le grandi regioni", p:"Il nord (Pechino, pianura del fiume Giallo) è secco, freddo d'inverno, culla della civiltà cinese classica. Il sud (Sichuan, Hunan, Yunnan) è umido, montuoso, ricco di riso e biodiversità. L'ovest (Tibet, Xinjiang) è altopiano e deserto, etnicamente diverso dal resto del paese. L'est costiero (Shanghai, Canton) è il volto industriale e globalizzato della Cina di oggi."},
     {h:"I due fiumi che hanno fatto la storia", p:"Il Fiume Giallo (Huang He) a nord ha dato origine alla civiltà cinese ma con piene devastanti che gli sono valse il nome di 'dolore della Cina'. Il fiume Azzurro (Yangtze), il più lungo dell'Asia, attraversa Sichuan e Hunan — proprio le regioni del tuo itinerario — ed è da sempre l'arteria economica del sud."},
+    {h:"Clima e monsoni", p:"La Cina è dominata dal monsone asiatico: piogge intense in estate, soprattutto al sud-est, inverni secchi e rigidi al nord. Il clima varia da subartico in Manciuria a tropicale a Hainan, passando per l'altopiano semi-desertico del Tibet. È uno dei paesi climaticamente più diversi al mondo, il che significa pianificare l'abbigliamento tappa per tappa, non per l'intero viaggio."},
+    {h:"Popolazione e densità", p:"Oltre 1,4 miliardi di abitanti, ma distribuiti in modo estremamente ineguale. La cosiddetta 'linea Hu Huanyong', tracciata nel 1935 tra Heihe (nord-est) e Tengchong (sud-ovest), divide idealmente il paese: a est vive circa il 94% della popolazione su poco più di un terzo del territorio, a ovest quasi tutto il resto è altopiano scarsamente abitato."},
   ],
+  trivia:"La Cina ha ufficialmente un solo fuso orario (UTC+8) nonostante la sua estensione: nell'estremo ovest, in Xinjiang, il sole può sorgere alle 10 del mattino 'ufficiale' — molti locali usano informalmente un'ora non ufficiale, spostata di due ore.",
   callout:"Per il tuo viaggio: Zhangjiajie ed Emeishan si trovano nel sud montuoso e umido — clima diverso da Pechino, con nebbia frequente che può nascondere i panorami.",
   quiz:[
     {q:"Quanti fusi orari geografici attraversa la Cina, pur usando un solo orario ufficiale?",opts:["Uno","Tre","Cinque","Sette"],c:2,e:"La Cina si estende su cinque fusi orari geografici ma adotta un unico orario nazionale, quello di Pechino."},
@@ -18,16 +21,21 @@ export const lessons = [
     {q:"Zhangjiajie ed Emeishan, tappe del tuo itinerario, si trovano in quale area geografica?",opts:["Nord arido","Ovest desertico","Sud montuoso e umido","Costa est industriale"],c:2,e:"Entrambe le zone appartengono al sud della Cina, montuoso, umido e ricco di vegetazione."},
     {q:"Con quanti paesi confina la Cina?",opts:["6","10","14","20"],c:2,e:"La Cina confina con 14 stati, un record condiviso con la Russia."},
     {q:"Quale fiume attraversa sia il Sichuan che l'Hunan?",opts:["Fiume Giallo","Yangtze","Mekong","Fiume delle Perle"],c:1,e:"Lo Yangtze (Fiume Azzurro) collega idealmente Chengdu e la regione dello Hunan."},
+    {q:"Cosa indica la 'linea Hu Huanyong'?",opts:["Un confine con la Russia","Il confine tra Cina orientale densamente popolata e occidentale quasi vuota","Un'antica rotta commerciale","Solo una linea climatica senza rilevanza demografica"],c:1,e:"Tracciata nel 1935, la linea Hu Huanyong separa il 94% della popolazione (a est) dal resto del territorio, quasi vuoto (a ovest)."},
+    {q:"Che tipo di clima domina gran parte della Cina orientale?",opts:["Mediterraneo","Monsonico","Polare","Desertico ovunque"],c:1,e:"Il monsone asiatico porta piogge estive intense, soprattutto al sud-est, e inverni secchi al nord."},
   ]
 },
 {
-  key:"lesson-2", illustration:"lesson-2",
+  key:"lesson-2", illustration:"lesson-2", illustration2:"lesson-2b",
   title:"Storia antica", eyebrow:"Lezione 02", subtitle:"Dalle origini alla prima unificazione",
   sections:[
     {h:"Le dinastie leggendarie e la Shang", p:"La tradizione colloca le origini della civiltà cinese nella dinastia Xia (semi-leggendaria) e nella dinastia Shang (circa 1600–1046 a.C.), la prima di cui esistano prove archeologiche solide, incluse le celebri iscrizioni oracolari su ossa e gusci di tartaruga — l'antenato della scrittura cinese."},
     {h:"Zhou e i Regni Combattenti", p:"La dinastia Zhou (1046–256 a.C.) introduce il concetto di 'Mandato del Cielo', giustificazione teologica del potere imperiale che accompagnerà ogni dinastia successiva. Il periodo finale, detto dei Regni Combattenti, è un'epoca di guerre tra stati rivali ma anche di straordinaria fioritura filosofica: nascono Confucio, Laozi, Sunzi."},
     {h:"Qin: la prima Cina unita", p:"Nel 221 a.C. Qin Shi Huang unifica per la prima volta i regni cinesi, standardizza scrittura, monete e assi dei carri, e comincia a collegare le fortificazioni difensive che diventeranno la Grande Muraglia. È anche il sovrano del celebre Esercito di Terracotta di Xi'an. La dinastia Han che segue (206 a.C.–220 d.C.) consolida l'impero e dà il nome all'etnia maggioritaria cinese, gli Han."},
+    {h:"La scrittura e i primi testi", p:"Le iscrizioni oracolari Shang (jiaguwen), incise su ossa e gusci per interrogare gli antenati sul futuro, sono la più antica forma nota di scrittura cinese. Da questo sistema si sviluppa gradualmente la scrittura logografica ancora oggi in uso: pochi altri sistemi al mondo vantano una continuità di oltre 3000 anni."},
+    {h:"Vita quotidiana nell'antichità", p:"Le società Shang e Zhou ruotavano attorno all'agricoltura di miglio e riso, a città cinte da mura di terra battuta e a una rigida gerarchia sociale. I bronzi rituali, usati in cerimonie religiose e banchetti, sono tra le testimonianze artistiche più sofisticate del mondo antico, con tecniche di fusione che l'Occidente non eguaglierà per secoli."},
   ],
+  trivia:"Molte iscrizioni oracolari Shang furono vendute come 'ossa di drago' nelle farmacie di medicina tradizionale fino a inizio '900, macinate come rimedio — prima che uno studioso ne riconoscesse per caso il valore storico nel 1899.",
   callout:"Per il tuo viaggio: la Grande Muraglia che visiterai a Juyongguan è in gran parte opera Ming (secoli dopo Qin), ma il progetto nasce proprio con il primo imperatore.",
   quiz:[
     {q:"Quale dinastia è la prima di cui esistono solide prove archeologiche?",opts:["Xia","Shang","Zhou","Qin"],c:1,e:"La dinastia Shang (c. 1600–1046 a.C.) è la prima confermata da reperti archeologici, incluse le iscrizioni oracolari."},
@@ -35,16 +43,21 @@ export const lessons = [
     {q:"Chi unifica per la prima volta la Cina nel 221 a.C.?",opts:["Confucio","Sunzi","Qin Shi Huang","Liu Bang"],c:2,e:"Qin Shi Huang, primo imperatore, unifica scrittura, moneta e territorio."},
     {q:"A quale periodo risale la nascita del confucianesimo e del taoismo?",opts:["Dinastia Shang","Regni Combattenti (epoca Zhou)","Dinastia Han","Dinastia Tang"],c:1,e:"Confucio, Laozi e Sunzi vivono nel turbolento ma fertile periodo dei Regni Combattenti."},
     {q:"Da quale dinastia prende il nome l'etnia maggioritaria cinese di oggi?",opts:["Qin","Han","Tang","Ming"],c:1,e:"Gli 'Han' sono oggi il gruppo etnico maggioritario in Cina, dal nome della dinastia."},
+    {q:"Come si chiamano le antiche iscrizioni divinatorie della dinastia Shang?",opts:["Jiaguwen (iscrizioni oracolari)","Hanzi moderni","Pinyin","Calligrafia Tang"],c:0,e:"Il jiaguwen, inciso su ossa e gusci di tartaruga, è la forma più antica nota di scrittura cinese."},
+    {q:"Su cosa venivano incise le iscrizioni oracolari Shang?",opts:["Bambù","Ossa e gusci di tartaruga","Seta","Pietra"],c:1,e:"Le iscrizioni oracolari erano incise su ossa animali e gusci di tartaruga per riti divinatori."},
   ]
 },
 {
-  key:"lesson-3", illustration:"lesson-3",
+  key:"lesson-3", illustration:"lesson-3", illustration2:"lesson-3b",
   title:"Storia imperiale", eyebrow:"Lezione 03", subtitle:"Da Tang a Qing: duemila anni di imperi",
   sections:[
     {h:"L'età dell'oro Tang e Song", p:"La dinastia Tang (618–907) è considerata l'apice culturale della Cina classica: poesia, commercio lungo la Via della Seta, cosmopolitismo. La successiva dinastia Song (960–1279) porta innovazioni tecnologiche straordinarie — stampa a caratteri mobili, bussola, polvere da sparo — e una fioritura urbana ed economica senza precedenti."},
     {h:"Yuan e Ming", p:"Nel 1271 i Mongoli di Kublai Khan fondano la dinastia Yuan, l'unica dinastia straniera prima dei Qing. Nel 1368 i Ming rovesciano i Mongoli e riportano un governo han: sotto i Ming vengono costruiti la Città Proibita e gran parte della Grande Muraglia oggi visitabile, incluso il tratto di Juyongguan."},
     {h:"I Qing e la fine dell'impero", p:"Nel 1644 i Manciù fondano la dinastia Qing, l'ultima dinastia imperiale, che governa fino al 1912. Il XIX secolo porta le Guerre dell'Oppio, l'umiliazione delle potenze straniere e un progressivo indebolimento che culmina nella caduta dell'impero."},
+    {h:"Il sistema mandarinale e gli esami imperiali", p:"Dal periodo Sui-Tang in poi, l'accesso alla burocrazia imperiale passava attraverso il keju, un sistema di esami basati sui classici confuciani, in teoria aperto a chiunque indipendentemente dalla nascita. Era una forma di meritocrazia rivoluzionaria per l'epoca, e i funzionari che la superavano — i 'mandarini' — formavano l'élite amministrativa dell'impero."},
+    {h:"La Via della Seta e i contatti con l'Occidente", p:"La rete di rotte commerciali nota come Via della Seta collegava Chang'an (l'odierna Xi'an) fino al Mediterraneo, favorendo lo scambio di seta, spezie, tecnologie e idee religiose — incluso l'arrivo del buddismo. Secoli dopo, alla corte degli imperatori Yuan, il veneziano Marco Polo racconterà all'Europa le meraviglie di una Cina già allora avanzatissima."},
   ],
+  trivia:"Gli esami imperiali erano così duri che alcuni candidati vi si presentavano decine di volte nell'arco di una vita, spesso ben oltre i 50 anni d'età, pur di ottenere un titolo che avrebbe elevato l'intera famiglia.",
   callout:"Per il tuo viaggio: la Città Proibita e la Grande Muraglia che vedrai a Pechino sono opere quasi interamente Ming — il periodo che più ha plasmato l'immagine 'imperiale' della città.",
   quiz:[
     {q:"Quale dinastia è considerata l'apice culturale della Cina classica?",opts:["Song","Tang","Yuan","Qing"],c:1,e:"I Tang (618–907) sono il punto più alto di poesia, commercio e prestigio culturale cinese."},
@@ -52,16 +65,21 @@ export const lessons = [
     {q:"Chi fonda la dinastia Yuan?",opts:["Qin Shi Huang","Kublai Khan","Zhu Yuanzhang","Kangxi"],c:1,e:"Kublai Khan, nipote di Gengis Khan, fonda gli Yuan nel 1271, unica dinastia mongola in Cina prima dei Qing."},
     {q:"Sotto quale dinastia sono costruiti la Città Proibita e gran parte della Grande Muraglia attuale?",opts:["Tang","Song","Ming","Qing"],c:2,e:"I Ming (1368–1644) edificano la Città Proibita e ricostruiscono la Muraglia con mattoni e pietra."},
     {q:"Quale dinastia, di origine manciù, è l'ultima dell'impero cinese?",opts:["Ming","Yuan","Qing","Song"],c:2,e:"I Qing governano dal 1644 al 1912, quando cade l'impero."},
+    {q:"Come si chiamava il sistema di esami per entrare nella burocrazia imperiale?",opts:["Keju","Kowtow","Hukou","Guanxi"],c:0,e:"Il keju era il sistema di esami basato sui classici confuciani per selezionare i funzionari imperiali."},
+    {q:"Quale città era il punto di partenza orientale della Via della Seta?",opts:["Pechino","Chang'an (l'odierna Xi'an)","Shanghai","Canton"],c:1,e:"Chang'an, capitale Tang, era il grande snodo orientale delle rotte verso l'Asia centrale e il Mediterraneo."},
   ]
 },
 {
-  key:"lesson-4", illustration:"lesson-4",
+  key:"lesson-4", illustration:"lesson-4", illustration2:"lesson-4b",
   title:"Storia moderna", eyebrow:"Lezione 04", subtitle:"Dalla caduta dell'impero alla Repubblica Popolare",
   sections:[
     {h:"La fine dell'impero e la Repubblica", p:"Nel 1911–12 la Rivoluzione Xinhai rovescia i Qing e Sun Yat-sen proclama la Repubblica di Cina. Seguono decenni instabili: signori della guerra, invasione giapponese (1937–45) e guerra civile tra nazionalisti (Kuomintang) e comunisti."},
+    {h:"La Lunga Marcia e l'ascesa di Mao", p:"Tra il 1934 e il 1935, per sfuggire all'accerchiamento delle forze nazionaliste, l'Armata Rossa comunista compie la Lunga Marcia: una ritirata strategica di circa 9.000 km attraverso alcune delle regioni più impervie della Cina occidentale. L'evento, mitizzato dalla propaganda successiva, consolida la leadership di Mao Zedong all'interno del partito."},
     {h:"La nascita della Repubblica Popolare", p:"Il 1° ottobre 1949 Mao Zedong proclama la Repubblica Popolare Cinese dopo la vittoria comunista; i nazionalisti si rifugiano a Taiwan, dando origine alla questione ancora oggi irrisolta. Seguono decenni di riforme radicali e traumi collettivi: il Grande Balzo in Avanti (1958–61) e la Rivoluzione Culturale (1966–76)."},
     {h:"Le riforme e l'apertura", p:"Dal 1978 Deng Xiaoping avvia le 'riforme e apertura' che trasformano la Cina in un'economia di mercato guidata dal partito unico, con crescita economica senza precedenti nei decenni successivi e l'urbanizzazione di centinaia di milioni di persone."},
+    {h:"Tiananmen 1989 e gli anni '90", p:"Nel giugno 1989 proteste studentesche per riforme politiche e contro la corruzione vengono represse duramente in Piazza Tiananmen. Il decennio successivo vede comunque un consolidamento delle riforme economiche di Deng ('socialismo di mercato con caratteristiche cinesi') e, nel 1997, il ritorno di Hong Kong alla sovranità cinese dopo oltre 150 anni di dominio britannico."},
   ],
+  trivia:"Durante la Lunga Marcia l'Armata Rossa perse oltre il 90% degli effettivi di partenza per combattimenti, fame e freddo — eppure l'evento divenne il mito fondativo attorno a cui si costruì la leadership del Partito Comunista Cinese.",
   callout:"Per il tuo viaggio: Shanghai, ultima tappa dell'itinerario, è il simbolo per eccellenza di questa trasformazione — da porto coloniale a metropoli globale in meno di 40 anni.",
   quiz:[
     {q:"Chi proclama la Repubblica di Cina nel 1912?",opts:["Mao Zedong","Sun Yat-sen","Deng Xiaoping","Chiang Kai-shek"],c:1,e:"Sun Yat-sen guida la rivoluzione che rovescia i Qing e fonda la Repubblica nel 1912."},
@@ -69,16 +87,21 @@ export const lessons = [
     {q:"Dove si rifugiano i nazionalisti sconfitti nella guerra civile?",opts:["Hong Kong","Giappone","Taiwan","Singapore"],c:2,e:"Il Kuomintang si ritira a Taiwan, origine della questione ancora oggi aperta."},
     {q:"Chi avvia le riforme economiche del 1978?",opts:["Mao Zedong","Deng Xiaoping","Sun Yat-sen","Xi Jinping"],c:1,e:"Deng Xiaoping lancia 'riforme e apertura', trasformando l'economia cinese."},
     {q:"Quale città rappresenta oggi in modo più evidente la trasformazione economica cinese?",opts:["Pechino","Xi'an","Shanghai","Chengdu"],c:2,e:"Shanghai, con lo skyline di Pudong, è il simbolo della modernizzazione post-1978."},
+    {q:"Cos'è la Lunga Marcia?",opts:["Una campagna agricola del Grande Balzo","Il ritiro strategico dei comunisti del 1934-35","Una festa religiosa taoista","Un progetto ferroviario Qing"],c:1,e:"La Lunga Marcia fu la ritirata dell'Armata Rossa attraverso la Cina occidentale, evento fondativo della leadership di Mao."},
+    {q:"In che anno Hong Kong torna sotto sovranità cinese?",opts:["1989","1997","1978","1949"],c:1,e:"Hong Kong torna alla Cina nel 1997, dopo oltre 150 anni di amministrazione britannica."},
   ]
 },
 {
-  key:"lesson-5", illustration:"lesson-5",
+  key:"lesson-5", illustration:"lesson-5", illustration2:"lesson-5b",
   title:"Cina contemporanea", eyebrow:"Lezione 05", subtitle:"Politica, economia, società oggi",
   sections:[
     {h:"Il sistema politico", p:"La Cina è una repubblica popolare a partito unico, guidata dal Partito Comunista Cinese (PCC). Il capo dello stato e segretario del partito è, dal 2013, Xi Jinping. Il paese è diviso in 23 province, 5 regioni autonome, 4 municipalità speciali (tra cui Pechino e Shanghai) e le regioni amministrative speciali di Hong Kong e Macao."},
     {h:"Un'economia da superpotenza", p:"La Cina è oggi la seconda economia mondiale per PIL nominale (la prima a parità di potere d'acquisto), leader globale in manifattura, infrastrutture ferroviarie ad alta velocità e tecnologie digitali. Il paese ha vissuto la più grande migrazione urbana della storia: oggi oltre il 65% della popolazione vive in città."},
     {h:"Vita quotidiana e tecnologia", p:"La Cina è una società fortemente digitalizzata: quasi tutti i pagamenti passano da app come Alipay o WeChat Pay, spesso escludendo il contante. Internet è regolato dal cosiddetto 'Great Firewall', che blocca Google, WhatsApp, Instagram e molti altri servizi occidentali — informazione essenziale per organizzare la connettività del viaggio."},
+    {h:"Le nuove generazioni e la società digitale", p:"I giovani cinesi cresciuti dopo il 1995 sono nativi digitali immersi in super-app che uniscono messaggistica, pagamenti, shopping e live streaming in un unico ecosistema. Convivono con una fortissima pressione competitiva fin dalla scuola e, nel mondo del lavoro, con il dibattuto fenomeno del '996' — orario 9:00-21:00, sei giorni su sette — oggi sempre più contestato dalle stesse nuove generazioni."},
+    {h:"Ambiente e sostenibilità", p:"La Cina è il primo produttore mondiale di pannelli solari e veicoli elettrici, e sta investendo enormemente nell'alta velocità ferroviaria anche come alternativa ai voli interni a corto raggio. Resta però anche il maggiore emettitore mondiale di CO2, un doppio primato che rende il paese centrale in qualsiasi discussione globale sul clima."},
   ],
+  trivia:"Il gaokao, l'esame nazionale di ammissione all'università, dura fino a due giorni ed è tra i test più competitivi al mondo: in alcune città il traffico viene deviato attorno alle scuole per non disturbare i candidati con il rumore.",
   callout:"Per il tuo viaggio: senza VPN funzionante, WhatsApp e Google Maps non funzionano in Cina. Vale la pena scaricare e configurare una VPN prima della partenza, non una volta arrivati.",
   quiz:[
     {q:"Che tipo di sistema politico ha la Cina?",opts:["Monarchia costituzionale","Repubblica federale multipartitica","Repubblica popolare a partito unico","Confederazione di stati"],c:2,e:"Il Partito Comunista Cinese detiene il potere esclusivo dal 1949."},
@@ -86,16 +109,21 @@ export const lessons = [
     {q:"Quali sono, oltre Pechino e Shanghai, le altre due municipalità speciali cinesi?",opts:["Tianjin e Chongqing","Chengdu e Xi'an","Guangzhou e Shenzhen","Nanchino e Hangzhou"],c:0,e:"Le quattro municipalità dirette sono Pechino, Shanghai, Tianjin e Chongqing."},
     {q:"Cosa blocca il 'Great Firewall' cinese?",opts:["Solo i siti pornografici","Servizi come Google, WhatsApp, Instagram","Solo i siti governativi stranieri","Nessun servizio, è solo un filtro pubblicitario"],c:1,e:"Il Great Firewall impedisce l'accesso a molti servizi occidentali comuni, incluso WhatsApp."},
     {q:"Come si effettuano la maggior parte dei pagamenti quotidiani in Cina?",opts:["Contanti","Assegni","App come Alipay o WeChat Pay","Bonifico bancario"],c:2,e:"I pagamenti digitali tramite app dominano la vita quotidiana cinese, spesso escludendo il contante."},
+    {q:"Cosa indica il fenomeno '996' di cui si discute in Cina?",opts:["Un orario di lavoro straordinario (9-21, sei giorni su sette)","Un piano pensionistico","Un sistema scolastico","Un prefisso telefonico"],c:0,e:"'996' descrive un ritmo di lavoro molto intenso, sempre più contestato dai giovani lavoratori cinesi."},
+    {q:"In quale settore energetico la Cina è oggi leader mondiale di produzione?",opts:["Petrolio","Pannelli solari e veicoli elettrici","Carbone d'importazione","Energia nucleare esclusivamente"],c:1,e:"La Cina domina la produzione mondiale di pannelli solari e auto elettriche, pur restando il maggiore emettitore di CO2."},
   ]
 },
 {
-  key:"lesson-6", illustration:"lesson-6",
+  key:"lesson-6", illustration:"lesson-6", illustration2:"lesson-6b",
   title:"Filosofia e religione", eyebrow:"Lezione 06", subtitle:"Confucianesimo, taoismo, buddismo",
   sections:[
     {h:"Confucianesimo: l'ordine sociale", p:"Confucio (551–479 a.C.) elabora un sistema etico basato su gerarchia, rispetto per gli anziani, dovere familiare e virtù del governante. Non è una religione in senso stretto ma un'etica sociale che ha plasmato per millenni famiglia, educazione e amministrazione pubblica cinese."},
     {h:"Taoismo: l'armonia con la natura", p:"Attribuito a Laozi e al testo Dao De Jing, il taoismo predica il 'wu wei' (agire senza forzare), l'armonia con il flusso naturale delle cose e l'equilibrio yin-yang. È alla base di molta iconografia dei templi di montagna, incluso l'Emeishan, sacro sia al buddismo che al taoismo."},
     {h:"Buddismo e sincretismo", p:"Il buddismo arriva dall'India intorno al I secolo d.C. e si fonde progressivamente con le tradizioni locali. Nella pratica quotidiana cinese le tre tradizioni convivono senza esclusività: è normale bruciare incenso in un tempio buddista e consultare principi taoisti nello stesso giorno."},
+    {h:"Il Feng Shui nella vita quotidiana", p:"Letteralmente 'vento e acqua', il feng shui è l'arte tradizionale di orientare edifici, stanze e arredi per favorire il flusso armonioso dell'energia vitale (qi). Influenza ancora oggi l'architettura, il mercato immobiliare e persino la progettazione di grattacieli a Hong Kong e Shanghai, spesso disegnati con l'aiuto di consulenti di feng shui."},
+    {h:"Minoranze religiose: islam e cristianesimo", p:"La Cina riconosce ufficialmente cinque religioni: buddismo, taoismo, islam, cattolicesimo e protestantesimo. Conta oltre 20 milioni di musulmani, concentrati soprattutto tra le etnie Hui e Uiguri del nord-ovest, e comunità cristiane in crescita in diverse regioni del paese."},
   ],
+  trivia:"Molti grattacieli di Hong Kong hanno 'buchi del drago' — aperture rettangolari che attraversano l'intero edificio — progettati secondo il feng shui per lasciar passare i draghi che, si dice, scendono dalle colline verso il mare.",
   callout:"Per il tuo viaggio: il Monte Emei (Emeishan) è una delle quattro montagne sacre del buddismo cinese, ma ospita anche templi taoisti — un esempio perfetto di questo sincretismo.",
   quiz:[
     {q:"Il confucianesimo è principalmente...",opts:["Una religione monoteista","Un'etica sociale basata su gerarchia e virtù","Un culto della natura","Una filosofia importata dall'India"],c:1,e:"Confucio propone un sistema etico-sociale, non una teologia, incentrato su ordine e virtù."},
@@ -103,16 +131,21 @@ export const lessons = [
     {q:"Da dove arriva il buddismo in Cina?",opts:["Dal Giappone","Dalla Mongolia","Dall'India","Dalla Corea"],c:2,e:"Il buddismo giunge in Cina dall'India, circa nel I secolo d.C., lungo le vie commerciali."},
     {q:"Cosa rappresenta l'Emeishan nel panorama religioso cinese?",opts:["Solo un sito confuciano","Una montagna sacra sia buddista che taoista","Un luogo esclusivamente laico","Un sito islamico"],c:1,e:"L'Emeishan è una delle quattro montagne sacre buddiste, ma ospita anche presenza taoista."},
     {q:"Come convivono generalmente le tre tradizioni religiose in Cina?",opts:["In conflitto costante","In modo sincretico, senza esclusività reciproca","Sono vietate dalla legge","Solo una è praticata per persona"],c:1,e:"Confucianesimo, taoismo e buddismo si mescolano nella pratica quotidiana senza contraddizione percepita."},
+    {q:"Cosa significa letteralmente 'feng shui'?",opts:["Montagna e fiume","Vento e acqua","Cielo e terra","Yin e yang"],c:1,e:"'Feng shui' significa letteralmente 'vento e acqua', l'arte di armonizzare spazi ed energia."},
+    {q:"Quante religioni sono ufficialmente riconosciute dallo stato cinese?",opts:["Due","Tre","Cinque","Nessuna"],c:2,e:"Lo stato cinese riconosce ufficialmente buddismo, taoismo, islam, cattolicesimo e protestantesimo."},
   ]
 },
 {
-  key:"lesson-7", illustration:"lesson-7",
+  key:"lesson-7", illustration:"lesson-7", illustration2:"lesson-7b",
   title:"Arte, simboli e festività", eyebrow:"Lezione 07", subtitle:"Il linguaggio visivo della Cina",
   sections:[
     {h:"Colori e simboli", p:"Il rosso rappresenta fortuna e gioia (mai lutto, come in occidente), l'oro ricchezza e potere imperiale. Il drago è simbolo di potere e buon auspicio (non malvagio come nell'iconografia europea), la fenice rappresenta l'armonia femminile. Il numero 8 è fortunato (assonanza con 'prosperità'), il 4 è evitato (assonanza con 'morte')."},
     {h:"Calligrafia e pittura", p:"La calligrafia è considerata la più alta delle arti visive cinesi, non semplice scrittura ma espressione del carattere morale di chi scrive. La pittura tradizionale a inchiostro (shan shui, 'montagne e acque') privilegia lo spazio vuoto e l'essenzialità sul dettaglio realistico — un'estetica che ritroverai nei paesaggi di Zhangjiajie."},
     {h:"Le feste principali", p:"Il Capodanno cinese (gennaio/febbraio, calendario lunare) è la festa più importante, con migrazioni di massa. La Festa di Metà Autunno (settembre/ottobre) celebra la luna piena con le torte lunari. La Festa Nazionale (1° ottobre) commemora la fondazione della Repubblica Popolare con una settimana di vacanza — periodo da evitare per viaggiare, per l'enorme affluenza turistica interna."},
+    {h:"Musica e opera cinese", p:"L'Opera di Pechino (jingju) unisce canto stilizzato, acrobazie marziali, trucco simbolico e costumi sontuosi. Ogni colore del trucco facciale comunica un tratto del personaggio: il rosso indica lealtà e coraggio, il bianco slealtà o astuzia, il nero integrità e rudezza, l'oro e l'argento sono riservati a divinità e spiriti."},
+    {h:"L'architettura tradizionale", p:"Gli edifici tradizionali cinesi usano strutture in legno a incastro (dougong) spesso senza un solo chiodo, tetti dalle falde curve — che secondo la tradizione allontanano gli spiriti maligni — e una disposizione simmetrica attorno a cortili interni (siheyuan), quasi sempre orientati verso sud per ragioni cosmologiche e climatiche."},
   ],
+  trivia:"Nel trucco dell'Opera di Pechino il colore oro o argento è riservato esclusivamente a divinità, immortali e spiriti: nessun personaggio umano, per quanto potente, può indossarlo sul palco.",
   callout:"Per il tuo viaggio: se le date si avvicinano alla Festa Nazionale (inizio ottobre) o al Capodanno cinese, aspettati siti affollatissimi e treni difficili da prenotare — verifica il calendario prima di fissare le date.",
   quiz:[
     {q:"Cosa rappresenta il colore rosso nella cultura cinese?",opts:["Lutto e tristezza","Fortuna e gioia","Povertà","Pericolo"],c:1,e:"A differenza dell'occidente, in Cina il rosso è associato a fortuna e celebrazione, non al lutto."},
@@ -120,17 +153,22 @@ export const lessons = [
     {q:"Perché il numero 4 è considerato sfortunato?",opts:["Per motivi storici","Per assonanza con la parola 'morte'","Perché associato al lutto religioso","Non è considerato sfortunato"],c:1,e:"In cinese '4' (si) suona simile a 'morte' (si), da cui la superstizione diffusa."},
     {q:"Quale festa cinese comporta la maggiore migrazione interna di persone al mondo?",opts:["Festa di Metà Autunno","Capodanno cinese","Festa Nazionale","Festa delle Lanterne"],c:1,e:"Il Capodanno cinese genera la più grande migrazione umana annuale del pianeta."},
     {q:"Quale periodo dell'anno conviene evitare per l'enorme affollamento turistico interno?",opts:["La settimana della Festa Nazionale (inizio ottobre)","Metà marzo","Fine novembre","Metà giugno"],c:0,e:"La 'Golden Week' di inizio ottobre porta milioni di turisti cinesi in viaggio simultaneamente."},
+    {q:"Cosa indica il colore rosso nel trucco dell'Opera di Pechino?",opts:["Slealtà e astuzia","Lealtà e coraggio","Follia","Umiltà"],c:1,e:"Nell'Opera di Pechino il rosso sul volto di un personaggio ne indica lealtà e coraggio."},
+    {q:"Come si chiama il cortile centrale tipico dell'architettura residenziale tradizionale?",opts:["Hutong","Siheyuan","Pagoda","Ting"],c:1,e:"Il siheyuan è il cortile quadrangolare attorno a cui si dispongono simmetricamente gli edifici tradizionali."},
   ]
 },
 {
-  key:"lesson-8", illustration:"lesson-8",
+  key:"lesson-8", illustration:"lesson-8", illustration2:"lesson-8b",
   title:"Cucina cinese e cucine regionali", eyebrow:"Lezione 08", subtitle:"Un paese, otto grandi tradizioni culinarie",
   sections:[
     {h:"Non esiste 'la' cucina cinese", p:"La Cina riconosce tradizionalmente otto grandi scuole culinarie regionali, profondamente diverse tra loro per ingredienti, tecniche e sapori. Il tuo itinerario ne attraversa concretamente tre: pechinese, sichuanese e cantonese/orientale (Shanghai)."},
     {h:"Pechino: imperiale e di strada", p:"La cucina di Pechino è nota per la Peking Duck (anatra laccata, servita con crêpe sottili, salsa hoisin e verdure), oltre a un vivace street food negli hutong: jianbing (crêpe salata), spiedini, ravioli jiaozi bolliti o al vapore."},
     {h:"Sichuan e Hunan: il regno del piccante", p:"Chengdu è la capitale del piccante 'numbing' — la combinazione di peperoncino e pepe di Sichuan (huajiao) che intorpidisce la lingua, alla base dell'hot pot piccante. La cucina Hunan, che incontrerai a Fenghuang, è altrettanto piccante ma senza l'effetto intorpidente, più affumicata e agrodolce."},
     {h:"Shanghai: dolce e raffinata", p:"La cucina di Shanghai (benbang cai) predilige sapori più dolci e delicati, con piatti come gli xiaolongbao (ravioli al vapore ripieni di brodo) e il maiale brasato in salsa di soia scura (hongshao rou)."},
+    {h:"Il tè cinese", p:"La Cina è la patria del tè, con almeno sei grandi famiglie: verde, bianco, giallo, oolong, nero (detto 'rosso' in cinese) e fermentato come il pu'er. La cerimonia del tè gongfu cha privilegia piccole tazze e infusioni brevi e ripetute, per apprezzare come il gusto evolve ad ogni versata."},
+    {h:"Bere e brindare: baijiu ed etichetta a tavola", p:"Il baijiu, distillato di sorgo dai 40 ai 60 gradi, è protagonista dei brindisi formali: 'gan bei' significa letteralmente 'a fondo', tutto d'un fiato. Rifiutare completamente un brindisi può sembrare scortese in un contesto formale, ma è sempre accettabile bere piccoli sorsi invece di svuotare il bicchiere."},
   ],
+  trivia:"Il pu'er, tè fermentato tipico dello Yunnan, viene pressato in panetti che possono invecchiare per decenni come un vino pregiato: più passano gli anni, più il suo valore — e il suo prezzo — aumentano.",
   callout:"Per il tuo viaggio: il livello di piccantezza reale del Sichuan sorprende molti viaggiatori. Se non sei abituato, chiedi 'wei la' (poco piccante) prima di ordinare l'hot pot.",
   quiz:[
     {q:"Quante grandi tradizioni culinarie regionali riconosce tradizionalmente la Cina?",opts:["Tre","Cinque","Otto","Dodici"],c:2,e:"Si parla comunemente di 'otto grandi cucine' regionali cinesi."},
@@ -138,16 +176,21 @@ export const lessons = [
     {q:"Quale piatto è tipicamente associato a Pechino?",opts:["Xiaolongbao","Hot pot piccante","Peking Duck","Hongshao rou"],c:2,e:"L'anatra laccata alla pechinese è il piatto simbolo della capitale."},
     {q:"Come si differenzia la cucina Hunan da quella Sichuan?",opts:["Non è affatto piccante","È piccante ma senza l'effetto intorpidente del pepe di Sichuan","Usa solo ingredienti dolci","È identica alla cucina di Shanghai"],c:1,e:"L'Hunan è piccante e affumicata, ma priva dell'huajiao che caratterizza il Sichuan."},
     {q:"Cosa sono gli xiaolongbao, specialità di Shanghai?",opts:["Spiedini di carne","Ravioli al vapore ripieni di brodo","Zuppa di pesce piccante","Pane al vapore dolce"],c:1,e:"Gli xiaolongbao sono ravioli delicati con un ripieno di brodo caldo, tipici di Shanghai."},
+    {q:"Quante grandi famiglie di tè si distinguono tradizionalmente in Cina?",opts:["Due","Circa sei","Dieci","Una sola"],c:1,e:"Si distinguono generalmente sei famiglie: verde, bianco, giallo, oolong, nero e fermentato."},
+    {q:"Cosa significa l'espressione 'gan bei' durante un brindisi?",opts:["Salute","A fondo, tutto d'un fiato","Grazie","Basta così"],c:1,e:"'Gan bei' invita a svuotare il bicchiere in un solo sorso durante un brindisi formale."},
   ]
 },
 {
-  key:"lesson-9", illustration:"lesson-9",
+  key:"lesson-9", illustration:"lesson-9", illustration2:"lesson-9b",
   title:"Lingua cinese", eyebrow:"Lezione 09", subtitle:"Pinyin, toni e frasi essenziali",
   sections:[
     {h:"Come funziona il mandarino", p:"Il cinese mandarino non è alfabetico ma logografico: ogni carattere rappresenta un concetto o una sillaba, non un suono scomposto in lettere. Il pinyin è il sistema di romanizzazione ufficiale che traduce la pronuncia in alfabeto latino, ma non sostituisce i caratteri nella scrittura reale."},
     {h:"I quattro toni", p:"Il mandarino è una lingua tonale: la stessa sillaba 'ma' pronunciata con toni diversi può significare 'madre' (tono 1, piatto), 'canapa' (tono 2, ascendente), 'cavallo' (tono 3, discendente-ascendente) o 'rimproverare' (tono 4, discendente). Sbagliare tono può cambiare completamente il significato."},
     {h:"Frasi utili per il viaggio", p:"Nǐ hǎo (你好) — ciao. Xièxie (谢谢) — grazie. Duìbuqǐ (对不起) — scusa. Zhège duōshao qián? (这个多少钱？) — quanto costa? Wǒ bù dǒng (我不懂) — non capisco. Cèsuǒ zài nǎlǐ? (厕所在哪里？) — dov'è il bagno? Trovi il frasario completo nella sezione Strumenti."},
+    {h:"I caratteri: radicali e composizione", p:"La maggior parte dei caratteri cinesi combina due elementi: un radicale semantico, che suggerisce il campo di significato (per esempio 氵per l'acqua, 木 per il legno), e una componente fonetica, che suggerisce la pronuncia. Esistono 214 radicali tradizionali, usati ancora oggi per organizzare i dizionari cartacei."},
+    {h:"Dialetti e lingue regionali", p:"Oltre al mandarino standard (putonghua), la Cina ha numerose lingue regionali reciprocamente incomprensibili nel parlato — cantonese, shanghainese (wu), hokkien e molte altre — che condividono però lo stesso sistema di scrittura. È uno dei motivi per cui la scrittura cinese ha mantenuto per millenni un ruolo unificante sul piano culturale e amministrativo."},
   ],
+  trivia:"Due parlanti di mandarino e cantonese possono non capirsi affatto a voce, ma leggere lo stesso identico giornale senza problemi: la scrittura è condivisa anche quando la pronuncia cambia radicalmente da regione a regione.",
   callout:"Per il tuo viaggio: al di fuori delle grandi città l'inglese è poco diffuso. Un'app di traduzione con fotocamera (per i menu) e la funzione offline sono più utili di qualsiasi frasario cartaceo.",
   quiz:[
     {q:"Il cinese mandarino è una lingua...",opts:["Alfabetica","Logografica (a caratteri)","Sillabica pura","Ideografica pittografica al 100%"],c:1,e:"Ogni carattere cinese rappresenta un concetto/morfema, non lettere combinate come nell'alfabeto."},
@@ -155,16 +198,21 @@ export const lessons = [
     {q:"Perché i toni sono fondamentali in mandarino?",opts:["Servono solo per l'enfasi","Cambiano il significato della parola","Sono opzionali nel parlato colloquiale","Esistono solo nella scrittura"],c:1,e:"La stessa sillaba con toni diversi ha significati completamente diversi."},
     {q:"Come si dice 'grazie' in mandarino?",opts:["Nǐ hǎo","Duìbuqǐ","Xièxie","Zàijiàn"],c:2,e:"Xièxie (谢谢) significa 'grazie'."},
     {q:"Cosa conviene avere a disposizione fuori dalle grandi città?",opts:["Un dizionario cartaceo italiano-cinese","Un'app di traduzione con funzione offline e fotocamera","Niente, l'inglese è sempre sufficiente","Solo il pinyin scritto a mano"],c:1,e:"La connettività può mancare e l'inglese è poco diffuso: un'app offline con OCR per i menu è la soluzione più pratica."},
+    {q:"Cosa indica generalmente il 'radicale' di un carattere cinese?",opts:["La pronuncia esatta","Una categoria di significato","Il tono","L'ordine dei tratti"],c:1,e:"Il radicale suggerisce il campo semantico del carattere (es. acqua, legno, cuore)."},
+    {q:"Il cantonese e il mandarino condividono...?",opts:["La stessa pronuncia","Lo stesso sistema di scrittura, ma pronunce molto diverse","Niente in comune","Solo i numeri"],c:1,e:"Pur essendo reciprocamente incomprensibili a voce, condividono la stessa scrittura logografica."},
   ]
 },
 {
-  key:"lesson-10", illustration:"lesson-10",
+  key:"lesson-10", illustration:"lesson-10", illustration2:"lesson-10b",
   title:"Usi, costumi ed etichetta", eyebrow:"Lezione 10", subtitle:"Comportarsi da viaggiatore consapevole",
   sections:[
     {h:"A tavola", p:"Le bacchette non vanno mai piantate verticalmente nel riso (ricordano l'incenso funebre). È normale ordinare piatti da condividere al centro del tavolo. Lasciare un po' di cibo nel piatto segnala che si è sazi e soddisfatti; finire tutto può essere letto come 'non mi hanno dato abbastanza'."},
     {h:"Rapporti sociali e 'faccia'", p:"Il concetto di 'mianzi' (faccia, reputazione sociale) è centrale: evitare di far sembrare qualcuno in imbarazzo in pubblico, anche correggendolo, è una forma di rispetto molto apprezzata. Il volume alto nelle conversazioni pubbliche è culturalmente normale, non un segnale di rabbia o maleducazione."},
     {h:"Pratiche utili", p:"Il contante sta scomparendo dai pagamenti quotidiani: conviene attivare Alipay o WeChat Pay con carta straniera prima della partenza. Molti siti turistici richiedono la prenotazione online del biglietto in anticipo (a volte solo tramite app cinesi). Il passaporto va portato sempre con sé: è richiesto per treni, alcuni hotel e siti storici."},
+    {h:"Regali e visite", p:"Se sei invitato a casa di qualcuno, evita regali in numero di quattro, orologi (associati alla morte) e ombrelli (associati alla separazione). I regali si offrono e si ricevono con entrambe le mani, e spesso non si aprono subito davanti a chi li ha donati, per non correre il rischio di mostrare una reazione poco entusiasta."},
+    {h:"Abbigliamento e comportamento nei luoghi sacri", p:"Nei templi buddisti e taoisti è buona norma coprire spalle e ginocchia, togliersi il cappello, evitare di puntare i piedi verso statue o altari e parlare a bassa voce. Prima di fotografare monaci o devoti in preghiera, è sempre educato chiedere permesso, anche solo con un gesto."},
   ],
+  trivia:"Regalare un orologio si dice in cinese 'song zhong', un'espressione che suona quasi identica a 'partecipare a un funerale' — uno dei doni più sconsigliati in assoluto, specialmente per anziani o persone care.",
   callout:"Per il tuo viaggio: prenota Grande Muraglia, Città Proibita e i biglietti dei treni ad alta velocità con largo anticipo — molti siti applicano quote giornaliere di visitatori.",
   quiz:[
     {q:"Perché non si devono piantare le bacchette verticalmente nel riso?",opts:["È scomodo","Ricorda un rito funebre (l'incenso)","Rovina le bacchette","È solo una questione di galateo occidentale"],c:1,e:"Le bacchette verticali nel riso richiamano i bastoncini d'incenso usati nei riti funebri."},
@@ -172,6 +220,54 @@ export const lessons = [
     {q:"Cosa conviene fare per i pagamenti quotidiani in Cina?",opts:["Portare solo contante","Attivare Alipay o WeChat Pay con carta straniera prima della partenza","Usare solo assegni","Cambiare valuta solo in aeroporto"],c:1,e:"I pagamenti digitali dominano; conviene configurare un'app di pagamento prima di partire."},
     {q:"Cosa è consigliabile prenotare con largo anticipo?",opts:["Solo i voli internazionali","Grande Muraglia, Città Proibita, treni ad alta velocità","Solo i ristoranti","Niente, si prenota tutto sul posto"],c:1,e:"Molti siti hanno quote giornaliere e i treni veloci si esauriscono rapidamente."},
     {q:"Cosa segnala lasciare un po' di cibo nel piatto a fine pasto?",opts:["Maleducazione","Che si è sazi e soddisfatti","Che il cibo non piaceva","Niente, non ha significato"],c:1,e:"Finire completamente il piatto può essere letto come segno che non è stato servito abbastanza cibo."},
+    {q:"Perché è sconsigliato regalare un orologio in Cina?",opts:["È troppo costoso","Suona come un'espressione legata a funerali/morte","Porta ricchezza eccessiva","Nessun motivo particolare"],c:1,e:"'Song zhong' (regalare un orologio) suona quasi identico a 'partecipare a un funerale'."},
+    {q:"Come ci si comporta di solito nei templi cinesi?",opts:["Si può fotografare chiunque senza chiedere","Si coprono spalle e ginocchia e si abbassa la voce","Si indossano scarpe rumorose","Si punta sempre la fotocamera verso le statue"],c:1,e:"Nei luoghi sacri è buona norma vestirsi in modo coperto, parlare piano e chiedere permesso prima di fotografare persone."},
+  ]
+},
+{
+  key:"lesson-11", illustration:"lesson-11", illustration2:"lesson-11b",
+  title:"Popoli e potere: la Cina dal '900 a oggi", eyebrow:"Lezione 11 · Approfondimento", subtitle:"Etnie, ideologie e la macchina del potere contemporaneo",
+  sections:[
+    {h:"Un mosaico di 56 etnie", p:"Oltre il 91% della popolazione è di etnia Han, ma lo stato riconosce ufficialmente altre 55 minoranze etniche: gli Zhuang (Guangxi, circa 16 milioni), gli Hui musulmani sinofoni, i Manciù eredi dei Qing, gli Uiguri turcofoni musulmani dello Xinjiang, i Tibetani dell'altopiano himalayano, i Mongoli, i Miao, gli Yi, i Tujia dell'Hunan (che incontrerai a Fenghuang) e molte altre. Cinque regioni portano lo status di 'autonome' proprio in virtù della presenza di una minoranza storica: Xinjiang, Tibet, Mongolia Interna, Ningxia (Hui) e lo stesso Guangxi (Zhuang)."},
+    {h:"Politiche verso le minoranze: tra tutela e tensioni", p:"Per decenni le minoranze hanno goduto di alcune misure preferenziali — punteggi aggiuntivi al gaokao, deroghe alla politica del figlio unico, promozione delle lingue locali nell'istruzione. Allo stesso tempo, soprattutto in Xinjiang e Tibet, le politiche di sicurezza e integrazione culturale degli ultimi anni hanno generato forti tensioni e critiche internazionali sui diritti umani: un tema che vale la pena conoscere prima di parlarne con persone del posto, con il dovuto tatto."},
+    {h:"Il maoismo, 1949-1976", p:"I primi decenni della Repubblica Popolare sono segnati da campagne di collettivizzazione radicale. Il Grande Balzo in Avanti (1958-61), tentativo di industrializzazione forzata, causa una carestia devastante con milioni di morti. La Rivoluzione Culturale (1966-76) scatena le Guardie Rosse contro 'nemici di classe' reali o presunti, chiude scuole e università, e lascia ferite sociali che la Cina elabora ancora oggi, spesso in silenzio pubblico."},
+    {h:"Dall'apertura di Deng al nuovo millennio", p:"Le riforme di Deng Xiaoping dal 1978 trasformano gradualmente l'economia, mentre il partito mantiene il monopolio politico. Seguono l'ingresso nel WTO nel 2001, che integra la Cina nel commercio globale, e le Olimpiadi di Pechino 2008, vetrina della nuova potenza economica e organizzativa del paese verso il mondo."},
+    {h:"L'era di Xi Jinping", p:"Dal 2012 Xi Jinping guida una fase di maggiore centralizzazione del potere: una vasta campagna anticorruzione, l'abolizione nel 2018 del limite di due mandati presidenziali, l'iniziativa infrastrutturale globale 'Nuova Via della Seta' (Belt and Road), e una retorica di orgoglio nazionale nota come 'sogno cinese'. Gli anni della pandemia, con la rigida politica 'zero-COVID' poi abbandonata a fine 2022, e le crescenti tensioni tecnologiche e commerciali con gli Stati Uniti segnano il decennio più recente."},
+    {h:"Come funziona il potere oggi", p:"Il vertice reale del potere è il Comitato Permanente del Politburo del Partito Comunista, non il parlamento formale (l'Assemblea Nazionale del Popolo, che approva quasi all'unanimità le decisioni già prese). L'esercito (Esercito Popolare di Liberazione) risponde al partito, non allo stato in astratto. Ogni marzo, le cosiddette 'due sessioni' — le riunioni annuali dell'Assemblea Nazionale del Popolo e dell'organo consultivo CPPCC — sono il principale evento politico pubblico dell'anno."},
+  ],
+  trivia:"Il termine cinese per le riunioni politiche annuali più importanti, 'due sessioni' (liǎng huì), è talmente centrale nel calendario pubblico che per una settimana gran parte della copertura mediatica nazionale si concentra quasi esclusivamente su Pechino.",
+  callout:"Per il tuo viaggio: lungo l'itinerario incontrerai soprattutto etnia Han, ma il Sichuan e l'Hunan hanno presenza storica di minoranze come i Tujia e i Miao — la cucina piccante di Fenghuang ne porta ancora tracce.",
+  quiz:[
+    {q:"Quale percentuale della popolazione cinese è di etnia Han?",opts:["Circa il 50%","Circa il 70%","Oltre il 91%","Circa il 30%"],c:2,e:"Gli Han sono oltre il 91% della popolazione; il resto si divide in 55 minoranze ufficialmente riconosciute."},
+    {q:"Quali sono le cinque regioni a status 'autonomo' legate a una minoranza etnica?",opts:["Pechino, Shanghai, Tianjin, Chongqing, Hong Kong","Xinjiang, Tibet, Mongolia Interna, Ningxia, Guangxi","Sichuan, Hunan, Yunnan, Guizhou, Hainan","Nessuna, la Cina non ha regioni autonome"],c:1,e:"Queste cinque regioni portano lo status di autonome per la presenza storica di una minoranza etnica rilevante."},
+    {q:"Cosa causa il Grande Balzo in Avanti (1958-61)?",opts:["Una crescita economica record","Una carestia devastante con milioni di morti","L'ingresso della Cina nel WTO","La fondazione della Repubblica Popolare"],c:1,e:"Il tentativo di industrializzazione forzata del Grande Balzo in Avanti provoca una delle peggiori carestie del XX secolo."},
+    {q:"In che anno la Cina entra nel WTO, integrandosi nel commercio globale?",opts:["1989","1997","2001","2012"],c:2,e:"L'ingresso nel WTO nel 2001 segna una tappa chiave dell'apertura economica cinese."},
+    {q:"Cosa succede nel 2018 riguardo alla presidenza cinese?",opts:["Viene introdotto il limite di due mandati","Viene abolito il limite di due mandati presidenziali","Viene indetta la prima elezione diretta","Il ruolo di presidente viene abolito"],c:1,e:"Nel 2018 viene rimosso il limite dei due mandati presidenziali, consentendo una leadership a tempo indeterminato."},
+    {q:"A chi risponde l'Esercito Popolare di Liberazione?",opts:["Solo al governo statale","Al Partito Comunista Cinese","All'ONU","A un comando indipendente"],c:1,e:"L'esercito cinese è costituzionalmente e nella prassi sotto il controllo del partito, non solo dello stato."},
+    {q:"Cosa sono le 'due sessioni' che si tengono ogni marzo a Pechino?",opts:["Due festival culturali","Le riunioni annuali dell'Assemblea Nazionale del Popolo e del CPPCC","Due giorni di vacanza nazionale","Un torneo sportivo"],c:1,e:"Le 'due sessioni' sono il principale evento politico pubblico annuale, molto seguito dai media nazionali."},
+  ]
+},
+{
+  key:"lesson-12", illustration:"lesson-12", illustration2:"lesson-12b",
+  title:"Cina di oggi: società, tendenze e cultura pop", eyebrow:"Lezione 12 · Approfondimento", subtitle:"Chi sono i cinesi del 2020, cosa li influenza, cosa li stanca",
+  sections:[
+    {h:"Una società che invecchia in fretta", p:"Dopo decenni di politica del figlio unico (allentata dal 2016 a due figli, poi tre dal 2021), la Cina affronta oggi un calo demografico e un rapido invecchiamento della popolazione. Il sistema dell'hukou, la residenza anagrafica che vincola l'accesso a scuola e sanità al luogo di registrazione, continua a rendere complicata la vita di milioni di lavoratori migranti interni nelle grandi città."},
+    {h:"'Involuzione' e 'sdraiarsi': il disagio dei giovani", p:"Due parole coniate dai giovani cinesi negli ultimi anni descrivono un sentimento diffuso: 'neijuan' (内卷, involuzione) indica una competizione sempre più estenuante per risultati sempre minori — dallo studio al lavoro; 'tangping' (躺平, 'sdraiarsi') è la scelta di rifiutare questa corsa, accontentandosi del minimo indispensabile. Una versione ancora più radicale, 'bailan' (摆烂, 'lasciare marcire'), descrive chi smette del tutto di impegnarsi in un sistema percepito come ingiusto."},
+    {h:"Chi influenza i cinesi oggi", p:"L'ondata culturale coreana (K-pop, drama, moda) resta fortissima tra i giovani, pur con limitazioni informali imposte dallo stato nei momenti di tensione diplomatica con Seoul. Cinema, tecnologia e moda occidentali restano un riferimento, ma sempre più filtrati da un orgoglio nazionale crescente. Il fenomeno più interessante degli ultimi anni è il 'guochao' (国潮, 'onda nazionale'): giovani consumatori che scelgono deliberatamente marchi e estetiche cinesi, spesso reinterpretando elementi tradizionali — come lo hanfu, l'abito tradizionale Han tornato di moda tra i ventenni — in chiave contemporanea."},
+    {h:"Le piattaforme che scandiscono la giornata", p:"WeChat resta la 'super-app' indispensabile per messaggi, pagamenti e servizi pubblici. Douyin (la versione cinese di TikTok) e lo shopping in diretta streaming muovono un giro d'affari enorme: milioni di persone comprano abiti, cosmetici e cibo guardando venditori dal vivo. Xiaohongshu ('la nota rossa', un ibrido tra Instagram e Pinterest) è diventata la piattaforma di riferimento per consigli di viaggio, moda e lifestyle — utile anche a te, se vuoi curiosare su cosa consigliano i viaggiatori cinesi per le tappe del tuo stesso itinerario."},
+    {h:"Tecnologia ed economia: le nuove ambizioni", p:"La Cina è oggi leader mondiale nei veicoli elettrici (marchi come BYD), nella rete ferroviaria ad alta velocità, e investe massicciamente in intelligenza artificiale e semiconduttori, anche in risposta alle restrizioni commerciali imposte dagli Stati Uniti. Al tempo stesso il settore immobiliare attraversa una crisi profonda dopo decenni di crescita, spingendo il paese a cercare nuovi motori di sviluppo nelle 'nuove forze produttive' legate a tecnologia e manifattura avanzata."},
+    {h:"Fenomeni tutti cinesi", p:"Dai 'blind box' — scatole a sorpresa da collezione diventate una mania globale grazie a brand come Pop Mart — ai romanzi di fantascienza cinese diventati fenomeni internazionali, passando per l'economia degli influencer (wanghong, 网红) che vale miliardi di yuan, la cultura pop cinese contemporanea è sempre più un'esportazione culturale a tutti gli effetti, non solo un'importazione."},
+  ],
+  trivia:"Durante un breve allarme relativo a un possibile blocco di TikTok negli Stati Uniti, migliaia di utenti americani si sono improvvisamente iscritti a Xiaohongshu, l'app cinese di lifestyle — ribattezzandosi ironicamente 'TikTok refugees' e scatenando per qualche settimana un insolito scambio culturale diretto tra utenti cinesi e statunitensi.",
+  callout:"Per il tuo viaggio: prova a cercare le tappe del tuo itinerario su Xiaohongshu (anche solo guardando le foto, senza capire il testo): è spesso il modo più aggiornato per vedere come sono davvero oggi i luoghi che visiterai.",
+  quiz:[
+    {q:"Cosa descrive il termine 'neijuan' (involuzione) tra i giovani cinesi?",opts:["Una nuova moda musicale","Una competizione estenuante per risultati sempre minori","Un piatto tradizionale","Una politica economica statale"],c:1,e:"'Neijuan' descrive la sensazione di competere sempre più duramente per guadagni sempre più marginali."},
+    {q:"Cosa significa 'tangping' (躺平)?",opts:["Correre più veloce","Sdraiarsi, rifiutando la corsa alla competizione","Un tipo di arte marziale","Una festività religiosa"],c:1,e:"'Tangping' è la scelta di molti giovani di ridurre le proprie ambizioni per sottrarsi alla pressione sociale."},
+    {q:"Cos'è il fenomeno 'guochao' (国潮)?",opts:["Un'ondata di turisti stranieri","L'orgoglio dei giovani cinesi per marchi ed estetiche nazionali","Una crisi economica","Un festival cinematografico"],c:1,e:"Il 'guochao' descrive la crescente preferenza dei giovani cinesi per prodotti e stili made in China."},
+    {q:"Qual è la 'super-app' cinese usata per messaggi, pagamenti e servizi pubblici?",opts:["Douyin","WeChat","Xiaohongshu","Bilibili"],c:1,e:"WeChat è l'app onnicomprensiva della vita quotidiana cinese."},
+    {q:"In quale settore tecnologico la Cina è oggi leader mondiale?",opts:["Veicoli elettrici e alta velocità ferroviaria","Estrazione petrolifera","Turismo spaziale privato","Nessuno di questi"],c:0,e:"La Cina guida la produzione mondiale di veicoli elettrici e ha la rete ferroviaria ad alta velocità più estesa al mondo."},
+    {q:"Cosa sono i 'blind box' resi celebri da brand come Pop Mart?",opts:["Pacchi regalo natalizi","Scatole a sorpresa da collezione diventate un fenomeno globale","Un tipo di imballaggio alimentare","Un gioco da tavolo tradizionale"],c:1,e:"I blind box sono scatole a sorpresa da collezione, un fenomeno di consumo nato in Cina e diventato virale nel mondo."},
+    {q:"Cosa vincola il sistema dell'hukou?",opts:["L'accesso a scuola e sanità al luogo di registrazione anagrafica","Il numero di figli per famiglia","L'accesso a internet","Il diritto di voto"],c:0,e:"L'hukou lega servizi essenziali come istruzione e sanità al luogo di residenza registrata, complicando la vita ai migranti interni."},
   ]
 },
 ];
@@ -192,4 +288,14 @@ export const finalQuiz = [
   {q:"Cosa conviene fare prima della partenza in vista dei pagamenti quotidiani?",opts:["Portare solo euro in contanti","Attivare Alipay o WeChat Pay con carta straniera","Aprire un conto bancario cinese","Nessuna preparazione è necessaria"],c:1,e:"I pagamenti digitali dominano la vita quotidiana; conviene configurarli prima di partire."},
   {q:"Quale evento del 1911-12 pone fine all'impero cinese?",opts:["La Rivoluzione Culturale","La Rivoluzione Xinhai","Le Guerre dell'Oppio","Il Grande Balzo in Avanti"],c:1,e:"La Rivoluzione Xinhai rovescia i Qing e porta alla proclamazione della Repubblica."},
   {q:"Perché conviene prenotare con largo anticipo Grande Muraglia, Città Proibita e treni veloci?",opts:["Sono sempre gratuiti solo online","Applicano quote giornaliere o si esauriscono rapidamente","Sono chiusi senza prenotazione fissa","Non serve, si compra sempre sul posto"],c:1,e:"Molti siti e treni hanno capienza limitata giornaliera, prenotabile in anticipo."},
+  {q:"Come si chiama la linea che divide la Cina in una metà orientale densamente popolata e una occidentale quasi vuota?",opts:["Linea Hu Huanyong","Muraglia Verde","Linea Mao","Confine Han"],c:0,e:"La linea Hu Huanyong (1935) separa il 94% della popolazione, a est, dal resto del territorio."},
+  {q:"Quale evento del 1934-35 consolida la leadership di Mao Zedong nel Partito Comunista?",opts:["La Lunga Marcia","La Rivoluzione Culturale","Il Grande Balzo in Avanti","La guerra dei Boxer"],c:0,e:"La Lunga Marcia, ritirata strategica attraverso la Cina occidentale, consolidò la leadership di Mao."},
+  {q:"Cosa significa 'feng shui'?",opts:["Vento e acqua","Fuoco e terra","Cielo e mare","Luce e ombra"],c:0,e:"'Feng shui' significa letteralmente 'vento e acqua'."},
+  {q:"Quale distillato è protagonista dei brindisi formali cinesi?",opts:["Sakè","Baijiu","Whisky","Vino di riso dolce"],c:1,e:"Il baijiu, distillato di sorgo, è al centro dei brindisi formali cinesi ('gan bei')."},
+  {q:"Perché regalare un orologio è sconsigliato in Cina?",opts:["È scortese verso gli anziani","Suona come un'espressione legata a funerali/morte","È un regalo troppo economico","Nessun motivo, è solo superstizione occidentale"],c:1,e:"'Song zhong' (regalare un orologio) suona quasi identico a 'partecipare a un funerale'."},
+  {q:"Quale percentuale della popolazione cinese è di etnia Han?",opts:["Circa il 50%","Oltre il 91%","Circa il 30%","Circa il 70%"],c:1,e:"Gli Han sono oltre il 91% della popolazione, con 55 minoranze ufficialmente riconosciute a completare il quadro."},
+  {q:"Cosa provoca il Grande Balzo in Avanti (1958-61)?",opts:["Una crescita economica record","Una devastante carestia","L'ingresso nel WTO","Le Olimpiadi di Pechino"],c:1,e:"Il tentativo di industrializzazione forzata causò una delle peggiori carestie del XX secolo."},
+  {q:"Cosa descrive il termine 'tangping' (躺平) tra i giovani cinesi?",opts:["Una nuova disciplina sportiva","La scelta di 'sdraiarsi', rifiutando la corsa alla competizione","Una politica governativa sulla natalità","Un piatto tipico dello Hunan"],c:1,e:"'Tangping' descrive il rifiuto di molti giovani di rincorrere ambizioni sociali percepite come insostenibili."},
+  {q:"Cos'è il 'guochao' (国潮) nella Cina di oggi?",opts:["Una crisi finanziaria","L'orgoglio dei giovani per marchi ed estetiche nazionali cinesi","Un'antica cerimonia imperiale","Un tipo di tè verde"],c:1,e:"Il guochao è la tendenza crescente dei consumatori cinesi a preferire prodotti e stili 'made in China'."},
+  {q:"In quale settore tecnologico la Cina è oggi leader mondiale?",opts:["Veicoli elettrici e alta velocità ferroviaria","Estrazione di petrolio","Produzione cinematografica hollywoodiana","Nessuno di questi"],c:0,e:"La Cina guida la produzione mondiale di veicoli elettrici e possiede la rete ferroviaria ad alta velocità più estesa al mondo."},
 ];

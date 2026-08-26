@@ -1,8 +1,22 @@
 import { lessons, finalQuiz } from './data-course.js';
-import { getIllustration } from './illustrations.js';
+import { sealStampSvg } from './illustrations.js';
+import { illustrationCard } from './postcard.js';
 import { store } from './store.js';
 
 function el(tag, cls, html){ const e=document.createElement(tag); if(cls) e.className=cls; if(html!=null) e.innerHTML=html; return e; }
+
+function watermark(char){
+  const d = document.createElement('div');
+  d.className='cn-watermark';
+  d.textContent = char;
+  return d;
+}
+function eyebrowRow(text, stampChar){
+  const row = document.createElement('div');
+  row.className='eyebrow-row';
+  row.innerHTML = `${sealStampSvg(stampChar)}<p class="eyebrow">${text}</p>`;
+  return row;
+}
 
 function renderQuizBlock(questions, headTitle, onSubmit){
   const wrap = document.createElement('div');
@@ -84,16 +98,10 @@ function renderQuizBlock(questions, headTitle, onSubmit){
   return wrap;
 }
 
-function illustrationCard(key, caption){
-  const card = document.createElement('div');
-  card.className = 'postcard';
-  card.innerHTML = `<div class="washi"></div>${getIllustration(key)}<div class="cap">${caption}</div>`;
-  return card;
-}
-
 function renderLesson(mainEl, idx, navigate){
   const l = lessons[idx];
-  mainEl.appendChild(el('p','eyebrow',l.eyebrow));
+  mainEl.appendChild(watermark(String(idx+1).padStart(2,'0')));
+  mainEl.appendChild(eyebrowRow(l.eyebrow, String(idx+1)));
   mainEl.appendChild(el('h2','title display',l.title));
   mainEl.appendChild(el('p','subtitle',l.subtitle));
 
@@ -101,12 +109,22 @@ function renderLesson(mainEl, idx, navigate){
 
   const sectionEl = document.createElement('div');
   sectionEl.className='section';
-  l.sections.forEach(s=>{
+  l.sections.forEach((s,si)=>{
     const h3=document.createElement('h3'); h3.textContent=s.h;
     const p=document.createElement('p'); p.textContent=s.p;
     sectionEl.appendChild(h3); sectionEl.appendChild(p);
+    if(si===2 && l.illustration2){
+      sectionEl.appendChild(illustrationCard(l.illustration2, s.h));
+    }
   });
   mainEl.appendChild(sectionEl);
+
+  if(l.trivia){
+    const trivia = document.createElement('div');
+    trivia.className='callout trivia';
+    trivia.innerHTML = `<span class="lbl">✦ Curiosità</span>${l.trivia}`;
+    mainEl.appendChild(trivia);
+  }
 
   if(l.callout){
     const callout = document.createElement('div');
@@ -114,6 +132,8 @@ function renderLesson(mainEl, idx, navigate){
     callout.innerHTML = `<span class="lbl">Per il tuo viaggio</span>${l.callout}`;
     mainEl.appendChild(callout);
   }
+
+  mainEl.appendChild(el('div','divider-brush'));
 
   const quizEl = renderQuizBlock(l.quiz, `Verifica — ${l.title}`, ()=>{
     store.markLessonDone(l.key);
@@ -135,7 +155,8 @@ function renderLesson(mainEl, idx, navigate){
 }
 
 function renderFinalQuiz(mainEl){
-  mainEl.appendChild(el('p','eyebrow','Verifica finale'));
+  mainEl.appendChild(watermark('終'));
+  mainEl.appendChild(eyebrowRow('Verifica finale', '終'));
   mainEl.appendChild(el('h2','title display','Quiz conclusivo'));
   mainEl.appendChild(el('p','subtitle',`${finalQuiz.length} domande su tutte le lezioni — pensato per verificare se sei pronto a partire.`));
 
@@ -154,14 +175,14 @@ function renderFinalQuiz(mainEl){
 }
 
 function renderCourseIndex(mainEl, navigate){
-  mainEl.appendChild(el('p','eyebrow','Corso di preparazione'));
+  mainEl.appendChild(watermark('課'));
+  mainEl.appendChild(eyebrowRow('Corso di preparazione', '課'));
   mainEl.appendChild(el('h2','title display','10 lezioni per capire la Cina'));
   mainEl.appendChild(el('p','subtitle','Storia, filosofia, lingua, cibo e usi — tutto quello che rende un viaggio in Cina più ricco di senso.'));
 
   const grid = document.createElement('div');
-  grid.className='gallery';
-  grid.style.cssText='grid-template-columns:repeat(3,1fr);';
-  lessons.slice(0,3).forEach(l=> grid.appendChild(illustrationCard(l.illustration, l.title)));
+  grid.className='gallery compact';
+  lessons.forEach(l=> grid.appendChild(illustrationCard(l.illustration, l.title)));
   mainEl.appendChild(grid);
 
   const list = document.createElement('div');

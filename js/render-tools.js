@@ -1,10 +1,14 @@
 import { phrasebook, checklist, glossary, contacts, weatherSummary } from './data-tools.js';
 import { days } from './data-guide.js';
-import { store } from './store.js';
+import { store, debounce } from './store.js';
+import { buildGeneralNoteBox } from './notebox.js';
+import { sealStampSvg } from './illustrations.js';
 
 function el(tag, cls, html){ const e=document.createElement(tag); if(cls) e.className=cls; if(html!=null) e.innerHTML=html; return e; }
+const STAMP_FOR = {planner:'劃', frasario:'語', checklist:'備', budget:'銀', glossario:'解', meteo:'雲', contatti:'話'};
 
 const TOOLS = [
+  {key:'planner', label:'Planner'},
   {key:'frasario', label:'Frasario'},
   {key:'checklist', label:'Checklist'},
   {key:'budget', label:'Budget'},
@@ -20,6 +24,35 @@ function speak(text){
     u.lang = 'zh-CN';
     window.speechSynthesis.speak(u);
   }catch(e){/* speech non disponibile */}
+}
+
+function renderPlanner(mainEl){
+  mainEl.appendChild(buildGeneralNoteBox());
+
+  const note = document.createElement('p');
+  note.style.cssText='font-size:13px;color:var(--ink-faint);margin:22px 0 6px;';
+  note.textContent = 'Appunti giorno per giorno — le stesse note che trovi anche in fondo a ogni scheda della guida.';
+  mainEl.appendChild(note);
+
+  days.forEach(d=>{
+    const n = store.dayNote(d.key);
+    const card = document.createElement('div');
+    card.className='planner-day';
+    card.innerHTML = `
+      <h4>Giorno ${d.num} — ${d.city}</h4>
+      <p class="sub">${d.title}</p>
+      <label style="display:block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 6px;">Prenotazioni</label>
+      <textarea data-f="booking" style="width:100%;min-height:44px;resize:vertical;border:1.4px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);font-family:var(--hand);font-size:17px;padding:8px 10px;">${n.booking}</textarea>
+      <label style="display:block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin:10px 0 6px;">Note ed esperienze</label>
+      <textarea data-f="notes" style="width:100%;min-height:44px;resize:vertical;border:1.4px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);font-family:var(--hand);font-size:17px;padding:8px 10px;">${n.notes}</textarea>
+    `;
+    card.querySelectorAll('textarea').forEach(ta=>{
+      const save = debounce(()=> store.setDayNote(d.key, ta.dataset.f, ta.value), 500);
+      ta.addEventListener('input', save);
+      ta.addEventListener('blur', ()=> store.setDayNote(d.key, ta.dataset.f, ta.value));
+    });
+    mainEl.appendChild(card);
+  });
 }
 
 function renderFrasario(mainEl){
@@ -203,10 +236,11 @@ function renderContatti(mainEl){
 }
 
 const RENDERERS = {
-  frasario: renderFrasario, checklist: renderChecklist, budget: renderBudget,
+  planner: renderPlanner, frasario: renderFrasario, checklist: renderChecklist, budget: renderBudget,
   glossario: renderGlossario, meteo: renderMeteo, contatti: renderContatti,
 };
 const TITLES = {
+  planner:['Planner di viaggio','Le tue prenotazioni, hotel, voli ed esperienze — tutto in un posto solo, salvato su questo dispositivo.'],
   frasario:['Frasario essenziale','Le frasi che userai davvero, divise per contesto — tocca 🔊 per sentirne la pronuncia (se il browser lo supporta).'],
   checklist:['Checklist pre-partenza','Tutto ciò che va fatto e messo in valigia — le spunte restano salvate su questo dispositivo.'],
   budget:['Calcolatore di budget','Somma automatica dei budget giornalieri della guida, regolabile per persone e margine di sicurezza.'],
@@ -218,7 +252,12 @@ const TITLES = {
 function render(mainEl, route, navigate){
   mainEl.innerHTML='';
   const key = (route.split(':')[1]) || 'frasario';
-  mainEl.appendChild(el('p','eyebrow','Strumenti'));
+  const stamp = STAMP_FOR[key] || '具';
+  mainEl.appendChild(el('div','cn-watermark',stamp));
+  const eyebrowRow = document.createElement('div');
+  eyebrowRow.className='eyebrow-row';
+  eyebrowRow.innerHTML = `${sealStampSvg(stamp)}<p class="eyebrow">Strumenti</p>`;
+  mainEl.appendChild(eyebrowRow);
   const [title, subtitle] = TITLES[key] || TITLES.frasario;
   mainEl.appendChild(el('h2','title display',title));
   mainEl.appendChild(el('p','subtitle',subtitle));

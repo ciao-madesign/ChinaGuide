@@ -1,4 +1,5 @@
-import { heroIllustration, getIllustration } from './illustrations.js';
+import { heroIllustration, sealStampSvg } from './illustrations.js';
+import { illustrationCard } from './postcard.js';
 import { store } from './store.js';
 import { lessons } from './data-course.js';
 import { days } from './data-guide.js';
@@ -42,7 +43,10 @@ function render(mainEl, navigate){
   heroWrap.innerHTML = `<div class="hero-photo">${heroIllustration()}</div><span class="credit">illustrazione originale · stile taccuino</span>`;
   mainEl.appendChild(heroWrap);
 
-  mainEl.appendChild(el('div','eyebrow','中国路 — La tua preparazione al viaggio'));
+  const eyebrowRow = document.createElement('div');
+  eyebrowRow.className='eyebrow-row';
+  eyebrowRow.innerHTML = `${sealStampSvg('游')}<p class="eyebrow">中国路 — La tua preparazione al viaggio</p>`;
+  mainEl.appendChild(eyebrowRow);
   const h1 = document.createElement('h1');
   h1.className='heroTitle display';
   h1.innerHTML = `<span class="heroTitleCn brush">中国</span>Corso &amp; guida di viaggio`;
@@ -81,12 +85,9 @@ function render(mainEl, navigate){
 
   mainEl.appendChild(el('h3',null,'Un assaggio del viaggio'));
   const gallery = document.createElement('div');
-  gallery.className='gallery';
-  [['gallery-wall','La Grande Muraglia'],['gallery-panda','I panda di Chengdu'],['gallery-lanterns','Lanterne e festività']].forEach(([key,cap])=>{
-    const card = document.createElement('div');
-    card.className='postcard';
-    card.innerHTML = `<div class="washi"></div>${getIllustration(key)}<div class="cap">${cap}</div>`;
-    gallery.appendChild(card);
+  gallery.className='gallery compact';
+  [['gallery-wall','La Grande Muraglia'],['gallery-panda','I panda di Chengdu'],['gallery-lanterns','Lanterne e festività'],['gallery-tea','Cerimonia del tè'],['gallery-fenghuang','Fenghuang di notte']].forEach(([key,cap])=>{
+    gallery.appendChild(illustrationCard(key, cap));
   });
   mainEl.appendChild(gallery);
 

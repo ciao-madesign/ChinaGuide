@@ -60,13 +60,18 @@ h1,h2,h3,h4{font-family:var(--serif);}
 
 /* ---------- decorative watermark glyphs ---------- */
 .cn-watermark{
-  position:absolute; font-family:var(--brush); color:var(--ink);
-  opacity:.05; font-size:220px; line-height:1; pointer-events:none;
-  user-select:none; z-index:0;
+  position:absolute; top:-10px; right:-10px; font-family:var(--brush); color:var(--ink);
+  opacity:.05; font-size:200px; line-height:1; pointer-events:none;
+  user-select:none; z-index:-1;
 }
+@media (max-width:860px){ .cn-watermark{display:none;} }
 
-/* ---------- LAYOUT ---------- */
-.app{display:flex;min-height:100vh;position:relative;z-index:1;}
+/* ---------- LAYOUT ----------
+   La sidebar è "position:fixed" (non sticky) con scroll interno indipendente:
+   evita i bug tipici di sticky+overflow (righe del taccuino che non scorrono
+   col contenuto, sfondo che non copre tutta la colonna). "main" lascia lo
+   spazio con margin-left. */
+.app{display:block;min-height:100vh;position:relative;z-index:1;}
 
 .topbar{
   display:none;
@@ -86,12 +91,15 @@ h1,h2,h3,h4{font-family:var(--serif);}
 .hamburger svg{width:18px;height:18px;}
 
 .sidebar{
-  width:288px; flex:0 0 288px;
+  width:288px;
   background:var(--paper-deep);
   border-right:1.5px solid var(--line);
   padding:26px 0 40px;
-  position:sticky; top:0; height:100vh; overflow-y:auto;
+  position:fixed; top:0; left:0; height:100vh;
+  overflow-y:auto; overflow-x:hidden;
+  z-index:45;
   background-image:repeating-linear-gradient(180deg, transparent 0 27px, rgba(107,87,68,.06) 27px 28px);
+  background-attachment:local;
 }
 .brand{padding:0 22px 20px;border-bottom:1.5px dashed var(--line);margin-bottom:6px;}
 .brand-row{display:flex;align-items:center;gap:12px;margin-bottom:8px;}
@@ -116,7 +124,8 @@ h1,h2,h3,h4{font-family:var(--serif);}
 .navlist button:hover{color:var(--ink);background:rgba(58,42,28,.045);}
 .navlist button.active{color:var(--ink);border-left-color:var(--seal);background:var(--seal-soft);font-weight:600;}
 .navlist .num{font-family:var(--mono);font-size:10.5px;color:var(--gold);width:20px;flex:0 0 20px;}
-.navlist .flag{margin-left:auto;color:var(--seal);font-size:12px;}
+.navlist .lbl{flex:1 1 auto;min-width:0;overflow-wrap:break-word;}
+.navlist .flag{margin-left:auto;flex:0 0 auto;color:var(--seal);font-size:12px;}
 .navlist .stamp-dot{margin-left:auto;width:16px;height:16px;flex:0 0 16px;border-radius:50%;
   border:1.4px solid var(--line);display:flex;align-items:center;justify-content:center;color:transparent;font-size:9px;}
 .navlist .stamp-dot.done{border-color:var(--jade);color:var(--jade);background:var(--jade-soft);}
@@ -124,11 +133,13 @@ h1,h2,h3,h4{font-family:var(--serif);}
 
 .sidebar-footer{padding:16px 22px 0;font-size:11px;color:var(--ink-faint);font-family:var(--hand);font-size:14px;line-height:1.5;}
 
-main{flex:1;padding:54px 60px 100px;max-width:900px;position:relative;}
+main{margin-left:288px;padding:54px 60px 100px;max-width:900px;position:relative;}
 
 .overlay-backdrop{display:none;position:fixed;inset:0;background:rgba(58,42,28,.4);z-index:35;}
 
 /* ---------- TYPOGRAPHY / HEADERS ---------- */
+.eyebrow-row{display:flex;align-items:center;gap:10px;margin:0 0 10px;}
+.eyebrow-row .eyebrow{margin:0;}
 .eyebrow{color:var(--seal);font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin:0 0 10px;display:flex;align-items:center;gap:8px;}
 .eyebrow::before{content:"";width:22px;height:1.5px;background:var(--seal);display:inline-block;}
 h2.title{font-size:38px;margin:0 0 8px;line-height:1.14;font-weight:700;color:var(--ink);}
@@ -146,6 +157,8 @@ h2.title{font-size:38px;margin:0 0 8px;line-height:1.14;font-weight:700;color:va
 }
 .callout b{color:var(--ink);}
 .callout .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--jade);display:block;margin-bottom:6px;}
+.callout.trivia{border-left-color:var(--gold);}
+.callout.trivia .lbl{color:var(--gold);}
 
 .flagbanner{
   background:var(--seal-soft); border:1.5px solid var(--seal); border-radius:var(--radius);
@@ -167,9 +180,13 @@ h2.title{font-size:38px;margin:0 0 8px;line-height:1.14;font-weight:700;color:va
   box-shadow:0 8px 18px var(--shadow-soft), 0 2px 4px var(--shadow-soft);
   border-radius:2px; position:relative; margin:0 0 6px;
 }
-.postcard img{border-radius:1px; width:100%; height:auto; object-fit:cover; aspect-ratio:4/3; background:var(--paper-deep);}
+.postcard img{border-radius:1px; width:100%; height:auto; object-fit:cover; aspect-ratio:4/3; background:var(--paper-deep); display:block;}
+.postcard a{display:block;}
 .postcard .cap{font-family:var(--hand);font-size:18px;color:var(--ink-soft);text-align:center;padding-top:8px;line-height:1.2;}
 .postcard .credit{font-family:var(--mono);font-size:9px;color:var(--ink-faint);text-align:right;padding-top:4px;}
+.postcard.mapcard img{object-fit:contain; aspect-ratio:auto; max-height:460px; background:var(--paper-deep); padding:8px;}
+.postcard.infographic{max-width:380px;margin-left:auto;margin-right:auto;}
+.postcard.infographic img{object-fit:contain; aspect-ratio:auto; width:100%; height:auto;}
 .washi{
   position:absolute; top:-10px; left:50%; transform:translateX(-50%) rotate(-3deg);
   width:70px;height:22px; background:repeating-linear-gradient(45deg,rgba(181,48,28,.55) 0 6px,rgba(184,137,31,.45) 6px 12px);
@@ -187,9 +204,12 @@ h2.title{font-size:38px;margin:0 0 8px;line-height:1.14;font-weight:700;color:va
   color:#fbeee0;background:rgba(58,42,28,.55);padding:3px 8px;border-radius:3px;}
 
 .gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin:26px 0 34px;}
-.gallery .postcard:nth-child(1){transform:rotate(-2.5deg);}
-.gallery .postcard:nth-child(2){transform:rotate(1.5deg);}
-.gallery .postcard:nth-child(3){transform:rotate(-1deg);}
+.gallery .postcard:nth-child(3n+1){transform:rotate(-2.5deg);}
+.gallery .postcard:nth-child(3n+2){transform:rotate(1.5deg);}
+.gallery .postcard:nth-child(3n){transform:rotate(-1deg);}
+.gallery .postcard:hover{transform:rotate(0deg) scale(1.03);transition:transform .18s ease;z-index:2;}
+.gallery.compact{grid-template-columns:repeat(5,1fr);gap:14px;}
+.gallery.compact .cap{font-size:14px;}
 
 /* ---------- INFO GRID (ticket / luggage-tag style) ---------- */
 .infogrid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 30px;}
@@ -291,6 +311,35 @@ button.ghost{all:unset;color:var(--ink-soft);padding:11px 6px;font-size:13.5px;c
 .leaflet-popup-content-wrapper{background:var(--paper-card);color:var(--ink);font-family:var(--serif);border-radius:4px;}
 .leaflet-popup-tip{background:var(--paper-card);}
 
+/* ---------- PLANNER / APPUNTI ---------- */
+.notebox{
+  margin:30px 0; padding:20px 22px 18px; border-radius:var(--radius);
+  background:
+    linear-gradient(var(--paper-card),var(--paper-card)) padding-box,
+    repeating-linear-gradient(180deg, transparent 0 26px, rgba(107,87,68,.09) 26px 27px) padding-box;
+  border:1.4px dashed var(--seal);
+  position:relative;
+}
+.notebox::before{
+  content:"📌"; position:absolute; top:-14px; left:20px; font-size:20px;
+  filter:drop-shadow(0 2px 2px rgba(0,0,0,.25));
+}
+.notebox .notehead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin:0 0 12px;flex-wrap:wrap;}
+.notebox .notehead h4{font-family:var(--brush);font-size:20px;color:var(--seal);margin:0;}
+.notebox .save-flag{font-family:var(--mono);font-size:10.5px;color:var(--jade);opacity:0;transition:opacity .3s ease;}
+.notebox .save-flag.show{opacity:1;}
+.notebox label{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin:14px 0 6px;}
+.notebox label:first-of-type{margin-top:0;}
+.notebox textarea{
+  width:100%; min-height:64px; resize:vertical; border:1.4px solid var(--line); border-radius:6px;
+  background:var(--paper); color:var(--ink); font-family:var(--hand); font-size:18px; line-height:1.4;
+  padding:10px 12px;
+}
+.notebox textarea:focus{outline:none;border-color:var(--seal);}
+.planner-day{border:1.4px solid var(--line);border-radius:var(--radius);padding:16px 18px;margin-bottom:16px;background:var(--paper-card);}
+.planner-day h4{margin:0 0 4px;font-size:15px;color:var(--seal-dim);}
+.planner-day .sub{font-size:12px;color:var(--ink-faint);margin:0 0 10px;}
+
 /* ---------- TOOLS (Strumenti) ---------- */
 .tool-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;}
 .tool-tabs button{all:unset;cursor:pointer;font-size:13px;padding:9px 16px;border:1.4px solid var(--line);
@@ -345,21 +394,20 @@ button.ghost{all:unset;color:var(--ink-soft);padding:11px 6px;font-size:13.5px;c
 
 @media (max-width:860px){
   .topbar{display:flex;}
-  .app{flex-direction:column;}
   .sidebar{
-    position:fixed; left:0; top:0; height:100vh; width:280px; z-index:50;
+    width:280px; z-index:50;
     transform:translateX(-100%); transition:transform .22s ease; box-shadow:8px 0 30px rgba(0,0,0,.3);
   }
   .sidebar.open{transform:translateX(0);}
   .overlay-backdrop.open{display:block;}
-  main{padding:30px 18px 80px;}
+  main{margin-left:0; padding:30px 18px 80px;}
   h2.title{font-size:27px;}
   .infogrid{grid-template-columns:1fr;}
   .herostats{grid-template-columns:1fr 1fr;}
   .hero .heroTitle{font-size:32px;}
   .hubgrid{grid-template-columns:1fr;}
   .gallery{grid-template-columns:1fr;}
+  .gallery.compact{grid-template-columns:1fr 1fr;}
   .phrase-grid{grid-template-columns:1fr;}
   .glossary-grid{grid-template-columns:1fr;}
-  .cn-watermark{font-size:120px;}
 }

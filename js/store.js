@@ -41,4 +41,16 @@ export const store = {
 
   departureDate: ()=> getJSON('departureDate', null),
   setDepartureDate(v){ setJSON('departureDate', v); },
+
+  dayNote(key){ return getJSON('note:'+key, {booking:'', notes:''}); },
+  setDayNote(key, field, value){
+    const n = this.dayNote(key); n[field]=value; setJSON('note:'+key, n);
+  },
+  generalNotes: ()=> getJSON('generalNotes', ''),
+  setGeneralNotes(v){ setJSON('generalNotes', v); },
 };
+
+export function debounce(fn, ms){
+  let t;
+  return (...args)=>{ clearTimeout(t); t=setTimeout(()=>fn(...args), ms); };
+}

@@ -42,7 +42,7 @@ function navButton({label, num, active, done, flag}){
   if(active) btn.className='active';
   let html='';
   if(num!=null) html += `<span class="num">${num}</span>`;
-  html += `<span>${label}</span>`;
+  html += `<span class="lbl">${label}</span>`;
   if(flag) html += `<span class="flag">⚠</span>`;
   else if(done!==undefined) html += `<span class="stamp-dot ${done?'done':''}">✓</span>`;
   btn.innerHTML = html;

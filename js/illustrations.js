@@ -259,6 +259,9 @@ const PORTRAIT_ICONS = {
     <path d="M-14,4 Q0,16 14,4" fill="none" stroke="${PAL.ink}" stroke-width="2.4"/>
     <circle cx="-9" cy="-6" r="2" fill="${PAL.ink}"/><circle cx="9" cy="-6" r="2" fill="${PAL.ink}"/>
     <circle cx="0" cy="-16" r="3" fill="${c}"/>`,
+  phone:(c)=>`<rect x="-16" y="-26" width="32" height="52" rx="6" fill="${PAL.paperCard}" stroke="${c}" stroke-width="2.4"/>
+    <rect x="-12" y="-20" width="24" height="34" fill="${c}" opacity="0.25"/>
+    <circle cx="0" cy="19" r="2.4" fill="${c}"/>`,
 };
 function portraitScene({uid, icon='panda', tone=PAL.jade, w=480, h=320, label}){
   let s = `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">`;
@@ -327,6 +330,20 @@ const cfgFor = {
   'lesson-8':()=>portraitScene({uid:nextUid(), icon:'hotpot', tone:PAL.seal, label:'火锅'}),
   'lesson-9':()=>portraitScene({uid:nextUid(), icon:'calligraphy', tone:PAL.ink, label:'书法'}),
   'lesson-10':()=>portraitScene({uid:nextUid(), icon:'teapot', tone:PAL.jade, label:'茶'}),
+  'lesson-1b':()=>mountainScene({uid:nextUid(), accent:'waterfall', tone:PAL.jade, label:'河流与山脉'}),
+  'lesson-2b':()=>portraitScene({uid:nextUid(), icon:'calligraphy', tone:PAL.ink, label:'甲骨文'}),
+  'lesson-3b':()=>courtyardScene({uid:nextUid(), roof:'pagoda', tone:PAL.gold, label:'丝绸之路'}),
+  'lesson-4b':()=>citySkylineScene({uid:nextUid(), landmark:'gate', dusk:true, label:'改革开放'}),
+  'lesson-5b':()=>citySkylineScene({uid:nextUid(), landmark:'orientalpearl', dusk:false, label:'数字中国'}),
+  'lesson-6b':()=>mountainScene({uid:nextUid(), accent:'temple', tone:PAL.plum, label:'风水'}),
+  'lesson-7b':()=>festiveScene({uid:nextUid(), tone:PAL.gold, label:'京剧'}),
+  'lesson-8b':()=>portraitScene({uid:nextUid(), icon:'teapot', tone:PAL.jade, label:'茶道'}),
+  'lesson-9b':()=>portraitScene({uid:nextUid(), icon:'calligraphy', tone:PAL.seal, label:'方言'}),
+  'lesson-10b':()=>courtyardScene({uid:nextUid(), roof:'hutong', tone:PAL.rose, label:'待客之道'}),
+  'lesson-11':()=>citySkylineScene({uid:nextUid(), landmark:'gate', dusk:true, label:'人民 · 权力'}),
+  'lesson-11b':()=>portraitScene({uid:nextUid(), icon:'terracotta', tone:PAL.indigo, label:'民族'}),
+  'lesson-12':()=>festiveScene({uid:nextUid(), tone:PAL.rose, label:'潮流'}),
+  'lesson-12b':()=>portraitScene({uid:nextUid(), icon:'phone', tone:PAL.jade, label:'手机'}),
   // guida — 13 giorni
   'day-1':()=>courtyardScene({uid:nextUid(), roof:'hutong', tone:PAL.seal, label:'胡同'}),
   'day-2':()=>courtyardScene({uid:nextUid(), roof:'round', tone:PAL.indigo, label:'天坛'}),
@@ -345,6 +362,8 @@ const cfgFor = {
   'gallery-wall':()=>mountainScene({uid:nextUid(), accent:'pillars', tone:PAL.gold, label:'长城'}),
   'gallery-panda':()=>portraitScene({uid:nextUid(), icon:'panda', tone:PAL.jade, label:'成都'}),
   'gallery-lanterns':()=>festiveScene({uid:nextUid(), tone:PAL.seal, label:'灯笼'}),
+  'gallery-tea':()=>portraitScene({uid:nextUid(), icon:'teapot', tone:PAL.jade, label:'功夫茶'}),
+  'gallery-fenghuang':()=>waterVillageScene({uid:nextUid(), variant:'riverhouses', tone:PAL.rose, label:'凤凰'}),
 };
 
 const ILLUSTRATIONS = {};
@@ -357,4 +376,14 @@ function getIllustration(key){
 }
 function heroIllustration(){ return heroScene(); }
 
-export { getIllustration, heroIllustration, cloudMotif, lantern, bamboo, nextUid, defs as svgDefs, panel as svgPanel, PAL };
+function sealStampSvg(text, color=PAL.seal){
+  return `<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" style="flex:0 0 auto;">
+    <g transform="rotate(-7 18 18)">
+      <rect x="3" y="3" width="30" height="30" rx="4" fill="none" stroke="${color}" stroke-width="2.2"/>
+      <rect x="6.5" y="6.5" width="23" height="23" rx="2" fill="none" stroke="${color}" stroke-width="1" opacity="0.6"/>
+      <text x="18" y="24" text-anchor="middle" font-family="Ma Shan Zheng,serif" font-size="15" fill="${color}">${text}</text>
+    </g>
+  </svg>`;
+}
+
+export { getIllustration, heroIllustration, cloudMotif, lantern, bamboo, sealStampSvg, nextUid, defs as svgDefs, panel as svgPanel, PAL };
