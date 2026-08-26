@@ -128,11 +128,21 @@ function renderDay(mainEl, idx, navigate){
   mainEl.appendChild(grid);
 
   const h3tappe = document.createElement('h3'); h3tappe.textContent='Tappe della giornata';
-  h3tappe.style.cssText='color:var(--seal-dim);font-size:18px;margin:0 0 10px;';
+  h3tappe.style.cssText='color:var(--seal-dim);font-size:18px;margin:0 0 14px;';
   mainEl.appendChild(h3tappe);
-  const ul = document.createElement('ul'); ul.className='section';
-  d.tappe.forEach(t=>{ const li=document.createElement('li'); li.textContent=t; ul.appendChild(li); });
-  mainEl.appendChild(ul);
+  const list = document.createElement('div'); list.className='itinerary-list';
+  d.attivita.forEach((a,i)=>{
+    const item = document.createElement('div'); item.className='itinerary-item';
+    item.innerHTML = `
+      <div class="itinerary-num">${i+1}</div>
+      <div class="itinerary-body">
+        <span class="time-badge">${a.time}</span>
+        <h4>${a.title}</h4>
+        <p>${a.desc}</p>
+      </div>`;
+    list.appendChild(item);
+  });
+  mainEl.appendChild(list);
 
   const budgetEl = document.createElement('div');
   budgetEl.className='budgetbox';

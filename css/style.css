@@ -311,6 +311,28 @@ button.ghost{all:unset;color:var(--ink-soft);padding:11px 6px;font-size:13.5px;c
 .leaflet-popup-content-wrapper{background:var(--paper-card);color:var(--ink);font-family:var(--serif);border-radius:4px;}
 .leaflet-popup-tip{background:var(--paper-card);}
 
+/* ---------- ITINERARIO (attività dettagliate del giorno) ---------- */
+.itinerary-list{margin:0 0 30px;}
+.itinerary-item{display:flex; gap:16px; position:relative; padding-bottom:26px;}
+.itinerary-item::before{
+  content:""; position:absolute; left:19px; top:42px; bottom:0; width:0;
+  border-left:1.5px dashed var(--line);
+}
+.itinerary-item:last-child::before{display:none;}
+.itinerary-item:last-child{padding-bottom:0;}
+.itinerary-num{
+  flex:0 0 40px; width:40px; height:40px; border-radius:50%;
+  background:var(--paper-card); border:1.5px solid var(--seal); color:var(--seal);
+  display:flex; align-items:center; justify-content:center;
+  font-family:var(--brush); font-size:17px; z-index:1;
+}
+.itinerary-body{padding-top:4px;}
+.itinerary-body .time-badge{
+  font-family:var(--mono); font-size:10px; color:var(--gold); text-transform:uppercase; letter-spacing:.08em;
+}
+.itinerary-body h4{margin:3px 0 6px; font-size:16.5px; color:var(--ink); font-weight:700;}
+.itinerary-body p{margin:0; font-size:15px; line-height:1.68; color:var(--ink-soft);}
+
 /* ---------- PLANNER / APPUNTI ---------- */
 .notebox{
   margin:30px 0; padding:20px 22px 18px; border-radius:var(--radius);
