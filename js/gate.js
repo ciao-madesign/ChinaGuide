@@ -6,7 +6,7 @@
    La password non è salvata in chiaro: viene confrontata via hash SHA-256.
    ===================================================================== */
 
-const PASSWORD_HASH = 'e074eace39f5963718f39075892e855f0ffd34704f9805d3faa37c2403d80386';
+const PASSWORD_HASH = '2e95ac47e6fc00030224e20194ce3a9bfa03717c32b5fa2e95b111d7053916a6';
 
 async function sha256(text){
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
