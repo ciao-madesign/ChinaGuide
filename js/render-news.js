@@ -13,6 +13,9 @@ const THEME_KEY = 'cn-guide:fonticina-theme';
 const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
 const RECENCY_DAYS = 5;
 const MAX_PER_SOURCE = 6;
+const FEED_INITIAL_COUNT = 6;
+
+let feedExpanded = false; // "mostra altre notizie" — si resetta quando cambiano i filtri
 
 let feedCache = null;
 let feedPromise = null;
@@ -47,13 +50,29 @@ try{
   if(s){ state.scope = s.scope || 'all'; state.type = s.type || 'all'; state.lang = s.lang || 'all'; }
 }catch(e){}
 
-function esc(s){ return String(s==null?'':s).replace(/"/g,'&quot;'); }
+function esc(s){
+  return String(s==null?'':s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 
-function badge(ch, cls){ return `<span class="fc-badge ${cls}" lang="zh">${ch}</span>`; }
+function badge(ch, cls){ return `<span class="fc-badge ${cls}" lang="zh">${esc(ch)}</span>`; }
+
+/** Corpo esteso della card: il testo dell'articolo trascritto (estratto
+    automaticamente dal workflow quotidiano — può essere incompleto o
+    assente, ad es. siti con paywall o resi via JavaScript), con il link
+    all'originale sempre presente come rete di sicurezza. */
+function articleBodyHtml(it){
+  if(Array.isArray(it.text) && it.text.length){
+    return it.text.map(p => `<p>${esc(p)}</p>`).join('') +
+      `<p class="fc-article-note">Testo estratto automaticamente dalla pagina originale, può essere incompleto — <a href="${it.link}" target="_blank" rel="noopener">apri l'originale ↗</a></p>`;
+  }
+  return `<p class="fc-article-note">Testo non disponibile per questa notizia (è disponibile solo nei titoli generati dal workflow quotidiano, non nel refresh live dal browser, e non per tutti i siti) — <a href="${it.link}" target="_blank" rel="noopener">apri l'originale ↗</a></p>`;
+}
 
 /** Una "card" del feed: badge colorato per testata (o internazionale),
-    titolo cliccabile, riga meta con fonte/tipo/data. Niente descrizioni
-    lunghe qui: quelle restano nel cassetto "Le 8 testate" in fondo. */
+    titolo che espande in loco il testo trascritto dell'articolo (così
+    si legge senza uscire dal sito), e un link separato per aprire
+    comunque l'originale in una nuova scheda. */
 function card(it, s){
   const isIntl = !s;
   const cls = isIntl ? 'intl' : s.type;
@@ -62,15 +81,21 @@ function card(it, s){
   const tagLabel = isIntl ? 'Internazionale' : (s.type==='off' ? 'Ufficiale' : 'Commerciale');
   return `
     <li class="fc-card">
-      ${badge(ch, cls)}
-      <div class="fc-card-body">
-        <a class="fc-headline" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
-        <div class="fc-meta">
-          <span class="fc-source">${esc(sourceLabel)}</span>
-          <span class="fc-tag ${cls}">${tagLabel}</span>
-          ${it.pubDate ? `<span class="fc-date">${formatItemDate(it.pubDate)}</span>` : ''}
-        </div>
-      </div>
+      <a class="fc-ext-link" href="${it.link}" target="_blank" rel="noopener" aria-label="Apri l'originale su ${esc(sourceLabel)} ↗" title="Apri l'originale ↗">↗</a>
+      <details class="fc-article">
+        <summary class="fc-summary">
+          ${badge(ch, cls)}
+          <div class="fc-card-body">
+            <span class="fc-headline">${esc(it.title)}</span>
+            <div class="fc-meta">
+              <span class="fc-source">${esc(sourceLabel)}</span>
+              <span class="fc-tag ${cls}">${tagLabel}</span>
+              ${it.pubDate ? `<span class="fc-date">${formatItemDate(it.pubDate)}</span>` : ''}
+            </div>
+          </div>
+        </summary>
+        <div class="fc-article-body">${articleBodyHtml(it)}</div>
+      </details>
     </li>`;
 }
 
@@ -131,10 +156,21 @@ function renderFeed(feed){
   const flat = buildFlatFeed(feed);
   const scopeNote = state.scope==='cn' ? `${matchingSources().length}/${SOURCES.length} testate` : state.scope==='intl' ? 'internazionali' : `${matchingSources().length}/${SOURCES.length} testate + internazionali`;
   document.getElementById('fc-count').textContent = `${flat.length} titoli · ${scopeNote}`;
+
+  const shown = feedExpanded ? flat : flat.slice(0, FEED_INITIAL_COUNT);
   const list = document.getElementById('fc-feed');
-  list.innerHTML = flat.length
-    ? flat.map(({it,s}) => card(it,s)).join('')
+  list.innerHTML = shown.length
+    ? shown.map(({it,s}) => card(it,s)).join('')
     : `<li class="fc-empty">Nessun titolo con questi filtri al momento — prova "Tutte" o "Aggiorna ora dal browser".</li>`;
+
+  const more = document.getElementById('fc-feed-more');
+  const hidden = flat.length - shown.length;
+  if(flat.length <= FEED_INITIAL_COUNT){
+    more.hidden = true;
+  } else {
+    more.hidden = false;
+    more.textContent = feedExpanded ? '↑ Mostra meno' : `↓ Mostra altre ${hidden} notizie`;
+  }
 }
 
 function renderDirectory(){
@@ -170,8 +206,23 @@ function renderPodcast(meta){
     <audio controls preload="none" src="data/podcast/latest.mp3?v=${encodeURIComponent(meta.date)}"></audio>
     <details class="transcript">
       <summary>Trascrizione</summary>
-      <div class="script">${lines.map(l => `<p>${l}</p>`).join('')}</div>
+      <div class="script">${lines.map(l => `<p>${esc(l)}</p>`).join('')}</div>
     </details>
+  `;
+}
+
+/** Report breve generato dalla stessa chiamata Gemini del podcast
+    (stesso momento, stessi titoli) — una colonna laterale per farsi
+    un'idea della giornata senza leggere tutto il feed. */
+function renderReport(meta){
+  const box = document.getElementById('fc-report-body');
+  if(!meta || !Array.isArray(meta.report) || !meta.report.length){
+    box.innerHTML = `<p class="no-feed">Report non ancora disponibile — richiede il podcast quotidiano attivo (vedi sopra).</p>`;
+    return;
+  }
+  box.innerHTML = `
+    <p class="updated">${formatDate(meta.date)}</p>
+    <ul class="fc-report-list">${meta.report.map(p => `<li>${esc(p)}</li>`).join('')}</ul>
   `;
 }
 
@@ -261,9 +312,16 @@ function init(){
     state[b.dataset.f] = b.dataset.v;
     try{ localStorage.setItem('cn-guide:fonticina-filtri', JSON.stringify(state)); }catch(e){}
     syncChips();
+    feedExpanded = false;
     renderFeed(liveFeed || feedCache);
     renderDirectory();
   }));
+
+  document.getElementById('fc-feed-more').addEventListener('click', () => {
+    feedExpanded = !feedExpanded;
+    renderFeed(liveFeed || feedCache);
+    if(!feedExpanded) document.getElementById('fc-h-feed').scrollIntoView({ block:'start', behavior:'smooth' });
+  });
 
   const themeBtn = document.getElementById('fc-theme');
   const themeLabel = document.getElementById('fc-theme-label');
@@ -289,7 +347,7 @@ function init(){
   });
 
   renderFeed(null);
-  loadPodcast().then(renderPodcast);
+  loadPodcast().then(meta => { renderPodcast(meta); renderReport(meta); });
 
   loadFeed().then(feed => {
     if(feed && feed.generatedAt){

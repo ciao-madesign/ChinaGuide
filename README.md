@@ -32,8 +32,8 @@ js/gate.js               parola d'ordine di accesso (riusata identica da index.h
 js/data-sources.js       le 8 testate di "Fonti Cina" + giro di lettura quotidiano
 js/feed-parser.js        parsing RSS/Atom condiviso tra script Node e browser
 js/render-news.js        logica del portale "Fonti Cina" (si avvia da sola dentro fonticina.html)
-scripts/fetch-news.mjs   scarica i titoli (eseguito dal workflow quotidiano)
-scripts/generate-podcast.mjs  genera script + audio del podcast quotidiano (richiede GEMINI_API_KEY)
+scripts/fetch-news.mjs   scarica titoli + testo trascritto degli articoli (eseguito dal workflow quotidiano)
+scripts/generate-podcast.mjs  genera script podcast + report del giorno + audio (richiede GEMINI_API_KEY)
 data/news-feed.json      titoli generati — non modificare a mano, lo sovrascrive il workflow
 data/podcast/            audio + trascrizione del podcast del giorno
 ```
@@ -60,9 +60,15 @@ Il sito è statico (GitHub Pages non esegue codice server-side), quindi titoli e
 
 Per ogni testata, lo script prova prima eventuali feed RSS ufficiali noti; molte testate cinesi però non ne pubblicano uno verificabile, quindi come rete di sicurezza usa comunque una ricerca su Google News RSS filtrata per dominio (`site:...`) — non è un'API ufficiale documentata, ma è stabile e non richiede chiavi. Nessuna configurazione richiesta: funziona già appena il workflow gira la prima volta su GitHub (da questo ambiente di sviluppo non è verificabile: la rete è filtrata).
 
-Nella pagina "Fonti Cina" il pulsante **"Aggiorna ora dal browser"** rifà la stessa ricerca live, lato client, tramite un proxy CORS pubblico (`api.allorigins.win`) — comodo per un sito a uso personale, ma non pensato per molti visitatori contemporanei: resta un bonus, il workflow quotidiano è la fonte principale.
+Nella pagina "Fonti Cina" il pulsante **"Aggiorna ora dal browser"** rifà la stessa ricerca live, lato client, tramite un proxy CORS pubblico (`api.allorigins.win`) — comodo per un sito a uso personale, ma non pensato per molti visitatori contemporanei: resta un bonus, il workflow quotidiano è la fonte principale. Ogni richiesta ha un timeout (il proxy pubblico a volte non risponde) così il pulsante non resta mai bloccato.
 
-### Podcast quotidiano (richiede una chiave API)
+### Testo degli articoli trascritto
+
+Per le notizie generate dal workflow quotidiano (non per il refresh live dal browser), `scripts/fetch-news.mjs` scarica anche la pagina di ogni articolo e ne estrae euristicamente il testo leggibile (senza dipendenze esterne: toglie script/stili/nav/header/footer, preferisce il contenuto dentro `<article>`, tiene i paragrafi `<p>` abbastanza lunghi da essere testo vero). Il risultato è salvato nel campo `text` di ogni notizia in `data/news-feed.json` e mostrato espandendo la card nella pagina — si legge senza uscire dal sito, con il link all'originale sempre presente come rete di sicurezza.
+
+È un'estrazione euristica, non garantita: siti con contenuto reso via JavaScript o paywall spesso non restituiscono nulla di utile, e in quel caso la card mostra solo "testo non disponibile" più il link. Nota anche che si tratta di ripubblicare contenuti di terzi — accettabile qui perché il sito è privato, protetto da parola d'ordine e a uso personale, non per un sito pubblico.
+
+### Podcast quotidiano e report del giorno (richiedono una chiave API)
 
 Il podcast **non si attiva da solo**: serve una chiave API Gemini, gratuita, da impostare come secret del repository.
 
@@ -70,7 +76,9 @@ Il podcast **non si attiva da solo**: serve una chiave API Gemini, gratuita, da 
 2. Nel repository GitHub: **Settings → Secrets and variables → Actions → New repository secret**, nome `GEMINI_API_KEY`, incolla la chiave.
 3. Lancia manualmente il workflow una prima volta (**Actions → Update news feed (Fonti Cina) → Run workflow**) per generare subito il primo episodio, invece di aspettare il cron del giorno dopo.
 
-Senza la chiave, `scripts/generate-podcast.mjs` si ferma da solo (lo vedi scritto nei log del workflow) senza bloccare l'aggiornamento dei titoli: il resto del sito funziona comunque.
+La stessa chiamata a Gemini che scrive il copione del podcast (due voci, Marco e Giulia, 2-3 minuti di parlato) produce anche un breve **report testuale** del giorno (5-7 punti), mostrato nella colonna laterale della pagina per un'overview rapida senza dover scorrere tutto il feed. Entrambi vengono da `data/podcast/meta.json` (campi `script` e `report`).
 
-**Nota sulla stabilità dell'API**: la generazione audio nativa di Gemini (`gemini-2.5-flash-preview-tts`) è un'area che cambia in fretta — nomi dei modelli e forma delle richieste possono variare. Se lo script smette di funzionare, la prima cosa da controllare è la [pagina ufficiale](https://ai.google.dev/gemini-api/docs/speech-generation) e aggiornare le costanti `TEXT_MODEL`/`TTS_MODEL` in cima a `scripts/generate-podcast.mjs`.
+Senza la chiave, `scripts/generate-podcast.mjs` si ferma da solo (lo vedi scritto nei log del workflow) senza bloccare l'aggiornamento dei titoli: il resto del sito funziona comunque, solo senza podcast né report.
+
+**Nota sulla stabilità dell'API**: i nomi dei modelli Gemini cambiano spesso (è già successo: `gemini-2.5-flash` è stato deprecato a favore di `gemini-3.8-flash` durante lo sviluppo di questa funzione). Se lo script smette di funzionare, il modo più affidabile per scoprire il nome giusto è guardare l'errore HTTP nei log del workflow: Google di solito indica direttamente il modello sostitutivo nel messaggio. Aggiorna le costanti `TEXT_MODEL`/`TTS_MODEL` in cima a `scripts/generate-podcast.mjs`; la pagina ufficiale (https://ai.google.dev/gemini-api/docs/speech-generation) resta il riferimento per cambi più sostanziali alla forma della richiesta.
 
