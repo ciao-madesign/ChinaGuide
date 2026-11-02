@@ -27,7 +27,7 @@ const WAV_PATH = join(OUT_DIR, 'latest.wav');
 const META_PATH = join(OUT_DIR, 'meta.json');
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const TEXT_MODEL = 'gemini-2.5-flash';
+const TEXT_MODEL = 'gemini-3.8-flash';
 const TTS_MODEL = 'gemini-2.5-flash-preview-tts';
 const VOICES = { Marco: 'Puck', Giulia: 'Kore' };
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
