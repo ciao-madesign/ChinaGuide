@@ -48,17 +48,29 @@ function buildDigest(feed){
   return lines.join('\n');
 }
 
-async function callGemini(model, body){
-  const res = await fetch(`${API_BASE}/${model}:generateContent`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
-    body: JSON.stringify(body),
-  });
-  if(!res.ok){
+function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
+
+/* Gemini a volte risponde 503 "alta domanda, riprova più tardi" — un
+   problema temporaneo di capacità lato Google, non del nostro codice
+   (osservato su più run reali di questo workflow). Ritentiamo un paio
+   di volte con una breve attesa prima di arrendersi. */
+async function callGemini(model, body, { retries = 2, retryDelayMs = 4000 } = {}){
+  for(let attempt = 0; ; attempt++){
+    const res = await fetch(`${API_BASE}/${model}:generateContent`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
+      body: JSON.stringify(body),
+    });
+    if(res.ok) return res.json();
     const text = await res.text().catch(() => '');
+    const transient = res.status === 503 || res.status === 429;
+    if(transient && attempt < retries){
+      console.log(`Gemini ${model} HTTP ${res.status} (tentativo ${attempt + 1}/${retries + 1}), ritento tra ${retryDelayMs}ms...`);
+      await sleep(retryDelayMs);
+      continue;
+    }
     throw new Error(`Gemini ${model} HTTP ${res.status}: ${text.slice(0, 300)}`);
   }
-  return res.json();
 }
 
 const REPORT_DELIM = '===REPORT===';
