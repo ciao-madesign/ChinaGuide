@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:19:26.861Z",
+  "generatedAt": "2026-11-02T15:55:45.930Z",
   "sources": {
     "xinhua": {
       "status": "ok",
@@ -9,49 +9,57 @@
           "title": "Xinhua News | Xi, Peruvian president exchange congratulations on 55th anniversary of ties",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hakU4Qzk1RU5VbzJKSGhMZTM4NV9UaVJYU0xGNnBwRmxKVFBnd1dRVnY2QlBCa3lNMzNrd0NVcFB1MkFtM1hiM0NLdm13dWU5aGptZUJHTmZkOElWS3MwX2RBbFR0NVhyZktoRm5TZDVoUDNkeDJQbFhnbFg?oc=5",
           "pubDate": "Mon, 02 Nov 2026 07:58:15 GMT",
-          "source": "Xinhua"
+          "source": "Xinhua",
+          "text": null
         },
         {
           "title": "Xinhua News | Xi holds welcome ceremony for Sultan of Oman",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOVVtaDdRTlU2eGt3ejZLUWUxa2pWZktab2YwLWxYTldweTYtQjRQaFBhTEVSdjRIQ1c4NXJWX1hRdFpHM1o0cXF5TmtSVHhnb2hqYmRTSUlWTUVIZGx5U3dBeHJyZkdiN0JHcUE0TW9Ta091VWRzN1BLM2c?oc=5",
           "pubDate": "Mon, 02 Nov 2026 03:32:17 GMT",
-          "source": "Xinhua"
+          "source": "Xinhua",
+          "text": null
         },
         {
           "title": "Xinhua world news summary at 0030 GMT, Nov. 2",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HN2NlZWdyX09wdF85OUVWUFBjLU9SaDNhQkZsT3g0cHhjQUg2VjduTG5yejF0UW9KRi10bUNNXzlndVUxaXlVdHdHNzE5YlhLSUsxTGVRSmZoOEhlcXE4NEk2NzdBWUZpZ25GN0pyc2VndThTcHJ3OE92QmU?oc=5",
           "pubDate": "Mon, 02 Nov 2026 00:30:15 GMT",
-          "source": "Xinhua"
+          "source": "Xinhua",
+          "text": null
         },
         {
-          "title": "Xinhua world news summary at 1530 GMT, Nov. 1",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Vmc4MFlqNW5lT3VQNmJBZVAzVG9haUwzUUIwREFKM0xfbUpMemd1b1FXZThMNFNUbmFrd0VuakdOekRnVnBoS0puMTRWMjNEVmVUa29Hbjg4ZmFSSnliSnZDcmFjTkJCa056WjZuTFZyU0lKeW16dTI2R28?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 15:23:45 GMT",
-          "source": "Xinhua"
+          "title": "Full text: Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UVE9zWDIzSjNETWsycUd1SEtFb2xVcldaWURWRkJEQ3NSS1J5MlF0d0tIT1pHWVZDbmttU2dPbVdhLVNJblZoNG40SzJCVFhyaHFUS3VXdGxrMjJUWXZHN1YtZ042UnVLNVYzbmJUczJGbEZWWDNXZjdJbWs?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 10:10:00 GMT",
+          "source": "Xinhua",
+          "text": null
         },
         {
-          "title": "Xinhua News | G20 FM meeting ends without joint communique amid deep divisions",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yMjI4WTRoVHpKeXZCbDFYN3J4bi1lSFFmTExUcDNWc2I0MEVhb2tzai1vTzBIaGU1ZDZVTjJkczN6RFc1Wm91N1hxSmlPUF81WXh0TTRCb3FDdkJIYVhJd3BDX0ZlcGFUOGpqa2xuazV1bktFMjRsSDFlU3c?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 04:09:31 GMT",
-          "source": "Xinhua"
+          "title": "Full text: Explanation of the Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VYmFjZ0t2Q3gxVjByZ295cGNJN3hMX1BNUmtlVzZvVWpGeEE2RWZ0TGVnUzR3Z1BaVTlCNkNzRUF5VXRpZ1EwZjB6UHV0VXotUGtCMVctMm53QzZnV0doNERUN1pOeXFEX084ZjZBcWRIUjQzSnExNkNJNUk?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 10:00:45 GMT",
+          "source": "Xinhua",
+          "text": null
         },
         {
           "title": "Xinhua Middle East news summary at 2200 GMT, Oct. 31",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRjVuREpZaVJDclBUU3NxNUhIa3BhZHZXR1duNTFOMndNdi0tZTRreTY1R0RqaTBBNE1WaUhjdV9wX2dxNkVlWTk0MG9XcjN3aHpSX3RndjFPd2Q5R1lmSGd6dGRvUnZZR016M2dsZ2xSYmZEeDN5blJqRlE?oc=5",
           "pubDate": "Sat, 31 Oct 2026 22:00:30 GMT",
-          "source": "Xinhua"
+          "source": "Xinhua",
+          "text": null
         },
         {
-          "title": "Xinhua world news summary at 1530 GMT, Oct. 31",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kd0JyRk9KbUg2UFBZMVFFb2ZvREdrem1vbDMxMDZ5T1NZekFIVDVsT3paM3hkajAwS010Rm9US1pHMncxMENYbHc1dEpNQTVmdEhzWm1hYW1meWhFOWt6ZmFoT1I2RktMeUNFQ295aVBZMVV4cXhwZ3hfWlM?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 15:29:15 GMT",
-          "source": "Xinhua"
+          "title": "China unveils detailed plan for manned moon landing",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xYjJuUjZoVlpjdmRYb1JVVlVLaGlVemZGOFBDdkMwcEVjaGtHbWxlcUluUzhxQmtTYXVaTWY4aU9xblRoZEdjSmNvTlZfT2ZfREZQNVROQXlnZmVZSTBlNF9qekIzYUxKSDlPTW93SklEeThTM3RrX0NVOFM?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 17:44:00 GMT",
+          "source": "Xinhua",
+          "text": null
         },
         {
-          "title": "Xinhua News | 1 killed, 6 wounded in California shopping mall shooting",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jVWZzLURIYkpGNGJCLUZwZkJpdzFuVTZzVFBUTElzMkdjRlJqS1gxMkFvWVZ0ampEN0JJOFhIZG9jZWJDWDRRQ2I1anQ5SGpmWGowSGUxenlyWWVEdmtGQVVXSTlWY0RGWmtoTk5ZTkF3dS1VWWlNR3h0cEI?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 09:45:16 GMT",
-          "source": "Xinhua"
+          "title": "Evacuees from Oleshky arrive in Ukraine",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JRHVhemROUzRhVERjWmI1ZjBmd0hvQzFSdnJVb181Q1UtRThlNHlnSnJIVEhROEZCeWsxb1lFTm51WmZQQnVFVXBQczRodkxkbUtKTThuSGJ1RzNvWGh3QXRnZlVLWHlIc2dEVE5QTXlMY1J4a2pSZ0pKQQ?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 15:57:30 GMT",
+          "source": "Xinhua",
+          "text": null
         }
       ]
     },
@@ -63,7 +71,8 @@
           "title": "人民网蒙文版",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53X0FOS1RQMFFHcVFtSmlnRXhMRUpkVmZQQlgtazlONHJOTS1OUlhjbTJqR1dwZXRKWkV1akd4OU9MM2RpWWFZazZuRkl2c0lXc1NmVDlSLUxZMHFEOE9KZ0VodjJnMkdqR0xSaUJyOA?oc=5",
           "pubDate": "Fri, 30 Oct 2026 08:37:00 GMT",
-          "source": "人民网"
+          "source": "人民网",
+          "text": null
         }
       ]
     },
@@ -77,52 +86,60 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Joint Mideast peace efforts urged",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UX2pXeFJEX1NfNndiM3VmR2JzME5waEZBYjNNY0hQRWVUOVJHVURtVXZkd2FneFZvNE4tMVlhM2VqMXhTZ2JMcWVINGZrTklRQmtvY3Q0NmpnaWpQekJkZ09kMDYwbnIwYkcwN1h5NDdmV2Nja0VpdmJKU0M5QQ?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 15:48:45 GMT",
+          "source": "China Daily",
+          "text": null
+        },
+        {
           "title": "Three Chinese special envoys to visit several countries to promote peace",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Qkc4eUxvTTdZLVBaRzRxcWh0TUdXMXZQQ0tJUUQ2Wm1tMjhLWVd1OXdRbVhNekVjdXd2dUMwWkFhVWZtZXNEQUtBSHFsVjFVRlROREtYb0FLUzExTU94Q2FSWEVVVXlSMlBVUVZBSE1IV3g5bVVFZnZob0ppdw?oc=5",
           "pubDate": "Mon, 02 Nov 2026 12:32:14 GMT",
-          "source": "China Daily"
+          "source": "China Daily",
+          "text": null
         },
         {
           "title": "Copyright forum focuses on innovation, heritage protection",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95RS1SaTcxM3BOTXFXLVllb0hiWHNRSExLMnVYWmVFalJnUHVBNFV0ODFacTRGejhsRXpWOHlIbGdUd0U1QWtVY3dQX25peDRWTVM4Z2p2c0lwSHBPNV9RNURJSEZwbnJuZlpTZ3Vna1JlcThnSldsR0hvY3dRdw?oc=5",
           "pubDate": "Mon, 02 Nov 2026 10:04:59 GMT",
-          "source": "China Daily"
+          "source": "China Daily",
+          "text": null
         },
         {
           "title": "Draft amendment seeks to strengthen protection of rights in criminal proceedings",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2pWOUhRcXZtVkhwMXRHZHBFYXZtOVA2cmhodGJwSDkyamV1ZDFfVVlsQmlRZFo0WGZPRGJpYW5DUTBUMEdobDNHblJCRTZjQTc4QjVBd3pkc0UwOWFlbFR1THpiSXgtSUxkaW1tbi0zcEJOWF9xNzV2V3FabkRud21B?oc=5",
           "pubDate": "Mon, 02 Nov 2026 08:48:26 GMT",
-          "source": "China Daily Global Edition"
+          "source": "China Daily Global Edition",
+          "text": null
         },
         {
           "title": "Chinese Academy of Sciences Celebrates 77th Anniversary with Interactive Science Festival in Beijing",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeG9kUVkxOTZGamx4OHhieEY4S0VvZG9EcUM5cXgwZVkxUnREbnNZMHEzT19oYUVPUFFYVW9CLWpTdFhhTl9ndmxSWjJVemFWUzlFT3FIcTJHNWdPTGozcWlHdWp4dERfa2RvdzFON01ZZkFidEtqa21NQ3pvUQ?oc=5",
           "pubDate": "Mon, 02 Nov 2026 08:37:16 GMT",
-          "source": "China Daily"
+          "source": "China Daily",
+          "text": null
         },
         {
           "title": "Shanxi art teacher creates Great Wall image with red sorghum",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjA5ZUlLbnFmTE9YaXc2dlQ3UzJFYnZYVjBhWTF3LWR0b182Wm1VUjIwZWtNdFU0ZVJIa2JMeEUzWVB3aG5JT09HbGVPYVFqeHdTUlJGQTdJRWdqb0hfd0ZVVER3dUpETW1fWml0R2ZXN2Q3eVlnWDVPLUY4bUlJcUp3?oc=5",
           "pubDate": "Mon, 02 Nov 2026 01:57:31 GMT",
-          "source": "China Daily Global Edition"
+          "source": "China Daily Global Edition",
+          "text": null
         },
         {
           "title": "Deliveryman chases his poetic dream",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zNGVzaktpWnlSLVlrSUY2Z1JDYzkyYUpndGJOQWtkUjlLVm9GT2M3ejNzRE9tRF9DWjdadnpKemxFMG4zT0pEam9MQk83eldudU1qdno2bnJ3Y253QmFMSkNmSWZBSENNZlZVczcyeVBKUV9XRGVRWHlpdVlHUQ?oc=5",
           "pubDate": "Mon, 02 Nov 2026 01:37:05 GMT",
-          "source": "China Daily"
+          "source": "China Daily",
+          "text": null
         },
         {
           "title": "Upgraded MaCOM 2.0 to aid marine forecasting, boost disaster prevention",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ackJKNU0yQnBZNm5Zbk95aVFxNlhrcDl3YmR5NFpRZnlhWkhhOVVqeHQya3p0NVVyeVBHeUNtNk9Hc1A4eWRVUV9fZUJ2SG53NFVtTVpWMkZWekhOSFdhclNweWlmTldPanIwQ2JEZnAxMGJvNmV3dFpyTVNvQQ?oc=5",
           "pubDate": "Mon, 02 Nov 2026 01:17:46 GMT",
-          "source": "China Daily"
-        },
-        {
-          "title": "Self-governance of Party seen as strategic task",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KbGQ1aTlMNmVsTVZzZWlobU4zWlZmc1lRbXZZRGl6MjEtN0ZvTF9YRmp2b096VU5CYjVKQ0NkbGVSZ2oxMnF5SXlCZW5IREwtR3NEbHlnNkdDRTU1bnU5RnJTbUpldG15N2FvZWpwOFNZMVNjYmdZQmk2Yldfdw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 15:57:23 GMT",
-          "source": "China Daily"
+          "source": "China Daily",
+          "text": null
         }
       ]
     },
@@ -131,52 +148,60 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Hong Kong Launches AI-Agent Governance Project",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVlSS3ljc0dDblhsWWVILW5NZFd6S05HcE0zWHB1NjZSYXJYVXNLajlnTDk2Tjg1SmxGNXNVUEN1aGw2eUFsNTdtQTFtY0xIZFNrSXlxNDZycVM4VHpKM3BsVFZQRThPYVItb2h3cUlwYXRscTlZX3pic3J2bkYxaTZlUnhsZDhtUWVtZ0dpam1hV0VzbGJWWTcyRDg2OFdFNERj?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 15:22:00 GMT",
+          "source": "Caixin Global",
+          "text": null
+        },
+        {
           "title": "China’s Manufacturing Activity Returns to Contraction",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0JpbzR2SXdMRXhKbDZqV0phZ0EwTHVKZDdUVmxlMk94S3V1bFQyczRXbXh3eUsxODF0VFEzVXBVOTVPdFpnNU1GaE5jWkNvVmNLR2R0cnhCbEo3ekd4cHBRdlUzS3lRMHhINmN1dVhwalBlb3gySmcxU3VTR3JzVHFfcDRqcmFUY3dvTGppVldZQzBTcW9xeUtkV0FoY0J4MDhSbnk2NjdvMW8?oc=5",
           "pubDate": "Mon, 02 Nov 2026 06:43:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "China Auto Industry Profits Plunge 68%",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkRheDUyR3lhTU11OVdQWUVqTDRsRU1oSktLdDU3TEU0UndZSDVad0sySnBJZzNrMXpSUmkwalkzZk92N0JPMTRpNG53cEJyWnlyVU53WG1sSXdKLUNSbXZrZ1hnUmgzMFpPRmdJMS1Xdm96cWljWHhJelVQNnF6RTZmMzJkRm5lbnNkR1dwMjAwMTJEejNR?oc=5",
           "pubDate": "Mon, 02 Nov 2026 04:32:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "China Issues 18-Point Plan to Protect Workers From AI Job Losses",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTk9HWVRRR19YaERUcWRWWS1iNW00bXBSZW5nMFNLODBXdlo0VWpIQjA4RGFuOGdqdnpDeW5iNWRHV1puNmZETlg4MUpnZTJ2VWhQenZVbzRyQndMeGJ4SkwwZTc0dFV3WnF1Y2lqYzdiV21odEtpdFpvUjd5bFhyT2xjUDRWTG9KYmlma3dWV1FXeW5GLTRwdk5nMW4xNXhYTjlSMjRYYjJVejNMcEZiNUJjUjFKaDQtaDhv?oc=5",
           "pubDate": "Mon, 02 Nov 2026 04:07:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "Cover Story: The Global Tech Selloff Tests the Economics Behind AI Boom",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2FxR09Ka1c5aUdjTnJYZ3RjQ2dwYTRZZDlRWktiaTU3MXlwcFlWZzNSaXBneEtYdldiMkZCY1BBLTczc2FpQ0doSXFBeVNyN3oxVWNKMEdQMXZMY3Z3bXprQjRCSjRzbkxGU1FzYlBhN2k1S3ZDTm90bTNITkh1WDB1NGRtb09tVndIMzRqdTJGSjFYWWNTdzVNbDVnX1RDd19Tak5Nb3Eyb0NaYlk3Q1pfQ0lkX2tSN3M1UDlvTWZ0X00?oc=5",
           "pubDate": "Sun, 01 Nov 2026 14:51:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "Profile: Liao Min’s Path From Banking Regulator to IMF Nominee",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk9Vc2VBWEZaa3VoUzJaVGFCUHRlb1lUWU1Na3FlWkV4UEx4TmJaUTBXUG5CZG9aWFpCSU9sQXp4SXJpTjZiRHpaMllEUVBOdHMyS3lXNy04VllNWmd3bzdReXpmeXBwWURiZHUyZEtTcW9TRnFqUmZyOVdwdTVGMGNkcE8tRUh0X2cyOVZXRjBTVF9uRWxVWWdnTFFDSXliQlNBMldFS01TblB2R3ZUREFuVldzUQ?oc=5",
           "pubDate": "Fri, 30 Oct 2026 20:20:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlRFdi1IRV9BSmJkcDdGLTZxMkNBaHVIZUYxYjFsbFpTYnh5Wm14ZDdCWUppdXRPWUtvUWlhbHRUaHlLVHpMRlpFRFpwdXRJdXNMY2NEOWdTaEQtcHZMZGZDTlc4ZXJCWkctdE9vQVJMN2c1UjVQVGhEVXJ1SVdPUTByd3V6SEpXVkt3X1BQbDZFdHkxY2g2TVQ2ZmhsZGNBSVR3c2xWYWU3Qzc4enJpRENoTmR5TnNoQjZUSmdfVl8?oc=5",
           "pubDate": "Fri, 30 Oct 2026 18:03:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         },
         {
           "title": "China’s Electric Two-Wheeler Exports Jump 38% on Latin America, Africa Demand",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZqTm5GRTluMUhkRFFDNER2X2Q0cXZOYTIyMnNzZmhfVWJ5RGdWWFhSTjNHYWVOVE1RLUR2QXVEdGFob2VIVEpYM3pIZjJxenNWX0lyczVPakdHcFhfZ3p6NEMxdUgzcjN0MEFRcUw1OU9vVUd6UTVqaE53cHFjU2RTbG1DQ01IUlMtaFNzVE5WNFVDV1pFdjBtMDFaNjl5MEo4YzNBc1d5clBKMUl6Rm5XN2ozZV94Tjk4QzQwNWhOR3JVcHJwcQ?oc=5",
           "pubDate": "Fri, 30 Oct 2026 16:32:00 GMT",
-          "source": "Caixin Global"
-        },
-        {
-          "title": "Geely’s Profit Misses Estimates as China’s Auto Market Slows",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmhJeHdadWI0U1laNzR0ZlFtZWUyTzlielV4dnRrT0FOYWc3NlU1di1sTzhESURoc09feHAyaU5SUFFyNVBpeWo1UGloQU9CWXM3a0NWWnRXRnhWWmNhakx3aURmRlUyY1RiRkJ6MWtOVjlSZjdKQllNTWdjazMtNHpueUp6TGtRTlNZb2JDSDJ2ZnJ3Wl9pdVhaZnMyeExPWmdpVlpLVmxZUFpqV0pvcGczMA?oc=5",
-          "pubDate": "Fri, 30 Oct 2026 09:58:00 GMT",
-          "source": "Caixin Global"
+          "source": "Caixin Global",
+          "text": null
         }
       ]
     },
@@ -193,25 +218,79 @@
           "title": "China’s Hit New Reality Show Shifts Focus From Love to Friendship",
           "link": "https://www.sixthtone.com/news/1019203/China’s Hit New Reality Show Shifts Focus From Love to Friendship",
           "pubDate": "Nov 02, 2026",
-          "source": null
+          "source": null,
+          "text": [
+            "China’s latest viral reality show is about broken friendships — rather than failing romance — between celebrities.",
+            "“I Miss You” surpassed 100 million views within two days of its Oct. 22 debut, and topped the real-time TV popularity chart on Chinese review platform Douban since last Thursday. Topics related to the show have repeatedly trended on the microblogging platform Weibo since airing.",
+            "Produced by streaming platform Mango TV, the show brings together four pairs of celebrities who have reportedly fallen out for an 18-day trip through the southwestern Xizang Autonomous Region.",
+            "The show is widely seen as a riff on China’s popular relationship reality shows and follows a similar format to “See You Again,” whose fifth season aired in late 2025, which takes celebrity couples in troubled marriages on an 18-day trip before they decide whether to divorce.",
+            "In “I Miss You,” guests discuss their former friendships as a group and one-on-one with their ex-friends, play games, and share their feelings with the production team. A panel of celebrities, a psychologist, and a journalist comment on their interactions.",
+            "The most discussed pair on “I Miss You” so far has been Xu Fei and Li Na, two contestants from the 2006 season of “Super Girl,” a popular televised singing competition regarded as a cornerstone of China’s fan culture.",
+            "The two were close friends during the competition 20 years ago, but their friendship later collapsed after Li came to believe that Xu had reported her to their management company for taking outside jobs in violation of her contract. Li said the company subsequently stopped arranging work for her, which she sees as having dealt a major blow to her career. Xu denied the accusation, instead blaming a third person.",
+            "As the two revisited their past on the show, their memories of their friendship moved many viewers, with one highly upvoted comment describing their relationship as “an epic saga of love and hate.”",
+            "Xu said in tears that she had loved “wasting time together,” and noted that her current preferred snacks are the “ones Li loved back then.” Li also recalled how, even when the two appeared to be bitter enemies, they would sometimes end up crying in each other’s arms after getting drunk at gatherings.",
+            "Yet the two remained at odds over the past accusation. During an interview with the production team, Li said she had hated Xu “for a long time,” at one point shouting, “What about the money I lost?”",
+            "The other three pairs of celebrities include an actor who cut ties with a longtime producer friend after feeling pressured to accept a role, an actress and a writer who fell out when the latter grew closer to a third person, and former professional esports teammates who fought over training strategies, eventually leading one to leave the team.",
+            "“‘I Miss You’ feels so much more pure than ‘See You Again,’” read a post on lifestyle platform Xiaohongshu, also known as RedNote, that received almost 3,700 likes. “In a marriage, you have to argue about more than feelings. There’s property, children, parents, and so much else. With friendship, we can sit down and focus on just one thing: how we feel about each other.”",
+            "[continua sulla fonte originale]"
+          ]
         },
         {
           "title": "Writing on the Wall? How AI Is Reinventing Chinese Typography",
           "link": "https://www.sixthtone.com/news/1019200/Writing on the Wall? How AI Is Reinventing Chinese Typography",
           "pubDate": "Nov 01, 2026",
-          "source": null
+          "source": null,
+          "text": [
+            "Many assume the writing is on the wall for human typographers. For decades, the industry has been slowly decimated by the advance of digital publishing software. Now, artificial intelligence is here to finish off the job.",
+            "That view has only strengthened since the launch of OpenAI’s Image 2.0 earlier this year. Until then, type designers and typographers had clung to the hope that AI would never be able to replace them: AI-generated fonts and layouts had always looked clunky, inconsistent, error-ridden, or somehow just a bit off.",
+            "But Image 2.0’s capabilities took many by surprise: it was able to produce beautifully designed documents featuring long passages of text in multiple languages, while maintaining a high degree of accuracy. The work was not as good as that produced by professional type designers, but for a layperson looking to make a poster or a brochure, it was just fine.",
+            "Suddenly, typography — perhaps the last stronghold of graphic design still firmly controlled by professional designers — looked at risk of falling as well. If everyone can generate typefaces and layouts with a simple prompt, or even ask a frontier AI model to operate design software on its own — just as non-programmers can now “write code” through vibe coding — how many designers will lose their jobs?",
+            "In the English-speaking world, the AI revolution may indeed prove to be a hammer blow for the typography community. But things are likely to play out a little differently in China: the relationship between text and technology has always been more complex due to the nature of its writing system.",
+            "Most contemporary typographic practice derives from movable-type printing technology. Developed in medieval Germany, typography is closely tied to the inherent characteristics of the Latin alphabet: there are only a few dozen letters, and the same letters recur constantly throughout a printed text.",
+            "With these characteristics in mind, Johannes Gutenberg developed an entire technological process of carving, reproducing, retrieving, and repeatedly reusing individual letter forms. Once a complete set of letters had been produced, it could be used to print texts containing vast numbers of repetitions of exactly the same glyphs.",
+            "Gutenberg would later be credited as a pioneer of movable type printing, a technology whose logic has been carried intact from books to the screen you are now looking at. But applying this technique to Chinese characters is a huge challenge, as there is such a vast number of them. While function words such as de may appear repeatedly on a single page, most characters may occur only once or twice in a given text — or not at all.",
+            "Statistically, 3,500 characters is enough to cover most everyday text — studies have shown they account for 99.5% of character usage. But to avoid the awkward situation where a character outside the “common 3,500” can’t be rendered properly, the industry often sets 7,000 characters as the target size for a typeface. Some larger projects cover 27,000, or even 87,000 characters.",
+            "[continua sulla fonte originale]"
+          ]
         },
         {
           "title": "Chinese Study: Depressed Moms’ Breast Milk May Change Babies’ Brains",
           "link": "https://www.sixthtone.com/news/1019197/Chinese Study: Depressed Moms’ Breast Milk May Change Babies’ Brains",
           "pubDate": "Oct 30, 2026",
-          "source": null
+          "source": null,
+          "text": [
+            "Breast milk from mothers with postpartum depression may negatively impact infants’ brain development, a Chinese study has found.",
+            "The study, published Oct. 27 in the top academic journal Cell Metabolism, was led by a team at Nanjing University, in the eastern Jiangsu province. Through a mouse model, it shows, for the first time, how depression-related changes in levels of microRNA, a type of gene-regulating molecule, contained in structures called extracellular vesicles in breast milk can affect offspring brains.",
+            "Between 10% and 20% of mothers worldwide experience postpartum depression. Children of affected mothers are more likely to face challenges in cognition, language, behavior, and school performance, and are at a higher risk of developing depression themselves.",
+            "Past research has implicated genetics and the way mothers with postpartum depression bond with, and care for, their infants as contributing to this phenomenon, but the broad and long-lasting effects of postpartum depression on child development remain unclear, according to the researchers.",
+            "Because breast milk is increasingly viewed as a “signaling system orchestrating infant development,” the researchers wrote, they looked at the relationship between milk-based microRNAs and extracellular vesicles, key parts of this signaling. Because babies’ blood-brain barrier is more permeable than adults’, these vesicles can enter the brain during nursing, making its development more sensitive to diet.",
+            "The researchers compared the breast milk of 40 human mothers clinically diagnosed with postpartum depression, and 51 without, finding that those with depression had elevated levels of three types of microRNA implicated in psychiatric illness. The same was true of the breast milk of depressed mice.",
+            "To test nursing’s role in brain development, swapping mouse pups between healthy and depressed mouse mothers. Pups born to healthy mice but nursed by their depressed counterparts showed worse cognitive and emotional behavior than pups born to depressed mothers but nursed by healthy ones.",
+            "They also found that neurons in pups nursed by depressed mothers had shorter dendrites and fewer branches in the hippocampal dentate gyrus, a part of the brain believed to play a role in memory development and depression. The problems arose mainly as the neurons matured, were detectable by day 21 after birth, and persisted into adulthood, suggesting that early nursing-environment effects can last into later development.",
+            "Giving milk from depressed mothers to healthy pups was also enough to cause cognitive impairment after weaning, while milk where the vesicles had been removed had no such effect, the researchers found.",
+            "When the team inhibited Rab27a, a protein and key factor in vesicle secretion, in the mammary glands of depressed mothers, vesicle secretion fell by 58%, and the cognitive and neurodevelopmental deficits in their pups improved significantly.",
+            "[continua sulla fonte originale]"
+          ]
         },
         {
           "title": "90 Face Chinese Legal Action After $1 Billion Tax Fraud",
           "link": "https://www.sixthtone.com/news/1019191/90 Face Chinese Legal Action After $1 Billion Tax Fraud",
           "pubDate": "Oct 29, 2026",
-          "source": null
+          "source": null,
+          "text": [
+            "Chinese prosecutors have exposed an invoice-trading network that illegally traded special value-added tax (VAT) invoices totaling more than 7.4 billion yuan ($1.1 billion) over three years.",
+            "Under the guise of a Shanghai-based advertising business, the group profited by issuing and charging service fees for fake invoices from shell companies it registered to customers seeking to illegally claim tax deductions — which can be claimed for special tax invoices, but not ordinary tax invoices in China — domestic media reported Tuesday.",
+            "The case has exposed major weaknesses in business-registration oversight, tax monitoring, and financial regulators’ ability to detect suspicious fund flows between affiliated company accounts, according to experts.",
+            "From June 2025 to June 2026, more than 90 criminal suspects on the case were processed by the Shanghai Pudong New Area People’s Procuratorate, some of whom were ordered to return their illegal gains. Processing of the case is ongoing.",
+            "The group’s ringleaders, surnamed Cui and Shen, first had employees register over 70 shell companies in their own names. Invoices were then handled via three steps: a sales team first connected with customers, who transferred money to the group in order to receive invoices; then a team obtained invoices from both the operation’s registered shell companies or legitimate businesses with unused invoicing quotas; before another team returned funds to customers following invoice-fee deductions. Customers were charged a service fee of between 7% and 13% of the invoice value.",
+            "Chinese tax law requires contracts, fund transfers, invoices, and movement of goods to align. Falsely issuing invoices can result in fines of up to 500,000 yuan, while tax dodgers may be fined up to five times the underpaid tax. Both carry risks of criminal prosecution.",
+            "To circumvent the law, customers transferred the full invoice amount to the group, which then transferred the remaining funds back to the customer through a separate, third account.",
+            "The group illegally traded over 7.4 billion yuan in VAT invoices, involving more than 420 million yuan in VAT. It also conducted illegal foreign-exchange transactions totaling 420 million yuan.",
+            "“The scale of the crimes, the degree of organization, and the length of time over which they were committed were all relatively unusual,” Li Huaisheng, a professor at the School of Criminal Justice at China University of Political Science and Law, told state media outlet CCTV.",
+            "Similar cases involving companies that obtained invoices through intermediaries have made national headlines in recent years. Last year, a group allegedly used 15 shell companies to falsely issue almost 3,500 special VAT invoices totaling 300 million yuan, domestic media reported. The defendant, surnamed Li, was sentenced to 13 years and six months in prison and fined 500,000 yuan.",
+            "According to the State Taxation Administration, such companies often disguise themselves as consulting, advertising, or other business services in industries with low fixed-asset requirements, long industrial chains, and large transaction values, such as recycling, road freight transport, and information technology consulting.",
+            "[continua sulla fonte originale]"
+          ]
         }
       ]
     },
@@ -223,7 +302,8 @@
           "title": "China unveils upgraded ‘Mazu’ ocean forecasting model to boost precision in key waters",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoMWdRb2tENUt0NjdmUVRFTEtfQTQycUpMUndLNVJ5WFVTQ2NFSm9xM24tQ1RhbVZYak5RUEJQSTRnTEtuTWV6NFNjWVFtZFRhdW00?oc=5",
           "pubDate": "Sun, 01 Nov 2026 08:17:00 GMT",
-          "source": "环球网"
+          "source": "环球网",
+          "text": null
         }
       ]
     }
@@ -233,88 +313,102 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "How America Can Counter Chinese Coercion",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkhxTE5LS0JuRzMzczRfaXhiWEJVYUg5Z01HYTFFZXBnMTVvVE1Mb3V3TzI3cldjTHhSV2RjMUJPUl9nVzYwaUd1MFVrXy1La1NMejdjc0cwaE1OdjVLR1drVlQ0Q0tZYVBmMHdTZ3dURUUzTGs5MDBYM1lyNkNLZ0Fudw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 14:58:17 GMT",
-        "source": "Foreign Affairs"
+        "title": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 15:42:50 GMT",
+        "source": "Reuters",
+        "text": null
       },
       {
         "title": "The Limits of China’s Self-Sufficiency",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85XzlQQmVZXzhsY2Uyd0ktc3RnX1Zadm1oZ1dhS2RrQlFWaFFyY2NWbUJOVlNJYWRWaW40d2NtMmpBeXFtLUs3aEJFdDNEZHRQekY1aU9Oa05BcWRKdEozb2NuSk11dEpYckpUTGhUVEZmQUxOZmc?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 14:56:36 GMT",
-        "source": "Foreign Affairs"
+        "pubDate": "Mon, 02 Nov 2026 15:21:19 GMT",
+        "source": "Foreign Affairs",
+        "text": null
+      },
+      {
+        "title": "Talks are the only way out, China tells Iran as US threat hangs over Mideast",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEVRZXlXcDlscEZIbDU4RnRjdERFT0RGT2t1VFVVTmdPdFBZQmUyNHZQVk9GdkJNay1lbjlvbXVBZzVRNElQWjZ6NWpwbzZXZE9QOHo5VjZ5dFZCUW9kNVJfRDUySDhFY1lnaE5SWFEtNHFHbkNra0JOM1VHTWFzMVJFUHdUdi1BNnB3Mk8xby1BN0d0eGprM0dYeWp5QS1yRHB5MHNLbW9NZ190Z21zN1hfT0NIcElQd2t3YlZ2YWI5Mm43QWhfb3RR0gHKAUFVX3lxTE9GZ0JuajhqNnBnU1JTcFBZbkxrVEtrc1REN2MtOHlVcFVXUWpjdkRqQ01VcEl4X245YjlXY1NxSll4ZXhLUWxIY3ZxV0xIVDUtenl2OVFMc1dta3JoRkJIVG82RmJtWGFCSlhDTUo4amlaNVIxbndTYTZvTF9PWFJpXzRQMzJJTE9oMTBfVjZ2M1hwRHNCUFNWNzJiakZmRzNDdFRUQXAxSVVFaWhlOUFvaWRkR2VwVDN4akcwUm9NYkFTSFMwbWt0Z3c?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 15:07:57 GMT",
+        "source": "South China Morning Post",
+        "text": null
+      },
+      {
+        "title": "China rolls out support measures to aid struggling stocks",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 14:49:12 GMT",
+        "source": "Reuters",
+        "text": null
       },
       {
         "title": "China to Boost Use of Stock Support Tools to Stabilize Market",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenZrelR1TmRUa08wT2REcVBvTEpNNWdOTXo0OXowMTRrVVB5a05MRm1Pb2lOSEdQSTlLTVdEUm9JLS1NU1JOSUM3VDNJOXBCUGhSY0p4enJtOTFvR0RobFlHNTFtWl9pTFgtTkhzOU1meEVKZThNcDBwQ1MwUjhWR1dsTTNJOE1SVHFtbTVUT3RxRWc5ODFZVV8tOHZ0MXdJSXlYNG9tMnB0c003WUUzTUVn?oc=5",
         "pubDate": "Mon, 02 Nov 2026 13:38:59 GMT",
-        "source": "Bloomberg"
+        "source": "Bloomberg",
+        "text": null
       },
       {
-        "title": "Beijing launches barrage of measures to stabilise stock market after sell-off",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1RrbE5DT25fLTlSNEdyTTQ2ZkYyWlVqS2JVWnF3X1JPLU9xOXpNekQ2WHhaSDFxRlkzQ21BUE0xSXFQeU5zRXZBdjJtdUFmMVhXdlM4eEIwbml0U2dCbnlZVE9NSno5VjBhazZXY1F4U1lYR3o0dTlHMThLY0VRTDl3YjRCRU5qZExyajlTSDU5M3o4ZVJMdXppajM2bWhObzdhbW1ldUQwWWdadTBzQk9vcklDQ1kxVTJJd0lB?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 13:38:45 GMT",
-        "source": "South China Morning Post"
+        "title": "China is attacking the foundations of the US economic boom",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEF2VVh6d241MFNyZml4dFVSQWdhalJwZ2pxLTZQS2Q3NWg3eVA0WEJBUnhEWEJBcHdfMVd2d0VBRFhpSUgzQW9sb1doaDA4SzRLQ1VaVk1wQ1ZoQlRPZV9ZR1Y4ck9kclJacmo5YnU4NFpkck1fdkVtY1BZRDB6dWdndDFNdWlXQWdBYkNCUUF0aDBJN2FwMDFIZXlyV1pkcjUxVi1WN0NHTDA?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 12:00:00 GMT",
+        "source": "The Telegraph",
+        "text": null
       },
       {
         "title": "UK making up China policy ‘as it goes along’, MPs warn",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1rM1VkUjU2bUdnYWVZSlZnbjVfS092ZGIwRnNkaWpKMkpocmtMamcydjFHM1AySWtKU2l3ejIzNWdEdFVTQThEbkZjeENKUXB3RTdoeWFFOW9uUmsycEZ1VTNtekNNcWJsQkdoUlZLMGhVNzJWd2JFM1lNMHJoR2ltT05tSjlMTEhpT21hN0U2ZnNlX3NRNHRtUQ?oc=5",
         "pubDate": "Mon, 02 Nov 2026 11:58:00 GMT",
-        "source": "The Guardian"
+        "source": "The Guardian",
+        "text": null
       },
       {
-        "title": "China's foreign minister pushes for dialogue to resolve Middle East conflict",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 11:25:37 GMT",
-        "source": "Reuters"
-      },
-      {
-        "title": "Football: China refuses to air Real Madrid game after Mbappé comment • FRANCE 24 English",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XaUhVbF9ZaVdnblBBcVVIQU1XejhsOFpNTnkzSUxibEpYN1lBc1lBMjNaSEFnNDRYQ2xJZDQ5YllCYmp4OGdaNjNfRG1pdlhsaDd2aHhB?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 11:09:06 GMT",
-        "source": "YouTube"
+        "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0k2Tk1rd1g4bU1OTXVST2gzYmROS2ZyQVFmR21kaDRBQlUxVXU3RlhqUlN2QW1mZVlBeWV0Zzgxb1dIbE9uWjZjbjNCekxQbHotMFJIQVp4V1BqOVFuLU5CMTI5VDhGcjVwWDNjZGIweU1vN3BYR0dSOHJwNDQ3LUdJZ3ZMbll3Nl9taWIwazBuSnJMRGVTVTVGdXFmWHdYTHkydg?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 11:30:00 GMT",
+        "source": "Fierce Biotech",
+        "text": null
       },
       {
         "title": "Government making up China policy as it goes along, say MPs",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zY2VMV1hiZDY0QWgxZExhdE5OdWFPakJSUXlaM05zbzBEYWcxOVdaS2k3QWw5SmF1TzBKSENfLXNuQkxFMzNBTGRsR3dkQ3dsZ3QtMU5MRUVsQmM?oc=5",
         "pubDate": "Mon, 02 Nov 2026 10:53:20 GMT",
-        "source": "BBC"
-      },
-      {
-        "title": "China's central bank taps liquidity tool to aid struggling stocks",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:21:53 GMT",
-        "source": "Reuters"
+        "source": "BBC",
+        "text": null
       },
       {
         "title": "China's slow buying of US farm goods tests $17 billion trade pledge",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
         "pubDate": "Mon, 02 Nov 2026 10:16:42 GMT",
-        "source": "Reuters"
+        "source": "Reuters",
+        "text": null
       },
       {
         "title": "Beijing doubles down on Type 071 amphibious warships, signalling a Taiwan focus",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBCVk9FbUItM3JkeEhxaWtvNUh4c0x0Um9VSkJ2TEw5YnI4cDItaHhmMW9IazJXaW52ZXJ0c0t0ZjIzQU1hSTc4Qzh2S0paTU1LaFZfcGtvZlA5am13V3g2OWNUSmRGcTRiTlNHYnl1M3NHcEl6Z2Z5aXljVmNxb201MHdBYmhwMm5tRGt1YmhtU2xDSk00bTRNTElwSzRZN0w2VFFZWUd0d21FaVdqRTltT1V5MGNQN1V4VzR0Wm1jX3paYVV6bmdR0gHKAUFVX3lxTE5lMHl4c2VYY2JTUnhIWjRwMV9xbUl5a1d0ZE5pWWE2eWI0Q0dkUDRrMUtCaXlISG1JY3RXME1wd1VWWDlXd09lUG5pWEdlMGtubURSakM4TDdaQ1l1ajVqcFFoV1hhUFduajRrdHF0M3gwaXhpWU80NjZzWmlXU1ZLbEFpRUdISjlZa3pMWmkxUFhrRV9MTVN5VkNPTVhITDlCQWFacGwwUXFGUi1ZOUdGaTY2NDdvQ3dJNkNfWmdEUUVQNFMxMVNzTnc?oc=5",
         "pubDate": "Mon, 02 Nov 2026 10:06:23 GMT",
-        "source": "South China Morning Post"
+        "source": "South China Morning Post",
+        "text": null
       },
       {
         "title": "China Factory Activity Expands But Ends Streak of Faster Growth",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVgyV0NaWmJKNS0yUDZVcFJyaDJhcThxWk9KM2puRDlIYzF3TFlTMzQ1el9lRDlqMGpRcVE0WUhSRHZsalRpZHZmM1ZNeHRORXFHRlR5M0phWUxQX3dmdU5yUW0td1BDZkgzeWxtd0dGZjJ3R1M5VUgzZ2lGV2VsdVBlRm9iUlhWNFFWekZYT3dUVlV0dnZ1YTQyaGxpOXhvREhReEJsaS1wTW5PY0lhemY0cFU?oc=5",
         "pubDate": "Mon, 02 Nov 2026 10:00:00 GMT",
-        "source": "Bloomberg"
+        "source": "Bloomberg.com",
+        "text": null
       },
       {
         "title": "Robots strut their stuff, race up sacred China mountain, some carrying eggs and watermelons",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84VVNWdm5SeVAxc1ZXc1hYdFR1UGxsYkZPcHd1SEExdXBTYmZJcEVUTENlbEliODU5dDFMYzJkRGRVclctVXd3X0JKbGwyVmNVMVRsam1tajBwR1NwZC0tSFI4V1hEZ0NpR3BoSG9YbzRQdF9xZFVvc3l0ZDFGQQ?oc=5",
         "pubDate": "Mon, 02 Nov 2026 09:54:00 GMT",
-        "source": "CBS News"
+        "source": "CBS News",
+        "text": null
       },
       {
-        "title": "China Shows No Interest in Ukraine Summit With Trump and Putin Ahead of APEC Meeting, Steinmeier Says",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fWVdMWDhUTGlxeVVBaWFWakQ3bEFBUnVpQUE0YWpvNVNLQlhoWDRGV2twVDRjeWt6X1JZOHlKWThyLWYyNWZhYkswQQ?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 09:45:59 GMT",
-        "source": "Kyiv Post"
+        "title": "Xi Hosts Oman’s Sultan for Rare Visit to China With Hormuz Shipping in Focus",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzZyTXd1bkhtMHAyVURva2lsTnpJV0xyU1lqODFybWVFTXlXRmYzOXBmRjd5dUNsSk5FaXFSVWFHRDYyNmVGNXBwR2NWQ2t5VXJSVUFCaVkzUlBzMXpwWXhPNmtmTXlJUWJxYXhITzg0MVNhQlZTQi1CSDBjRnR1LTZVbjV6ZTdTZkFoSzBzZEJLX1JIM3FWLWJ0TVVzTmYwQzU4X2N0Z3ZPWHBEN3NxU3VxS0pfZ1Vsa0xEclVpbDByQ2JralE?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 09:30:15 GMT",
+        "source": "Bloomberg.com",
+        "text": null
       }
     ]
   }
