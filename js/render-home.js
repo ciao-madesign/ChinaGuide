@@ -73,13 +73,14 @@ function render(mainEl, navigate){
     {ico:'📖', title:'Corso di preparazione', desc:'10 lezioni con quiz su storia, filosofia, lingua, cibo e usi cinesi.', go:'Inizia il corso →', route:'corso'},
     {ico:'🧭', title:'Guida di viaggio', desc:'13 giorni, tappa per tappa: trasporti, biglietti, budget, mappe reali e schizzi illustrati.', go:'Apri la guida →', route:'guida'},
     {ico:'🎒', title:'Strumenti', desc:'Frasario, checklist interattiva, calcolatore di budget, glossario e contatti utili.', go:'Vai agli strumenti →', route:'strumenti:frasario'},
-    {ico:'📰', title:'Fonti Cina', desc:'Le testate cinesi da seguire, ufficiali e commerciali, con titoli aggiornati ogni giorno.', go:'Apri il portale →', route:'fonticina'},
+    {ico:'📰', title:'Fonti Cina', desc:'Le testate cinesi da seguire, ufficiali e commerciali, con titoli aggiornati ogni giorno. Portale separato.', go:'Apri il portale ↗', href:'fonticina.html'},
   ];
   cards.forEach(c=>{
-    const b = document.createElement('button');
+    const b = document.createElement(c.href ? 'a' : 'button');
     b.className='hubcard';
+    if(c.href) b.href = c.href;
     b.innerHTML = `<div class="ico">${c.ico}</div><h4>${c.title}</h4><p>${c.desc}</p><span class="go">${c.go}</span>`;
-    b.onclick = ()=> navigate(c.route);
+    if(!c.href) b.onclick = ()=> navigate(c.route);
     hub.appendChild(b);
   });
   mainEl.appendChild(hub);

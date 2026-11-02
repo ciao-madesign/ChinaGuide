@@ -1,7 +1,10 @@
 /* =====================================================================
-   FONTI CINA — portale testate cinesi, sezione separata del sito.
-   Stile proprio (data-first, niente emoji, sigillo come unico accento,
-   chiaro/scuro) scoperto nella classe .fonti-cina, non nel resto del sito.
+   FONTI CINA — portale di notizie, pagina autonoma (fonticina.html),
+   separata dal taccuino di viaggio. Stile proprio (data-first, feed di
+   testate con badge/thumbnail invece di blocchi di testo densi, sigillo
+   come unico accento, chiaro/scuro). Questo modulo gira da solo: non è
+   montato dal router del taccuino, lavora sugli elementi già presenti
+   in fonticina.html.
    ===================================================================== */
 import { SOURCES, DAILY_LOOP } from './data-sources.js';
 import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, internationalQueryUrl } from './feed-parser.js';
@@ -9,6 +12,7 @@ import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, inte
 const THEME_KEY = 'cn-guide:fonticina-theme';
 const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
 const RECENCY_DAYS = 5;
+const MAX_PER_SOURCE = 6;
 
 let feedCache = null;
 let feedPromise = null;
@@ -25,9 +29,8 @@ function loadFeed(){
 
 function formatDate(iso){
   if(!iso) return '';
-  try{
-    return new Date(iso).toLocaleString('it-IT', {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'});
-  }catch(e){ return iso; }
+  try{ return new Date(iso).toLocaleString('it-IT', {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'}); }
+  catch(e){ return iso; }
 }
 function formatItemDate(iso){
   if(!iso) return '';
@@ -44,59 +47,94 @@ try{
   if(s){ state.type = s.type || 'all'; state.lang = s.lang || 'all'; }
 }catch(e){}
 
-function el(tag, cls, html){ const e=document.createElement(tag); if(cls) e.className=cls; if(html!=null) e.innerHTML=html; return e; }
+function esc(s){ return String(s==null?'':s).replace(/"/g,'&quot;'); }
 
-function headlinesOrFallback(entry, max=5){
-  if(entry && entry.status==='ok' && entry.items.length){
-    return `<ul class="headlines">${entry.items.slice(0,max).map(it =>
-      `<li><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>${it.pubDate?`<span class="hdate">${formatItemDate(it.pubDate)}</span>`:''}</li>`
-    ).join('')}</ul>`;
-  }
-  return `<p class="no-feed">Nessun titolo disponibile al momento — apri il sito per gli ultimi aggiornamenti.</p>`;
+function badge(ch, cls){ return `<span class="fc-badge ${cls}" lang="zh">${ch}</span>`; }
+
+/** Una "card" del feed: badge colorato per testata (o internazionale),
+    titolo cliccabile, riga meta con fonte/tipo/data. Niente descrizioni
+    lunghe qui: quelle restano nel cassetto "Le 8 testate" in fondo. */
+function card(it, s){
+  const isIntl = !s;
+  const cls = isIntl ? 'intl' : s.type;
+  const ch = isIntl ? (it.source ? it.source.slice(0,1).toUpperCase() : '外') : s.hz.slice(0,1);
+  const sourceLabel = isIntl ? (it.source || 'Stampa internazionale') : s.name;
+  const tagLabel = isIntl ? 'Internazionale' : (s.type==='off' ? 'Ufficiale' : 'Commerciale');
+  return `
+    <li class="fc-card">
+      ${badge(ch, cls)}
+      <div class="fc-card-body">
+        <a class="fc-headline" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="fc-meta">
+          <span class="fc-source">${esc(sourceLabel)}</span>
+          <span class="fc-tag ${cls}">${tagLabel}</span>
+          ${it.pubDate ? `<span class="fc-date">${formatItemDate(it.pubDate)}</span>` : ''}
+        </div>
+      </div>
+    </li>`;
 }
 
-function sourceRow(s, feed){
-  const li = document.createElement('li');
-  li.className = 'src';
-  const entry = feed && feed.sources ? feed.sources[s.feedKey] : null;
-  const visibleLinks = s.links.filter(l => state.lang==='all' || l[2]===state.lang);
-
-  li.innerHTML = `
-    <div class="hz" lang="zh">${s.hz}</div>
-    <div class="name"><b>${s.name}</b><span class="tag ${s.type}">${s.type==='off'?'Ufficiale':'Commerciale'}</span><span class="tag">· ${s.topic}</span></div>
-    <p class="desc">${s.desc}</p>
-    ${headlinesOrFallback(entry)}
-    <div class="links">${visibleLinks.map(l => `<a href="${l[1]}" target="_blank" rel="noopener">${l[0]} ↗</a>`).join('')}</div>
-  `;
-  return li;
+function sortFlat(flat){
+  return [...flat].sort((a,b)=>{
+    const ta = a.it.pubDate ? Date.parse(a.it.pubDate) : NaN;
+    const tb = b.it.pubDate ? Date.parse(b.it.pubDate) : NaN;
+    if(isNaN(ta) && isNaN(tb)) return 0;
+    if(isNaN(ta)) return 1;
+    if(isNaN(tb)) return -1;
+    return tb - ta;
+  });
 }
 
-function renderList(container, feed){
-  const rows = SOURCES.filter(s =>
+function matchingSources(){
+  return SOURCES.filter(s =>
     (state.type==='all' || s.type===state.type) &&
     (state.lang==='all' || s.links.some(l => l[2]===state.lang))
   );
-  container.querySelector('#fc-count').textContent = `${rows.length} / ${SOURCES.length} testate`;
-  const list = container.querySelector('#fc-list');
-  list.innerHTML = '';
-  if(!rows.length){
-    list.innerHTML = `<li class="empty">Nessuna testata con questi filtri.</li>`;
-    return;
-  }
-  rows.forEach(s => list.appendChild(sourceRow(s, feed)));
 }
 
-function renderIntl(container, feed){
-  const box = container.querySelector('#fc-intl');
+function buildFlatFeed(feed){
+  const flat = [];
+  matchingSources().forEach(s => {
+    const entry = feed && feed.sources ? feed.sources[s.feedKey] : null;
+    if(entry && entry.status==='ok' && entry.items.length){
+      entry.items.slice(0, MAX_PER_SOURCE).forEach(it => flat.push({it, s}));
+    }
+  });
+  return sortFlat(flat);
+}
+
+function renderFeed(feed){
+  const flat = buildFlatFeed(feed);
+  document.getElementById('fc-count').textContent = `${flat.length} titoli · ${matchingSources().length}/${SOURCES.length} testate`;
+  const list = document.getElementById('fc-feed');
+  list.innerHTML = flat.length
+    ? flat.map(({it,s}) => card(it,s)).join('')
+    : `<li class="fc-empty">Nessun titolo con questi filtri al momento — prova "Tutte" o "Aggiorna ora dal browser".</li>`;
+}
+
+function renderIntl(feed){
+  const box = document.getElementById('fc-intl');
   const entry = feed && feed.international ? feed.international : null;
-  if(entry && entry.status==='ok' && entry.items.length){
-    box.innerHTML = `<ul class="headlines intl">${entry.items.map(it => `<li>
-        <a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
-        <span class="hdate">${it.source ? it.source + ' · ' : ''}${formatItemDate(it.pubDate)}</span>
-      </li>`).join('')}</ul>`;
-  } else {
-    box.innerHTML = `<p class="no-feed">Nessun titolo internazionale disponibile al momento.</p>`;
-  }
+  box.innerHTML = (entry && entry.status==='ok' && entry.items.length)
+    ? entry.items.map(it => card(it, null)).join('')
+    : `<li class="fc-empty">Nessun titolo internazionale disponibile al momento.</li>`;
+}
+
+function renderDirectory(){
+  document.getElementById('fc-directory').innerHTML = SOURCES.map(s => `
+    <div class="fc-dir-row">
+      ${badge(s.hz.slice(0,1), s.type)}
+      <div class="fc-dir-info">
+        <b title="${esc(s.desc)}">${s.name}</b>
+        <span class="fc-tag ${s.type}">${s.type==='off'?'Ufficiale':'Commerciale'}</span>
+        <span class="fc-dir-topic">${s.topic}</span>
+      </div>
+      <div class="fc-dir-links">${s.links.map(l => `<a href="${l[1]}" target="_blank" rel="noopener">${l[0]} ↗</a>`).join('')}</div>
+    </div>`).join('');
+}
+
+function renderDaily(){
+  document.getElementById('fc-daily').innerHTML = DAILY_LOOP.map(d => `<li><b>${d.name}</b><small>${d.note}</small></li>`).join('');
 }
 
 function loadPodcast(){
@@ -105,8 +143,8 @@ function loadPodcast(){
     .catch(() => null);
 }
 
-function renderPodcast(container, meta){
-  const box = container.querySelector('#fc-podcast');
+function renderPodcast(meta){
+  const box = document.getElementById('fc-podcast');
   if(!meta){
     box.innerHTML = `<p class="no-feed">Podcast non ancora attivo — richiede una chiave API Gemini configurata nel repository (vedi README).</p>`;
     return;
@@ -135,7 +173,7 @@ async function fetchLive(url){
   return items;
 }
 
-async function refreshLive(wrap, statusEl){
+async function refreshLive(statusEl){
   statusEl.textContent = 'Aggiornamento in corso dal browser…';
   const live = { generatedAt: new Date().toISOString(), sources: {}, international: { status:'unavailable', items:[] } };
   let ok = 0;
@@ -162,117 +200,55 @@ async function refreshLive(wrap, statusEl){
 
   liveFeed = live;
   statusEl.textContent = `Aggiornato ora dal browser · ${formatDate(live.generatedAt)} · ${ok}/${SOURCES.length} fonti live`;
-  renderList(wrap, live);
-  renderIntl(wrap, live);
+  renderFeed(live);
+  renderIntl(live);
 }
 
-function render(mainEl){
-  mainEl.innerHTML = '';
+function init(){
   const savedTheme = (()=>{ try{ return localStorage.getItem(THEME_KEY); }catch(e){ return null; } })();
+  if(savedTheme) document.body.setAttribute('data-theme', savedTheme);
 
-  const wrap = document.createElement('div');
-  wrap.className = 'fonti-cina';
-  if(savedTheme) wrap.setAttribute('data-theme', savedTheme);
-
-  wrap.innerHTML = `
-    <div class="wrap">
-      <header>
-        <div class="seal" aria-hidden="true">中国</div>
-        <div class="htext">
-          <h1>Fonti Cina</h1>
-          <p class="sub">Testate cinesi da seguire direttamente, in cinese e in inglese.</p>
-        </div>
-        <button class="theme-toggle" id="fc-theme" type="button">Tema: <span id="fc-theme-label">auto</span></button>
-      </header>
-
-      <div class="updated-row">
-        <p class="updated" id="fc-updated">Caricamento feed…</p>
-        <button class="refresh-btn" id="fc-refresh" type="button">↻ Aggiorna ora dal browser</button>
-      </div>
-
-      <section aria-labelledby="fc-h-podcast">
-        <h2 id="fc-h-podcast">Podcast del giorno</h2>
-        <div id="fc-podcast"><p class="no-feed">Caricamento…</p></div>
-      </section>
-
-      <section aria-labelledby="fc-h-daily">
-        <h2 id="fc-h-daily">Giro di lettura quotidiano</h2>
-        <ol class="daily">
-          ${DAILY_LOOP.map(d => `<li><b>${d.name}</b><small>${d.note}</small></li>`).join('')}
-        </ol>
-      </section>
-
-      <section aria-label="Tutte le testate">
-        <div class="filters">
-          <div class="group" role="group" aria-label="Tipo">
-            <span>Tipo</span>
-            <button class="chip" data-f="type" data-v="all">Tutte</button>
-            <button class="chip" data-f="type" data-v="off">Ufficiali</button>
-            <button class="chip" data-f="type" data-v="com">Commerciali</button>
-          </div>
-          <div class="group" role="group" aria-label="Lingua">
-            <span>Lingua</span>
-            <button class="chip" data-f="lang" data-v="all">Tutte</button>
-            <button class="chip" data-f="lang" data-v="zh">中文</button>
-            <button class="chip" data-f="lang" data-v="en">EN</button>
-          </div>
-          <div class="count" id="fc-count"></div>
-        </div>
-        <ul class="list" id="fc-list" style="margin-top:14px"></ul>
-      </section>
-
-      <section aria-labelledby="fc-h-intl">
-        <h2 id="fc-h-intl">Notizie internazionali sulla Cina</h2>
-        <p class="sub2">Testate non cinesi che scrivono di Cina — per bilanciare il punto di vista delle fonti domestiche qui sopra.</p>
-        <div id="fc-intl"></div>
-      </section>
-
-      <p class="note">I media ufficiali sono controllati dallo Stato; anche le testate commerciali operano dentro il sistema censorio cinese. Leggerle insieme aiuta a distinguere la linea del governo, la vita quotidiana e le trasformazioni economiche. I titoli automatici si aggiornano una volta al giorno; "Aggiorna ora" rifà la stessa ricerca live, solo per questa sessione.</p>
-    </div>
-  `;
-  mainEl.appendChild(wrap);
+  renderDirectory();
+  renderDaily();
 
   function syncChips(){
-    wrap.querySelectorAll('button.chip').forEach(b => b.setAttribute('aria-pressed', state[b.dataset.f]===b.dataset.v));
+    document.querySelectorAll('button.chip').forEach(b => b.setAttribute('aria-pressed', state[b.dataset.f]===b.dataset.v));
   }
   syncChips();
 
-  wrap.querySelectorAll('button.chip').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('button.chip').forEach(b => b.addEventListener('click', () => {
     state[b.dataset.f] = b.dataset.v;
     try{ localStorage.setItem('cn-guide:fonticina-filtri', JSON.stringify(state)); }catch(e){}
     syncChips();
-    renderList(wrap, liveFeed || feedCache);
+    renderFeed(liveFeed || feedCache);
   }));
 
-  const themeBtn = wrap.querySelector('#fc-theme');
-  const themeLabel = wrap.querySelector('#fc-theme-label');
+  const themeBtn = document.getElementById('fc-theme');
+  const themeLabel = document.getElementById('fc-theme-label');
   themeLabel.textContent = savedTheme || 'auto';
   themeBtn.addEventListener('click', () => {
     const order = [null, 'light', 'dark'];
-    const current = wrap.getAttribute('data-theme');
+    const current = document.body.getAttribute('data-theme');
     const next = order[(order.indexOf(current) + 1) % order.length];
-    if(next){ wrap.setAttribute('data-theme', next); } else { wrap.removeAttribute('data-theme'); }
+    if(next){ document.body.setAttribute('data-theme', next); } else { document.body.removeAttribute('data-theme'); }
     themeLabel.textContent = next || 'auto';
     try{ next ? localStorage.setItem(THEME_KEY, next) : localStorage.removeItem(THEME_KEY); }catch(e){}
   });
 
-  const refreshBtn = wrap.querySelector('#fc-refresh');
-  const updatedEl = wrap.querySelector('#fc-updated');
+  const refreshBtn = document.getElementById('fc-refresh');
+  const updatedEl = document.getElementById('fc-updated');
   refreshBtn.addEventListener('click', async () => {
     refreshBtn.disabled = true;
     refreshBtn.textContent = '↻ Aggiornamento…';
-    try{
-      await refreshLive(wrap, updatedEl);
-    }catch(e){
-      updatedEl.textContent = 'Aggiornamento live non riuscito — provo più tardi, i titoli di oggi restano visibili.';
-    }
+    try{ await refreshLive(updatedEl); }
+    catch(e){ updatedEl.textContent = 'Aggiornamento live non riuscito — provo più tardi, i titoli di oggi restano visibili.'; }
     refreshBtn.disabled = false;
     refreshBtn.textContent = '↻ Aggiorna ora dal browser';
   });
 
-  renderList(wrap, null);
-  renderIntl(wrap, null);
-  loadPodcast().then(meta => renderPodcast(wrap, meta));
+  renderFeed(null);
+  renderIntl(null);
+  loadPodcast().then(renderPodcast);
 
   loadFeed().then(feed => {
     if(feed && feed.generatedAt){
@@ -281,9 +257,9 @@ function render(mainEl){
     } else {
       updatedEl.textContent = 'Titoli automatici non ancora disponibili — prova "Aggiorna ora" o apri le fonti direttamente.';
     }
-    renderList(wrap, feed);
-    renderIntl(wrap, feed);
+    renderFeed(feed);
+    renderIntl(feed);
   });
 }
 
-export { render };
+init();
