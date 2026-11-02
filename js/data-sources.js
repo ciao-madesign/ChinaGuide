@@ -1,5 +1,5 @@
 /* =====================================================================
-   DATI — "Fonti Cina": le 8 testate e il giro di lettura quotidiano.
+   DATI — "Fonti Cina": le 8 testate.
    feedKey fa corrispondere ogni fonte alla chiave in data/news-feed.json
    (generato dal workflow GitHub Actions scripts/fetch-news.mjs).
    ===================================================================== */
@@ -29,12 +29,4 @@ export const SOURCES = [
   {feedKey:"globaltimes", hz:"环球时报", name:"Global Times", type:"off", topic:"Geopolitica",
    desc:"Relazioni internazionali e rapporti con USA ed Europa, con linea nazionalista dichiarata.",
    links:[["中文","https://www.huanqiu.com/","zh"],["EN","https://www.globaltimes.cn/","en"]]},
-];
-
-export const DAILY_LOOP = [
-  {name:"Xinhua", note:"Notizie principali"},
-  {name:"The Paper", note:"Cronaca interna"},
-  {name:"Caixin", note:"Economia e lavoro"},
-  {name:"CCTV News", note:"Video in mandarino"},
-  {name:"Sixth Tone", note:"Società, in inglese"},
 ];

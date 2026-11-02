@@ -6,8 +6,8 @@
    montato dal router del taccuino, lavora sugli elementi già presenti
    in fonticina.html.
    ===================================================================== */
-import { SOURCES, DAILY_LOOP } from './data-sources.js';
-import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, internationalQueryUrl } from './feed-parser.js';
+import { SOURCES } from './data-sources.js';
+import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, internationalQueryUrl, cleanTitle, isMeaningfulTitle } from './feed-parser.js';
 
 const THEME_KEY = 'cn-guide:fonticina-theme';
 const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
@@ -41,10 +41,10 @@ function formatItemDate(iso){
   }catch(e){ return ''; }
 }
 
-const state = { type:'all', lang:'all' };
+const state = { scope:'all', type:'all', lang:'all' };
 try{
   const s = JSON.parse(localStorage.getItem('cn-guide:fonticina-filtri') || 'null');
-  if(s){ state.type = s.type || 'all'; state.lang = s.lang || 'all'; }
+  if(s){ state.scope = s.scope || 'all'; state.type = s.type || 'all'; state.lang = s.lang || 'all'; }
 }catch(e){}
 
 function esc(s){ return String(s==null?'':s).replace(/"/g,'&quot;'); }
@@ -86,42 +86,61 @@ function sortFlat(flat){
 }
 
 function matchingSources(){
+  if(state.scope==='intl') return [];
   return SOURCES.filter(s =>
     (state.type==='all' || s.type===state.type) &&
     (state.lang==='all' || s.links.some(l => l[2]===state.lang))
   );
 }
 
+/** Notizie in primo piano: testate cinesi e stampa internazionale
+    mescolate in un unico flusso cronologico, non raggruppate per
+    testata — questa è la pagina, le testate sono solo il filtro. */
+/* I titoli puliti dai suffissi "- Nome Fonte" già nello script che
+   genera data/news-feed.json, ma lo rifacciamo anche qui: copre i dati
+   già pubblicati prima di questa pulizia e il refresh live dal browser. */
+function cleanItem(it, hints){
+  const title = cleanTitle(it.title, [...hints, it.source]);
+  return isMeaningfulTitle(title) ? { ...it, title } : null;
+}
+
 function buildFlatFeed(feed){
   const flat = [];
-  matchingSources().forEach(s => {
-    const entry = feed && feed.sources ? feed.sources[s.feedKey] : null;
-    if(entry && entry.status==='ok' && entry.items.length){
-      entry.items.slice(0, MAX_PER_SOURCE).forEach(it => flat.push({it, s}));
-    }
-  });
+  if(state.scope !== 'intl'){
+    matchingSources().forEach(s => {
+      const entry = feed && feed.sources ? feed.sources[s.feedKey] : null;
+      if(entry && entry.status==='ok' && entry.items.length){
+        entry.items.slice(0, MAX_PER_SOURCE).forEach(it => {
+          const cleaned = cleanItem(it, [s.name, s.hz]);
+          if(cleaned) flat.push({it: cleaned, s});
+        });
+      }
+    });
+  }
+  if(state.scope !== 'cn'){
+    const intl = feed && feed.international && feed.international.status==='ok' ? feed.international.items : [];
+    intl.forEach(it => {
+      const cleaned = cleanItem(it, []);
+      if(cleaned) flat.push({it: cleaned, s:null});
+    });
+  }
   return sortFlat(flat);
 }
 
 function renderFeed(feed){
   const flat = buildFlatFeed(feed);
-  document.getElementById('fc-count').textContent = `${flat.length} titoli · ${matchingSources().length}/${SOURCES.length} testate`;
+  const scopeNote = state.scope==='cn' ? `${matchingSources().length}/${SOURCES.length} testate` : state.scope==='intl' ? 'internazionali' : `${matchingSources().length}/${SOURCES.length} testate + internazionali`;
+  document.getElementById('fc-count').textContent = `${flat.length} titoli · ${scopeNote}`;
   const list = document.getElementById('fc-feed');
   list.innerHTML = flat.length
     ? flat.map(({it,s}) => card(it,s)).join('')
     : `<li class="fc-empty">Nessun titolo con questi filtri al momento — prova "Tutte" o "Aggiorna ora dal browser".</li>`;
 }
 
-function renderIntl(feed){
-  const box = document.getElementById('fc-intl');
-  const entry = feed && feed.international ? feed.international : null;
-  box.innerHTML = (entry && entry.status==='ok' && entry.items.length)
-    ? entry.items.map(it => card(it, null)).join('')
-    : `<li class="fc-empty">Nessun titolo internazionale disponibile al momento.</li>`;
-}
-
 function renderDirectory(){
-  document.getElementById('fc-directory').innerHTML = SOURCES.map(s => `
+  const rows = matchingSources();
+  const box = document.getElementById('fc-directory');
+  box.innerHTML = rows.length ? rows.map(s => `
     <div class="fc-dir-row">
       ${badge(s.hz.slice(0,1), s.type)}
       <div class="fc-dir-info">
@@ -130,11 +149,7 @@ function renderDirectory(){
         <span class="fc-dir-topic">${s.topic}</span>
       </div>
       <div class="fc-dir-links">${s.links.map(l => `<a href="${l[1]}" target="_blank" rel="noopener">${l[0]} ↗</a>`).join('')}</div>
-    </div>`).join('');
-}
-
-function renderDaily(){
-  document.getElementById('fc-daily').innerHTML = DAILY_LOOP.map(d => `<li><b>${d.name}</b><small>${d.note}</small></li>`).join('');
+    </div>`).join('') : `<p class="no-feed">Nessuna testata con questi filtri (scegli "Testate cinesi" o "Tutte" in Ambito).</p>`;
 }
 
 function loadPodcast(){
@@ -163,17 +178,41 @@ function renderPodcast(meta){
 /* "Aggiorna ora": stesso meccanismo di ricerca Google News usato dal
    workflow quotidiano, eseguito però live dal browser tramite un proxy
    CORS pubblico (accettabile: il sito ha un solo utente). Non viene
-   salvato da nessuna parte — vale solo per la sessione corrente. */
-async function fetchLive(url){
-  const res = await fetch(CORS_PROXY + encodeURIComponent(url), {cache:'no-store'});
+   salvato da nessuna parte — vale solo per la sessione corrente.
+   Il proxy pubblico può restare appeso senza mai rispondere: ogni
+   richiesta ha quindi un timeout, altrimenti il pulsante "Aggiorna
+   ora" resterebbe bloccato per sempre in attesa. */
+const FETCH_TIMEOUT_MS = 9000;
+const REFRESH_TIMEOUT_MS = 25000;
+
+function fetchWithTimeout(url, opts = {}, timeoutMs = FETCH_TIMEOUT_MS){
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  return fetch(url, { ...opts, signal: ctrl.signal }).finally(() => clearTimeout(t));
+}
+
+async function fetchLive(url, hints = []){
+  let res;
+  try{
+    res = await fetchWithTimeout(CORS_PROXY + encodeURIComponent(url), { cache:'no-store' });
+  }catch(e){
+    throw new Error(e.name === 'AbortError' ? 'timeout' : e.message);
+  }
   if(!res.ok) throw new Error(`HTTP ${res.status}`);
   const xml = await res.text();
-  const items = sortByDateDesc(filterByRecency(parseFeed(xml, 20), RECENCY_DAYS));
+  let items = sortByDateDesc(filterByRecency(parseFeed(xml, 24), RECENCY_DAYS));
+  items = items.map(it => cleanItem(it, hints)).filter(Boolean);
   if(!items.length) throw new Error('nessun item');
   return items;
 }
 
-async function refreshLive(statusEl){
+function withTimeout(promise, ms, message){
+  let timer;
+  const timeout = new Promise((_, reject) => { timer = setTimeout(() => reject(new Error(message)), ms); });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
+
+async function refreshLiveInner(statusEl){
   statusEl.textContent = 'Aggiornamento in corso dal browser…';
   const live = { generatedAt: new Date().toISOString(), sources: {}, international: { status:'unavailable', items:[] } };
   let ok = 0;
@@ -182,7 +221,7 @@ async function refreshLive(statusEl){
     const candidates = buildSourceCandidates(s, [], RECENCY_DAYS);
     for(const url of candidates){
       try{
-        const items = await fetchLive(url);
+        const items = await fetchLive(url, [s.name, s.hz]);
         live.sources[s.feedKey] = { status:'ok', feedUrl:url, items: items.slice(0,8) };
         ok++;
         return;
@@ -201,7 +240,10 @@ async function refreshLive(statusEl){
   liveFeed = live;
   statusEl.textContent = `Aggiornato ora dal browser · ${formatDate(live.generatedAt)} · ${ok}/${SOURCES.length} fonti live`;
   renderFeed(live);
-  renderIntl(live);
+}
+
+function refreshLive(statusEl){
+  return withTimeout(refreshLiveInner(statusEl), REFRESH_TIMEOUT_MS, 'timeout complessivo');
 }
 
 function init(){
@@ -209,7 +251,6 @@ function init(){
   if(savedTheme) document.body.setAttribute('data-theme', savedTheme);
 
   renderDirectory();
-  renderDaily();
 
   function syncChips(){
     document.querySelectorAll('button.chip').forEach(b => b.setAttribute('aria-pressed', state[b.dataset.f]===b.dataset.v));
@@ -221,6 +262,7 @@ function init(){
     try{ localStorage.setItem('cn-guide:fonticina-filtri', JSON.stringify(state)); }catch(e){}
     syncChips();
     renderFeed(liveFeed || feedCache);
+    renderDirectory();
   }));
 
   const themeBtn = document.getElementById('fc-theme');
@@ -247,7 +289,6 @@ function init(){
   });
 
   renderFeed(null);
-  renderIntl(null);
   loadPodcast().then(renderPodcast);
 
   loadFeed().then(feed => {
@@ -258,7 +299,6 @@ function init(){
       updatedEl.textContent = 'Titoli automatici non ancora disponibili — prova "Aggiorna ora" o apri le fonti direttamente.';
     }
     renderFeed(feed);
-    renderIntl(feed);
   });
 }
 

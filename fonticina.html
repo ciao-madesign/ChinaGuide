@@ -52,13 +52,15 @@
       <button class="refresh-btn" id="fc-refresh" type="button">↻ Aggiorna ora dal browser</button>
     </div>
 
-    <section aria-labelledby="fc-h-podcast">
-      <h2 id="fc-h-podcast">Podcast del giorno</h2>
-      <div id="fc-podcast"><p class="no-feed">Caricamento…</p></div>
-    </section>
-
-    <section aria-label="Feed titoli">
+    <section aria-labelledby="fc-h-feed">
+      <h2 id="fc-h-feed">Notizie</h2>
       <div class="filters">
+        <div class="group" role="group" aria-label="Ambito">
+          <span>Ambito</span>
+          <button class="chip" data-f="scope" data-v="all">Tutte</button>
+          <button class="chip" data-f="scope" data-v="cn">Testate cinesi</button>
+          <button class="chip" data-f="scope" data-v="intl">Internazionali</button>
+        </div>
         <div class="group" role="group" aria-label="Tipo">
           <span>Tipo</span>
           <button class="chip" data-f="type" data-v="all">Tutte</button>
@@ -76,19 +78,14 @@
       <ul class="fc-feed" id="fc-feed"></ul>
     </section>
 
-    <section aria-labelledby="fc-h-intl">
-      <h2 id="fc-h-intl">Notizie internazionali sulla Cina</h2>
-      <p class="sub2">Testate non cinesi che scrivono di Cina — per bilanciare il punto di vista delle fonti domestiche qui sopra.</p>
-      <ul class="fc-feed" id="fc-intl"></ul>
-    </section>
-
-    <section aria-labelledby="fc-h-daily">
-      <h2 id="fc-h-daily">Giro di lettura quotidiano</h2>
-      <ol class="daily" id="fc-daily"></ol>
+    <section aria-labelledby="fc-h-podcast">
+      <h2 id="fc-h-podcast">Podcast del giorno</h2>
+      <div id="fc-podcast"><p class="no-feed">Caricamento…</p></div>
     </section>
 
     <details class="fc-directory-wrap">
       <summary>Le 8 testate — elenco e link diretti</summary>
+      <p class="sub2">Gli stessi filtri di "Ambito/Tipo/Lingua" qui sopra si applicano anche a questo elenco.</p>
       <div class="fc-directory" id="fc-directory"></div>
     </details>
 
