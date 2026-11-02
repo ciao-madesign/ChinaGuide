@@ -52,35 +52,43 @@
       <button class="refresh-btn" id="fc-refresh" type="button">↻ Aggiorna ora dal browser</button>
     </div>
 
-    <section aria-labelledby="fc-h-feed">
-      <h2 id="fc-h-feed">Notizie</h2>
-      <div class="filters">
-        <div class="group" role="group" aria-label="Ambito">
-          <span>Ambito</span>
-          <button class="chip" data-f="scope" data-v="all">Tutte</button>
-          <button class="chip" data-f="scope" data-v="cn">Testate cinesi</button>
-          <button class="chip" data-f="scope" data-v="intl">Internazionali</button>
-        </div>
-        <div class="group" role="group" aria-label="Tipo">
-          <span>Tipo</span>
-          <button class="chip" data-f="type" data-v="all">Tutte</button>
-          <button class="chip" data-f="type" data-v="off">Ufficiali</button>
-          <button class="chip" data-f="type" data-v="com">Commerciali</button>
-        </div>
-        <div class="group" role="group" aria-label="Lingua">
-          <span>Lingua</span>
-          <button class="chip" data-f="lang" data-v="all">Tutte</button>
-          <button class="chip" data-f="lang" data-v="zh">中文</button>
-          <button class="chip" data-f="lang" data-v="en">EN</button>
-        </div>
-        <div class="count" id="fc-count"></div>
-      </div>
-      <ul class="fc-feed" id="fc-feed"></ul>
-    </section>
-
     <section aria-labelledby="fc-h-podcast">
       <h2 id="fc-h-podcast">Podcast del giorno</h2>
       <div id="fc-podcast"><p class="no-feed">Caricamento…</p></div>
+    </section>
+
+    <section aria-labelledby="fc-h-feed" class="fc-feed-layout">
+      <div class="fc-feed-main">
+        <h2 id="fc-h-feed">Notizie</h2>
+        <div class="filters">
+          <div class="group" role="group" aria-label="Ambito">
+            <span>Ambito</span>
+            <button class="chip" data-f="scope" data-v="all">Tutte</button>
+            <button class="chip" data-f="scope" data-v="cn">Testate cinesi</button>
+            <button class="chip" data-f="scope" data-v="intl">Internazionali</button>
+          </div>
+          <div class="group" role="group" aria-label="Tipo">
+            <span>Tipo</span>
+            <button class="chip" data-f="type" data-v="all">Tutte</button>
+            <button class="chip" data-f="type" data-v="off">Ufficiali</button>
+            <button class="chip" data-f="type" data-v="com">Commerciali</button>
+          </div>
+          <div class="group" role="group" aria-label="Lingua">
+            <span>Lingua</span>
+            <button class="chip" data-f="lang" data-v="all">Tutte</button>
+            <button class="chip" data-f="lang" data-v="zh">中文</button>
+            <button class="chip" data-f="lang" data-v="en">EN</button>
+          </div>
+          <div class="count" id="fc-count"></div>
+        </div>
+        <ul class="fc-feed" id="fc-feed"></ul>
+        <button class="fc-more-btn" id="fc-feed-more" type="button" hidden></button>
+      </div>
+
+      <aside class="fc-report" aria-labelledby="fc-h-report">
+        <h2 id="fc-h-report">Report del giorno</h2>
+        <div id="fc-report-body"><p class="no-feed">Caricamento…</p></div>
+      </aside>
     </section>
 
     <details class="fc-directory-wrap">

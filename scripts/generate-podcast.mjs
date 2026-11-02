@@ -38,12 +38,12 @@ function buildDigest(feed){
     const entry = feed.sources?.[src.feedKey];
     if(entry?.status === 'ok' && entry.items.length){
       lines.push(`${src.name} (${src.type === 'off' ? 'ufficiale' : 'commerciale'}): ` +
-        entry.items.slice(0, 3).map(it => it.title).join(' | '));
+        entry.items.slice(0, 4).map(it => it.title).join(' | '));
     }
   }
   if(feed.international?.status === 'ok' && feed.international.items.length){
     lines.push('Stampa internazionale sulla Cina: ' +
-      feed.international.items.slice(0, 5).map(it => `${it.title}${it.source ? ' ('+it.source+')' : ''}`).join(' | '));
+      feed.international.items.slice(0, 6).map(it => `${it.title}${it.source ? ' ('+it.source+')' : ''}`).join(' | '));
   }
   return lines.join('\n');
 }
@@ -61,12 +61,22 @@ async function callGemini(model, body){
   return res.json();
 }
 
-async function writeScript(digest){
+const REPORT_DELIM = '===REPORT===';
+
+/** Un'unica chiamata a Gemini produce sia il copione del podcast sia un
+    report testuale breve (per la colonna laterale del feed): stessa
+    generazione, stesso momento, un solo prompt — separati da un
+    delimitatore su riga propria per poterli distinguere dopo. */
+async function writeScriptAndReport(digest){
   const prompt = `Sei l'autore di un podcast quotidiano in italiano su "Fonti Cina", che riassume e contestualizza le notizie del giorno sulla Cina per un pubblico italiano colto ma non specialista.
-Scrivi un copione a due voci, Marco e Giulia, che dialogano in modo naturale e scorrevole (non leggono un elenco): commentano, si fanno domande, aggiungono un minimo di contesto storico o culturale quando è utile. Tono informativo, equilibrato, senza sensazionalismo. Durata-bersaglio: circa 2 minuti di parlato (massimo 350 parole totali).
-Usa SOLO questo formato, una battuta per riga, senza intestazioni, didascalie o markdown:
+
+Scrivi DUE cose, in quest'ordine, separate esattamente da una riga contenente solo "${REPORT_DELIM}" (niente altro su quella riga):
+
+1) Il copione del podcast: un dialogo a due voci, Marco e Giulia, naturale e scorrevole (non un elenco letto ad alta voce). Scegli 4-6 notizie tra le più rilevanti o interessanti del giorno e approfondiscile un po' di più rispetto a un semplice titolo: un minimo di contesto (perché conta, un precedente storico o culturale, una connessione tra notizie diverse), non solo l'elenco. Tono informativo, equilibrato, senza sensazionalismo. Durata-bersaglio: 2-3 minuti di parlato (circa 400-520 parole totali). Usa SOLO questo formato, una battuta per riga, senza intestazioni, didascalie o markdown:
 Marco: ...
 Giulia: ...
+
+2) Un breve report scritto, pensato per una lettura rapidissima in una colonna laterale (non un riassunto del podcast, un contenuto complementare): 5-7 punti, ciascuno su una riga che comincia con "- ", massimo 18 parole ciascuno, che sintetizzano i temi principali della giornata (non limitarti a ripetere i titoli). Nessuna intestazione, nessun markdown oltre al trattino.
 
 Ecco i titoli di oggi, fonte per fonte:
 ${digest}`;
@@ -74,7 +84,19 @@ ${digest}`;
   const json = await callGemini(TEXT_MODEL, { contents: [{ parts: [{ text: prompt }] }] });
   const text = json.candidates?.[0]?.content?.parts?.[0]?.text;
   if(!text) throw new Error('Risposta testo vuota da Gemini');
-  return text.trim();
+
+  const idx = text.indexOf(REPORT_DELIM);
+  if(idx === -1){
+    // Il modello non ha seguito il formato: usiamo tutto come script,
+    // niente report piuttosto che inventare una separazione a caso.
+    return { script: text.trim(), report: [] };
+  }
+  const script = text.slice(0, idx).trim();
+  const reportRaw = text.slice(idx + REPORT_DELIM.length).trim();
+  const report = reportRaw.split('\n')
+    .map(l => l.trim().replace(/^-+\s*/, ''))
+    .filter(Boolean);
+  return { script, report };
 }
 
 function pcmToWav(pcmBuffer, sampleRate, numChannels = 1, bitsPerSample = 16){
@@ -137,9 +159,9 @@ async function main(){
   }
 
   try{
-    console.log('Genero lo script del podcast con Gemini...');
-    const script = await writeScript(digest);
-    console.log('Script pronto, genero l\'audio...');
+    console.log('Genero script del podcast e report del giorno con Gemini...');
+    const { script, report } = await writeScriptAndReport(digest);
+    console.log(`Script pronto (${report.length} punti nel report), genero l'audio...`);
     const wav = await synthesizeAudio(script);
 
     await mkdir(OUT_DIR, { recursive: true });
@@ -147,6 +169,7 @@ async function main(){
     await writeFile(META_PATH, JSON.stringify({
       date: new Date().toISOString(),
       script,
+      report,
     }, null, 2) + '\n', 'utf8');
     console.log(`Podcast scritto in ${WAV_PATH} (${(wav.length/1024/1024).toFixed(2)} MB).`);
   }catch(err){
