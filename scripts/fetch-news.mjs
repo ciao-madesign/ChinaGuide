@@ -45,19 +45,79 @@ const OFFICIAL_CANDIDATES = {
   globaltimes: ['https://www.globaltimes.cn/rss/china.xml'],
 };
 
-async function fetchWithTimeout(url, { timeoutMs = TIMEOUT_MS, accept = 'application/rss+xml, application/xml, text/xml, */*' } = {}){
+async function fetchWithTimeout(url, { timeoutMs = TIMEOUT_MS, accept = 'application/rss+xml, application/xml, text/xml, */*', method = 'GET', body = null, extraHeaders = {} } = {}){
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try{
     const res = await fetch(url, {
+      method,
+      body,
       signal: controller.signal,
       redirect: 'follow',
-      headers: { 'User-Agent': UA, 'Accept': accept },
+      headers: { 'User-Agent': UA, 'Accept': accept, ...extraHeaders },
     });
     if(!res.ok) throw new Error(`HTTP ${res.status}`);
     return await res.text();
   } finally {
     clearTimeout(timer);
+  }
+}
+
+/* ---------------------------------------------------------------------
+   I link nei risultati Google News (https://news.google.com/rss/articles/…)
+   non portano direttamente all'articolo: sono una pagina-ponte di Google
+   che poi reindirizza via JavaScript. Per arrivare all'URL vero serve
+   chiamare un endpoint interno di Google (non documentato, tecnica nota
+   e usata da diversi progetti open-source — stesso livello di "non
+   ufficiale ma stabile" già accettato per la ricerca Google News stessa).
+   Se Google cambia questo meccanismo, la funzione torna semplicemente
+   null: fetchArticleText si ferma lì, senza bloccare nulla.
+   --------------------------------------------------------------------- */
+const GN_BATCHEXECUTE = 'https://news.google.com/_/DotsSplashUi/data/batchexecute';
+
+function googleNewsArticleId(url){
+  const m = url.match(/\/articles\/([^/?]+)/);
+  return m ? m[1] : null;
+}
+
+const gnStats = { total: 0, noId: 0, noSgTs: 0, batchFailed: 0, noUrlInResponse: 0, resolved: 0 };
+
+async function resolveGoogleNewsUrl(gnUrl){
+  gnStats.total++;
+  const urlId = googleNewsArticleId(gnUrl);
+  if(!urlId){ gnStats.noId++; return null; }
+  try{
+    const html = await fetchWithTimeout(gnUrl, { timeoutMs: ARTICLE_TIMEOUT_MS, accept: 'text/html' });
+    const sg = html.match(/data-n-a-sg="([^"]+)"/)?.[1];
+    const ts = html.match(/data-n-a-ts="([^"]+)"/)?.[1];
+    const artId = html.match(/data-n-a-id="([^"]+)"/)?.[1] || urlId;
+    if(!sg || !ts){ gnStats.noSgTs++; return null; }
+
+    const innerPayload = JSON.stringify([
+      'garturlreq',
+      [['X','X',['X','X'],null,null,1,1,'US:en',null,1,null,null,null,null,null,0,1],
+       'X','X',1,[1,1,1],1,1,null,0,0,null,0],
+      artId, ts, sg,
+    ]);
+    const fReq = JSON.stringify([[['Fbv4je', innerPayload, null, 'generic']]]);
+
+    let raw;
+    try{
+      raw = await fetchWithTimeout(GN_BATCHEXECUTE, {
+        timeoutMs: ARTICLE_TIMEOUT_MS,
+        accept: '*/*',
+        method: 'POST',
+        body: `f.req=${encodeURIComponent(fReq)}`,
+        extraHeaders: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
+      });
+    }catch(e){ gnStats.batchFailed++; return null; }
+
+    const m = raw.match(/garturlres\\?",\\?"(https?:\/\/[^"\\]+)/);
+    if(!m){ gnStats.noUrlInResponse++; return null; }
+    gnStats.resolved++;
+    return m[1].replace(/\\\//g, '/');
+  }catch(e){
+    return null;
   }
 }
 
@@ -117,7 +177,12 @@ function extractReadableText(html){
 
 async function fetchArticleText(url){
   try{
-    const html = await fetchWithTimeout(url, { timeoutMs: ARTICLE_TIMEOUT_MS, accept: 'text/html,application/xhtml+xml' });
+    let target = url;
+    if(/^https?:\/\/news\.google\.com\//.test(url)){
+      target = await resolveGoogleNewsUrl(url);
+      if(!target) return null;
+    }
+    const html = await fetchWithTimeout(target, { timeoutMs: ARTICLE_TIMEOUT_MS, accept: 'text/html,application/xhtml+xml' });
     return extractReadableText(html);
   }catch(e){
     return null;
@@ -172,6 +237,10 @@ async function main(){
   await writeFile(OUT_PATH, JSON.stringify(result, null, 2) + '\n', 'utf8');
   const okCount = Object.values(result.sources).filter(s => s.status === 'ok').length;
   console.log(`\nScritto ${OUT_PATH} — ${okCount}/${SOURCES.length} testate con titoli, internazionali: ${result.international.status}.`);
+  if(gnStats.total > 0){
+    console.log(`Resolver redirect Google News: ${gnStats.resolved}/${gnStats.total} risolti ` +
+      `(${gnStats.noId} senza id, ${gnStats.noSgTs} senza firma/timestamp sulla pagina, ${gnStats.batchFailed} chiamata batchexecute fallita, ${gnStats.noUrlInResponse} url non trovato nella risposta).`);
+  }
 }
 
 main().catch(err => {
