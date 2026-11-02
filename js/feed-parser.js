@@ -76,6 +76,34 @@ export function googleNewsSearchUrl(query, { days = 4, lang = 'en-US', country =
   return `https://news.google.com/rss/search?q=${q}&hl=${lang}&gl=${country}&ceid=${country}:${lang.split('-')[0]}`;
 }
 
+/** Pulisce un titolo dai suffissi ridondanti "- Nome Fonte" che Google
+    News aggiunge ai risultati (anche ripetuti: "Titolo - X - Y"),
+    provando più varianti del nome (inglese, cinese, source del feed). */
+export function cleanTitle(title, hints = []){
+  let t = (title || '').trim();
+  const names = hints.filter(Boolean).map(h => String(h).trim()).filter(Boolean);
+  let changed = true;
+  while(changed){
+    changed = false;
+    for(const h of names){
+      const suffix = `- ${h}`;
+      if(t.length > suffix.length && t.toLowerCase().endsWith(suffix.toLowerCase())){
+        t = t.slice(0, t.length - suffix.length).trim();
+        changed = true;
+      }
+    }
+  }
+  return t;
+}
+
+/** Scarta titoli "spazzatura": dopo aver tolto il nome della fonte,
+    quel che resta è troppo corto per essere un titolo vero — capita
+    con la ricerca Google News, che a volte restituisce solo il nome
+    del sito invece di una notizia. */
+export function isMeaningfulTitle(title){
+  return (title || '').replace(/[\s\-–—·|:：]/g, '').length >= 6;
+}
+
 export function domainOf(url){
   try{ return new URL(url).hostname.replace(/^www\.|^en\.|^m\./, ''); }catch(e){ return null; }
 }

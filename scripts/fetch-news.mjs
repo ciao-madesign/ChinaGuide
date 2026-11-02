@@ -18,7 +18,7 @@
 import { writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, internationalQueryUrl } from '../js/feed-parser.js';
+import { parseFeed, filterByRecency, sortByDateDesc, buildSourceCandidates, internationalQueryUrl, cleanTitle, isMeaningfulTitle } from '../js/feed-parser.js';
 import { SOURCES } from '../js/data-sources.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -58,12 +58,16 @@ async function fetchWithTimeout(url){
   }
 }
 
-async function fetchFromCandidates(key, candidates, maxItems){
+async function fetchFromCandidates(key, candidates, maxItems, hints = []){
   for(const url of candidates){
     try{
       const xml = await fetchWithTimeout(url);
-      let items = parseFeed(xml, maxItems * 2);
-      items = sortByDateDesc(filterByRecency(items, RECENCY_DAYS)).slice(0, maxItems);
+      let items = parseFeed(xml, maxItems * 3);
+      items = sortByDateDesc(filterByRecency(items, RECENCY_DAYS));
+      items = items
+        .map(it => ({ ...it, title: cleanTitle(it.title, [...hints, it.source]) }))
+        .filter(it => isMeaningfulTitle(it.title))
+        .slice(0, maxItems);
       if(items.length > 0){
         console.log(`[ok] ${key} <- ${url} (${items.length} titoli)`);
         return { status: 'ok', feedUrl: url, items };
@@ -81,7 +85,7 @@ async function main(){
 
   for(const src of SOURCES){
     const candidates = buildSourceCandidates(src, OFFICIAL_CANDIDATES[src.feedKey] || [], RECENCY_DAYS);
-    result.sources[src.feedKey] = await fetchFromCandidates(src.feedKey, candidates, MAX_ITEMS);
+    result.sources[src.feedKey] = await fetchFromCandidates(src.feedKey, candidates, MAX_ITEMS, [src.name, src.hz]);
   }
 
   // Notizie internazionali sulla Cina: testate non cinesi, stesso meccanismo
