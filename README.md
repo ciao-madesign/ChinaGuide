@@ -5,7 +5,7 @@ Sito statico, interamente illustrato in stile "taccuino di viaggio", che unisce:
 - **Corso di preparazione** — 10 lezioni con quiz su geografia, storia, filosofia, cucina, lingua e usi cinesi.
 - **Guida di viaggio** — itinerario dettagliato di 13 giorni, giorno per giorno, con trasporti, biglietti, budget, e per ogni tappa sia una mappa illustrata sia una mappa reale interattiva.
 - **Strumenti** — frasario cinese-italiano, checklist pre-partenza interattiva, calcolatore di budget, glossario culturale, riepilogo meteo e contatti utili.
-- **Fonti Cina** — portale separato (stile proprio: data-first, niente emoji, tema chiaro/scuro) con le 8 principali testate cinesi, titoli aggiornati automaticamente ogni giorno, una sezione di notizie internazionali sulla Cina, e un podcast quotidiano generato con l'IA. Vedi [sotto](#fonti-cina--notizie-e-podcast) per l'attivazione.
+- **Fonti Cina** (`fonticina.html`) — pagina autonoma e separata dal taccuino (layout proprio, niente sidebar, raggiungibile con un tasto di andata/ritorno), stile feed di testate con badge colorati invece di blocchi di testo: le 8 principali testate cinesi, titoli aggiornati automaticamente ogni giorno, una sezione di notizie internazionali sulla Cina, e un podcast quotidiano generato con l'IA. Vedi [sotto](#fonti-cina--notizie-e-podcast) per l'attivazione.
 
 ## Tecnologia
 
@@ -16,19 +16,22 @@ I progressi (lezioni completate, giorni "vissuti", checklist, budget, data di pa
 ## Struttura
 
 ```
-index.html             shell del sito, nav e mount point
-css/style.css           design system "taccuino": carta, inchiostro, acquerelli
-js/data-course.js       contenuti delle 10 lezioni + quiz finale
-js/data-guide.js        contenuti dei 13 giorni + intro + chiusura
-js/data-tools.js        frasario, checklist, glossario, contatti, meteo
-js/illustrations.js     libreria di illustrazioni SVG generate via codice
-js/maps.js              mappe: schizzo illustrato + mappa reale (Leaflet)
-js/store.js             persistenza in localStorage
-js/render-*.js          rendering delle varie sezioni
-js/app.js               router (hash-based) e navigazione
-js/data-sources.js      le 8 testate di "Fonti Cina" + giro di lettura quotidiano
+index.html              shell del taccuino (corso + guida + strumenti), nav e mount point
+fonticina.html           pagina autonoma del portale "Fonti Cina" — layout proprio, non fa parte del router del taccuino
+css/style.css            design system "taccuino": carta, inchiostro, acquerelli
+css/news.css             design system di "Fonti Cina": data-first, feed a card, chiaro/scuro
+js/data-course.js        contenuti delle 10 lezioni + quiz finale
+js/data-guide.js         contenuti dei 13 giorni + intro + chiusura
+js/data-tools.js         frasario, checklist, glossario, contatti, meteo
+js/illustrations.js      libreria di illustrazioni SVG generate via codice
+js/maps.js               mappe: schizzo illustrato + mappa reale (Leaflet)
+js/store.js              persistenza in localStorage
+js/render-*.js           rendering delle varie sezioni del taccuino
+js/app.js                router (hash-based) e navigazione del taccuino
+js/gate.js               parola d'ordine di accesso (riusata identica da index.html e fonticina.html)
+js/data-sources.js       le 8 testate di "Fonti Cina" + giro di lettura quotidiano
 js/feed-parser.js        parsing RSS/Atom condiviso tra script Node e browser
-js/render-news.js        rendering del portale "Fonti Cina"
+js/render-news.js        logica del portale "Fonti Cina" (si avvia da sola dentro fonticina.html)
 scripts/fetch-news.mjs   scarica i titoli (eseguito dal workflow quotidiano)
 scripts/generate-podcast.mjs  genera script + audio del podcast quotidiano (richiede GEMINI_API_KEY)
 data/news-feed.json      titoli generati — non modificare a mano, lo sovrascrive il workflow
