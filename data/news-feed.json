@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-11-02T14:38:57.125Z",
+  "sources": {
+    "xinhua": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "peoplesdaily": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "cctv": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "chinadaily": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "caixin": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "thepaper": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "sixthtone": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    },
+    "globaltimes": {
+      "status": "unavailable",
+      "feedUrl": null,
+      "items": []
+    }
+  },
+  "international": {
+    "status": "unavailable",
+    "feedUrl": null,
+    "items": []
+  }
+}

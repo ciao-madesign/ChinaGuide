@@ -5,6 +5,7 @@ import * as Home from './render-home.js';
 import * as Course from './render-course.js';
 import * as Guide from './render-guide.js';
 import * as Tools from './render-tools.js';
+import * as News from './render-news.js';
 
 const mainEl = document.getElementById('main');
 const sidebar = document.getElementById('sidebar');
@@ -97,6 +98,13 @@ function buildNav(){
     btn.onclick = ()=> navigate(`strumenti:${key}`);
     toolsList.appendChild(li);
   });
+
+  // fonti cina
+  const fontiList = document.getElementById('navlist-fonticina');
+  fontiList.innerHTML='';
+  const fontiBtn = navButton({label:'Testate cinesi', active: currentRoute==='fonticina'});
+  fontiBtn.btn.onclick = ()=> navigate('fonticina');
+  fontiList.appendChild(fontiBtn.li);
 }
 window.__buildNav = buildNav;
 
@@ -108,6 +116,7 @@ function renderRoute(){
   if(currentRoute.startsWith('corso')) return Course.render(mainEl, currentRoute, navigate);
   if(currentRoute.startsWith('guida')) return Guide.render(mainEl, currentRoute, navigate);
   if(currentRoute.startsWith('strumenti')) return Tools.render(mainEl, currentRoute, navigate);
+  if(currentRoute==='fonticina') return News.render(mainEl);
   Home.render(mainEl, navigate);
 }
 

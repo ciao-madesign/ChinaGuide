@@ -246,7 +246,7 @@ table.simpletable tr:nth-child(even) td{background:rgba(217,195,151,.18);}
 .herostat .n{font-family:var(--brush);font-size:26px;color:var(--seal);}
 .herostat .l{font-size:10.5px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em;margin-top:4px;}
 
-.hubgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:8px 0 40px;}
+.hubgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;margin:8px 0 40px;}
 .hubcard{
   all:unset; cursor:pointer; display:block; background:var(--paper-card); border:1.5px solid var(--line);
   border-radius:var(--radius); padding:22px 20px 20px; box-shadow:0 6px 14px var(--shadow-soft);

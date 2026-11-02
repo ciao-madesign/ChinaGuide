@@ -1,0 +1,59 @@
+name: Update news feed (Fonti Cina)
+
+on:
+  schedule:
+    # Ogni giorno alle 05:00 UTC (≈ 06:00/07:00 in Italia a seconda dell'ora legale)
+    - cron: '0 5 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-news.mjs
+
+      - name: Install ffmpeg (per convertire il podcast in mp3)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Generate daily podcast (richiede il secret GEMINI_API_KEY)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-podcast.mjs
+
+      - name: Convert podcast WAV to MP3
+        run: |
+          if [ -f data/podcast/latest.wav ]; then
+            ffmpeg -y -i data/podcast/latest.wav -codec:a libmp3lame -qscale:a 4 data/podcast/latest.mp3
+            rm data/podcast/latest.wav
+            echo "Podcast convertito in mp3."
+          else
+            echo "Nessun podcast generato oggi, salto la conversione."
+          fi
+
+      - name: Commit updated feed/podcast if changed
+        run: |
+          if git diff --quiet -- data/news-feed.json data/podcast/; then
+            echo "Nessuna modifica, salto il commit."
+            exit 0
+          fi
+          git config user.name "fonti-cina-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news-feed.json data/podcast/
+          git commit -m "Aggiorna feed e podcast di Fonti Cina [bot]"
+          git push

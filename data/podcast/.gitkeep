@@ -1,0 +1,1 @@
+# I file audio/meta del podcast vengono generati dal workflow update-news.yml (richiede il secret GEMINI_API_KEY). Questo file mantiene la cartella nel repo anche prima della prima generazione.
