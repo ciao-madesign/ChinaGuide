@@ -50,17 +50,43 @@ function buildDigest(feed){
 
 function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
 
-/* Gemini a volte risponde 503 "alta domanda, riprova più tardi" — un
-   problema temporaneo di capacità lato Google, non del nostro codice
-   (osservato su più run reali di questo workflow). Ritentiamo un paio
-   di volte con una breve attesa prima di arrendersi. */
-async function callGemini(model, body, { retries = 2, retryDelayMs = 4000 } = {}){
-  for(let attempt = 0; ; attempt++){
-    const res = await fetch(`${API_BASE}/${model}:generateContent`, {
+const GEMINI_TIMEOUT_MS = 90000;
+
+async function fetchGeminiWithTimeout(model, body){
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), GEMINI_TIMEOUT_MS);
+  try{
+    return await fetch(`${API_BASE}/${model}:generateContent`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
       body: JSON.stringify(body),
+      signal: controller.signal,
     });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/* Gemini a volte risponde 503 "alta domanda, riprova più tardi" (problema
+   di capacità lato Google) o la fetch stessa fallisce a livello di rete
+   (es. "fetch failed" — connessione caduta, non un errore HTTP: osservato
+   su un run reale, e senza timeout può restare appesa diversi minuti
+   prima di arrendersi da sola). Ritentiamo su entrambi i casi, con un
+   timeout per tentativo così non resta mai bloccata a lungo. */
+async function callGemini(model, body, { retries = 2, retryDelayMs = 4000 } = {}){
+  for(let attempt = 0; ; attempt++){
+    let res;
+    try{
+      res = await fetchGeminiWithTimeout(model, body);
+    }catch(err){
+      const label = err.name === 'AbortError' ? `timeout dopo ${GEMINI_TIMEOUT_MS}ms` : err.message;
+      if(attempt < retries){
+        console.log(`Gemini ${model} errore di rete (${label}) (tentativo ${attempt + 1}/${retries + 1}), ritento tra ${retryDelayMs}ms...`);
+        await sleep(retryDelayMs);
+        continue;
+      }
+      throw new Error(`Gemini ${model} errore di rete: ${label}`);
+    }
     if(res.ok) return res.json();
     const text = await res.text().catch(() => '');
     const transient = res.status === 503 || res.status === 429;
