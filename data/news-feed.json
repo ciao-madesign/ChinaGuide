@@ -1,31 +1,74 @@
 {
-  "generatedAt": "2026-11-03T12:41:35.042Z",
+  "generatedAt": "2026-11-04T08:21:38.369Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Chinese Lijian-2 rocket launches new group of satellites",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MnAxWjF0QS1jaTVaNEFnUEdwMUFzemtoY29GeUNyQk9fNUxrVUN2V2VMRDJNcmczY0c2bjFVY0ppekNhbDNQWWNJdldNVmtQV3Z6YzItakFZSFVIMWpiZDRWcnM4VS1MN3J4MnBFazhPUy1IN1NJQVBOdjQ?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 06:34:45 GMT",
+          "title": "Xinhua News | Democrats projected to win both chambers of Congress in U.S. midterm elections",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85U1BTTnhqTVVRWkF2cDl0UXZGMk85cHNlNWxpU1FvSkRuY1JLUWtybTVtQVE4bl9PR18xcmFySHR6bktUNEVBSmh6eXFjaDFyeERwTkw4bDZTR1JKdnFUM0tHTzRsZXZIaXJFOHQ3V0pfUk9FbWZaLVdZcWk?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 05:58:16 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua News | Democrats projected to take over control of U.S. House of Representatives",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZU0wWWRZY0xsNTBRUG00a0FMVkxjR2FEMmtKRkE5V19TdU9wcEtiN3dWdG9zZzZ4VlBkckt0YzRLdGRPNlI0WDVNVDhxTFZYakNaMXBhRmJwQ3ZtRENBb05GWnYzRXljVHI1ZHYwMzc2ZEw3WGYwdmQwU3c?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 04:25:17 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua China news advisory -- Nov. 4",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZDR6eVU3M1U0WmI0NlR6ODB1Wk1IUE9TUkIwYVdqZVo5YVF0SERLeDFDMkJtQjRNaFN1R1R2dnJHZ25sbGIyX3dqbXdhaTNQQ3NDRV9QVGxOenI4ZXV1LXp5bkhUeHNCbUJYQXVpd0NfWENzdFk2TkZseDI?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 02:54:15 GMT",
           "source": "Xinhua",
           "text": [
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026. China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
-            "JIUQUAN, Nov. 3 (Xinhua) -- China successfully launched a Lijian-2 Y2 carrier rocket from the Dongfeng commercial space innovation pilot zone in northwest China on Tuesday.",
-            "Lifting off at 8:15 a.m. (Beijing Time), the rocket sent 18 satellites of the Spacesail Constellation into planned orbit, with these forming part of China's commercial low-orbit satellite network. This successful launch marks the first time the Lijian-2 has carried out a large-scale satellite internet constellation deployment mission.",
-            "The Lijian-2 is a liquid-fueled carrier rocket independently developed by CAS Space. It is China's first launch vehicle featuring a \"universal booster core\" configuration, with a payload capacity of 8 tonnes to a 500-km sun-synchronous orbit and 12 tonnes to a 200-km low Earth orbit.",
-            "CAS Space said the mission was the second flight of the Lijian-2 rocket and the 18th launch of the Lijian series. The Lijian series has placed one spacecraft and 139 satellites into space, bringing the total in-orbit payload mass to over 27 tonnes and serving nearly 40 customers both at home and abroad. ■",
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
-            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
-            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
-            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
-            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
-            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
-            "[continua sulla fonte originale]"
+            "BEIJING, Nov. 4 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Wednesday.",
+            "-- Xi Focus: Unlocking a vast market for the world",
+            "-- Xinhua Headlines: World Internet Conference Wuzhen Summit highlights open-source AI governance, digital cooperation",
+            "-- Xinhua Commentary: China, a global green development stabilizer and contributor",
+            "-- China Focus: China seeks to bring archaeology closer to public",
+            "-- Feature: Seeds of unity, prosperity take root in Xinjiang's Pomegranate Lane",
+            "-- China Focus: Chinese tech leaders discuss future of intelligent connectivity",
+            "-- China Focus: On Mount Tai, a tough test for China's robots",
+            "-- Canton Fair concludes with record buyer turnout, highlighting China's manufacturing strength",
+            "-- China carries out over 200 clean energy projects in Africa",
+            "-- China's space station exposure experiments yield original achievements",
+            "http://www.youtube.com/user/ChinaViewTV  ■"
+          ]
+        },
+        {
+          "title": "Xinhua Asia-Pacific news summary at 1600 GMT, Nov. 3",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15MVU4QnFqLWlnb0lsMU1vMTFkWHF2REd0eXNYZnd3XzNmUUFENVA4Nm82TjFJU2pCbXlwajFwWkVHaWttbTAwT3hWZmY2a21rUlZIbVpSSTZtcmpSdm9Tc2hmdDhoMXpYNnRSWGRjTHFYVHNSLXpOUHNzQ1E?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 16:02:15 GMT",
+          "source": "Xinhua",
+          "text": [
+            "DHAKA -- Bangladesh and South Korea have agreed to establish a government-private sector working group to identify priority areas for cooperation and facilitate business engagement.",
+            "The understanding was reached at a bilateral meeting between Bangladeshi Finance and Planning Minister Amir Khasru Mahmud Chowdhury and South Korean Trade Minister Park Jung-sung in Seoul on Monday, according to a statement from the Bangladeshi Finance Ministry on Tuesday. (Bangladesh-South Korea-Cooperation)",
+            "TOKYO -- Japanese Defense Minister Shinjiro Koizumi on Tuesday again called for discussions on reviewing the country's Three Non-Nuclear Principles and expressed support for considering the introduction of nuclear-powered submarines, Kyodo News reported.",
+            "Speaking at a seminar in Tokyo, Koizumi said an environment should be created in which necessary security policies can be discussed openly and frankly without prejudice. He added that, as Japan revises its three key security documents, society as a whole should develop a shared understanding of nuclear threats, according to the report. (Japan-Nuclear-Revision)",
+            "JAKARTA -- Indonesian police announced Tuesday evening that they have named three suspects in a case involving the alleged illegal wiretapping of several people, including President Prabowo Subianto.",
+            "Asep Safrudin, head of the Criminal Investigation Agency of the Indonesian National Police, told a press conference in Jakarta that the alleged wiretapping took place between 2025 and 2026. (Indonesia-Tapping-Suspect)",
+            "HONG KONG -- Hong Kong's real gross domestic product (GDP) expanded 5.2 percent year on year in the third quarter (Q3) of 2026, according to advance estimates released by the Hong Kong Special Administrative Region (HKSAR) government on Tuesday.",
+            "The increase accelerated from the 4.2-percent rise registered in Q2, data from the Census and Statistics Department showed. (Hong Kong-GDP-Q3)  ■"
+          ]
+        },
+        {
+          "title": "Xinhua world news summary at 1600 GMT, Nov. 3",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdFJsM2drelB1MjBTWTh4cXdJaERZek5pWEhrQ01EMWMxdFMzSENKRUdkWXJkQVdVLXlKWVVuQ3VJVjFfTUpYMlpSVGgwd1h4TUFIbkszbmRJQlcyQV9XYUhiTmhFM2IxSTVsNG1BM0FfNjEtNXo1ZVpvSE8?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 16:00:00 GMT",
+          "source": "Xinhua",
+          "text": [
+            "WASHINGTON -- U.S. President Donald Trump said Tuesday that U.S. military assistance to Israel would be discontinued at the end of this year, arguing that Israel no longer needs the aid and is capable of purchasing its own weapons.",
+            "\"We were giving them 4 billion (U.S.) dollars -- we are -- but it gets cut off at the end of the year,\" Trump said in an interview with Fox News. (U.S.-Israel-Military Assistance)",
+            "HELSINKI -- The Swedish parliament on Tuesday rejected Centre Party leader Elisabeth Thand Ringqvist as the country's new prime minister, leaving the country's political deadlock unresolved nearly two months after the general election.",
+            "According to the official parliamentary results, 324 lawmakers voted against her nomination and only 25 in favor, with support coming exclusively from her own Centre Party. (Sweden-Political Deadlock)",
+            "SOFIA -- Counter-terrorism units were checking a plane at Sofia Airport for possible explosive devices, Lyubomir Nikolov, the acting secretary general of Bulgarian Interior Ministry, said on Tuesday.",
+            "Nikolov told reporters that the plane landed \"minutes ago\" and bomb threats were made to various institutions. (Bulgaria-Airport-Bomb Threats)",
+            "DOHA -- Qatar said Tuesday that the United States and Iran are reviewing proposals aimed at ending their conflict, but differences between the two sides remain unresolved despite continued diplomatic engagement.",
+            "\"Bridging the gap is still a work in progress,\" Qatari Foreign Ministry spokesperson Majed Al Ansari told the ministry's weekly press briefing, confirming that both sides were studying proposals and ideas presented by mediators. (Qatar-U.S.-Iran)  ■"
           ]
         },
         {
@@ -59,53 +102,6 @@
             "-- China Focus: AI wardens sharpen China's river stewardship abilities",
             "http://www.youtube.com/user/ChinaViewTV  ■"
           ]
-        },
-        {
-          "title": "First world robot Mount Tai climbing competition held in east China's Shandong",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HN2tSMlFVb3FFMklzdi1yZVNiZ0hUX2N0UG9xcXFyLTI4V2JUTUtoeGVyWmxPeDE3WDBZNVdvMm9fOVFscy1OMUl4MmRnWUhGWFhnamtKR2dhb0puZk9KTzlOTDBiNzhFdGZlZ1ZuMEZBWlMxak9RT3JzaHM?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 23:28:13 GMT",
-          "source": "Xinhua",
-          "text": [
-            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
-            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Xinhua News | Xi, Peruvian president exchange congratulations on 55th anniversary of ties",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hakU4Qzk1RU5VbzJKSGhMZTM4NV9UaVJYU0xGNnBwRmxKVFBnd1dRVnY2QlBCa3lNMzNrd0NVcFB1MkFtM1hiM0NLdm13dWU5aGptZUJHTmZkOElWS3MwX2RBbFR0NVhyZktoRm5TZDVoUDNkeDJQbFhnbFg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 07:58:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Chinese President Xi Jinping and Peruvian President Keiko Fujimori on Monday exchanged congratulations on the 55th anniversary of diplomatic relations between the two countries.&nbsp;#XinhuaNews",
-            "CPC plenum concludes, adopting resolution on persevering with full, rigorous Party self-governance"
-          ]
-        },
-        {
-          "title": "Xinhua News | Xi holds welcome ceremony for Sultan of Oman",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOVVtaDdRTlU2eGt3ejZLUWUxa2pWZktab2YwLWxYTldweTYtQjRQaFBhTEVSdjRIQ1c4NXJWX1hRdFpHM1o0cXF5TmtSVHhnb2hqYmRTSUlWTUVIZGx5U3dBeHJyZkdiN0JHcUE0TW9Ta091VWRzN1BLM2c?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 03:32:17 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Chinese President Xi Jinping held a welcome ceremony in Beijing on Monday for Sultan Haitham Bin Tarik Al Said of Oman, who is on a state visit to China. #XinhuaNews",
-            "CPC plenum concludes, adopting resolution on persevering with full, rigorous Party self-governance"
-          ]
-        },
-        {
-          "title": "Xinhua News | Iran's IRGC says 2 \"violating\" oil tankers exploded after hitting mines in Hormuz Strait",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfWFUwNVUybDhMdDdCamI1cm14N3owX3ljbVV4RnRLWWpXM2VpaXJ1UmM0Y0tDYllOZlpwWlRXeEZHa2Q3dUdMTkkyRy1JR25KUzlsQVQtbjBubFFIZGJuWjVuMnBEdFZ5Ti1Na3BhdlhaUnFoaXZwRzc4ckg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 03:11:16 GMT",
-          "source": "Xinhua",
-          "text": null
         }
       ]
     },
@@ -113,6 +109,31 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTC16ZUpUVDkzdmhLYXVYMDZrZE15QlN3Q1lUd1RWanN2ak5SNW1WeUw2TmNHRXFLaVRHOFVTaFloZWZaSmtSc2NkREFYOHBDX2ppaFdiZnpfNzcyck1oZjN4azA0RktoVjhVN0lHWQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:57:00 GMT",
+          "source": "人民网",
+          "text": null
+        },
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLa29reWhraGY5Q3RCZEpULTBTRmhlaURRNkdETUNacFZ2TnVzNXRSOGVNRVBtWFRyLXVlYWZqNnlaam9MdURaWXVkSndPa3BYNW5iOEF1eGZqdHpkNlVZb2tJSGZ6eXZXX1dad2hUbw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:10:00 GMT",
+          "source": "人民网",
+          "text": null
+        },
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSeTB3OEtkcncyT19ISktVeUx0U2N4UHNVeGZfMGFFM1NYakdNQ1FNbnY2NHVib1RCaVQwZFZDVy02eVJCTm00SDFLdjYzZUNON0VKU2p6am9YNFVFbGFJVjNJSGxnUUZNYU1ReFJaaw?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 08:25:00 GMT",
+          "source": "人民网",
+          "text": [
+            "   &nbsp;         &nbsp; &nbsp; 2025  1  1  &nbsp;       2  &nbsp;   &nbsp;      1     &nbsp;  &nbsp;        13    ",
+            "            &nbsp;      &nbsp;       8   &nbsp;   10   1   7   &nbsp;   5   &nbsp;  &nbsp; &nbsp;      &nbsp;         3      3  &nbsp;           8    2028     ",
+            "    2027         &nbsp;     9        "
+          ]
+        },
         {
           "title": "人民网蒙文版",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53X0FOS1RQMFFHcVFtSmlnRXhMRUpkVmZQQlgtazlONHJOTS1OUlhjbTJqR1dwZXRKWkV1akd4OU9MM2RpWWFZazZuRkl2c0lXc1NmVDlSLUxZMHFEOE9KZ0VodjJnMkdqR0xSaUJyOA?oc=5",
@@ -135,6 +156,123 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "US voters bring everyday worries to ballot box",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWZNS3J0cmdHam5DR184OUFmekw2V3FubDhDWllHNnNJaWd5UGhVdVJWNi1sVXJzek42ZmZFb3dsS3pWWkd1Z2swVmIyN1YtQ1B5OG1wWUsxTUJxNHZTSlpDOXBOeEt2Ump2QXlVWndKTEt0eWFjNDF0Tkdwc0NQTlFR?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 04:48:00 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "By LIA ZHU in San Francisco | \n          chinadaily.com.cn |\n          Updated: 2026-11-04 12:48",
+            "When Rafael Martinez cast his ballot in New York, his concerns were close to home: the cost of living, healthcare and getting his family through rising prices.",
+            "\"Honestly, it's been just about affordability and just getting my family through all these things,\" said Martinez, 43, of the Bronx.",
+            "As voters cast ballots in Tuesday's midterm elections, those interviewed by China Daily in New York and the San Francisco Bay Area spoke about prices they wanted brought down, services they wanted improved and a government they wanted to pay more attention to their lives.",
+            "For Maryanne Robinson, 60, a Bay Area resident, cheaper gasoline alone would not be enough.",
+            "\"I think we need to see, not just the price of gas come down, but the price of goods as well,\" she said.",
+            "The interviews reflected individual views in the two regions, with criticism of the administration running through the conversations. Their concerns about household expenses echoed a national KFF poll conducted Sept 16-21.",
+            "The poll found six in 10 registered voters worried about affording healthcare, similar shares worried about gasoline and other transportation costs, and 52 percent expressed concern about affording food.",
+            "In Washington state, Torrance, who gave only his first name, told China Daily a few days ahead of Tuesday's elections that it cost him considerably more to fill a small car's gas tank now.",
+            "\"My little Honda that I used to drive used to be only 40 bucks to fill up, now it's like 60 to 80,\" he said.",
+            "He blamed the Iran war and wanted greater attention paid to domestic problems than international affairs.",
+            "Robinson, a Canadian American, also criticized tariffs, particularly those on Canadian goods. \"I'm really not happy about the tariffs,\" she said, \"so I'd like to see that turned around as well.\"",
+            "Fellow Bay Area resident Rick Schaefer, 72, put healthcare first when asked about his biggest concern. He votes every year, he said, and regarded this election as particularly significant because it could change the balance of power in Washington.",
+            "Martinez also spoke about healthcare and its effects on communities. Asked about the government's performance, he said he felt its attention was directed toward corporate interests and affairs elsewhere rather than people at home.",
+            "He hoped the election would bring a less chaotic political environment.",
+            "\"You just want to see some normalcy in politics again,\" he said.",
+            "For Gordon Curtis, 76, the concerns he brought to the election were less about what he could afford. To him, addressing issues in the judicial system and governing processes is more urgent.",
+            "Curtis grew up in Southern California and has lived in New York City since 1979. Its diversity was the primary reason he moved there, he said, describing his affection for people coming from other countries to live together.",
+            "\"We are a nation of immigrants,\" he said. \"I can cope with the rises in prices and all that. That matters to me less than the integrity of our judicial system, our governing processes which are being trampled underfoot.\"",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Wuzhen Dialogue on AI: Room for more ideas",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtZFBMVnM5d0VqeDdwMFRPSDh0elV5M3dEakZPM3dSMS1YbUdCY3lRZk56c25fOS1mSlNTdlN5eWFDN3ZuLUV6eGc0eUR5VGNHdlZWVnNNUDd6Y3Z4WXNqcEp0WURfTkJtdkp2c0ljRm5qaDB4NkI4RWZ1OHQzUQ?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 02:46:41 GMT",
+          "source": "China Daily",
+          "text": [
+            "How far can a single idea go when others join in?",
+            "The Wuzhen Dialogue on Artificial Intelligence, a new event at the 2026 World Internet Conference Wuzhen Summit, will explore the power of open source, open collaboration and shared innovation.",
+            "Watch the video to see how ideas connect."
+          ]
+        },
+        {
+          "title": "Adidas bullish on growth opportunities in China",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlZDaWRnQm9MRVItRmhRMGtFdVEySkZqa2hqaHJ0bTdxNGxfakR5Z0VnSGJmemJXMTdEMnJJaE9jZVJ4eUJacXM2TFBFbXo2cFRtNkhJS0k4eVdzeEJaUkZRMjVNWUdPbUlaTk1icXlzdHYtODUyQXEwWE1USmdEbWRR?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 01:26:24 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "By WANG YING in Shanghai | \n          China Daily |\n          Updated: 2026-11-04 09:26",
+            "German sportswear company Adidas continues to explore opportunities in China and remains optimistic about the country's ambition to become a sports powerhouse, said a senior company executive.",
+            "\"We believe strongly in the Chinese market, and we feel that there is plenty of energy in the economy compared with the stagnation we see in Europe,\" said Bjoern Gulden, CEO of Adidas, during a recent interview.",
+            "\"The time when we were designing collections only in Germany or the United States is over. We are now designing all over the world and, believe it or not, the creative direction that is coming out of China and especially out of Shanghai is starting to play a more important role because the consumer wants it,\" said Gulden.",
+            "Adrian Siu, managing director of Adidas in China, said: \"Currently, as much as 65 percent of products in the China market are designed by Adidas' Creation Center Shanghai. Among the products designed by the Creation Center Shanghai, 25 percent are already sold overseas and are very popular.\"",
+            "Driven by both sports and sports fashion, Adidas views a country's growing strength in part through improvements in its sporting achievements. At the same time, a country's rising influence in global fashion reflects its growing strength and cultural creativity, Siu said.",
+            "\"Along with designing in Shanghai, manufacturing in China is making an impact globally and the company expects to keep contributing to the development of China's sports and fashion industries,\" Siu said.",
+            "Attending the recent 38th International Business Leaders' Advisory Council for the Mayor of Shanghai (IBLAC), Adidas submitted recommendations on how Shanghai can become a leading emotional vitality city at this year's meeting, which was focused on promoting innovation in Shanghai's service sector.",
+            "In its proposal, Adidas called for a new model of urban development that converts positive emotions into consumption growth, community vitality, cultural confidence and sustainable competitiveness. In the future, the cities that lead the world will be those that can create emotional resonance, and the company believes emotional vitality is becoming a new source of urban competitiveness, it explained.",
+            "The proposal noted that Shanghai's per capita spending on sporting goods rose from 922 yuan ($138) in 2008 to nearly 4,500 yuan in 2024. The city's sports economy has evolved from material consumption to experiential participation, and now toward emotional fulfillment.",
+            "Regarding China's goals for the 15th Five-Year Plan (2026-30) period, Gulden said Adidas sees itself as a contributor to these goals, which also present significant opportunities for the sports industry and related businesses.",
+            "\"The plan is great. I think there's a commitment to sports everywhere in China and we will of course support it because it's in our interest and sports is fun and the more people do it, the happier we will become,\" said Gulden.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Course charted for strict Party self-governance",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVGcxQk1kNTFQekJsNDZwSnBhZGxmaHdNTV84Zl9tYWExc2MwU0kxcnlEU0UyZHVmSEJWbjB5RjUtNzVVMkg4QjMzX2M1V1BqYmZDeERRaUotMmFDb2JqbzJnTE5vM0JTOGt1S3Qza0cwcl9aUDdMWXVKZDBSUQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 22:54:31 GMT",
+          "source": "China Daily",
+          "text": [
+            "As China enters a critical period in its modernization drive, the governing Communist Party of China has charted the course for tougher action against corruption and stronger self-governance in the years ahead.",
+            "Last week, the fifth plenary session of the 20th CPC Central Committee adopted a resolution on persevering with full and rigorous Party self-governance, underscoring the need to step up the fight against corruption and strengthen checks on and oversight of the exercise of power.",
+            "In doing so, the CPC — the largest political party in the world, with more than 100 million members — is seeking to overcome the unique challenges facing a party of its size.",
+            "These challenges, as outlined by Xi Jinping, general secretary of the CPC Central Committee, include how to maintain the Party's strong governance and leadership capacity, and sustain a clean and upright political environment.",
+            "\"It is now both imperative and timely for the Party to study issues concerning persevering with full and rigorous self-governance,\" Xi said in a January meeting of the Political Bureau of the CPC Central Committee that set the agenda for the plenum.",
+            "At the January meeting, Xi said the decision to focus the plenary session on Party self-governance had been made after thorough deliberation.",
+            "Since it was founded in 1921, the Party has attached great importance to its self-supervision and self-governance. Today, the CPC's membership and ranks of officials have undergone structural changes, presenting new challenges for Party building.",
+            "In response to these challenges, Xi has repeatedly stressed the need for an unwavering commitment to strict Party self-governance, sending a clear signal that discipline will be enforced ever more strictly.",
+            "\"It was with this in mind that the CPC Central Committee decided to make persevering with full and rigorous self-governance the plenum's agenda,\" he noted.",
+            "Explaining the resolution at the plenary session, Xi emphasized that persevering with full and rigorous self-governance is essential for maintaining the Party's advanced nature and integrity and consolidating its long-term governing position.",
+            "This year marks the beginning of China's 15th Five-Year Plan (2026-30) period, a critical time for achieving the goal of basically realizing socialist modernization by 2035.",
+            "\"To successfully achieve the goals and tasks of the 15th Five-Year Plan, it is imperative to focus on enhancing the ability and competence of the Party in leading economic and social development,\" Xi told senior provincial — and ministerial-level officials attending a study session at the Party School of the CPC Central Committee earlier this year.",
+            "In January 2026, a drafting group was set up to prepare the resolution, with Xi at its helm.",
+            "Throughout the drafting process, he played a decisive role, chairing multiple meetings, delivering important speeches and issuing instructions to guide the work.",
+            "On Feb 6, Xi chaired the group's first plenary meeting, during which he outlined the key principles for the drafting of the resolution.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Rules of coexistence between man and machine",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UeUcxd3Q1WVltNHdfWFVRLWhkV2tudHpmTnBaMkcybFhWSTVpSEpyT1VRakZIdXhNYW9vTjdZSTd0UERXR0FSajRVRk1FekNWdVhNQ2VreGxqLVNCRFlJeVllUHVjZUFKVVpzaWY1LUU3ZzR2UGltUDdaSjNCQQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 15:36:23 GMT",
+          "source": "China Daily",
+          "text": [
+            "Robots, now numbering millions across factories and homes, serve as both solutions and challenges. They address issues such as economic productivity and care for an aging population, but also raise many questions that extend beyond technology into social and political realms.",
+            "For centuries, humans have used machines to replace physical labor. Machinery in textile mills sparked the industrial revolution and was followed by trains, cars and cranes that brought unprecedented progress and prosperity. The more than 4 million robots now working in industry worldwide continue that story, particularly aiding countries facing labor shortages and population declines.",
+            "However, we are a long way from a fully automated world. The Republic of Korea, which has one of the world's lowest birthrates and leads in automation, employs only one robot for every 10 manufacturing workers, while the global average is about one for every 70.",
+            "In domestic settings, the gap between science fiction and reality is even wider. While millions of robots now vacuum floors and mow lawns, the promise of automated homes has not materialized, partly because progress in dexterity has been slower than expected. We still lack robots capable of handling the complex needs of the elderly. Although some robots provide companionship, emotional support and basic physical assistance, the complexities of real home environments present significant challenges.",
+            "Since the 1960s, futurists have repeatedly warned that robots would destroy jobs on an epic scale, leading to mass unemployment. Most of these forecasts proved dramatically wrong: overall employment went up, not down, and more recent predictions, such as the disappearance of radiologists, have proven equally misleading. Most industrial robots perform basic tasks such as assembling, sorting and moving things around. Their rise has indeed increased the demand for specialist roles such as engineers and workers who can collaborate with robots on complex tasks. But there are few signs of a job apocalypse.",
+            "However, the bigger questions raised by the advent of robots are becoming more pressing. Machine labor has freed millions from grinding toil, enabling women, in particular, to engage in paid work. But the rise of machines often results in short-term job losses. The Luddites of the 1810s, who destroyed machines in England, were rationally responding to changes that destroyed their jobs while enriching a few. It was not until the end of that century that newly industrialized societies began to share the benefits of mechanization more fairly through clean water, sewerage, welfare states, universal education and healthcare.",
+            "Today, the debate continues on how to distribute the costs and benefits of automation more fairly. Microsoft founder Bill Gates once suggested a robot tax equivalent to the income tax of displaced workers. If jobs do shrink sharply, we might need new basic income models, an idea supported by both the political right and left. Additionally, the concentration of wealth among capital owners has prompted calls in the United States for redistributing AI-generated wealth to the wider public.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Innovation thrives on openness, cooperation: China Daily editorial",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3T19WZ0tCZVU2MGt5eFlsUWtwNXpiRVJOYnVwLXJQdlowb1JiaWpCMmxydmRCb19lcEYzSjhNNEhOT3hVVXRJakhGUE5GYU40SXJSUU9CU2RSUV9CdGVsQUhQc0hDVHVWb1BzU0N3QnlTbWN3TllJOS1lV21Kdw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 13:04:44 GMT",
+          "source": "China Daily",
+          "text": [
+            "The 2026 World Internet Conference Wuzhen Summit, held in Wuzhen, Zhejiang province, with its emphasis on open-source artificial intelligence and international cooperation, carries a timely message: technological progress is better served by openness and collaboration rather than suspicion and exclusion.",
+            "The annual gathering of the global internet community, running from Monday to Thursday, offers more than a showcase of the latest technological achievements in the sector. The development of global AI ecosystems and the governance of emerging technologies have become pressing questions for governments, businesses and societies worldwide. By bringing technology executives, researchers, developers and international representatives together for face-to-face exchanges, the Wuzhen Summit provides a valuable platform for discussing not only where AI is heading, but how its benefits and risks can be managed.",
+            "The summit's 27 sub-forums, covering almost everything from AI agents and embodied intelligence to robotics and international cyberspace governance, reflect the breadth of the opportunities and challenges. In particular, the gathering's focus on building a global open-source AI ecosystem has caught high attention. Such an ecosystem means that no country or company can determine the future of a technology that is becoming integral to the global economy. Cooperation on standards, safety and innovation is not a concession of competitive advantage; it is a prerequisite for making technological progress sustainable.",
+            "Chips, large language models and robots are increasingly interconnected components of such an ecosystem. China's innovation vitality lies precisely in this integrated chain, linking research, manufacturing and commercial applications. That is also why attempts to contain China's technological development through restrictions on individual technologies are unlikely to achieve their intended purpose.",
+            "The summit's attention to 6G is similarly forward-looking. By integrating communication, sensing, computing and AI, 6G can support intelligent transport, low-altitude aviation and connectivity across remote regions, oceans and the skies. Its significance lies in expanding the relationship between the physical and digital worlds.",
+            "The summit's discussions on one-person companies also recognize how open-source tools and AI agents are lowering the barriers to entrepreneurship. This could broaden participation in the digital economy, provided that entrepreneurial talent is given room to experiment and grow.",
+            "In addition, the summit zooms in on the prospects of the digital-intelligence consumer market, and highlights exoskeletons and brain-computer interfaces that could improve the lives of elderly people and those with disabilities.",
+            "Just as Chinese Premier Li Qiang said in a keynote speech at the opening ceremony of the Wuzhen Summit, despite rapid technological advances, one major question of common concern remains unchanged, namely how to make the internet better serve humanity.",
+            "[continua sulla fonte originale]"
+          ]
+        },
         {
           "title": "Global perspectives at the 9th Silk Road cultural expo",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONTBZbkhvN1M2UldBeVVBcmYxNGVuT1U3R1hJOWdBSjA1aXlDdzI0a2VFWDdobmR6S3Zoc3hSelFSYjJLYnNHOUxDTl9oTG1TOHVmYTc5U2IwcWExUy04RWlWdXhPMU1Zcm15ZVdLeEtOUWtBXzloQnVVZzlqM0hKSUpB?oc=5",
@@ -159,108 +297,6 @@
             "In his later years, he continued to reinvent himself, drawing on the aesthetic traditions of Chinese art and producing works markedly different in style from his earlier creations.",
             "The exhibition offers a glimpse into the journey of an artist deeply engaged with China's cultural development and the evolution of its art education."
           ]
-        },
-        {
-          "title": "HP looks to AI printers to navigate shifting China market",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeGhfaVpsN2twblM3VDB5bmZ3UHZOMW8zZGVOeEVabnppUmhpLS1OR3NFREpBZnh6cTEwZWJHZFlmY3ROc3UwT3RpNXp5eGJ2UEhvNG5iSE1yUU9pQWJuQWxqR1ctY1lxN2FQamswMk4yT3Y2M2JINkhLdGpVZw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 09:10:55 GMT",
-          "source": "China Daily",
-          "text": [
-            "HP Inc has launched 13 AI-powered learning printers tailored for Chinese families, betting that artificial intelligence can rejuvenate a maturing hardware market and fend off intensifying competition from domestic brands.",
-            "The new models, recently unveiled at HP's autumn launch event in Hangzhou, Zhejiang province, integrate AI-driven homework grading, error-question collection, and curated educational resources into the company's WeChat mini-program.",
-            "Rollin Jin, vice-president and general manager of HP Printing Systems Group of Greater China, said the company's share in China’s printing market stood at roughly 38.6 percent in 2025, according to data from the US market research company International Data Corp, maintaining a clear lead over the second-place player.",
-            "But he warned against complacency. \"The more we lead, the more we must prepare for adversity,\" Jin said, citing three pressures: shifting market-access rules and localization demands, the rise of Chinese printer brands, and changing demand patterns as traditional sectors contract while new industries such as new energy emerge.",
-            "China's printer shipments peaked above 19 million units around 2022 and now hover between 13 million and 14 million, Jin said. While overall hardware demand has stabilized, the mix has shifted: inkjet and laser shipments have converged at roughly 7 million units each, and refillable ink-tank models are gaining share within inkjet.",
-            "HP's answer to this plateau is to move beyond hardware and consumables. \"If we only stay in hardware, supplies and existing applications, the space will be limited,\" Jin said. \"Ultimately it comes down to innovation—whether we can keep pace with the times and capture new user needs.\"",
-            "The AI learning printers are HP's first major push in that direction for Chinese households. According to HP, the company does not build its own large language models but calls third-party and vertical models via the cloud, optimizing for accuracy, user fit, and token consumption.",
-            "HP's pre-launch research found that 50 percent of surveyed users prioritized homework grading and 48 percent sought error-question collection. The company plans to adjust feature priorities based on actual usage frequency.",
-            "The launch also reflects HP's recognition that China's AI ecosystem cannot simply absorb global solutions. Jin said overseas AI printing solutions cannot be directly deployed in China, requiring localized interfaces, cloud partnerships, and content collaborations. HP is investing in China-specific AI infrastructure.",
-            "The broader context supports HP's bet on AI literacy. A report from iMedia Research found that 72.75 percent of surveyed consumers purchase home learning printers for printing coursework, while a China Consumers Association survey cited by HP found 27.8 percent of respondents rank product quality as the top factor influencing purchase decisions. HP argues that as AI expands what a printer can do, reliability across content processing, connectivity, and output becomes more—not less—important.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Top procuratorate vows crackdown on personal information crimes",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVlFzcGc0YWVEaE1vZ25SYTJQN3czcFg1MTB4MVplME9hckJIdDctYXJYNEMtdjhJUEdDLXJvUzdOczRoWm1HU0Z0RUFtcjV3ZHEwYTlHaXlPRHVpNFFMMy1LUVg0dEY0eWsxU1EteUV6NGtpdlV1RFU0d25NUQ?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 08:39:17 GMT",
-          "source": "China Daily",
-          "text": [
-            "China's top procuratorate has pledged to intensify efforts to combat the illegal collection, sale, and misuse of personal information, as emerging forms of cybercrime pose growing threats to individual privacy, public safety, and online security. The Supreme People's Procuratorate released eight typical cases on Monday to mark the fifth anniversary of China's Personal Information Protection Law, highlighting offenses ranging from online doxing and the illegal sale of celebrities' whereabouts to personal data theft through fraudulent recruitment and the unauthorized transfer of sensitive medical information overseas.",
-            "In one case, a woman surnamed Shu, who worked as a customer service representative for an airline outsourcing company, exploited her access to the airline's internal system to obtain celebrities' flight information and sell it to fans online. Between October 2021 and April 2024, Shu illegally obtained and sold flight details involving more than 30 celebrities and over 100 flights, earning more than 10,000 yuan ($1,500). The leaked information was used by fans to track celebrities, follow them onto flights, or gain access to airport departure areas, disrupting airport operations and posing potential public safety risks.",
-            "In February 2025, a Beijing court sentenced Shu to 10 months in prison, suspended for one year, and fined her 30,000 yuan. She was also ordered to pay public-interest damages and issue an apology. Prosecutors subsequently challenged the ruling because it failed to confiscate her illegal earnings. An appellate court ordered the recovery of the proceeds in April 2025.",
-            "The SPP stated that flight information, which can identify a person's location at a specific future time, constitutes protected personal movement data under Chinese law. It warned that the illegal collection and sale of celebrities' personal information had fueled disorderly fan activities, including intrusive photography and crowding at airports, threatening privacy and public safety. Prosecutors should pursue criminal charges while also considering public-interest litigation to hold offenders accountable for broader social harm, the SPP said.",
-            "Another case involved six defendants who used illegally obtained personal information to target internet users through online doxing, involving the public disclosure of private information without consent. The group hacked into a provincial government service platform and obtained more than 16 million personal information records. Some defendants also stole over 1 billion records from online forums and cloud storage services. The stolen data was used to harass 47 people, including five minors, through online abuse and offline intimidation. Five victims sought medical treatment for depression, while several students experienced difficulties with their studies. In December 2025, a court in Chengdu, Sichuan province, sentenced the six defendants to prison terms ranging from nine months to four years and five months. Their convictions were upheld in April 2026.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Art brings different worlds a little closer",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ScldweE1ER2NGWXM4VWpJT0x0MDZLOUtQVEJjaEJ6RzZzS2dRX2xyZXRKa2RpenpXdDFBeFVWSVo0TmxiM2d6X2lMWlRPa012aGRrTjVsX0FoYXJzaFBfRkI0bFJTOURUUDlSd2haVnQycDVLajR1SEZCYTdKdw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 03:09:11 GMT",
-          "source": "China Daily",
-          "text": [
-            "The second Sino-French Art and Design Exhibition, titled \"INTERREALM\", was held at the Carrousel du Louvre from Oct 23 to 26. Bringing together 24 artists and designers from China, France, the Netherlands, and other countries and regions, the exhibition showcased 39 works (or groups of works) across a range of mediums including painting, sculpture, installation, fiber art, ceramics, fashion design, and digital art.",
-            "The exhibition was jointly initiated by the China-France Heritage and Innovation Center (CHIC), CIRCLE, and MINDSWELL. Its main section, themed \"Contemporary Care: How Do We Continue to Connect with Each Other?\" explored care as a lens through which to reinterpret the relationship between people and the world. Addressing themes ranging from memory, companionship, and trauma to healing, the participating artists transformed personal experiences into art expressions that resonate with a wider audience.",
-            "Curator Meng Yueming said, \"Tradition is no longer simply history to be preserved, and design is not merely a combination of function and form. Art becomes a way of re-examining the world, allowing people from different cultures, generations, and creative backgrounds to share experiences, raise questions, and forge connections in the same space.\"",
-            "The exhibition is divided into four sections: \"Contemporary Care\", \"Cross-Cultural Exchange\", \"Contemporary Transformation of Intangible Heritage\", and \"Youth Growth Plan\". Together, the 39 works (or groups of works) highlighted the varied dimensions of contemporary art and design. They also demonstrated that cross-cultural artistic exchange goes beyond blending visual elements. Rather it is an ongoing dialogue between different systems of knowledge, material experiences, and ways of life.",
-            "The event also featured two themed round-table forums. The first, \"Caring Connections: Art, Attention, and New Relationships\", explored how personal experiences, public sharing, and exhibitions can foster connections through everyday objects. The second, \"Caring for Materials and Heritage: Living Heritage, Craftsmanship, and Contemporary Creation\", turned the spotlight on materials and craftsmanship, exploring the place of traditional skills and cultural heritage in contemporary artistic practice. Both discussions closed with a shared question: \"How can we ensure that culture and experience continue to be understood, shared, and passed on to future generations?\" The forums offered a common concluding thought: Care is about sustaining relationships and keeping them alive."
-          ]
-        },
-        {
-          "title": "Long-term investors post net A-share purchases amid market volatility",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yVjFPSmd0Vm1aaVo5ZWJURFB0VF9JbE9WYzZrYlVsYmFVMHpuNGNUSEtTcHYxeE92WTFnSGRmSUZBTmNYWmEyMWFzUmM5dThNczQ4WXl6eWhYSW1KWjVHZWZXNkxKRHNEaldCbzJVT1Y4S2ZOMkp3cjBQWnZHZw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 02:57:16 GMT",
-          "source": "China Daily",
-          "text": [
-            "Medium- and long-term institutional investors have increased holdings of China's A shares despite recent heightened market volatility, reflecting confidence in the stock market's long-term prospects, official data showed.",
-            "The national social security fund, insurance funds, mutual funds and securities firms have bucked the market downturn and posted net purchases of A shares overall since October.",
-            "From September 2024 to September 2026, the national social security fund, basic pension funds, annuity funds and insurance funds made combined net purchases of more than 1.5 trillion yuan ($226 billion) in the A-share market, providing substantial support for market stability."
-          ]
-        },
-        {
-          "title": "Farmers and elephants struggle for space",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTHJ1T0JxLTVLMUR2aUJQdXlxR08xSFBkUGJ6eEZEdWlTZkxJeXI4VHBkTFhPa3FQLTNsS29INnJaeThOVVJ4NDVndlNGWWdxaHVKWURHeTNlMzRtN25zeHRVc2syaVdfZUlBS0hPNng4QWQ2QzJFM2kyZk1Cdw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 02:18:00 GMT",
-          "source": "China Daily",
-          "text": [
-            "For communities living around Kenya’s famous Amboseli ecosystem — a vast wildlife landscape in the country’s south near the border with Tanzania — elephants are both a source of pride and a growing challenge.",
-            "The animals are central to the area’s globally renowned wildlife and support livelihoods through tourism and conservation-related opportunities. But as farms and settlements increasingly overlap with the elephants’ traditional movement routes, their frequent raids on crops can leave farmers counting losses from months of work, deepening the struggle to coexist in a landscape shared by people and wildlife.",
-            "The deaths of 18 elephants between late June and August in the Amboseli ecosystem, and the arrest of four people as investigations continue, have brought renewed attention to that delicate relationship, raising broader questions about how communities and wildlife can coexist as pressure on land and resources grows.",
-            "Preliminary laboratory results pointed to the probable involvement of a toxic substance in the deaths, with earlier indications suggesting possible cyanide poisoning after the elephants consumed pesticide-contaminated tomatoes. The findings remain under investigation, and authorities have cautioned against assigning responsibility before the inquiry is complete.",
-            "For Coleman Sankale, a farmer in Namelok, Kajiado County, who lives just a few meters from the Amboseli National Park, the conflict is part of everyday life. He said elephants and other wildlife regularly destroy crops, leaving farmers to spend nights trying to chase the animals away.",
-            "“We don’t want those elephants to come and destroy our farms, our crops,” Sankale said. “We can tell KWS (Kenya Wildlife Service) to take care of the wildlife and see how they can keep them far from our farms.”",
-            "But Sankale said he does not want the elephants killed. Instead, he called for stronger measures to protect farms, including better maintenance of electric fences and compensation for farmers whose crops are destroyed.",
-            "“If they compensate, it is OK. We can live together with animals,” he said, adding that maintaining electric fences would help prevent elephants from reaching farms.",
-            "For other farmers, the losses have forced them to abandon crops altogether. Lorinya Oletunge, a small-scale farmer in the Kimana area, located near Amboseli National Park, said elephants have repeatedly entered his farm, destroying bananas, melons and other crops.",
-            "“The elephants have come to my farm so many times, almost all the time,” he said. He recalled planting bananas, only to watch the animals destroy them. “I stopped planting them again because when an elephant smells edible food such as banana stalks or watermelon, they will come and eat,” he said. “They have finished my farm.”",
-            "The conflict, he said, can extend beyond crops. Elephants sometimes remain near farms through the night and can disrupt the movement of children going to school.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Inspection as a routine to safeguard clean governance",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTnFFOWZ1ZVZGdWtRS0RDaGo4X1JpbDZtckJGOEFCY01CRjh2TzVOcWxOcUxCWkxxWFJOOWVnbTJVLW5RQ3NZVUQwUTc1SE9iZV9OdUhKRzVqaHdKWWxmSGptNHJrQk91alIySk1hRmg5WldoS1VwRDNYQTJkdw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 01:43:14 GMT",
-          "source": "China Daily",
-          "text": [
-            "The fifth plenary session of the 20th Central Committee of the Communist Party of China, held from Oct 26 to 29 in Beijing, adopted a resolution on persevering with full and rigorous Party self-governance.",
-            "This demonstrates the importance the CPC attaches to national discipline inspections and its determination to make consistent efforts to fight corruption.",
-            "China boasts a long history of sending inspection groups to check the conduct of ministries and local governments. When it became a unified country more than 2,000 years ago, dispatching central-government inspectors to supervise local officials became an institutional practice, aimed at ensuring their loyalty to the government and the integrity of local governance. Some emperors even traveled incognito to inspect local conditions firsthand.",
-            "Movies and TV series about such inspection and travel stories are a hit among viewers even today.",
-            "Since taking the reins of government in 1949, the CPC has continued that tradition, sending inspection groups to different regions and organizations now and then.",
-            "Intra-Party inspection became institutionalized in 1996 when a strengthened Central Commission for Discipline Inspection of the CPC kicked off systematic inspections — though the arrangements remained random and mostly targeted at problems.",
-            "When inspection groups were dispatched to some ministries and provinces in 2012, many thought it was just part of an anti-corruption campaign launched once every few years.",
-            "But problematic officials and organizations soon regretted their misjudgment.",
-            "Since 2012, two rounds of inspection, each lasting two to three months, have been conducted each year on average. In the past decade or so, many ministries and provinces have been subjected to three rounds of \"political physical checkups\".",
-            "The inspections are directly arranged by the CPC Central Committee, with the inspectors coming from different provincial regions and government departments including those in charge of discipline, organizational work and auditing. The group leaders are mostly officials above vice-ministerial level.",
-            "The inspectors work together during the inspection period before returning to their former positions.",
-            "The \"temporary arrangement\" is designed to prevent any possible intercession that may influence the inspections and investigations.",
-            "News about a new round of inspection is widely published to make sure that all citizens in the targeted provinces and organizations are clear about it.",
-            "On arriving at the chosen organization or region, the inspectors' addresses, phone numbers and email addresses are made known to the public while special letter boxes are set up, with the keys held by the inspectors.",
-            "Such arrangements are designed to invite public complaints about local or inter-organization problems. In fact, many clues about officials' suspected misconduct or even crimes are collected through these channels.",
-            "These measures have proved fruitful. In the past 14 years, the inspectors have found that some provincial-level organizations failed to implement Party policies or had violated Party rules.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
@@ -268,6 +304,45 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "In Profile: The Rise of a State Oil Executive Now Under a Graft Investigation",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWEhaU1VRR0k5RGZXcFE5TGU1dDQyVVRhTWo3dGEtbUZYZS1oUFE0UUkzT0JBb3gzbk9LbEQ3ZnNSa09BcDlLa2xQajhmTGhESHQzTEIzRjlSaEdMYjRGSThTZXVrZUtIRU84T2ZWckU2alhyM2Z6a3o4Qm95VE9ta0Q5cWM4TGg4LW9SdWtzT0RBcGZ1N01rMF9oc1dVdTZIdzhEbTcxOTVHUHlkS2FGUXV6ZEZid2N0X05JUF9QRHRJQWNwM2ZXUzE5WQ?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 07:56:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China&rsquo;s top anti-corruption authorities have placed Fu Chengyu, the former chairman of state-owned oil giant China Petrochemical Corp. (Sinopec), under investigation more than 11 years after his retirement.",
+            "The Central Commission for Discipline Inspection and the National Commission of Supervision announced on Oct. 31 that Fu, 75, was suspected of serious violations of discipline and law. The announcement did not detail the allegations.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Former Sinopec Chairman Fu Chengyu Under Investigation",
+            "Analysis: At Least 25 Sinopec Executives Ensnared in Two-Year Anti-Graft Sweep"
+          ]
+        },
+        {
+          "title": "China to Accelerate Work on Comprehensive AI Legislation",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVRxZG5FUUpBWmhTV0JYSFBKbjNWb0dQeWh3Y0YtcktmcGlqWlByV0Uwc18yUWh3QXZkdkVsdUMwSnEtZlpRZzJJVGxGRlNla3c1eEFUOTdTNjI0VlhkQm04UEpFcktPT2l1QTZpY0tsbHh1QjZJZkMzWU1NZHdTUHVycjVuaHRyaDh0dERkcWMtNlR5cWQzWEx0RGt2bXU0REZnblhIZGVQNjhrMFU1aw?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 04:20:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China will accelerate work on comprehensive artificial-intelligence legislation and expand rules governing the technology’s core inputs and key applications, a senior economic-planning official said Tuesday, as Beijing seeks to build a nationwide legal framework for the fast-growing industry.",
+            "Wang Ruomeng, deputy director of the National Development and Reform Commission’s Department of Innovation and High-Tech Development, said at a Nov.&nbsp;3 news conference that China would draw on its experience governing AI to develop foundational, comprehensive legislation establishing the pillars of an AI legal and regulatory system.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Zhejiang University Issues Model AI Law as China Moves Toward National Legislation",
+            "China Seeks to Protect Minors With Proposed AI Rules"
+          ]
+        },
+        {
+          "title": "Earnings Growth at China-Listed Companies Slows Sharply",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkpKWTZjX2NBNTVKZWZhWkl0akljNTdmc3RfQ181X2tvUUhJa1FZTDk2WVBaS2Q3MmpPejZBT0ZoRHRPaWlUTE1WZ3hZNlA4b21XSklKNFRTVktHcjdxQ2cxalVEZXEtNDVNVmJPQmdoS2RYLUphY2RjbVZKTDc3RExWQlVqNlZCTkUwRGRxeUJHVEptX0dHa3hjN3F3RTdGSExYOXBUOFBlOFMzbENn?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:47:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Earnings at companies listed on the Chinese mainland’s stock exchanges contracted sharply in the third quarter, with combined net profit falling about 13% year-on-year after rising roughly 25% in the previous quarter.",
+            "Of the 5,577 listed A-share companies, 5,572 had reported third-quarter results. For the first nine months, combined net profit rose about 8%, down from 19% in the first half. Excluding chipmaking giant CXMT Corp., which listed in July, the cumulative growth rate was roughly 5%.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "China A-Share Earnings Recovery Hinges on Financial Sector",
+            "Chart of the Day: China AI Chip Stocks Slide Despite Surging Earnings"
+          ]
+        },
         {
           "title": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWY4SEtjZTFsSVZGZWJIc1gtTlZ5bXNPd0cwVXNEUnRLVDg1Ym91VGpsRk9TRE02ZlJERG81ZnZLSnFKcUFmbTgwQ1IwQlRBN3NHdEJfY1JhQzBDMzl3cU1qNlQyVXExSDF3M2tNNWhkbVN4T0lJMlljeWt0S25jdTg5WmRocGowZzA5OGlPSll5TXc3cVQyMW9pX3gxQVJQaGZxVzVFbU83eS1KNnQ2NVlkMlFGaU11eXNKR3lXb3k?oc=5",
@@ -309,69 +384,28 @@
           ]
         },
         {
-          "title": "Tencent, Visa Expand Partnership in Cross-Border Payments and AI",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkUxMmxYeWVhank5R2FGMU5wYzdtaFJDZDYwbkFNTnNheHMyNjU4MndNWUlIaTUydENKY2JIRzdRU1ZCbG9UTDhlQWlLeDJuMW5kcVFfX1FSbVJRUVROQm9QVVYxM3hrQzFlbV9pZC1OOTkyZGZkdWFEODdVVS1wOHZEUjMzVFVJcDBVRkpjSWFGa0RrY0pZS3dreDh6cGpGbE05SzRWVmhqSnE2UFNpdkpGOU1XY3hjMFE?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 16:12:00 GMT",
+          "title": "CX Daily: The Global Tech Selloff Tests the Economics Behind AI Boom",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjJCSnNnUmlmbmJyT3J2NzMtOGFtNWh1azlDVm9wbVZTOXVNdEJ6UFlMRDFTVlNfcngwamFJUWhzRGtyM0k0alMyamN0cVB2cF9iNkRXbGUteEk4V2c2V09ybXg1ZWpiV2FETkZLRmtQc1JPVXE0WDBGN00tZDhKSURVTjdVY1hHLTc2VTRtdFQxU3J5LUc5MGtWTGxLc0tEUGphbXYxSHpVSkZmNEE5eDBTeXZ0ZmVpMVZDU2tDVQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 01:00:00 GMT",
           "source": "Caixin Global",
           "text": [
-            "Tencent Holdings Ltd. and Visa Inc. signed a memorandum of understanding to expand cooperation in cross-border payments and enterprise artificial intelligence.",
-            "The agreement follows Visa’s preparatory approval in early October to establish a wholly foreign-owned bank card clearing business on the Chinese mainland. Analysts say the partnership could strengthen Tencent’s position against global payment rivals such as Alipay and UnionPay International.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
-            "Apple Pay Enables Visa Network for Overseas Payments Using China-Issued Cards"
+            "Cover Story: The Global Tech Selloff Tests the Economics Behind AI Boom",
+            "Anthropic’s public stock filing gave battered global technology shares a welcome lift. Whether it can provide investors with something more durable — a reliable valuation anchor for the artificial intelligence boom — is far less certain.",
+            "Profile: Liao Min’s Path From Banking Regulator to IMF Nominee",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations."
           ]
         },
         {
-          "title": "Hong Kong Launches AI-Agent Governance Project",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVlSS3ljc0dDblhsWWVILW5NZFd6S05HcE0zWHB1NjZSYXJYVXNLajlnTDk2Tjg1SmxGNXNVUEN1aGw2eUFsNTdtQTFtY0xIZFNrSXlxNDZycVM4VHpKM3BsVFZQRThPYVItb2h3cUlwYXRscTlZX3pic3J2bkYxaTZlUnhsZDhtUWVtZ0dpam1hV0VzbGJWWTcyRDg2OFdFNERj?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 15:22:00 GMT",
+          "title": "China Moves to Support Stocks With Buyback and Liquidity Measures",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUc2dWVUUjZzMjRES3VWVEFXUnFZbXZZS24zWlZxR3lmVm1mdEVTWkFUQmt5WDNrS0toNkZWdWFmSmVnRThCSjg4NUNLNFBPTXowa1RoX1ktWUZSQ1dzcUNTTE5LSm5lNXg3MllxVFBUVTQ2eTdDc0Q3cHJqbmZKLTNab1dyVUNfUTZfemJYM1pmeF9jZ3RRLTJJOUJtMHJTcGotX05UUWh3NEV4V3F6b0xiWHBoUFNuLUFDaw?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 17:08:00 GMT",
           "source": "Caixin Global",
           "text": [
-            "The Hong Kong Monetary Authority has launched Project SAGE to develop a governance framework for artificial intelligence agents in the city&rsquo;s financial sector, as their use expands from internal operations to customer-facing services such as payments.",
-            "HKMA Chief Executive Eddie Yue announced the initiative on Monday at Hong Kong FinTech Week. Short for Securing Agentic Finance with Governance and Enablement, the project aims to address regulatory and cybersecurity risks associated with autonomous AI tools that conduct transactions on customers&rsquo; behalf.",
+            "China announced a package of measures Monday to support its declining stock market, easing share-buyback rules, preparing a third round of a central bank swap facility and making a lending program for buybacks and stake increases permanent.",
+            "The coordinated measures aim to bolster liquidity and investor confidence as continued market declines weigh on efforts to sustain the broader economic recovery.",
             "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China Internet Finance Body Raises Alarm Over OpenClaw AI",
-            "Hong Kong Grants First Stablecoin Licenses to HSBC, Standard Chartered–Backed Venture"
-          ]
-        },
-        {
-          "title": "Chart of the Day: Losses Mount at China’s Top Solar Firms",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ25NcllJNWJvV1h6Z2p2dDFvTnRwSzliSjZDNk9Bd0RhVENEdkZ3WWQ2MVJYdHo0eTJRYUNWRVlBeEUzOEg2cnZvSDQwY0stUGZHV3ZKXzZ3dV8zX3c1RDd3OUZXZk1uaGJ4YXp6alBsWU55ejVXT1hzbFpKQTRadnA0RkNBR1duaFhGSnVNbFlWUUp5VUdMTmVpWU5yVGNmTzNNSWdHUkRIMEdvdEFB?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 10:52:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China’s biggest solar manufacturers remained heavily loss-making in the third quarter, as overcapacity continued to outweigh cost cuts.",
-            "Six leading manufacturers — Trina Solar Co. Ltd. (688599.SH), Tongwei Co. Ltd. (600438.SH), TCL Zhonghuan Renewable Energy Technology Co. Ltd. (002129.SZ), Longi Green Energy Technology Co. Ltd. (601012.SH), JA Solar Technology Co. Ltd. (002459.SZ) and Jinko Solar Co. Ltd. (688223.SH) — posted combined net losses of nearly 7 billion yuan ($1 billion) in the third quarter of 2026, up from roughly 5.9 billion yuan a year earlier.",
-            "Trina Solar reported the largest quarterly loss among the six at 1.67 billion yuan, widening from 1.28 billion yuan a year earlier. Tongwei’s loss jumped to 1.64 billion yuan from 315 million yuan, while Longi’s widened to 1.03 billion yuan from 834 million yuan.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "In Depth: China’s Solar Industry Enters Painful Reset",
-            "China’s Solar Price War Keeps Longi in the Red"
-          ]
-        },
-        {
-          "title": "China’s Manufacturing Activity Returns to Contraction",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0JpbzR2SXdMRXhKbDZqV0phZ0EwTHVKZDdUVmxlMk94S3V1bFQyczRXbXh3eUsxODF0VFEzVXBVOTVPdFpnNU1GaE5jWkNvVmNLR2R0cnhCbEo3ekd4cHBRdlUzS3lRMHhINmN1dVhwalBlb3gySmcxU3VTR3JzVHFfcDRqcmFUY3dvTGppVldZQzBTcW9xeUtkV0FoY0J4MDhSbnk2NjdvMW8?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 06:43:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China’s manufacturing activity returned to contraction in October as domestic and overseas demand weakened.",
-            "The official manufacturing purchasing managers’ index (PMI) fell to 49.3, while the nonmanufacturing PMI, covering services and construction, dropped to 49.7, the National Bureau of Statistics said Saturday.&nbsp;",
-            "Both fell below the 50 threshold separating expansion from contraction, dragging the composite PMI to 49.7.",
-            "Manufacturing weakness reflected a pullback in overseas Christmas-related orders after September, as well as softer domestic consumption following the National Day holiday, the China Federation of Logistics and Purchasing said. New export orders and new orders for consumer goods both contracted.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Commentary: Stabilizing China’s Stocks Will Take More Than ETF Buying"
-          ]
-        },
-        {
-          "title": "China Auto Industry Profits Plunge 68%",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkRheDUyR3lhTU11OVdQWUVqTDRsRU1oSktLdDU3TEU0UndZSDVad0sySnBJZzNrMXpSUmkwalkzZk92N0JPMTRpNG53cEJyWnlyVU53WG1sSXdKLUNSbXZrZ1hnUmgzMFpPRmdJMS1Xdm96cWljWHhJelVQNnF6RTZmMzJkRm5lbnNkR1dwMjAwMTJEejNR?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 04:32:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Chinese automakers saw total profits tumble 68% year-on-year to 14.2 billion yuan ($2.1 billion) in September as rising costs and sluggish demand eat into margins.",
-            "The deteriorating financial performance underscores the brutal reality of the world&rsquo;s largest auto market, where relentless price competition is hollowing out margins and forcing car companies to rethink their strategies.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Chinese Automakers Report Shrinking Profits for 2025 Amid Brutal Price War"
+            "Commentary: Stabilizing China’s Stocks Will Take More Than ETF Buying",
+            "Opinion: China’s Small Investors Deserve a Stronger Market"
           ]
         }
       ]
@@ -385,6 +419,23 @@
       "status": "ok",
       "feedUrl": "https://www.sixthtone.com/rss",
       "items": [
+        {
+          "title": "Who Gets the Credit for China’s Culinary Creations?",
+          "link": "https://www.sixthtone.com/news/1019210/Who Gets the Credit for China’s Culinary Creations?",
+          "pubDate": "Nov 03, 2026",
+          "source": null,
+          "text": [
+            "A few weeks ago, I served as a judge on a food program in China, where I met many chefs and got a close look at how they develop new dishes. I was particularly impressed by one dish: a steamed egg custard topped with a rich crab paste made from crab roe and fat. It was a combination I had never considered before. The crab paste had a delicate aroma and a rich, oily texture, while the steamed egg custard was soft and silky, perfectly balancing its richness.",
+            "I was struck by the dish’s ingenuity, but it also raised a question: Would people be willing to pay for the recipe and instructions on how to make it?",
+            "I put this question to one of the chefs on the program. He smiled at me as though I were a child and asked why anyone would pay for a recipe. He then let me in on an industry secret: When a restaurant discovers that a competitor has introduced a new dish, it will order it and have its own chefs taste it, analyze its ingredients, cooking techniques, and seasonings, and work out how it was made. In most cases, they can reproduce it. The chef told me he had recreated other people’s dishes and had his own copied by others.",
+            "It all sounded rather cutthroat. The person who bears the cost of innovation often reaps little of the reward.",
+            "In Chinese cuisine, creating a new dish is not nearly as simple as diners might imagine. Chefs must find the right ingredients, adjust proportions, experiment with different cooking temperatures, refine textures, and continually adjust based on customer feedback. Developing a successful dish can involve dozens or even hundreds of failed attempts before it is ready to serve.",
+            "The time, ingredients, and labor costs of this trial-and-error process are all borne by the original creator. Yet as soon as the dish reaches the table, anyone can observe, taste, analyze, and even reproduce it. For a competitor, learning most of the techniques needed to make a dish may cost little more than the price of a meal.",
+            "Even more frustrating, many of these innovators lack the resources to promote their creations. A small restaurant might be the first to develop a dish but lack the advertising budget, media exposure, or network of locations to popularize it. Meanwhile, a larger restaurant can simply copy the dish and quickly introduce it to a wider audience. Since more people encounter it there first, they may assume the larger restaurant came up with it.",
+            "This suggests that the first-mover advantage does not necessarily apply in the restaurant business. Being first matters only if consumers know who created the dish and the original creator has the resources and business acumen to turn that innovation into a brand and a source of revenue. Otherwise, the creator is essentially providing free research and development while introducing consumers to a dish that benefits the entire market.",
+            "[continua sulla fonte originale]"
+          ]
+        },
         {
           "title": "China Clears New Formula for Patients Who Must Limit Protein",
           "link": "https://www.sixthtone.com/news/1019209/China Clears New Formula for Patients Who Must Limit Protein",
@@ -463,49 +514,100 @@
             "Statistically, 3,500 characters is enough to cover most everyday text — studies have shown they account for 99.5% of character usage. But to avoid the awkward situation where a character outside the “common 3,500” can’t be rendered properly, the industry often sets 7,000 characters as the target size for a typeface. Some larger projects cover 27,000, or even 87,000 characters.",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "Chinese Study: Depressed Moms’ Breast Milk May Change Babies’ Brains",
-          "link": "https://www.sixthtone.com/news/1019197/Chinese Study: Depressed Moms’ Breast Milk May Change Babies’ Brains",
-          "pubDate": "Oct 30, 2026",
-          "source": null,
-          "text": [
-            "Breast milk from mothers with postpartum depression may negatively impact infants’ brain development, a Chinese study has found.",
-            "The study, published Oct. 27 in the top academic journal Cell Metabolism, was led by a team at Nanjing University, in the eastern Jiangsu province. Through a mouse model, it shows, for the first time, how depression-related changes in levels of microRNA, a type of gene-regulating molecule, contained in structures called extracellular vesicles in breast milk can affect offspring brains.",
-            "Between 10% and 20% of mothers worldwide experience postpartum depression. Children of affected mothers are more likely to face challenges in cognition, language, behavior, and school performance, and are at a higher risk of developing depression themselves.",
-            "Past research has implicated genetics and the way mothers with postpartum depression bond with, and care for, their infants as contributing to this phenomenon, but the broad and long-lasting effects of postpartum depression on child development remain unclear, according to the researchers.",
-            "Because breast milk is increasingly viewed as a “signaling system orchestrating infant development,” the researchers wrote, they looked at the relationship between milk-based microRNAs and extracellular vesicles, key parts of this signaling. Because babies’ blood-brain barrier is more permeable than adults’, these vesicles can enter the brain during nursing, making its development more sensitive to diet.",
-            "The researchers compared the breast milk of 40 human mothers clinically diagnosed with postpartum depression, and 51 without, finding that those with depression had elevated levels of three types of microRNA implicated in psychiatric illness. The same was true of the breast milk of depressed mice.",
-            "To test nursing’s role in brain development, swapping mouse pups between healthy and depressed mouse mothers. Pups born to healthy mice but nursed by their depressed counterparts showed worse cognitive and emotional behavior than pups born to depressed mothers but nursed by healthy ones.",
-            "They also found that neurons in pups nursed by depressed mothers had shorter dendrites and fewer branches in the hippocampal dentate gyrus, a part of the brain believed to play a role in memory development and depression. The problems arose mainly as the neurons matured, were detectable by day 21 after birth, and persisted into adulthood, suggesting that early nursing-environment effects can last into later development.",
-            "Giving milk from depressed mothers to healthy pups was also enough to cause cognitive impairment after weaning, while milk where the vesicles had been removed had no such effect, the researchers found.",
-            "When the team inhibited Rab27a, a protein and key factor in vesicle secretion, in the mammary glands of depressed mothers, vesicle secretion fell by 58%, and the cognitive and neurodevelopmental deficits in their pups improved significantly.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
     "globaltimes": {
       "status": "ok",
-      "feedUrl": "https://news.google.com/rss/search?q=site%3Ahuanqiu.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "China unveils upgraded ‘Mazu’ ocean forecasting model to boost precision in key waters",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoMWdRb2tENUt0NjdmUVRFTEtfQTQycUpMUndLNVJ5WFVTQ2NFSm9xM24tQ1RhbVZYak5RUEJQSTRnTEtuTWV6NFNjWVFtZFRhdW00?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 08:17:00 GMT",
-          "source": "环球网",
+          "title": "Chinese FM urges Philippine side to rein in relevant individuals, saying bilateral relations face malicious interference at present",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVM3BXTU55UHZrdXp5MzdSZGl3TmxTM0xnZ0FIV0p3dEtadTAycXFyVllOUmNGR1BLSVdmN3ZFd2pYWG1sZGJQNk9vUUduOVZkWFRacS1PMnBRcHRwc0RIb25n?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 15:50:00 GMT",
+          "source": "Global Times",
           "text": [
-            "China unveiled version 2.0 of its independently developed \"Mazu\" numerical ocean forecasting model, which provides forecasts at varying resolutions across key waters worldwide to meet major national needs, including deep-sea and polar exploration and maritime passage security, CCTV News reported on Sunday.",
-            "Developed by the National Marine Environmental Forecasting Center under the Ministry of Natural Resources, the upgraded model marks a major advance in China's independent ocean forecasting capabilities, enabling more precise forecasts in strategically important maritime areas.",
-            "Ocean numerical models are core technologies underpinning marine forecasting. Since 2018, China has successively introduced the first-generation \"Mazu Ocean Current\" and \"Mazu Ocean Wave\" models. They were the country's first global operational ocean forecasting models to support GPU acceleration. Their source code was made publicly available worldwide in 2024, and the models have since been deployed in coastal provinces and cities across China.",
-            "The global forecasting system of the 2.0 version has a resolution of 5 kilometers, doubling that of its predecessor. In key waters, including China's offshore areas and the Western Pacific, the resolution has been further increased to 1 kilometer, allowing the model to more accurately capture seabed topography and hydrological characteristics in critical maritime areas.",
-            "The upgraded model retains the advantages of GPU-based high-performance computing, lightweight operation and low energy consumption. It has also successfully completed operational tests aboard China's icebreaker and research vessel Xuelong 2.",
-            "The model's overall performance has reached an internationally advanced level, according to the center. In addition to supporting various maritime production and operational activities in China, it will also facilitate international cooperation and technology transfer to Pacific island countries.",
-            "Separately, China has also been advancing the application of its independently developed \"Mazu\" early warning system as part of global efforts to strengthen disaster preparedness amid intensifying climate change and increasingly frequent extreme weather events.",
-            "In 2022, the UN launched the Early Warnings for All initiative, which aims to ensure that everyone on Earth is protected by early warning systems by the end of 2027.",
-            "At the opening ceremony of the 2025 World Artificial Intelligence Conference in July 2025, the China Meteorological Administration (CMA) unveiled its \"Mazu\" initiative, integrating traditional Chinese culture with modern technologies to establish a global early warning service network covering multiple types of disasters. The initiative shares China's experience and technological achievements in early warning services and is the world's first national-level action plan in response to the UN initiative, according to CMA.",
-            "Since its launch, the system has been put into operation in seven foreign countries - Pakistan, Ethiopia, the Solomon Islands, Jordan, Sri Lanka, Mongolia and Djibouti - while more than 40 other countries have been able to access it for trial use through cloud-based services.",
-            "[continua sulla fonte originale]"
+            "At the 20th ASEAN Defense Ministers' Meeting (ADMM) and the 13th ASEAN Defense Ministers' Meeting-Plus (ADMM-Plus) that opened ...",
+            "A certain Philippine politician cares only about his selfish interests. He is trying to gain political influence by ...",
+            "Chinese ambassador to the Philippines Jing Quan made strong demarches to Philippine Secretary of Foreign Affairs (DFA) Ma. ..."
+          ]
+        },
+        {
+          "title": "China-Russia military ties advance with significant progress in high-level exchanges and joint military exercises: China’s CMC vice chairman",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6ejFyaktpa1hTcHRya1hsU1RsX3dKeWUyUnBPaXVLaWwxdVJqMUJMU1R1MnE0R0hkM19OMnJYYlJEVjlmREdLYk9iWnF4cjJnZW5vNnZpcUZzaVhNRUhSbHB3?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 11:01:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Chinese and Russian naval vessels sail in formation towards the designated sea area during the maritime phase of the \"Joint Sea-2026\" exercise between China and Russia, July 10, 2026. Photo: Xinhua",
+            "Chinese and Russian militaries on Friday concluded an 18-day joint exercise in the Sea of Japan and the ..."
+          ]
+        },
+        {
+          "title": "China is set to become the largest future aviation market: Boeing",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZVRsRUVQSWh3em9xQ0FSQjFlUHBuTnBfVEZNNndFcEN1UFV4Q20wZDBweVA2elpKckw2cWlMdTZoLVp0ZGNfVXRSYkNTZnotWThFbFZRRFBMbXRLekVvYVRR?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 10:56:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "The advantages of China's vast domestic market are generating new dividends through structural upgrading. Consumption is still undergoing ...",
+            "China's economy is on track for stable growth, with strong policies and reforms needed for a sustainable economic ...",
+            "China’s private Caixin manufacturing purchasing managers’ Index (PMI) rose to 51.8 in June, up 0.1 points from the ..."
+          ]
+        },
+        {
+          "title": "Chinese private rocket launches 18 satellites, boosting low-orbit internet constellation",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3cTA3R0hob2IyTEZfNThPWjlQYW8xTWFROVllcExoSkF4Y0NQbEpQSmRBNjl0TzVtZHlxOFFsb2RzMXBrTFFBbEJZNFFkTVI3ZUZRUEJadWJyMU04S0xkWnhR?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 01:17:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Global Times reporter tracking China's space programs and cutting-edge science and technology projects.",
+            "China completed six orbital launches in less than a week with a 100 percent success rate after a ...",
+            "With the massive demand brought by the scale deployment of China’s internet satellite mega constellation, China’s commercial space ...",
+            "China’s commercial space industry has experienced a year of robust and all-around advancement in 2023, which has been ..."
+          ]
+        },
+        {
+          "title": "A five-euro ‘toll’: Europe shouldn’t be penny-wise and pound-foolish: Global Times editorial",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jODhadUJreHpEcm9lcTJ6WlZtWU5zZnpIbEJrdWtDOVU3dTExdWNyTFp5d1lDLWdtVWo1WkJ0T2JaeUI3MV8yNlQ3VXBtTFZXVjIwYXlBbWcxdWhTV3pyamVn?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 16:23:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Photo taken on September 3, 2026 shows e-commerce parcels stored at a warehouse near Liege Airport in Grace-Hollogne, Belgium. Photo: VCG",
+            "Rational voices within Europe do not endorse the hardline approach Brussels has adopted toward China-EU trade negotiations. Working ...",
+            "If the EU insists on going down this path, it will not only fail to resolve its \"competitiveness\" ...",
+            "Spain, France, Italy and the Netherlands, together with Lithuania, have circulated a joint policy paper aimed at pressing ..."
+          ]
+        },
+        {
+          "title": "China's HQ-9B air defense missile intercepts new maneuvering missiles in test",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1makdLbm9md2JTNkY2Yk8wNVUwR29qY3pKSUN2bklFTWQ2MncwbjZoNzEyaVFxeThLMW9xLV9OU004YVg1cl93aDNTYVN4WEdfOFdDVGl0aVdxODd0S1VxRWZB?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 15:16:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Some foreign media outlets followed a Serbian report this week that the country plans to procure China's HQ-9 ...",
+            "A foreign media report on Sunday followed in on a report from an official Chinese media on Friday ...",
+            "An official Chinese media report on Saturday released rare footage of the first live-fire surface-to-air missile launches by ..."
+          ]
+        },
+        {
+          "title": "When Nazi symbol becomes a Halloween prop in Japan",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWnpJZVR2S2hRSVlkMVRmSS1qMkFRWlpaNkJERWlBMk5Nb1ZzYmpaOE8wQ2xqRHRFMnN4R01UZk5FOEVTVFBXQmhEVUN6U3UzRlFldGg4TE9NbURjcmVLbnJR?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 14:39:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Why did a monument in Russia trigger so much discomfort for Japanese Prime Minister Sanae Takaichi? The answer ...",
+            "Japan has expanded military capabilities beyond what is necessary as the geopolitical landscape in East Asia has shifted ...",
+            "What Taiwan society truly needs is not to pander to Japan's right-wing, nor to whitewash its colonial history ..."
+          ]
+        },
+        {
+          "title": "'The Quad is not an anti-China coalition' – The US should walk the talk: Global Times editorial",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sUjNUdEtXblJuWUVfMWxhVFZsSVh1SlNYNWpOMUdHUno1cVlDcVVaSEZJUVNZS2VFaW10SDRESWFPRFA5S2EwdkNhYkMwb2NhQmwzbE05b1pNQ2Frck5ya0dn?oc=5",
+          "pubDate": "Sun, 01 Nov 2026 16:07:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "The upward trend in China-Indonesia cooperation and China-ASEAN cooperation will not change.",
+            "Bangladesh Prime Minister Rahman’s visit to China will demonstrate to both nations and the international community the extent ...",
+            "Several Philippine senators signaled openness on Monday to a potential joint oil and gas exploration with China. This ..."
           ]
         }
       ]
@@ -516,102 +618,131 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5NaEpaV2RqMVlwTUV3MmQ4UTMzLVJGRDllZWNrZWVxX1d5YkFFNVpfdA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 11:32:43 GMT",
-        "source": "The Washington Post",
+        "title": "China Boosts Market Defense With National Team Buying, Buybacks",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtvb3lwUzJuQjFxNlFVeExIN0tHeUhtVjdldlV5aUUzc3R5R1A0QzFjTzBYdmh2RzF1VGZ2cVJrRnM0ZUpNM0hnNFgtLXBBSnFucm9SakY3LVhkMHBLb0R3dUFwZ2o3d1Q5empFNHVMbmNDNzBlQzIyNGJlY2dZTm9PcUVPcGdMdjdQUjdFNWFwbXZBVHN1Z0xzYjd5V2NLbndUWXd2MHY4Y0JXRHJyaUh2TQ?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 07:22:00 GMT",
+        "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "Tesla's China-made EV sales rise 10.3% y/y in October",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkJGT0ZaeGZhMFdISDYxMWRtcTJGU3pJcUxDcVNMVUp6dUlpb1dWeHJHTnpvT3ZZZldSWUdCWUs5dnRqdG4xeXAzNF9ELUhDa1l1N0VoRURId0p0djN2NFZ2X19BSk15T0xXSWc5XzAxRHpaMk9rbFRDLWFHVzBCN3RwT0c2QlA5N0F2V0NJS3R0NkVHVnJnaFhzQjFmczlhWjJDeWhac0Q?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 10:19:45 GMT",
+        "title": "Democratic-led US Congress to turn up heat on Beijing over AI, Taiwan: analyst",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0dsak9NNUxVNE1STlluTEhVM1hXSFh5TG1YSE5XdGpjNF9jVFVwMENfa0tMcWRYeThqYzZtSGNhSlNOblhDVUpVZWdjREQtYTZOR01sbVB5UU5RZTVMXzB2TkNjOTM3YldfUHBDVEl6M2dsUHFIQVQ2T1hrM2NzbHMwOUdvbnFRemloUWRhaTRKa0NNWGlhRkRYd0c3eXlIU3djQXZ5T0s0YUZGMUEtaExIdFI2OVBJNm1jLVN4WlZvS2_SAcMBQVVfeXFMUFBNa3lhMkJXWjQxRlpBU3lFWnEwWFZJVDVQNzc4ODRsU09MRWxYdHg0OU94bDFmcmZTc3VvOXRGTXNXcDBkeTRIVzhNb2toaHNaWnhXOVJ4cGJfVHFKOS10VEJCdk1QZ19ubGNhRlk4YjFqOFNKSHVPdUZNVFppR2syM21lTFhXdXRIV3o4bW92bzBGZGk4Vzhva0lhTXUwSl9jeGpvWlptNDNURG81SGRVWUNobHFOaHlSR3RsenBqanRz?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:49:33 GMT",
+        "source": "South China Morning Post",
+        "text": null
+      },
+      {
+        "title": "Will US midterm results lead to disruption in Washington’s ties with China?",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2dIX2lyYU5wSGNCbFllb1ZfUjFZU1NKaHFxT3hGOUR2QVZCNE1GTm1FNzJTZVpSQXRjN0ZVd0F2aDdFRHBTQzh1NFFzNmMyRVcyeEM0bHBVZkQyTGJCb21hak1WblZfSGpvakpIVENobzBTdGRYRnl5T296WUUtdFlMMDh5V0xnbGtxRHhaSll1UEp4M3hzS3FZTEc5NkRpTkxuYlZBQlB0ZWFMcDVmdF9uektVWmdhS094ZdIBvAFBVV95cUxNVFZpbnUyN2FZbWF1WGE0RDVJWlZ4eVFsQ3IzcU8xSzJFNkF1bEVWeFhCTVhvT2NzcDh2T0JlQTlJbmVHT2NZc0VUaE5EbndOcHkyVFNoSEl5Z0dIeFJmdG0tbk0tRmQ1WXdTd3VEWlpNNHc1SDdOck1KM2ZNaE9SeFJlM2FRWUdXT2ZDRENFbXR5b0F5SXBGeWlORzk1LS1TLXhkcUd5LTJmWEJsS0d4VXFHNXF1c1hmVGNrbQ?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:42:10 GMT",
+        "source": "South China Morning Post",
+        "text": null
+      },
+      {
+        "title": "Why a Guangdong state giant’s troubles are rippling across China’s bond market",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc21LZ2VQdGVTRWFkakRnTFYtaDRudzRBZDZOTHNFV1poaktPSkRSRjEtQ2MyZXp4OC1ySF9MWFZ2R2hva3ZpcVk1aWZ3cEdZRU8zSUd4OXdmS2EtekcwYnNjdk5TZHE4TkpwV1JEeFI0UHRYWm1GUHFQdE9XdnRfdFg0M0VlMGgtOFNQRUVhY0dGbml6MXlUUWpaQnhmN3RTT2VIUExGZWFLSEE3ckZhQkVObFlLZTZVdUlSbnE0RjhPdDBmT19peTFoNTNLUUt3eDU5cg?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:35:49 GMT",
+        "source": "South China Morning Post",
+        "text": [
+          "Mounting concerns over Huafa’s finances have shaken China’s bond market and renewed scrutiny of local governments’ reliance on land sales",
+          "At the centre of the storm is Zhuhai Huafa Group, the largest local government-owned enterprise in Zhuhai in southern China’s Guangdong province. While property development remains its core business, the conglomerate also has interests spanning technology, urban operations and financial services.",
+          "With more than 93 per cent of its equity owned by Zhuhai’s State-owned Assets Supervision and Administration Commission and the remainder held by Guangdong’s finance department, Huafa was deeply intertwined with the city’s development, including projects such as the Hengqin New Area, analysts said."
+        ]
+      },
+      {
+        "title": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemZiczh2cXl5ckZGQ0FKMzV1Ry0xTUtOVkJZbjhNWnZrS053QVBkbXo5ZWVXVEFRdmI2OUJDNlJZQm1tMnhCd2Q5ZVpvRjFzNTgwMzFOalRhN3QzRkZSVEN0SDNJWWQ4alV3Tm8xZENTNlY0TGl4R015RlZuWE5NUVBDenQ2ZUhrNGdnVnZEaG5xVmRwc3VFQlBGUzUyZEFBYkptX0FFVkwtdDV3SjN6M0VMT3I2NkhGNTBQelNLelVWdzA?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:34:00 GMT",
         "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "Chinese AI models tumble down rankings after a crucial change to testing",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 10:00:00 GMT",
-        "source": "Business Insider",
         "text": null
       },
       {
         "title": "China’s Message to Its Rivals: You Need What We Make",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnJIUk5OdzBMTjhkQkQ4Mlg3TVpJOHlESHQ0Zzh4Ujc3NlFjRkhDajQxbkF1dUJPVERGT2RzQ01BM19hZkxpemd2TGkyMksxMnc2YXFsOG1fN3hyZEs5ajMwaDN6bDVYNE9WUkFZcUlfRC0ySS1XdHd2OGgxa2dVN2x3?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 09:18:00 GMT",
+        "pubDate": "Wed, 04 Nov 2026 06:22:58 GMT",
         "source": "The New York Times",
         "text": null
       },
       {
-        "title": "Apple’s Narrowing Margins Overshadow Upbeat Holiday Forecast",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjVqdFViRENfaVVnVkZiWUdtVVZlVEp2ZDBnUlNDaFk1TG5kYS1XWUpXZWlhUUxrZDdDZk1FTjQ2N0xVbnpxaEdrOEZjQ2NQLWNlc3ZneWNfbG5oSXo2RVg1NzZuSnVNU05YTzgwQWZvRjBFZHQyajFROVBiU1A5OG5vSXRjc05lVngtMy1OemdvZURnbVluQlpXTjlvbERMdENydFpwVS1CLU5CQ1Bn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 09:10:52 GMT",
-        "source": "Bloomberg",
+        "title": "Former elementary school teacher becomes newest paper billionaire in China",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXIwX2pLS1p5SVNiRUVuRXJrQndTWWVISHVfOXhhYTBuaDM5NU9nV0VNWDVFZ1dSMTJla3c0SDUwWTlwVXFvQmMtcmwyNVVxb01CaEY2UkV1Mzc0MFVUQmxidUlGc3BRdWpKWFJfYTRTbGZZTENZMzgzdlc0Tlp6ZWptamNFdw?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:18:52 GMT",
+        "source": "CNN",
+        "text": [
+          "Statues of bulls at the Shenzhen Stock Exchange in Shenzhen, China.\n    \n  \n          Qilai Shen/Bloomberg/Getty Images\n        \n      \n    \n    \n\n\n          \n        \n          \n\n        \n          \n                    \n        \n        \n            \n                \n                \n                     \n\n                \n            \n                \n                    \n\n  \n\n    \n        \n                  \n    China\n    \n        \n        \n    \n\n\n                  \n    Asia\n    \n        \n        \n    \n\n\n                  \n    Investing\n    \n        \n        \n    \n\n\n                  \n    Stocks\n    \n        \n        \n    \n\n\n        \n        \n          \n            See all topics \n\n          \n    \n\n\n                \n                \n                      \n\n\n    \n            \n                     \n\n                    Facebook\n            \n            \n                     \n\n                    Tweet\n            \n            \n                     \n\n                    Email\n            \n            \n                     \n\n                    Link\n            \n                \n                         \n\n                        Threads\n                \n        \n             \n\n            Link Copied!\n        \n    \n    \n         \n\n    \n    \n         \n\n    \n\n\n                \n        \n        \n                \n                         \n\n                        Follow\n                \n                \n                         \n\n                \n        \n    \n\n              \n                  \n                \n\n      Hong Kong&nbsp;&mdash;&nbsp;\n    \n\n    \n            A former elementary school teacher has been propelled into the ranks of paper billionaires in China after the stock debut of his company selling tape and other adhesive products to tech giants, according to Forbes.",
+          "Michael Mai, chairman and CEO of Crown New Materials Technology, entered the rarefied financial heights on Tuesday when the company, which produces binding agents for major brands like Tesla and Apple, made its trading debut on the Shenzhen Stock Exchange.",
+          "Shares shot up as much as 787%, from 16.98 yuan ($2.55) per share in its stock filing to a height of 150.58 yuan ($22.57) per share at one point, according to the Shenzhen bourse, mainland China’s second-largest stock exchange.",
+          "Mai, an Australian citizen and permanent resident of Hong Kong, has an estimated net worth of $2.5 billion, based on his stake in the firm, Forbes reported.",
+          "The 62-year-old was reportedly an elementary school teacher in the southern Chinese city of Zhongshan – where the company, founded in 2000, is based.",
+          "His sister, Mai Huixia, 64, who serves as vice-chairperson, joined him in the billionaire ranks, with Forbes reporting that her stake gave her a $2 billion fortune.",
+          "Shares eased to about 77 yuan ($12) per share Wednesday morning following the peak a day earlier that prompted the company to call on investors in a statement to “invest rationally.”",
+          "CNN has reached out to the company for comment.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVl5ajFZZi1EeGhzbS1oVklzMVF4STNiTThRRkpPN0loaFdWWVpRTm5MNEJNTm5XZjVPSW9TYktkM3VORUNaUnB4Q3g5ZGZwYmdSOTVVQWg3T3JRVTVfZDlYb290NWdSZWlGMVpVbVlqdEhwWjdET2hCYk1yMmpzMWR4N3hLTk50R1VHdVBxZmQ3cFNyeXNiQlY5blZjYWtvZGdZdERISHVRVnkxYjBKLXJEVDI?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 06:07:00 GMT",
+        "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVl1blg2Q2VFWlJvSU1RYVBXNXBSVDN4STdUXzU2aksyZTlpa2UwX1NxNzMzQkpKTldPN3lFUGowd2FncEI1dmpueXVsdzVBaTd3T2IxS2UwUTVyR1QwNWh4TEdDTzN1eFpwcVRHbS1kU3lpRVJWOS1UTWc5NVlWNWFaRFRqZmtFa1d5SkdTSzV5YUZvZFBlMndVZHVVTkREaEJOelR3QU5ha1phTEZ3Y3ZKWEY0UQ?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:35:32 GMT",
-        "source": "Bloomberg",
-        "text": null
-      },
-      {
-        "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel9nM3BfRnp4ZkwtNDVJa2liWVhmM0ZlUTQ1d1ZaU2YtRktVbjN2bTRWQXJHSmJFUi1QVWthc09LdzQycmk3UzN4MVFJd3dzbF9LbnUyVlZDbGR1WHNRLU92cXhPMFp0TVptdmdjbzUySjVUOTJDNEZqQTFfbnR0VkdUMUtCV3pnUDJ2QTRodHFxaTFTMEtqdnNKUS16UGVBQ3NLamFpSENWV0ZuYVJB?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:10:47 GMT",
-        "source": "Bloomberg",
-        "text": null
-      },
-      {
-        "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGJZallVNk90VkJFbk9DZjNpc3VZMEtIODlPYUFjMTZFN3F5WnRMUlQ2MXJmUnc5ZFg2amN2amo0UkduY3NtanlEWDFQbUl5UVpEajBKWDlxN2RxRThHRVlJOVVERE9aRi1KbVplbS1QckNiVm45WGhwNnFHaXJmUEZobU4?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:10:41 GMT",
-        "source": "Financial Times",
-        "text": null
-      },
-      {
-        "title": "China’s Revival of 2024 Stock Rescue Tools Faces Skepticism",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenZrelR1TmRUa08wT2REcVBvTEpNNWdOTXo0OXowMTRrVVB5a05MRm1Pb2lOSEdQSTlLTVdEUm9JLS1NU1JOSUM3VDNJOXBCUGhSY0p4enJtOTFvR0RobFlHNTFtWl9pTFgtTkhzOU1meEVKZThNcDBwQ1MwUjhWR1dsTTNJOE1SVHFtbTVUT3RxRWc5ODFZVV8tOHZ0MXdJSXlYNG9tMnB0c003WUUzTUVn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 07:21:00 GMT",
-        "source": "Bloomberg",
-        "text": null
-      },
-      {
-        "title": "China regulator tells banks to pause IPOs, FT reports",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjN6YlQ3VTFGbEdFbkIwWDc1NzBsaDg3RlUycGtxVE9kNEplZUVNZ3VJbDQyUEFZVGdWcnVZaUdPOFJqTk0tNmhKVi1yVTFGeDE3X1ZHZ3lfNWpDTU1aczAyeEZhSmktNi1WcFZ2WEMyaXZiSTluMFRuQ0FWMi1yMS1RTDM4VHZCRmVEY3BkbC1jN3ctcklXZjJVQnVtQQ?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:59:00 GMT",
+        "title": "Chinese court hears COVID defamation case against US state of Missouri",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3hObTZxWjV1UTFDbWx3ZWR4b01VZTVDVEN4Z3JDVmstSnhGcVlCcm05WGpJNTROdUxzUmFrUU5sb0JubktqOEhhQmY5OUpUUWhKdzV3N25wcUFTcGg0aU8tcksteGRtSzBZSWFsdm5wWTMzYVZaOEIxV3REMmptSnpWMm5VZHFsLV9kR09NaWNPamwwMUhQVzdwM2dGWGtlVmNmYTU4S2EwTkl0SUxGSmhxbm1JeXQ5emVITw?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 05:21:00 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhBT1lnS0xzTk9POHBCNUlEYmh6d3JkYW9xMnNRQ2gtYWJ3MF8xWDFTVjYwSGhjUjJnTVpRYzlmMFN0RkZtRTFYQkNQRUg0RlVEMDRRTEtOZGRpUFNlQm1IbTZTeDFnRUtoSkgybVBCcXlBLXNxS2U1d0lqNmRoQVBnWDdpdHJsbmwwNkNaV2htRkVlOEJzOWNXYUN3czFQU1VBRVNrQ01mazFULWJjeUdteTBIY3UwMkkxQjlxbXJaQQ?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:34:00 GMT",
+        "title": "China's solar push reshapes traditional ways of life on Tibet's high plateau",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmF2NkRUeVRpUERoLWhSdUNYRUtMbkdrVmNlbERVV1U2Nnh0bXFOakhnLXZ1Tmg2cjJEb19yR1ppajNzcVlVa0NmYi00WWZZTnRxVkFOb290dVd1R2s3eE5UMmY0eUV4SUh6Sk4xOGFURFZZN3lvYVRkNlZnclNudHd1djI3dHloTWZFZUdWX3FCNmVoWmVHdjJZNGp2aHAwZFB4dnBDU1VEbFdwT3ZtSDlyQnBQOU5qazJCUTB0MTA?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 04:16:00 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "China halts listings in bid to bolster struggling markets",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRIVmFzanBxYUk3dEZxMUdxVURNZlVMakljMHBrdVhWbHhYUHQ0WUtlQjZ2OFJ5ZzY0UzMwY1UxSGtvZFRpRVFMdDNPZ0xzVzRJOHlkQl8yX3BYMXJsMXlUbG0wckU4UjJjSkItTzR5WkMyR0RpWXNCUW9JQklZSEUxRU0?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:26:27 GMT",
-        "source": "Financial Times",
+        "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNUF6cm9SRFZUY01fa29jZkpWcmVLbm1tUlVmYkVDSWRvLVA5UjB2eU51UWNXTnhIYWkwR2FrbjFXNVVtMkRSZ2cxNW1GLUlqSno1MTBEMlcxYTA?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 03:46:10 GMT",
+        "source": "BBC",
+        "text": [
+          "Chinese authorities have dismissed reports that a suspected China-made artillery shell was found in a commercial shipping container in Papua New Guinea, saying it is a \"shell-shaped wine bottle\".",
+          "\"It poses no danger at all,\" the Chinese embassy wrote in a Facebook post on Tuesday, drawing sceptical comments.",
+          "Police in Port Moresby arrested four Chinese nationals last Friday after the 32kg object was found at a construction site in the capital city.",
+          "Authorities were looking into whether it was a live device, local reports said then, with police commissioner David Manning describing it as \"a very concerning discovery\".",
+          "In a report on Wednesday, the Australia Broadcasting Corporation cited unnamed sources identifying the object as an undetonated 130mm Chinese Type 59 Artillery Projectile that contains chemical explosives and a fuse. The BBC has not independently verified this.",
+          "Papua New Guinea police had earlier dismissed speculation that the object was \"merely a dummy\", local newspaper Post Courier said.",
+          "However, the Chinese embassy said in its statement that it is \"virtually impossible\" for an illegal military-grade artillery shell to be smuggled out of China to Papua New Guinea.",
+          "\"China enforces some of the world's strictest firearm control laws and regulations,\" it wrote, adding that China is \"widely recognised as one of the safest countries globally\".",
+          "\"What sort of wine bottle weighs 32 kilograms?\" wrote one of them.",
+          "Another wrote that the object bore no labels indicating that it's a wine bottle."
+        ]
+      },
+      {
+        "title": "China Services Gauge Unexpectedly Dips for First Time Since July",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmZpeFZqNlZpcldteHRHZjhKZG5tbld6LVVVTjMtbWVodUpEWHEzanFiRm5YSmV0SXBycG1uVjdJRmRER2pUVVJvc2dCbHhtSmVXbkFMRHRCRWpMX2QyMjVObzEyWFprbF8xVG5Lb3lncjA5OTl0bWlQYXdnb29CcUJ1cEsxMVZTU2l1amtwOWJLQWxiSl85RmRUcUVtdHFDcXc4S001Uy1fc0pQZ0k3VDNFR2hGQQ?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 03:39:00 GMT",
+        "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 05:39:00 GMT",
-        "source": "Bloomberg",
+        "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 03:14:00 GMT",
+        "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "China Plans Broad AI Guardrails After Global Security Lapses",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzNPU2lPQ0J6NnhJUUswMHpxVkozRlZfU1JvWTZid1ZpZHl3V0FqWUQxQnRBRkNJdHRCaFZKcHY0Mm96Y2Y3YU1lQ2hsQ05ROWZ6ZUZYZ2NNRDBENUN1bjZjZ2VsSnZiVWxkTkpRcVA1R0tMbDRZQmVyRTEtOEZ1VFZ6QjhUTG1XdHFtVkNpQzU1eTNGbmxuWF9XYXU5WUxSTUVZNlNBanVDTk9ueHMwOA?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 05:24:00 GMT",
-        "source": "Bloomberg",
-        "text": null
+        "title": "How are parts of Tibet’s ground ice thickening despite rapid warming?",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEpVaDB1N1g0WEduLWMwSm01MGxnTzk5TE16aWNLUWVqdmJTUkxXZ0xwNURDZndqZVkxZVFKVU1YbFBsLTE5Q0phYzR0ZGQ5QWxMa0dEOXRNN1dvenRaVmRBTldkNWlybTk3Y1h4Vkd2LWxIQ1ZUNEQyQkM2YTRNZWVpN1pJR2swSmN5X2xibm1mWnUyRWhyUGZZSnhqUFBHQ1k5Z2JpMWY3X29YQWxNa20yWEhGall6QVVuX2tlNGZ5VHPSAcMBQVVfeXFMTVptdGlIaWgxZlBIMkNfRENObjVJNlRaSXFyMTdmLTNuZWRYMUpIa2xTN0hWRHFWM2xVZXhDUXhzYkMxaEMyZ0tVeDlicEsxQTctZVYtTkwwZkVzM3lNY0xJNWVSNjhoMGdpMmdVdk5FUGpIbXVmSjFwT3FpZWRubURNQklIX3lJbFdud24zWlRIVnFWUUl5d0tnR3RoWkRzM2dHekxzWmgzZkJoOVhiTFdRQlBXRzQxYVVyZE1fd19ab1Rr?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 02:00:12 GMT",
+        "source": "South China Morning Post",
+        "text": [
+          "Research counters expectations but the region remains extremely vulnerable to climate change, study warns",
+          "A team from Peking University found that shallow ground ice has unexpectedly increased over the past 20 years, affecting more than a third of the plateau’s permafrost, a phenomenon driven largely by natural climate factors.",
+          "The authors noted that the impact of this ice gain on the stability of the underlying permafrost and the broader environment was unclear."
+        ]
       }
     ]
   }
