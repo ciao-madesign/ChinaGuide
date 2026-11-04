@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -56,4 +58,4 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/news-feed.json data/podcast/
           git commit -m "Aggiorna feed e podcast di Fonti Cina [bot]"
-          git push
+          git push origin HEAD:main
