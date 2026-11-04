@@ -1,19 +1,83 @@
 {
-  "generatedAt": "2026-11-02T16:11:09.038Z",
+  "generatedAt": "2026-11-03T12:41:35.042Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "6 killed in N. India road mishap",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52eW01bDRzZzFZdlZuaWNFdkItbHRUMXZ1TTdrMlJKclNhM3ZBQ3o4V2dNeUt6eDhHTS1yU3pTS3FYTF9mTlgtcGU4RVNNLW5OUWVIMExBTGt4Qm01TU8wMVJSSDFlanJhWVdXR3RRaDlmTkhtTTRySDJOMVU?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 09:49:30 GMT",
+          "title": "Chinese Lijian-2 rocket launches new group of satellites",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MnAxWjF0QS1jaTVaNEFnUEdwMUFzemtoY29GeUNyQk9fNUxrVUN2V2VMRDJNcmczY0c2bjFVY0ppekNhbDNQWWNJdldNVmtQV3Z6YzItakFZSFVIMWpiZDRWcnM4VS1MN3J4MnBFazhPUy1IN1NJQVBOdjQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 06:34:45 GMT",
           "source": "Xinhua",
           "text": [
-            "NEW DELHI, Nov. 2 (Xinhua) -- Six people were killed and two others injured when their car collided head on with a heavy vehicle coming from the opposite direction in India's northern state of Uttar Pradesh in the early hours of Monday, local police confirmed.",
-            "The road mishap was reported from the state's Kushinagar district. The victims were returning after attending a pre-wedding function at one of their relatives' houses.",
-            "The two injured boys, aged 12 and 17, were admitted to a local hospital.  ■"
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026. China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
+            "JIUQUAN, Nov. 3 (Xinhua) -- China successfully launched a Lijian-2 Y2 carrier rocket from the Dongfeng commercial space innovation pilot zone in northwest China on Tuesday.",
+            "Lifting off at 8:15 a.m. (Beijing Time), the rocket sent 18 satellites of the Spacesail Constellation into planned orbit, with these forming part of China's commercial low-orbit satellite network. This successful launch marks the first time the Lijian-2 has carried out a large-scale satellite internet constellation deployment mission.",
+            "The Lijian-2 is a liquid-fueled carrier rocket independently developed by CAS Space. It is China's first launch vehicle featuring a \"universal booster core\" configuration, with a payload capacity of 8 tonnes to a 500-km sun-synchronous orbit and 12 tonnes to a 200-km low Earth orbit.",
+            "CAS Space said the mission was the second flight of the Lijian-2 rocket and the 18th launch of the Lijian series. The Lijian series has placed one spacecraft and 139 satellites into space, bringing the total in-orbit payload mass to over 27 tonnes and serving nearly 40 customers both at home and abroad. ■",
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
+            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
+            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
+            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
+            "China successfully launched the Lijian-2 Y2 carrier rocket on Tuesday. Lifting off at 8:15 a.m. (Beijing Time), the rocket sent its payloads, a new satellite group, into the planned orbit. (Photo by Wang Jiangbo/Xinhua)",
+            "A Lijian-2 Y2 carrier rocket carrying a new satellite group blasts off from the Dongfeng commercial space innovation pilot zone in northwest China, Nov. 3, 2026.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Latest",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsMm96VG5mZmU2VHJBOTI3UmdEakVvUjBoWEZSeGdfYlZub2lVM1p0NTd2MkxGampRYzAzZTFWaWh6YXNYdVRNQUp0ZDg5cS0yMk4tbVBuUUVkU1FuUHNERzVR?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 05:21:12 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua News | U.S. to host trilateral talks with Russia, Ukraine in Abu Dhabi on Nov. 10-11, says Witkoff",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tcUJFajY5dXBBamVmWVBBbmRaQ01LLVd4MHVvaWVydFlSbE92cHBrZzg4T0VNVTR4UUR5ZUdLUEpOc1ctMjhkdVBCYmVRaHh4NzZ2ZzgyTkNDVkc2S25aLWRhamNRSE9obXVaMjJ3ejZORG9lZWNtTUM5dXk?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 02:53:15 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua China news advisory -- Nov. 3",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91WExVWnV6M2VCenRDYVhWTzFzMDJPbWw3UnlYS000Mmw4UHZ0aEIzWHQxZlEtQmk3SDlzd0hYLWtSaXNrS2hmVVhJLWJVTFZhRHo5NzllNWV2b2RyMkFBLVdJWkhWNlpRZTJLWHpnTVJzc3BxYl90VUZ2amo?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 02:44:15 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BEIJING, Nov. 3 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Tuesday.",
+            "-- Xinhua Headlines: Chasing dreams in Dunhuang, ancient Silk Road hub becomes new platform for cultural exchange",
+            "-- China's people's assessors become more representative, hear wider range of cases",
+            "-- China's digital accessibility drive benefits more seniors, people with disabilities",
+            "-- China achieves breakthrough in underground space navigation",
+            "-- Explainer: China's import expo at nine -- what keeps the \"importathon\" running?",
+            "-- China Focus: World Internet Conference Wuzhen Summit champions open source, joint contribution",
+            "-- China Focus: Global partners gather in giant pandas' hometown to share conservation efforts, open opportunities",
+            "-- China Focus: AI wardens sharpen China's river stewardship abilities",
+            "http://www.youtube.com/user/ChinaViewTV  ■"
+          ]
+        },
+        {
+          "title": "First world robot Mount Tai climbing competition held in east China's Shandong",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HN2tSMlFVb3FFMklzdi1yZVNiZ0hUX2N0UG9xcXFyLTI4V2JUTUtoeGVyWmxPeDE3WDBZNVdvMm9fOVFscy1OMUl4MmRnWUhGWFhnamtKR2dhb0puZk9KTzlOTDBiNzhFdGZlZ1ZuMEZBWlMxak9RT3JzaHM?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 23:28:13 GMT",
+          "source": "Xinhua",
+          "text": [
+            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
+            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A humanoid robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "A robot competes in a climbing competition on Mount Tai in Tai'an, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Tai'an on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)",
+            "[continua sulla fonte originale]"
           ]
         },
         {
@@ -27,86 +91,21 @@
           ]
         },
         {
-          "title": "Highway collision kills 2, injures 3 in Afghanistan's Laghman province",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFZBM3lSVFFzcWZlcUkzbmlESGFsYW5EVHJ5c0RSTUt3YlBhb0htZE9sQkJZQktCUGszQ0NaUFRoRVFEWjdoa0p4SUt2OWtETU54MjcyWFZuZ1pYUWVoZ2JLOVVwRlVuckFPOTN4MkR0VHR0YnI3a2E5TUpKYy1YLWVtbW1rSExndEtKYg?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 05:58:00 GMT",
+          "title": "Xinhua News | Xi holds welcome ceremony for Sultan of Oman",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jOVVtaDdRTlU2eGt3ejZLUWUxa2pWZktab2YwLWxYTldweTYtQjRQaFBhTEVSdjRIQ1c4NXJWX1hRdFpHM1o0cXF5TmtSVHhnb2hqYmRTSUlWTUVIZGx5U3dBeHJyZkdiN0JHcUE0TW9Ta091VWRzN1BLM2c?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 03:32:17 GMT",
           "source": "Xinhua",
           "text": [
-            "KABUL, Nov. 2 (Xinhua) -- At least two people were killed and three others injured in a highway collision in eastern Afghanistan's Laghman province on Sunday evening, the provincial police office reported.",
-            "The accident took place when a Hino truck collided with a rickshaw coming from the opposite direction in the Azizkhan Kas region, along the highway linking the capital Kabul to the eastern provinces, according to the police statement.",
-            "Reckless driving was cited as the primary cause of the incident, said the office, adding that the injured were taken to the Laghman provincial hospital for treatment.",
-            "Deadly road accidents remain a persistent issue in war-torn Afghanistan, often attributed to deteriorating road conditions, reckless driving, and inadequate safety measures amid challenging terrain and limited infrastructure.  ■"
+            "Chinese President Xi Jinping held a welcome ceremony in Beijing on Monday for Sultan Haitham Bin Tarik Al Said of Oman, who is on a state visit to China. #XinhuaNews",
+            "CPC plenum concludes, adopting resolution on persevering with full, rigorous Party self-governance"
           ]
         },
         {
-          "title": "Philippine police arrest senior figure of Japanese telecom fraud syndicate",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50bjlIbFM3XzltYmx1VEJrMl94Y1BxQjJvbXM5ZjVPMFh1NkwyMnJCZUJObVhneFJPMjNnSldMLVlhTzZsNXpGVHd5d0ptZzZjc0tDano5cUFqdVM5WmhYWHNoZ2x6Q09TYkx3TDMtWl9ZMEJlWkVxWGYzZw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 10:32:00 GMT",
+          "title": "Xinhua News | Iran's IRGC says 2 \"violating\" oil tankers exploded after hitting mines in Hormuz Strait",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfWFUwNVUybDhMdDdCamI1cm14N3owX3ljbVV4RnRLWWpXM2VpaXJ1UmM0Y0tDYllOZlpwWlRXeEZHa2Q3dUdMTkkyRy1JR25KUzlsQVQtbjBubFFIZGJuWjVuMnBEdFZ5Ti1Na3BhdlhaUnFoaXZwRzc4ckg?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 03:11:16 GMT",
           "source": "Xinhua",
-          "text": [
-            "MANILA, Nov. 1 (Xinhua) -- Philippine authorities have arrested a suspected senior figure of a Japanese telecom fraud and theft syndicate that has targeted elderly people in recent years, local media reported on Saturday.",
-            "According to local media Inquirer.net, the 57-year-old Japanese suspect, believed to be the syndicate's second-in-command, was arrested by police and immigration personnel in Nueva Ecija province, north of Manila.",
-            "Philippine police said the suspect has been regarded as the top leader of the group, known as JP Dragon, since its former head was arrested in the Philippines in June last year. The group has been linked to theft and telecom fraud activities across Asia.",
-            "In recent years, Philippine police have stepped up their crackdown on telecom fraud. JP Dragon is also linked to the \"Luffy\" crime group, which carried out fraud and robberies across Japan between 2021 and 2023 and whose key members were also arrested in the Philippines.  ■"
-          ]
-        },
-        {
-          "title": "Full text: Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UVE9zWDIzSjNETWsycUd1SEtFb2xVcldaWURWRkJEQ3NSS1J5MlF0d0tIT1pHWVZDbmttU2dPbVdhLVNJblZoNG40SzJCVFhyaHFUS3VXdGxrMjJUWXZHN1YtZ042UnVLNVYzbmJUczJGbEZWWDNXZjdJbWs?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 10:10:00 GMT",
-          "source": "Xinhua",
-          "text": [
-            "BEIJING, Nov. 1 (Xinhua) -- The Resolution of the Central Committee of the Communist Party of China (CPC) on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance was made public on Sunday.",
-            "The document was adopted at the fifth plenary session of the 20th CPC Central Committee on Oct. 29.",
-            "Please see the attachment for the English translation of the full text of this document. ■",
-            "Full text: Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance"
-          ]
-        },
-        {
-          "title": "Full text: Explanation of the Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VYmFjZ0t2Q3gxVjByZ295cGNJN3hMX1BNUmtlVzZvVWpGeEE2RWZ0TGVnUzR3Z1BaVTlCNkNzRUF5VXRpZ1EwZjB6UHV0VXotUGtCMVctMm53QzZnV0doNERUN1pOeXFEX084ZjZBcWRIUjQzSnExNkNJNUk?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 10:00:45 GMT",
-          "source": "Xinhua",
-          "text": [
-            "BEIJING, Nov. 1 (Xinhua) -- The Explanation of the Resolution of the Central Committee of the Communist Party of China (CPC) on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance was made public on Sunday.",
-            "The explanation was made by Xi Jinping, general secretary of the CPC Central Committee, at the fifth plenary session of the 20th CPC Central Committee.",
-            "Please see the attachment for the English translation of the full text of this document. ■",
-            "Full text: Explanation of the Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance"
-          ]
-        },
-        {
-          "title": "Xinhua Middle East news summary at 2200 GMT, Oct. 31",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRjVuREpZaVJDclBUU3NxNUhIa3BhZHZXR1duNTFOMndNdi0tZTRreTY1R0RqaTBBNE1WaUhjdV9wX2dxNkVlWTk0MG9XcjN3aHpSX3RndjFPd2Q5R1lmSGd6dGRvUnZZR016M2dsZ2xSYmZEeDN5blJqRlE?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 22:00:30 GMT",
-          "source": "Xinhua",
-          "text": [
-            "TEHRAN -- Iran's Supreme Leader Mojtaba Khamenei has ordered that any level and kind of threat from the \"enemies\" must be met with an \"immediate and effective\" response without geographical limitations, according to a statement published on the leader's website on Saturday.",
-            "He made the remarks at a meeting with the Iranian armed forces' senior commanders, including Chief of Staff of the Armed Forces Ali Abdollahi, Army's Chief Commander Amir Hatami, Commander-in-Chief of the Islamic Revolution Guard Corps Ahmad Vahidi, the statement said. (Iran-Supreme Leader-Order)",
-            "SANAA -- Yemen's government forces, supported by the Saudi-led coalition, said Saturday they had made new gains against the Houthis in the northern province of Al-Jawf, as intensified military operations continued across several fronts.",
-            "Majid al-Nuzaili, spokesperson for the government forces, said in a statement on social media platform X that government forces had seized several positions and strategic heights in Al-Jawf, while fighting continued across other fronts. (Yemen-Houthis-Fighting)",
-            "TRIPOLI -- Libyan Presidential Council head Mohamed Menfi and authorities in eastern Libya on Saturday welcomed UN Security Council Resolution 2835, which extends the mandate of the UN Support Mission in Libya (UNSMIL) for 12 months.",
-            "In a statement on his official Facebook page, Menfi praised UNSMIL's role in leading mediation efforts, saying the resolution reaffirmed respect for Libya's sovereignty, national unity and the frameworks governing the political process. (Libya-UN-UNSMIL)",
-            "CAIRO -- At least 10 people were killed and 24 others injured when a lorry collided with a microbus on a highway in Giza Governorate, south of the Egyptian capital, on Saturday, according to a statement by the Ministry of Health and Population.",
-            "The ministry said hospitals near the accident site and in surrounding areas had been ordered to raise their alert levels and mobilize medical resources to provide the necessary care to the injured. (Egypt-Road Accident-Deaths)  ■"
-          ]
-        },
-        {
-          "title": "China unveils detailed plan for manned moon landing",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xYjJuUjZoVlpjdmRYb1JVVlVLaGlVemZGOFBDdkMwcEVjaGtHbWxlcUluUzhxQmtTYXVaTWY4aU9xblRoZEdjSmNvTlZfT2ZfREZQNVROQXlnZmVZSTBlNF9qekIzYUxKSDlPTW93SklEeThTM3RrX0NVOFM?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 17:44:00 GMT",
-          "source": "Xinhua",
-          "text": [
-            "BEIJING, Oct. 31 (Xinhua) -- China will adopt a \"two launches, lunar orbit rendezvous\" architecture for its manned lunar exploration program, a senior engineer said on Saturday, as development work for lunar landing advances steadily.",
-            "Wang Xiang, deputy chief designer of China's manned space program and chief designer of the lunar exploration program, outlined the plan at the 7th Manned Space Symposium in Beijing.",
-            "Under the scheme, two rockets would separately send the Lanyue lunar lander and Mengzhou crewed spaceship into the Earth-moon transfer orbit, and the two spacecraft would perform a rendezvous and docking in the lunar orbit. Astronauts would then transfer from the Mengzhou spaceship into the Lanyue lander for the descent to the lunar surface and subsequent scientific work.",
-            "Wang said the approach matches China's existing technical capabilities and infrastructure, and the separate development of the spaceship and lunar lander can help standardize production and support the formation of a long-term family of vehicles.",
-            "While the plan also presents considerable challenges, Wang said the new system for mobilizing resources nationwide is the fundamental advantage for addressing them.",
-            "He said the program has established system plans, technical standards and quality requirements under a single development framework, and has adopted an integrated design approach with emphasis on interface verification between subsystems.",
-            "So far, the development of the Long March-10 carrier rocket, the Mengzhou crewed spaceship and the Lanyue lunar lander has been progressing smoothly.",
-            "Major tests already completed include the Mengzhou spaceship's zero-height abort and maximum dynamic pressure escape tests, the Lanyue lander's landing and takeoff test, plus the low-altitude demonstration and validation test for the Long March-10 rocket.",
-            "Wang said future lunar exploration should follow the principle of building knowledge and capability before moving into resource utilization, with a prolonged survey phase needed to understand the moon in a steady, step-by-step manner.",
-            "He added that manned lunar landing and unmanned lunar exploration share many common elements in key technologies, infrastructure and personnel, and that achievements from the Chang'e lunar exploration program will also support the manned landing effort.  ■"
-          ]
+          "text": null
         }
       ]
     },
@@ -137,128 +136,131 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Joint Mideast peace efforts urged",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UX2pXeFJEX1NfNndiM3VmR2JzME5waEZBYjNNY0hQRWVUOVJHVURtVXZkd2FneFZvNE4tMVlhM2VqMXhTZ2JMcWVINGZrTklRQmtvY3Q0NmpnaWpQekJkZ09kMDYwbnIwYkcwN1h5NDdmV2Nja0VpdmJKU0M5QQ?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 15:48:45 GMT",
+          "title": "Global perspectives at the 9th Silk Road cultural expo",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONTBZbkhvN1M2UldBeVVBcmYxNGVuT1U3R1hJOWdBSjA1aXlDdzI0a2VFWDdobmR6S3Zoc3hSelFSYjJLYnNHOUxDTl9oTG1TOHVmYTc5U2IwcWExUy04RWlWdXhPMU1Zcm15ZVdLeEtOUWtBXzloQnVVZzlqM0hKSUpB?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 12:34:29 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "chinadaily.com.cn |\n          Updated: 2026-11-03 20:34",
+            "Under the theme \"Strengthening Cultural Exchanges and Promoting Mutual Learning Among Civilizations\", the 9th Silk Road (Dunhuang) International Cultural Expo unveiled its opening ceremony on Nov 3 in Dunhuang, Gansu province, bringing together about 1,200 guests in total, including 307 global guests from 58 countries and international organizations.",
+            "Here's a glimpse of what some of the international guests are saying."
+          ]
+        },
+        {
+          "title": "Artist draws a nation's changing destiny",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wM1U4RXZlU2I5VXN1YjBhWmZEU0tjLXl0eENZTXQ0NDRpTVVJVUU0cjYzM1FPUU51VFVMODZLRWJxbVZJTTFKMGdCZEpFUDF0VE1sZlUzbmRXLUlmVlZURjBBLXZaY0NPU2VRVjRwSFNiRVB4SkJfWTNxSU4xdw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 11:55:01 GMT",
           "source": "China Daily",
           "text": [
-            "The Middle East and the Gulf region should not become a wrestling arena for major-country rivalry or geopolitical conflicts, President Xi Jinping said on Monday, reiterating China's commitment to working with Arab states and countries of the Gulf Cooperation Council to strive for lasting peace in the region.",
-            "Xi made the remarks during talks with Sultan Haitham Bin Tarik Al Said of Oman, who was on a state visit to China from Sunday to Monday. This was the first visit to China by an Omani head of state since diplomatic ties were established 48 years ago.",
-            "Xi said that concerted efforts are needed by all parties to foster and safeguard peace and stability in the Middle East and the Gulf region.",
-            "China has consistently been committed to ending hostility and promoting peace in the Middle East, and hopes to contribute wisdom and solutions to resolving the region's security dilemmas, he said.",
-            "The nation will continue to advocate resolving disputes through political and diplomatic means and will support countries in the region in building a common homeland of good neighborliness, development, security and cooperation, Xi added.",
-            "He expressed China's willingness to strengthen communication and coordination with Oman and other Arab countries to work together toward restoring peace and tranquility in the region and achieving lasting security and stability.",
-            "The Omani sultan said China plays an indispensable leading role in maintaining world peace and stability.",
-            "Oman highly appreciates China's just stance on the Middle East issue and is willing to closely coordinate with China to uphold international law, advocate for the peaceful resolution of disputes, and jointly promote regional and global security and stability, he said.",
-            "In a joint statement released on Monday on deepening the China-Oman strategic partnership, both countries expressed their encouragement for the United States and Iran to adhere to peaceful options, achieve a comprehensive ceasefire and cessation of hostilities early, and resume dialogue and negotiations to reach a comprehensive agreement.",
-            "Both countries also maintain that the situation in the Strait of Hormuz should return to normal and safe navigation be restored, the statement said, and they agree to maintain communication related to the strait.",
-            "China has played a positive role on the Middle East issue. While meeting with Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi, United Arab Emirates, in Beijing in April, Xi put forward a four-point proposal on promoting peace and stability in the Middle East.",
-            "He called for adhering to the principle of peaceful coexistence, the principle of national sovereignty, the principle of international rule of law, and a coordinated approach to development and security.",
-            "On Monday, Foreign Minister Wang Yi met in Beijing with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council, emphasizing that dialogue and negotiation are the only viable solutions to the ongoing Middle East conflict.",
+            "The career of late artist Luo Gongliu (1916-2004) reflects a lifelong artistic exploration closely intertwined with the destiny of the nation and the needs of his times. Many of his works have become iconic images in the collective memory of 20th-century China.",
+            "Exploration and Mission: An Art and Document Exhibition of Luo Gongliu, now on view at the National Museum of China in Beijing, pays homage to the artist's prolific career. It brings together works from various collections, including those of his family, the NMC and the Central Academy of Fine Arts, where he taught for decades, alongside manuscripts, photographs and other archival documents.",
+            "The exhibition traces Luo's unwavering artistic exploration, beginning with his early years as an ambitious young artist creating woodcuts. The medium was popular among socially conscious young people and was championed by prominent scholar and writer Lu Xun as a means of expressing social concerns and ideals.",
+            "Luo later trained as an oil painter, using the medium to document the country's revolutionary history and socialist construction.",
+            "In his later years, he continued to reinvent himself, drawing on the aesthetic traditions of Chinese art and producing works markedly different in style from his earlier creations.",
+            "The exhibition offers a glimpse into the journey of an artist deeply engaged with China's cultural development and the evolution of its art education."
+          ]
+        },
+        {
+          "title": "HP looks to AI printers to navigate shifting China market",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeGhfaVpsN2twblM3VDB5bmZ3UHZOMW8zZGVOeEVabnppUmhpLS1OR3NFREpBZnh6cTEwZWJHZFlmY3ROc3UwT3RpNXp5eGJ2UEhvNG5iSE1yUU9pQWJuQWxqR1ctY1lxN2FQamswMk4yT3Y2M2JINkhLdGpVZw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 09:10:55 GMT",
+          "source": "China Daily",
+          "text": [
+            "HP Inc has launched 13 AI-powered learning printers tailored for Chinese families, betting that artificial intelligence can rejuvenate a maturing hardware market and fend off intensifying competition from domestic brands.",
+            "The new models, recently unveiled at HP's autumn launch event in Hangzhou, Zhejiang province, integrate AI-driven homework grading, error-question collection, and curated educational resources into the company's WeChat mini-program.",
+            "Rollin Jin, vice-president and general manager of HP Printing Systems Group of Greater China, said the company's share in China’s printing market stood at roughly 38.6 percent in 2025, according to data from the US market research company International Data Corp, maintaining a clear lead over the second-place player.",
+            "But he warned against complacency. \"The more we lead, the more we must prepare for adversity,\" Jin said, citing three pressures: shifting market-access rules and localization demands, the rise of Chinese printer brands, and changing demand patterns as traditional sectors contract while new industries such as new energy emerge.",
+            "China's printer shipments peaked above 19 million units around 2022 and now hover between 13 million and 14 million, Jin said. While overall hardware demand has stabilized, the mix has shifted: inkjet and laser shipments have converged at roughly 7 million units each, and refillable ink-tank models are gaining share within inkjet.",
+            "HP's answer to this plateau is to move beyond hardware and consumables. \"If we only stay in hardware, supplies and existing applications, the space will be limited,\" Jin said. \"Ultimately it comes down to innovation—whether we can keep pace with the times and capture new user needs.\"",
+            "The AI learning printers are HP's first major push in that direction for Chinese households. According to HP, the company does not build its own large language models but calls third-party and vertical models via the cloud, optimizing for accuracy, user fit, and token consumption.",
+            "HP's pre-launch research found that 50 percent of surveyed users prioritized homework grading and 48 percent sought error-question collection. The company plans to adjust feature priorities based on actual usage frequency.",
+            "The launch also reflects HP's recognition that China's AI ecosystem cannot simply absorb global solutions. Jin said overseas AI printing solutions cannot be directly deployed in China, requiring localized interfaces, cloud partnerships, and content collaborations. HP is investing in China-specific AI infrastructure.",
+            "The broader context supports HP's bet on AI literacy. A report from iMedia Research found that 72.75 percent of surveyed consumers purchase home learning printers for printing coursework, while a China Consumers Association survey cited by HP found 27.8 percent of respondents rank product quality as the top factor influencing purchase decisions. HP argues that as AI expands what a printer can do, reliability across content processing, connectivity, and output becomes more—not less—important.",
             "[continua sulla fonte originale]"
           ]
         },
         {
-          "title": "Draft amendment seeks to strengthen protection of rights in criminal proceedings",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2pWOUhRcXZtVkhwMXRHZHBFYXZtOVA2cmhodGJwSDkyamV1ZDFfVVlsQmlRZFo0WGZPRGJpYW5DUTBUMEdobDNHblJCRTZjQTc4QjVBd3pkc0UwOWFlbFR1THpiSXgtSUxkaW1tbi0zcEJOWF9xNzV2V3FabkRud21B?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 08:48:26 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By Cao Yin | \n          chinadaily.com.cn |\n          Updated: 2026-11-02 16:48",
-            "The rights of participants in judicial procedures in China — including victims, suspects, defendants, and lawyers — are set to receive enhanced protection under a draft revision currently being reviewed by Chinese lawmakers.",
-            "This draft amendment to the Criminal Procedure Law was submitted on Monday to the ongoing session of the Standing Committee of the National People's Congress, China's top legislative body, for review.",
-            "The draft amendment allows victims or their close relatives to apply for legal aid if they have not hired a lawyer for specific reasons. It also clarifies that if a suspect or defendant hires their own lawyer after a legal aid agency has already assigned one, the services of the assigned lawyer should conclude.",
-            "The draft amendment aims to strengthen the rights of lawyers to meet with their clients, mandating that detention centers facilitate meetings between lawyers and detainees within 48 hours of a request. Additionally, it requires relevant authorities to keep lawyers informed at each stage and key points of case proceedings.",
-            "Furthermore, the draft revision includes provisions to ensure fair treatment for foreign suspects and defendants and seeks to improve the handling of cases involving children. For example, when interviewing juvenile victims and witnesses, it emphasizes protecting their privacy and reputation and aims to complete the questioning in a single session to prevent the stress of repeated questioning."
-          ]
-        },
-        {
-          "title": "Shanxi art teacher creates Great Wall image with red sorghum",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjA5ZUlLbnFmTE9YaXc2dlQ3UzJFYnZYVjBhWTF3LWR0b182Wm1VUjIwZWtNdFU0ZVJIa2JMeEUzWVB3aG5JT09HbGVPYVFqeHdTUlJGQTdJRWdqb0hfd0ZVVER3dUpETW1fWml0R2ZXN2Q3eVlnWDVPLUY4bUlJcUp3?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 01:57:31 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By Zhu Xingxin in Taiyuan and Duan Jinxian | \n          chinadaily.com.cn |\n          Updated: 2026-11-02 09:57",
-            "An art teacher from Jiexiu, Shanxi province, has recently gone viral for creating an image of the Great Wall by arranging red sorghum grains on the ground.",
-            "The creator, surnamed Liang, said it took him five to six hours to finish the piece.",
-            "His grandma, now 80, has never been to the Great Wall. Liang hoped to fulfill her wish by bringing the iconic structure to her doorstep."
-          ]
-        },
-        {
-          "title": "Self-governance of Party seen as strategic task",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KbGQ1aTlMNmVsTVZzZWlobU4zWlZmc1lRbXZZRGl6MjEtN0ZvTF9YRmp2b096VU5CYjVKQ0NkbGVSZ2oxMnF5SXlCZW5IREwtR3NEbHlnNkdDRTU1bnU5RnJTbUpldG15N2FvZWpwOFNZMVNjYmdZQmk2Yldfdw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 15:57:23 GMT",
+          "title": "Top procuratorate vows crackdown on personal information crimes",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MVlFzcGc0YWVEaE1vZ25SYTJQN3czcFg1MTB4MVplME9hckJIdDctYXJYNEMtdjhJUEdDLXJvUzdOczRoWm1HU0Z0RUFtcjV3ZHEwYTlHaXlPRHVpNFFMMy1LUVg0dEY0eWsxU1EteUV6NGtpdlV1RFU0d25NUQ?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:39:17 GMT",
           "source": "China Daily",
           "text": [
-            "Xi Jinping, general secretary of the Communist Party of China Central Committee, has emphasized the need to persevere with full and rigorous Party self-governance to maintain the Party's advanced nature and integrity, consolidate its long-term governing position and provide strong guarantees for building China into a great modern socialist country in all respects and advancing the rejuvenation of the Chinese nation on all fronts through Chinese modernization.",
-            "The remarks were made in Xi's explanation of a draft resolution on certain major issues concerning persevering with full and rigorous Party self-governance, and were delivered at the fifth plenary session of the 20th CPC Central Committee, which concluded last week in Beijing.",
-            "Both the explanation and the resolution, adopted at the plenum, were made public on Sunday.",
-            "Explaining the choice of the plenum's agenda, Xi said that the CPC Central Committee made this major decision based on its assessment and thorough consideration of the situation and in light of the historical stage that the cause of the Party and the country has entered and the advancement of Chinese modernization as a whole.",
-            "Xi said full and rigorous Party self-governance is a long-term strategic task, noting that problems and hidden dangers threaten to undermine the Party's advanced nature, weaken its integrity and jeopardize its long-term governance.",
-            "He also stressed the need to consolidate and develop the sound political situation in which great solidarity and unity are maintained across the whole Party, and great cohesion is secured within the Party and the military and among the people.",
-            "In the face of complicated international and domestic landscapes, Xi said that persevering with full and rigorous Party self-governance is essential for fulfilling the Party's historic mission and ensuring steady and sustained progress in the cause of the Party and the country.",
-            "A document drafting group headed by Xi was established by the CPC Central Committee in January this year and held its first general meeting on Feb 6, officially starting the drafting work.",
-            "Xi said the CPC Central Committee promoted full democratic engagement, conducted thorough surveys and studies, and sought extensive input during drafting.",
-            "On Jan 31, the CPC Central Committee issued a notice soliciting opinions from localities and departments on the plenum's topic and entrusted 16 organizations to research 23 major issues.",
-            "Xi presided over a symposium in Shanghai on May 6 to hear opinions from principal leaders of some provinces, autonomous regions and municipalities directly under the central government.",
-            "On Aug 3, a draft resolution was issued to certain Party members for feedback, including retired senior Party officials. Dedicated meetings were also held to solicit views from the central committees of other political parties in China, leaders of the All-China Federation of Industry and Commerce, and prominent figures without party affiliation.",
-            "The Standing Committee of the Political Bureau of the CPC Central Committee met three times and the Political Bureau met twice to review and revise the draft before its submission to the plenum.",
+            "China's top procuratorate has pledged to intensify efforts to combat the illegal collection, sale, and misuse of personal information, as emerging forms of cybercrime pose growing threats to individual privacy, public safety, and online security. The Supreme People's Procuratorate released eight typical cases on Monday to mark the fifth anniversary of China's Personal Information Protection Law, highlighting offenses ranging from online doxing and the illegal sale of celebrities' whereabouts to personal data theft through fraudulent recruitment and the unauthorized transfer of sensitive medical information overseas.",
+            "In one case, a woman surnamed Shu, who worked as a customer service representative for an airline outsourcing company, exploited her access to the airline's internal system to obtain celebrities' flight information and sell it to fans online. Between October 2021 and April 2024, Shu illegally obtained and sold flight details involving more than 30 celebrities and over 100 flights, earning more than 10,000 yuan ($1,500). The leaked information was used by fans to track celebrities, follow them onto flights, or gain access to airport departure areas, disrupting airport operations and posing potential public safety risks.",
+            "In February 2025, a Beijing court sentenced Shu to 10 months in prison, suspended for one year, and fined her 30,000 yuan. She was also ordered to pay public-interest damages and issue an apology. Prosecutors subsequently challenged the ruling because it failed to confiscate her illegal earnings. An appellate court ordered the recovery of the proceeds in April 2025.",
+            "The SPP stated that flight information, which can identify a person's location at a specific future time, constitutes protected personal movement data under Chinese law. It warned that the illegal collection and sale of celebrities' personal information had fueled disorderly fan activities, including intrusive photography and crowding at airports, threatening privacy and public safety. Prosecutors should pursue criminal charges while also considering public-interest litigation to hold offenders accountable for broader social harm, the SPP said.",
+            "Another case involved six defendants who used illegally obtained personal information to target internet users through online doxing, involving the public disclosure of private information without consent. The group hacked into a provincial government service platform and obtained more than 16 million personal information records. Some defendants also stole over 1 billion records from online forums and cloud storage services. The stolen data was used to harass 47 people, including five minors, through online abuse and offline intimidation. Five victims sought medical treatment for depression, while several students experienced difficulties with their studies. In December 2025, a court in Chengdu, Sichuan province, sentenced the six defendants to prison terms ranging from nine months to four years and five months. Their convictions were upheld in April 2026.",
             "[continua sulla fonte originale]"
           ]
         },
         {
-          "title": "Shenzhen gears up to host APEC meeting",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRkdXOEZpb0N6REhmMEkxUTRQX213cGkyZW4yQWxESURQQXd5Q2Nld0paaEUzQlEteEFCM3dMdW1ETzNJWTRuUkhESklpSFFXMExEd2ZSNkxGaGUtemNYbi04UGYyalJpVmpPbG44b3M2YlhDWGZUWHo1WGxtdw?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 02:33:52 GMT",
+          "title": "Art brings different worlds a little closer",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ScldweE1ER2NGWXM4VWpJT0x0MDZLOUtQVEJjaEJ6RzZzS2dRX2xyZXRKa2RpenpXdDFBeFVWSVo0TmxiM2d6X2lMWlRPa012aGRrTjVsX0FoYXJzaFBfRkI0bFJTOURUUDlSd2haVnQycDVLajR1SEZCYTdKdw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 03:09:11 GMT",
           "source": "China Daily",
           "text": [
-            "What does it take to host APEC Economic Leaders' Meeting? And how is Shenzhen getting ready?",
-            "As the countdown ticks down, Shenzhen in South China's Guangdong province is putting the final touches on preparations for the landmark event.",
-            "Scheduled for Nov 18-19, the gathering carries the theme \"Building an Asia-Pacific Community to Prosper Together\".",
-            "Click the video, presented by AI host Samar, to see how the city is readying itself."
+            "The second Sino-French Art and Design Exhibition, titled \"INTERREALM\", was held at the Carrousel du Louvre from Oct 23 to 26. Bringing together 24 artists and designers from China, France, the Netherlands, and other countries and regions, the exhibition showcased 39 works (or groups of works) across a range of mediums including painting, sculpture, installation, fiber art, ceramics, fashion design, and digital art.",
+            "The exhibition was jointly initiated by the China-France Heritage and Innovation Center (CHIC), CIRCLE, and MINDSWELL. Its main section, themed \"Contemporary Care: How Do We Continue to Connect with Each Other?\" explored care as a lens through which to reinterpret the relationship between people and the world. Addressing themes ranging from memory, companionship, and trauma to healing, the participating artists transformed personal experiences into art expressions that resonate with a wider audience.",
+            "Curator Meng Yueming said, \"Tradition is no longer simply history to be preserved, and design is not merely a combination of function and form. Art becomes a way of re-examining the world, allowing people from different cultures, generations, and creative backgrounds to share experiences, raise questions, and forge connections in the same space.\"",
+            "The exhibition is divided into four sections: \"Contemporary Care\", \"Cross-Cultural Exchange\", \"Contemporary Transformation of Intangible Heritage\", and \"Youth Growth Plan\". Together, the 39 works (or groups of works) highlighted the varied dimensions of contemporary art and design. They also demonstrated that cross-cultural artistic exchange goes beyond blending visual elements. Rather it is an ongoing dialogue between different systems of knowledge, material experiences, and ways of life.",
+            "The event also featured two themed round-table forums. The first, \"Caring Connections: Art, Attention, and New Relationships\", explored how personal experiences, public sharing, and exhibitions can foster connections through everyday objects. The second, \"Caring for Materials and Heritage: Living Heritage, Craftsmanship, and Contemporary Creation\", turned the spotlight on materials and craftsmanship, exploring the place of traditional skills and cultural heritage in contemporary artistic practice. Both discussions closed with a shared question: \"How can we ensure that culture and experience continue to be understood, shared, and passed on to future generations?\" The forums offered a common concluding thought: Care is about sustaining relationships and keeping them alive."
           ]
         },
         {
-          "title": "Phantom Blade Zero debuts strongly",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52bGFqVDR2ZlBwUFNBbXQ3TjlHWHhZYjV5QWg3TWVoSDFzc29Nem83TkxkUnV4Z1ZPbFU1OVdNWGp0QWFmMTNfSHlHeTg3SFhNVGVwOWtUeDJZekFOamhXRHF3WDJGWnA1ZVk0LXVNR1dSa2IySURDV3g5cmdhQQ?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 00:36:26 GMT",
+          "title": "Long-term investors post net A-share purchases amid market volatility",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yVjFPSmd0Vm1aaVo5ZWJURFB0VF9JbE9WYzZrYlVsYmFVMHpuNGNUSEtTcHYxeE92WTFnSGRmSUZBTmNYWmEyMWFzUmM5dThNczQ4WXl6eWhYSW1KWjVHZWZXNkxKRHNEaldCbzJVT1Y4S2ZOMkp3cjBQWnZHZw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 02:57:16 GMT",
           "source": "China Daily",
           "text": [
-            "China's second homegrown AAA blockbuster, Phantom Blade Zero, made a strong debut on Oct 29, reinforcing expectations that domestically developed premium games could become a sustainable growth engine for the country's gaming industry following the success of Black Myth: Wukong.",
-            "Developed and published by Beijing-based S-GAME, the third-person action role-playing game topped Steam's global bestseller chart on launch day.",
-            "According to SteamDB, peak concurrent players on the platform surpassed 730,000 on release day.",
-            "The game is priced at 268 yuan ($40.2) for the standard edition and 328 yuan for the deluxe edition, matching the pricing strategy adopted by Black Myth: Wukong. The project reportedly cost between 300 million yuan and 400 million yuan to develop.",
-            "The strong launch has raised hopes that China can build on the momentum created by Black Myth: Wukong, which became a global hit in 2024 and demonstrated that Chinese developers could compete in the premium single-player gaming market.",
-            "Ahead of the launch, the title received an average score of 88 on review aggregator Metacritic across dozens of media outlets. By comparison, Black Myth: Wukong carried a pre-launch Metacritic score of 81.",
-            "Set in a world that combines traditional Chinese wuxia with futuristic \"kung-fu punk\" aesthetics, the game mixes martial arts, qi-powered devices and industrial landscapes to appeal to both domestic and overseas audiences.",
-            "Despite the strong debut, analysts cautioned that Phantom Blade Zero still faces a challenging path in matching the commercial success of its predecessor.",
-            "Veteran internet analyst Ding Daoshi told The Time Weekly that the gap in market scale remains significant. Black Myth: Wukong recorded a peak of more than 2.41 million concurrent Steam players on launch day, roughly 3.3 times the peak achieved by Phantom Blade Zero."
+            "Medium- and long-term institutional investors have increased holdings of China's A shares despite recent heightened market volatility, reflecting confidence in the stock market's long-term prospects, official data showed.",
+            "The national social security fund, insurance funds, mutual funds and securities firms have bucked the market downturn and posted net purchases of A shares overall since October.",
+            "From September 2024 to September 2026, the national social security fund, basic pension funds, annuity funds and insurance funds made combined net purchases of more than 1.5 trillion yuan ($226 billion) in the A-share market, providing substantial support for market stability."
           ]
         },
         {
-          "title": "China unveils detailed plan for manned moon landing",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtNG1jS0VUM0tEYk1GT3lHOHRGNXcwZWx5RFhUZVFGNGphMzExZDFtZlBkTnItUHV6bnhvclA4MnpqUE9TRUc5RVlrTzgyM3hiUFlwaDZfQUtxYVl1X1c2WGgtT010SUd3MWlyRUtVX3NNWXl1RHBVWGl0WjF2Zw?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 23:03:39 GMT",
+          "title": "Farmers and elephants struggle for space",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTHJ1T0JxLTVLMUR2aUJQdXlxR08xSFBkUGJ6eEZEdWlTZkxJeXI4VHBkTFhPa3FQLTNsS29INnJaeThOVVJ4NDVndlNGWWdxaHVKWURHeTNlMzRtN25zeHRVc2syaVdfZUlBS0hPNng4QWQ2QzJFM2kyZk1Cdw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 02:18:00 GMT",
           "source": "China Daily",
           "text": [
-            "BEIJING -- China will adopt a \"two launches, lunar orbit rendezvous\" architecture for its manned lunar exploration program, a senior engineer said on Saturday, as development work for lunar landing advances steadily.",
-            "Wang Xiang, deputy chief designer of China's manned space program and chief designer of the lunar exploration program, outlined the plan at the 7th Manned Space Symposium in Beijing.",
-            "Under the scheme, two rockets would separately send the Lanyue lunar lander and Mengzhou crewed spaceship into the Earth-moon transfer orbit, and the two spacecraft would perform a rendezvous and docking in the lunar orbit. Astronauts would then transfer from the Mengzhou spaceship into the Lanyue lander for the descent to the lunar surface and subsequent scientific work.",
-            "Wang said the approach matches China's existing technical capabilities and infrastructure, and the separate development of the spaceship and lunar lander can help standardize production and support the formation of a long-term family of vehicles.",
-            "While the plan also presents considerable challenges, Wang said the new system for mobilizing resources nationwide is the fundamental advantage for addressing them.",
-            "He said the program has established system plans, technical standards and quality requirements under a single development framework, and has adopted an integrated design approach with emphasis on interface verification between subsystems.",
-            "So far, the development of the Long March 10 carrier rocket, the Mengzhou crewed spaceship and the Lanyue lunar lander has been progressing smoothly.",
-            "Major tests already completed include the Mengzhou spaceship's zero-height abort and maximum dynamic pressure escape tests, the Lanyue lander's landing and takeoff test, plus the low-altitude demonstration and validation test for the Long March 10 rocket.",
-            "Wang said future lunar exploration should follow the principle of building knowledge and capability before moving into resource utilization, with a prolonged survey phase needed to understand the moon in a steady, step-by-step manner.",
-            "He added that manned lunar landing and unmanned lunar exploration share many common elements in key technologies, infrastructure and personnel, and that achievements from the Chang'e lunar exploration program will also support the manned landing effort."
+            "For communities living around Kenya’s famous Amboseli ecosystem — a vast wildlife landscape in the country’s south near the border with Tanzania — elephants are both a source of pride and a growing challenge.",
+            "The animals are central to the area’s globally renowned wildlife and support livelihoods through tourism and conservation-related opportunities. But as farms and settlements increasingly overlap with the elephants’ traditional movement routes, their frequent raids on crops can leave farmers counting losses from months of work, deepening the struggle to coexist in a landscape shared by people and wildlife.",
+            "The deaths of 18 elephants between late June and August in the Amboseli ecosystem, and the arrest of four people as investigations continue, have brought renewed attention to that delicate relationship, raising broader questions about how communities and wildlife can coexist as pressure on land and resources grows.",
+            "Preliminary laboratory results pointed to the probable involvement of a toxic substance in the deaths, with earlier indications suggesting possible cyanide poisoning after the elephants consumed pesticide-contaminated tomatoes. The findings remain under investigation, and authorities have cautioned against assigning responsibility before the inquiry is complete.",
+            "For Coleman Sankale, a farmer in Namelok, Kajiado County, who lives just a few meters from the Amboseli National Park, the conflict is part of everyday life. He said elephants and other wildlife regularly destroy crops, leaving farmers to spend nights trying to chase the animals away.",
+            "“We don’t want those elephants to come and destroy our farms, our crops,” Sankale said. “We can tell KWS (Kenya Wildlife Service) to take care of the wildlife and see how they can keep them far from our farms.”",
+            "But Sankale said he does not want the elephants killed. Instead, he called for stronger measures to protect farms, including better maintenance of electric fences and compensation for farmers whose crops are destroyed.",
+            "“If they compensate, it is OK. We can live together with animals,” he said, adding that maintaining electric fences would help prevent elephants from reaching farms.",
+            "For other farmers, the losses have forced them to abandon crops altogether. Lorinya Oletunge, a small-scale farmer in the Kimana area, located near Amboseli National Park, said elephants have repeatedly entered his farm, destroying bananas, melons and other crops.",
+            "“The elephants have come to my farm so many times, almost all the time,” he said. He recalled planting bananas, only to watch the animals destroy them. “I stopped planting them again because when an elephant smells edible food such as banana stalks or watermelon, they will come and eat,” he said. “They have finished my farm.”",
+            "The conflict, he said, can extend beyond crops. Elephants sometimes remain near farms through the night and can disrupt the movement of children going to school.",
+            "[continua sulla fonte originale]"
           ]
         },
         {
-          "title": "Giant panda Lang Yue returns to China from Netherlands",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3huQzVXZi1lTXdMa1h5N2lwdHQ3dmtNd2lJTTRDb284TGVjb05sVGc2VTVaN3U5ZUIxaVFBT0ZDaDRFeGl3VllYV2RRRmU2dlVranA1V28xbWJQX2pBZjI4cXRjVkhZQmJiVzBCMVJfZ1N0Tmtwd0I1alJrTDVZMA?oc=5",
-          "pubDate": "Sat, 31 Oct 2026 13:05:16 GMT",
+          "title": "Inspection as a routine to safeguard clean governance",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KTnFFOWZ1ZVZGdWtRS0RDaGo4X1JpbDZtckJGOEFCY01CRjh2TzVOcWxOcUxCWkxxWFJOOWVnbTJVLW5RQ3NZVUQwUTc1SE9iZV9OdUhKRzVqaHdKWWxmSGptNHJrQk91alIySk1hRmg5WldoS1VwRDNYQTJkdw?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 01:43:14 GMT",
           "source": "China Daily",
-          "text": null
+          "text": [
+            "The fifth plenary session of the 20th Central Committee of the Communist Party of China, held from Oct 26 to 29 in Beijing, adopted a resolution on persevering with full and rigorous Party self-governance.",
+            "This demonstrates the importance the CPC attaches to national discipline inspections and its determination to make consistent efforts to fight corruption.",
+            "China boasts a long history of sending inspection groups to check the conduct of ministries and local governments. When it became a unified country more than 2,000 years ago, dispatching central-government inspectors to supervise local officials became an institutional practice, aimed at ensuring their loyalty to the government and the integrity of local governance. Some emperors even traveled incognito to inspect local conditions firsthand.",
+            "Movies and TV series about such inspection and travel stories are a hit among viewers even today.",
+            "Since taking the reins of government in 1949, the CPC has continued that tradition, sending inspection groups to different regions and organizations now and then.",
+            "Intra-Party inspection became institutionalized in 1996 when a strengthened Central Commission for Discipline Inspection of the CPC kicked off systematic inspections — though the arrangements remained random and mostly targeted at problems.",
+            "When inspection groups were dispatched to some ministries and provinces in 2012, many thought it was just part of an anti-corruption campaign launched once every few years.",
+            "But problematic officials and organizations soon regretted their misjudgment.",
+            "Since 2012, two rounds of inspection, each lasting two to three months, have been conducted each year on average. In the past decade or so, many ministries and provinces have been subjected to three rounds of \"political physical checkups\".",
+            "The inspections are directly arranged by the CPC Central Committee, with the inspectors coming from different provincial regions and government departments including those in charge of discipline, organizational work and auditing. The group leaders are mostly officials above vice-ministerial level.",
+            "The inspectors work together during the inspection period before returning to their former positions.",
+            "The \"temporary arrangement\" is designed to prevent any possible intercession that may influence the inspections and investigations.",
+            "News about a new round of inspection is widely published to make sure that all citizens in the targeted provinces and organizations are clear about it.",
+            "On arriving at the chosen organization or region, the inspectors' addresses, phone numbers and email addresses are made known to the public while special letter boxes are set up, with the keys held by the inspectors.",
+            "Such arrangements are designed to invite public complaints about local or inter-organization problems. In fact, many clues about officials' suspected misconduct or even crimes are collected through these channels.",
+            "These measures have proved fruitful. In the past 14 years, the inspectors have found that some provincial-level organizations failed to implement Party policies or had violated Party rules.",
+            "[continua sulla fonte originale]"
+          ]
         }
       ]
     },
@@ -266,6 +268,59 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWY4SEtjZTFsSVZGZWJIc1gtTlZ5bXNPd0cwVXNEUnRLVDg1Ym91VGpsRk9TRE02ZlJERG81ZnZLSnFKcUFmbTgwQ1IwQlRBN3NHdEJfY1JhQzBDMzl3cU1qNlQyVXExSDF3M2tNNWhkbVN4T0lJMlljeWt0S25jdTg5WmRocGowZzA5OGlPSll5TXc3cVQyMW9pX3gxQVJQaGZxVzVFbU83eS1KNnQ2NVlkMlFGaU11eXNKR3lXb3k?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:04:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "The People’s Bank of China (PBOC) will raise the forex deposit reserve requirement ratio for financial institutions from 4% to 6%, effective Nov. 15, its first increase since late 2021.",
+            "The move comes as the yuan has gained more than 9% against the U.S. dollar since the start of last year, including more than 4.5% this year.",
+            "The requirement forces financial institutions to deposit a portion of their forex deposits with the central bank, reducing market liquidity. Based on nearly $1.2 trillion in forex deposits at the end of June, the increase could theoretically withdraw $24 billion in foreign currency liquidity.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Commentary: Why Gradual Yuan Appreciation Remains the Baseline"
+          ]
+        },
+        {
+          "title": "Meituan Unveils New AI Model Trained on Homegrown Chips",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnpfamZLck9Ed09EaHhQOUdoaDRlQ2x2cVI1Z0tLYTBiTGtRejhzeTF0Q04xNkhfemZTUWR0c3c1UGNIc1JOS2VlN1pGNE0wQ2ZGN1ZaeTlaajR2R1FwSmptaWhzSDRvenhDc1V1d055YW96alZ3aExrYkVaMVlneU5Ic2pwUk1UWXYxQk1Cd1QyY1RaZmlVOVZLeWhXeE5DdU8xb3Y2Wk9zNHFRWGpN?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 04:06:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Chinese on-demand service giant Meituan has launched a new AI model trained entirely on homegrown chips, with plans to use it to improve efficiency across its core businesses.",
+            "Unveiled on Monday, LongCat-2.5 is a native multimodal model trained with 1.6 trillion parameters, designed to handle long-range agent tasks, the company said.",
+            "Meituan’s move highlights Chinese tech companies’ growing reliance on homegrown chips to advance their AI capabilities despite hardware limitations, as well as their strategic focus on monetizing AI through existing business ecosystems rather than selling raw computing power.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Meituan Open-Sources 1.6-Trillion-Parameter AI Model Built on Chinese Chips",
+            "Chinese AI Chip Startup SUNMMIO Raises Nearly 2 Billion Yuan in a Year"
+          ]
+        },
+        {
+          "title": "China Prosecutors Detail Data-Sale Networks Linked to Overseas Scams",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDVzSTBIRVNjZ1cxZE5qQW5SVzJxQmZXcDctOTNFNzYtRmF3LVJld2RmcjBxMklsMFR5ZzhzNnVocHZpNVQ5anQ3aUNfeGdncDhEWjAtbEh3YWlzRzJ3UHUwWlIxeW5MMGRkMndQOTN6bUtkM09PVjJTeFIzd0dBS28wdzBTNWRiUG1MN0M3X3pQN2xaY21YT3NZdFpsM2RTSXBQOW5WSDV3OGFONHNOT0Z0NHVqQURDX1RGWnVwV1k?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 03:14:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China&rsquo;s top prosecutorial agency said domestic criminal networks sold Chinese citizens&rsquo; personal information to overseas buyers, exposing one route by which cross-border telecom and online fraudsters obtain data to target victims.",
+            "The Supreme People&rsquo;s Procuratorate on Monday released representative cases involving the unlawful handling of personal data, including two in which suspects collected information on women property owners and job seekers before selling it abroad.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "China Tightens Rules on Overseas Investment, Expands Reporting Requirements",
+            "Mainland Investors Scramble for Hong Kong Accounts as Offshore Trading Curbs Bite"
+          ]
+        },
+        {
+          "title": "Tencent, Visa Expand Partnership in Cross-Border Payments and AI",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkUxMmxYeWVhank5R2FGMU5wYzdtaFJDZDYwbkFNTnNheHMyNjU4MndNWUlIaTUydENKY2JIRzdRU1ZCbG9UTDhlQWlLeDJuMW5kcVFfX1FSbVJRUVROQm9QVVYxM3hrQzFlbV9pZC1OOTkyZGZkdWFEODdVVS1wOHZEUjMzVFVJcDBVRkpjSWFGa0RrY0pZS3dreDh6cGpGbE05SzRWVmhqSnE2UFNpdkpGOU1XY3hjMFE?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 16:12:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Tencent Holdings Ltd. and Visa Inc. signed a memorandum of understanding to expand cooperation in cross-border payments and enterprise artificial intelligence.",
+            "The agreement follows Visa’s preparatory approval in early October to establish a wholly foreign-owned bank card clearing business on the Chinese mainland. Analysts say the partnership could strengthen Tencent’s position against global payment rivals such as Alipay and UnionPay International.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
+            "Apple Pay Enables Visa Network for Overseas Payments Using China-Issued Cards"
+          ]
+        },
         {
           "title": "Hong Kong Launches AI-Agent Governance Project",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVlSS3ljc0dDblhsWWVILW5NZFd6S05HcE0zWHB1NjZSYXJYVXNLajlnTDk2Tjg1SmxGNXNVUEN1aGw2eUFsNTdtQTFtY0xIZFNrSXlxNDZycVM4VHpKM3BsVFZQRThPYVItb2h3cUlwYXRscTlZX3pic3J2bkYxaTZlUnhsZDhtUWVtZ0dpam1hV0VzbGJWWTcyRDg2OFdFNERj?oc=5",
@@ -277,6 +332,20 @@
             "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
             "China Internet Finance Body Raises Alarm Over OpenClaw AI",
             "Hong Kong Grants First Stablecoin Licenses to HSBC, Standard Chartered–Backed Venture"
+          ]
+        },
+        {
+          "title": "Chart of the Day: Losses Mount at China’s Top Solar Firms",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ25NcllJNWJvV1h6Z2p2dDFvTnRwSzliSjZDNk9Bd0RhVENEdkZ3WWQ2MVJYdHo0eTJRYUNWRVlBeEUzOEg2cnZvSDQwY0stUGZHV3ZKXzZ3dV8zX3c1RDd3OUZXZk1uaGJ4YXp6alBsWU55ejVXT1hzbFpKQTRadnA0RkNBR1duaFhGSnVNbFlWUUp5VUdMTmVpWU5yVGNmTzNNSWdHUkRIMEdvdEFB?oc=5",
+          "pubDate": "Mon, 02 Nov 2026 10:52:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China’s biggest solar manufacturers remained heavily loss-making in the third quarter, as overcapacity continued to outweigh cost cuts.",
+            "Six leading manufacturers — Trina Solar Co. Ltd. (688599.SH), Tongwei Co. Ltd. (600438.SH), TCL Zhonghuan Renewable Energy Technology Co. Ltd. (002129.SZ), Longi Green Energy Technology Co. Ltd. (601012.SH), JA Solar Technology Co. Ltd. (002459.SZ) and Jinko Solar Co. Ltd. (688223.SH) — posted combined net losses of nearly 7 billion yuan ($1 billion) in the third quarter of 2026, up from roughly 5.9 billion yuan a year earlier.",
+            "Trina Solar reported the largest quarterly loss among the six at 1.67 billion yuan, widening from 1.28 billion yuan a year earlier. Tongwei’s loss jumped to 1.64 billion yuan from 315 million yuan, while Longi’s widened to 1.03 billion yuan from 834 million yuan.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "In Depth: China’s Solar Industry Enters Painful Reset",
+            "China’s Solar Price War Keeps Longi in the Red"
           ]
         },
         {
@@ -304,71 +373,6 @@
             "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
             "Chinese Automakers Report Shrinking Profits for 2025 Amid Brutal Price War"
           ]
-        },
-        {
-          "title": "China Issues 18-Point Plan to Protect Workers From AI Job Losses",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTk9HWVRRR19YaERUcWRWWS1iNW00bXBSZW5nMFNLODBXdlo0VWpIQjA4RGFuOGdqdnpDeW5iNWRHV1puNmZETlg4MUpnZTJ2VWhQenZVbzRyQndMeGJ4SkwwZTc0dFV3WnF1Y2lqYzdiV21odEtpdFpvUjd5bFhyT2xjUDRWTG9KYmlma3dWV1FXeW5GLTRwdk5nMW4xNXhYTjlSMjRYYjJVejNMcEZiNUJjUjFKaDQtaDhv?oc=5",
-          "pubDate": "Mon, 02 Nov 2026 04:07:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China has issued an 18-point plan to cushion workers from artificial intelligence-driven displacement, directing officials to assess job risks before approving high-impact AI projects and urging companies to give employees advance notice and transition support.",
-            "The guidelines, released recently by the General Office of the State Council, seek to shift policy from responding to layoffs after they occur toward encouraging AI to create jobs, upgrade existing work and limit displacement.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Analysis: China’s New Jobs Plan Zeros In on AI, Youth Employment",
-            "Chinese Courts Rule Companies Cannot Fire Workers Simply to Replace Them With AI"
-          ]
-        },
-        {
-          "title": "Cover Story: The Global Tech Selloff Tests the Economics Behind AI Boom",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2FxR09Ka1c5aUdjTnJYZ3RjQ2dwYTRZZDlRWktiaTU3MXlwcFlWZzNSaXBneEtYdldiMkZCY1BBLTczc2FpQ0doSXFBeVNyN3oxVWNKMEdQMXZMY3Z3bXprQjRCSjRzbkxGU1FzYlBhN2k1S3ZDTm90bTNITkh1WDB1NGRtb09tVndIMzRqdTJGSjFYWWNTdzVNbDVnX1RDd19Tak5Nb3Eyb0NaYlk3Q1pfQ0lkX2tSN3M1UDlvTWZ0X00?oc=5",
-          "pubDate": "Sun, 01 Nov 2026 14:51:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Anthropic’s public stock filing gave battered global technology shares a welcome lift. Whether it can provide investors with something more durable — a reliable valuation anchor for the artificial intelligence boom — is far less certain.",
-            "The San Francisco-based model developer published its preliminary prospectus on Oct. 26, nearly five months after confidentially submitting a draft to the United States Securities and Exchange Commission on June 1. Its unexpected second-quarter operating turnaround offered rare evidence that building and running frontier AI models can generate operating profits, exceeding consensus expectations.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China Stocks Slide as Technology Selloff Deepens",
-            "Chart of the Day: China AI Chip Stocks Slide Despite Surging Earnings"
-          ]
-        },
-        {
-          "title": "Profile: Liao Min’s Path From Banking Regulator to IMF Nominee",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk9Vc2VBWEZaa3VoUzJaVGFCUHRlb1lUWU1Na3FlWkV4UEx4TmJaUTBXUG5CZG9aWFpCSU9sQXp4SXJpTjZiRHpaMllEUVBOdHMyS3lXNy04VllNWmd3bzdReXpmeXBwWURiZHUyZEtTcW9TRnFqUmZyOVdwdTVGMGNkcE8tRUh0X2cyOVZXRjBTVF9uRWxVWWdnTFFDSXliQlNBMldFS01TblB2R3ZUREFuVldzUQ?oc=5",
-          "pubDate": "Fri, 30 Oct 2026 20:20:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "At Peking University, Liao Min was an economics student and a campus folk singer. His subsequent career took him through commercial banking, financial regulation and China’s economic policymaking, then into negotiations with U.S. officials and creditors of developing countries.",
-            "Now, the Chinese vice finance minister has been proposed for a senior leadership role at the International Monetary Fund. Managing Director Kristalina Georgieva announced on Oct. 28 that she had proposed Liao to succeed Deputy Managing Director Li Bo, whose term ends Nov. 30. The appointment would take effect Dec. 1.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role",
-            "China Signals Continued Stimulus With Elevated Deficits in 2026"
-          ]
-        },
-        {
-          "title": "Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlRFdi1IRV9BSmJkcDdGLTZxMkNBaHVIZUYxYjFsbFpTYnh5Wm14ZDdCWUppdXRPWUtvUWlhbHRUaHlLVHpMRlpFRFpwdXRJdXNMY2NEOWdTaEQtcHZMZGZDTlc4ZXJCWkctdE9vQVJMN2c1UjVQVGhEVXJ1SVdPUTByd3V6SEpXVkt3X1BQbDZFdHkxY2g2TVQ2ZmhsZGNBSVR3c2xWYWU3Qzc4enJpRENoTmR5TnNoQjZUSmdfVl8?oc=5",
-          "pubDate": "Fri, 30 Oct 2026 18:03:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Tighter U.S. restrictions on imported inverters are putting Chinese manufacturers’ market position at risk, prompting them to reassess their strategies as Washington seeks to bring more clean-energy production onshore.",
-            "The Federal Communications Commission’s (FCC) restrictions, imposed over national security concerns, affect a market where Chinese manufacturers accounted for half of shipments in 2024. Analysts say the measures could redirect trade flows and raise costs for U.S. buyers, though the immediate impact on suppliers’ earnings may be limited.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Chinese Battery Storage Makers Pivot to Europe as U.S. Barriers Rise",
-            "Beijing Hits Back at EU Funding Block for Projects Using Chinese Inverters"
-          ]
-        },
-        {
-          "title": "China’s Electric Two-Wheeler Exports Jump 38% on Latin America, Africa Demand",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZqTm5GRTluMUhkRFFDNER2X2Q0cXZOYTIyMnNzZmhfVWJ5RGdWWFhSTjNHYWVOVE1RLUR2QXVEdGFob2VIVEpYM3pIZjJxenNWX0lyczVPakdHcFhfZ3p6NEMxdUgzcjN0MEFRcUw1OU9vVUd6UTVqaE53cHFjU2RTbG1DQ01IUlMtaFNzVE5WNFVDV1pFdjBtMDFaNjl5MEo4YzNBc1d5clBKMUl6Rm5XN2ozZV94Tjk4QzQwNWhOR3JVcHJwcQ?oc=5",
-          "pubDate": "Fri, 30 Oct 2026 16:32:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China&rsquo;s electric two-wheeler exports rose nearly 38% to $7.3 billion in the first nine months of 2026, led by strong growth in Latin America and Africa as manufacturers sought to offset declining domestic sales.",
-            "Export volume increased 28% to 26 million units, according to data released by the China Chamber of Commerce for Import and Export of Machinery and Electronic Products. Export value to Latin America climbed 137% to $1.1 billion, while shipments to Africa rose 76% to $228 million.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China E-Scooter Makers Post 2025 Profit Surge on Higher Prices",
-            "Electric Two-Wheeler Maker TAILG Files for Hong Kong IPO"
-          ]
         }
       ]
     },
@@ -381,6 +385,46 @@
       "status": "ok",
       "feedUrl": "https://www.sixthtone.com/rss",
       "items": [
+        {
+          "title": "China Clears New Formula for Patients Who Must Limit Protein",
+          "link": "https://www.sixthtone.com/news/1019209/China Clears New Formula for Patients Who Must Limit Protein",
+          "pubDate": "Nov 03, 2026",
+          "source": null,
+          "text": [
+            "China has approved its first domestically developed amino acid-based nutritional powder, designed to give patients with phenylketonuria (PKU) — a rare genetic disorder that affects metabolism of the amino acid phenylalanine — greater freedom in what they eat. Treatment of PKU requires lifelong dietary restrictions to prevent developmental disorders and brain damage.",
+            "The new formula officially entered the Chinese market on Oct. 30 and was jointly developed by Shanghai-based Xinhua Hospital, affiliated with Shanghai Jiao Tong University School of Medicine, the Shanghai Institute of Pediatric Research, and dairy producer Bright Dairy.",
+            "PKU affects about one in every 11,000 newborns in China, with an estimated 120,000 to 150,000 registered patients nationwide.",
+            "Due to a genetic defect, people with PKU cannot break down phenylalanine, an amino acid found in protein-rich foods. The resulting buildup can damage brain cells, requiring patients to follow a low-phenylalanine diet by cutting out meat and eating low-protein grains, while relying on milk powder-like formulas to supplement the other amino acids they need.",
+            "Earlier formulas contained 30% to 60% amino acids, with the rest composed of fats, carbohydrates, and other nutrients.",
+            "“As patients grow older, they need more protein. That means consuming more of these formulas, which also means taking in more fats and carbohydrates, increasing the risk of obesity,” Cai Wei, director of the Shanghai Institute of Pediatric Research and leader of the research team, told domestic media.",
+            "In contrast, the new formula contains 95% amino acids, allowing patients to meet their amino acid needs without consuming as much fat or as many carbohydrates, and giving them more freedom to enjoy other normal low-protein foods.",
+            "Zhuang Yingying, a 33-year-old PKU patient, told domestic media that patients previously relied heavily on imported products, and overseas supply disruptions were common. Special low-protein foods such as rice and noodles cost five to 10 times as much as regular varieties.",
+            "The formula, designed for PKU patients aged 1 and older, could save some families more than 1,000 yuan ($140) a month, according to domestic media.",
+            "Domestic PKU formulas have existed for decades, but long faced hurdles in gaining regulatory approval in China, partly because of gaps in national standards for food-grade amino acids, according to a 2020 report by domestic media outlet China Times. High registration costs and the small patient population have also discouraged manufacturers from entering the market.",
+            "China approved its first PKU medical formula in 2018, an imported product, while the first domestically produced formula received regulatory approval in 2025.",
+            "Since 2018, some parts of China, including Shanghai and neighboring Jiangsu and Zhejiang provinces, have introduced public health insurance coverage for foods formulated for PKU patients. In Shanghai, annual coverage ranges from 8,000 yuan for infants under 1 to 12,000 yuan for patients over 10.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Inside the Chinese County Selling $2 Nails to the World",
+          "link": "https://www.sixthtone.com/news/1019198/Inside the Chinese County Selling $2 Nails to the World",
+          "pubDate": "Nov 02, 2026",
+          "source": null,
+          "text": [
+            "At her desk in a press-on nail workshop in Donghai, a county in eastern China’s Jiangsu province, Chai Fenfen has hung a large print of a 100-yuan banknote.",
+            "“I came here to make money,” she says. “That’s what keeps me motivated.”",
+            "After jobs selling insurance and real estate, Chai joined the workshop in 2024. Making nails offers steady earnings and the flexibility to take her children to and from school. Workers there are paid by the piece, typically earning 3,000 to 4,000 yuan a month ($450 to $600).",
+            "But for the businesses supplying that work, the early boom has given way to fierce competition over price.",
+            "Once known for its crystal trade, Donghai used its existing e-commerce networks to build an industry around press-on nails — ready-made artificial nails that customers attach themselves. By 2024, the county had nearly 25,000 businesses in the trade, according to its press-on nail industry association.",
+            "Chai’s employer, wholesaler Li Zhifu, entered the business in 2021, and now has around 2,000 workers across his production sites and more than 20 storefronts in the county.",
+            "In the beginning, Li says, almost anything sold, regardless of color or design. Competition has since squeezed profits. He estimates that six or seven out of every 10 people who entered the trade have gone out of business.",
+            "Some businesses are competing on design, selling elaborate, handmade sets for hundreds of yuan. Others are expanding overseas sales through TikTok Shop.",
+            "As overseas orders grow, Li is experimenting with machines to make nails his workers currently produce by hand.",
+            "“For large overseas orders, consistency is key. Everything, from colors and designs to rhinestone placement, has to match,” he says. He expects machine-made nails to eventually dominate that market.",
+            "(Header image: Craftswomen work in a press-on nail workshop in Donghai County, Jiangsu province, August 2026. All photos by Wu Huiyuan/Sixth Tone)"
+          ]
+        },
         {
           "title": "China’s Hit New Reality Show Shifts Focus From Love to Friendship",
           "link": "https://www.sixthtone.com/news/1019203/China’s Hit New Reality Show Shifts Focus From Love to Friendship",
@@ -438,26 +482,6 @@
             "When the team inhibited Rab27a, a protein and key factor in vesicle secretion, in the mammary glands of depressed mothers, vesicle secretion fell by 58%, and the cognitive and neurodevelopmental deficits in their pups improved significantly.",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "90 Face Chinese Legal Action After $1 Billion Tax Fraud",
-          "link": "https://www.sixthtone.com/news/1019191/90 Face Chinese Legal Action After $1 Billion Tax Fraud",
-          "pubDate": "Oct 29, 2026",
-          "source": null,
-          "text": [
-            "Chinese prosecutors have exposed an invoice-trading network that illegally traded special value-added tax (VAT) invoices totaling more than 7.4 billion yuan ($1.1 billion) over three years.",
-            "Under the guise of a Shanghai-based advertising business, the group profited by issuing and charging service fees for fake invoices from shell companies it registered to customers seeking to illegally claim tax deductions — which can be claimed for special tax invoices, but not ordinary tax invoices in China — domestic media reported Tuesday.",
-            "The case has exposed major weaknesses in business-registration oversight, tax monitoring, and financial regulators’ ability to detect suspicious fund flows between affiliated company accounts, according to experts.",
-            "From June 2025 to June 2026, more than 90 criminal suspects on the case were processed by the Shanghai Pudong New Area People’s Procuratorate, some of whom were ordered to return their illegal gains. Processing of the case is ongoing.",
-            "The group’s ringleaders, surnamed Cui and Shen, first had employees register over 70 shell companies in their own names. Invoices were then handled via three steps: a sales team first connected with customers, who transferred money to the group in order to receive invoices; then a team obtained invoices from both the operation’s registered shell companies or legitimate businesses with unused invoicing quotas; before another team returned funds to customers following invoice-fee deductions. Customers were charged a service fee of between 7% and 13% of the invoice value.",
-            "Chinese tax law requires contracts, fund transfers, invoices, and movement of goods to align. Falsely issuing invoices can result in fines of up to 500,000 yuan, while tax dodgers may be fined up to five times the underpaid tax. Both carry risks of criminal prosecution.",
-            "To circumvent the law, customers transferred the full invoice amount to the group, which then transferred the remaining funds back to the customer through a separate, third account.",
-            "The group illegally traded over 7.4 billion yuan in VAT invoices, involving more than 420 million yuan in VAT. It also conducted illegal foreign-exchange transactions totaling 420 million yuan.",
-            "“The scale of the crimes, the degree of organization, and the length of time over which they were committed were all relatively unusual,” Li Huaisheng, a professor at the School of Criminal Justice at China University of Political Science and Law, told state media outlet CCTV.",
-            "Similar cases involving companies that obtained invoices through intermediaries have made national headlines in recent years. Last year, a group allegedly used 15 shell companies to falsely issue almost 3,500 special VAT invoices totaling 300 million yuan, domestic media reported. The defendant, surnamed Li, was sentenced to 13 years and six months in prison and fined 500,000 yuan.",
-            "According to the State Taxation Administration, such companies often disguise themselves as consulting, advertising, or other business services in industries with low fixed-asset requirements, long industrial chains, and large transaction values, such as recycling, road freight transport, and information technology consulting.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
@@ -492,195 +516,102 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 15:42:50 GMT",
+        "title": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5NaEpaV2RqMVlwTUV3MmQ4UTMzLVJGRDllZWNrZWVxX1d5YkFFNVpfdA?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 11:32:43 GMT",
+        "source": "The Washington Post",
+        "text": null
+      },
+      {
+        "title": "Tesla's China-made EV sales rise 10.3% y/y in October",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkJGT0ZaeGZhMFdISDYxMWRtcTJGU3pJcUxDcVNMVUp6dUlpb1dWeHJHTnpvT3ZZZldSWUdCWUs5dnRqdG4xeXAzNF9ELUhDa1l1N0VoRURId0p0djN2NFZ2X19BSk15T0xXSWc5XzAxRHpaMk9rbFRDLWFHVzBCN3RwT0c2QlA5N0F2V0NJS3R0NkVHVnJnaFhzQjFmczlhWjJDeWhac0Q?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 10:19:45 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "The Limits of China’s Self-Sufficiency",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85XzlQQmVZXzhsY2Uyd0ktc3RnX1Zadm1oZ1dhS2RrQlFWaFFyY2NWbUJOVlNJYWRWaW40d2NtMmpBeXFtLUs3aEJFdDNEZHRQekY1aU9Oa05BcWRKdEozb2NuSk11dEpYckpUTGhUVEZmQUxOZmc?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 15:21:19 GMT",
-        "source": "Foreign Affairs",
-        "text": [
-          "JOEL WUTHNOW is a Senior Research Fellow at the Institute for National Strategic Studies at the National Defense University and a co-author of China’s Quest for Military Supremacy. The views expressed here are his own.",
-          "Why the Country’s Food Insecurity Could Prevent a War Over Taiwan",
-          "When assessing the probability of a conflict in the Taiwan Strait, analysts tend to focus on a few obvious risks that China would face—namely, military defeat, economic slowdown, and restricted oil and technology imports. All of these are important, but an equally significant vulnerability is often left off the list: China’s reliance on soybean imports.",
-          "Beijing recognizes this liability. At the 20th Party Congress, in 2022, Chinese leader Xi Jinping identified “ensuring the security of food, energy resources, and critical industrial supply chains” as issues essential to national security and social stability. Food security, conspicuously listed first, is an especially sensitive issue for China’s 1.4 billion inhabitants: roughly 15 percent of the country’s population today was alive during the 1959–61 famine, which resulted in an estimated 30 million deaths.",
-          "As with technology and oil, Beijing has tried to limit its dependence on soybeans by building up stockpiles and diversifying its sources. But because soybeans are a fragile foodstuff, there is only so much China can do. Beijing can support a war effort, therefore, for only as long as the Chinese public could put the People’s Liberation Army’s success above its nutritional needs. And the key for deterring Chinese leaders from starting a conflict is to convince them that a domestic crisis would arrive sooner than any battlefield victory.",
-          "Disruption to critical imports is one of the most powerful deterrents to China’s use of force, and it’s a threat that the Chinese government has spent decades working to counter. The specter of a foreign blockade in the Strait of Malacca, through which most of Chinese oil imports pass, has worried Chinese leaders since at least 2003, when Chinese leader Hu Jintao warned about the risk of major powers’ interference creating a “Malacca dilemma” for China’s energy security. Beijing, however, has stockpiled massive reserves of oil, which it could complement in a crisis by increasing imports of Russian oil and, as Moscow has done, building up a sanctions-evading shadow fleet to transport oil from the Middle East.",
-          "Access to foreign technology is a newer but just as important concern, and China is similarly stockpiling critical components, such as chips. It is also having success in developing local alternatives. Beijing has already pulled ahead in some sectors, such as solar and battery manufacturing, or it is working to close the gap in others, as in semiconductors.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "Talks are the only way out, China tells Iran as US threat hangs over Mideast",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEVRZXlXcDlscEZIbDU4RnRjdERFT0RGT2t1VFVVTmdPdFBZQmUyNHZQVk9GdkJNay1lbjlvbXVBZzVRNElQWjZ6NWpwbzZXZE9QOHo5VjZ5dFZCUW9kNVJfRDUySDhFY1lnaE5SWFEtNHFHbkNra0JOM1VHTWFzMVJFUHdUdi1BNnB3Mk8xby1BN0d0eGprM0dYeWp5QS1yRHB5MHNLbW9NZ190Z21zN1hfT0NIcElQd2t3YlZ2YWI5Mm43QWhfb3RR0gHKAUFVX3lxTE9GZ0JuajhqNnBnU1JTcFBZbkxrVEtrc1REN2MtOHlVcFVXUWpjdkRqQ01VcEl4X245YjlXY1NxSll4ZXhLUWxIY3ZxV0xIVDUtenl2OVFMc1dta3JoRkJIVG82RmJtWGFCSlhDTUo4amlaNVIxbndTYTZvTF9PWFJpXzRQMzJJTE9oMTBfVjZ2M1hwRHNCUFNWNzJiakZmRzNDdFRUQXAxSVVFaWhlOUFvaWRkR2VwVDN4akcwUm9NYkFTSFMwbWt0Z3c?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 15:07:57 GMT",
-        "source": "South China Morning Post",
-        "text": [
-          "Tehran will protect its sovereignty, senior Iranian official says as Beijing launches diplomatic blitz in Africa and Middle East",
-          "“As conflicts in the Middle East drag on and risk further spillover, dialogue and negotiation remain the only viable path forward,” Wang Yi told Ali Bagheri Kani, deputy secretary of Iran’s Supreme National Security Council.",
-          "“All parties should … focus on a political settlement in a rational and pragmatic spirit instead of resorting once again to armed conflict.”"
-        ]
-      },
-      {
-        "title": "China rolls out support measures to aid struggling stocks",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 14:49:12 GMT",
-        "source": "Reuters",
+        "title": "Chinese AI models tumble down rankings after a crucial change to testing",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 10:00:00 GMT",
+        "source": "Business Insider",
         "text": null
       },
       {
-        "title": "China to Boost Use of Stock Support Tools to Stabilize Market",
+        "title": "China’s Message to Its Rivals: You Need What We Make",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnJIUk5OdzBMTjhkQkQ4Mlg3TVpJOHlESHQ0Zzh4Ujc3NlFjRkhDajQxbkF1dUJPVERGT2RzQ01BM19hZkxpemd2TGkyMksxMnc2YXFsOG1fN3hyZEs5ajMwaDN6bDVYNE9WUkFZcUlfRC0ySS1XdHd2OGgxa2dVN2x3?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 09:18:00 GMT",
+        "source": "The New York Times",
+        "text": null
+      },
+      {
+        "title": "Apple’s Narrowing Margins Overshadow Upbeat Holiday Forecast",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjVqdFViRENfaVVnVkZiWUdtVVZlVEp2ZDBnUlNDaFk1TG5kYS1XWUpXZWlhUUxrZDdDZk1FTjQ2N0xVbnpxaEdrOEZjQ2NQLWNlc3ZneWNfbG5oSXo2RVg1NzZuSnVNU05YTzgwQWZvRjBFZHQyajFROVBiU1A5OG5vSXRjc05lVngtMy1OemdvZURnbVluQlpXTjlvbERMdENydFpwVS1CLU5CQ1Bn?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 09:10:52 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVl1blg2Q2VFWlJvSU1RYVBXNXBSVDN4STdUXzU2aksyZTlpa2UwX1NxNzMzQkpKTldPN3lFUGowd2FncEI1dmpueXVsdzVBaTd3T2IxS2UwUTVyR1QwNWh4TEdDTzN1eFpwcVRHbS1kU3lpRVJWOS1UTWc5NVlWNWFaRFRqZmtFa1d5SkdTSzV5YUZvZFBlMndVZHVVTkREaEJOelR3QU5ha1phTEZ3Y3ZKWEY0UQ?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:35:32 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOel9nM3BfRnp4ZkwtNDVJa2liWVhmM0ZlUTQ1d1ZaU2YtRktVbjN2bTRWQXJHSmJFUi1QVWthc09LdzQycmk3UzN4MVFJd3dzbF9LbnUyVlZDbGR1WHNRLU92cXhPMFp0TVptdmdjbzUySjVUOTJDNEZqQTFfbnR0VkdUMUtCV3pnUDJ2QTRodHFxaTFTMEtqdnNKUS16UGVBQ3NLamFpSENWV0ZuYVJB?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:10:47 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGJZallVNk90VkJFbk9DZjNpc3VZMEtIODlPYUFjMTZFN3F5WnRMUlQ2MXJmUnc5ZFg2amN2amo0UkduY3NtanlEWDFQbUl5UVpEajBKWDlxN2RxRThHRVlJOVVERE9aRi1KbVplbS1QckNiVm45WGhwNnFHaXJmUEZobU4?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:10:41 GMT",
+        "source": "Financial Times",
+        "text": null
+      },
+      {
+        "title": "China’s Revival of 2024 Stock Rescue Tools Faces Skepticism",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenZrelR1TmRUa08wT2REcVBvTEpNNWdOTXo0OXowMTRrVVB5a05MRm1Pb2lOSEdQSTlLTVdEUm9JLS1NU1JOSUM3VDNJOXBCUGhSY0p4enJtOTFvR0RobFlHNTFtWl9pTFgtTkhzOU1meEVKZThNcDBwQ1MwUjhWR1dsTTNJOE1SVHFtbTVUT3RxRWc5ODFZVV8tOHZ0MXdJSXlYNG9tMnB0c003WUUzTUVn?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 13:38:59 GMT",
-        "source": "Bloomberg.com",
+        "pubDate": "Tue, 03 Nov 2026 07:21:00 GMT",
+        "source": "Bloomberg",
         "text": null
       },
       {
-        "title": "China is attacking the foundations of the US economic boom",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEF2VVh6d241MFNyZml4dFVSQWdhalJwZ2pxLTZQS2Q3NWg3eVA0WEJBUnhEWEJBcHdfMVd2d0VBRFhpSUgzQW9sb1doaDA4SzRLQ1VaVk1wQ1ZoQlRPZV9ZR1Y4ck9kclJacmo5YnU4NFpkck1fdkVtY1BZRDB6dWdndDFNdWlXQWdBYkNCUUF0aDBJN2FwMDFIZXlyV1pkcjUxVi1WN0NHTDA?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 12:00:00 GMT",
-        "source": "The Telegraph",
-        "text": [
-          "Matthew Field is a Senior Technology Reporter covering the UK tech sector. He has covered social media giants, technology policy and British start-ups for The Telegraph since 2017. He also writes about the space industry. He can be reached at matthew.field@telegraph.co.uk or via X @matthfield",
-          "Tim Creswick, a London-based technology entrepreneur, spent much of last week tinkering with a collection of half a dozen AI bots he uses to run his personal life.",
-          "Among the AI in his toolkit is Qwen, a cheap Chinese system from Alibaba, which he runs on his own Nvidia processors.",
-          "Relying on Qwen for simple tasks or routine coding has “more than halved” the amount he is spending on more powerful models, such as those from Anthropic and OpenAI.",
-          "Using the most powerful “frontier” bots from Anthropic or OpenAI to sort your emails or write some notes is a bit “like using a Ferrari to pick up the shopping”, Creswick says.",
-          "Like many founders who live and breathe AI, Creswick has found Chinese bots to be a useful tool to keep costs down. Their popularity is growing fast.",
-          "But, as the tech world awaits Claude developer Anthropic’s $2tn (£1.5tn) stock market float, the rapid advances of Chinese rivals are casting a shadow over Silicon Valley.",
-          "Beijing-based Moonshot, the company behind the Kimi bot, is said to be preparing a float that would value it at up to $50bn early next year.",
-          "DeepSeek, a Chinese lab with its own eponymous chatbot, is plotting its own float and was lately valued at almost $75bn.",
-          "Both DeepSeek and Moonshot were founded just three years ago. OpenAI took close to a decade to reach a similar valuation.",
-          "Their growth comes amid growing pressure over US tech valuations. The Nasdaq dropped close to 3pc on Friday while Google’s parent company recorded a record $500bn sell-off a day earlier, driven by growing unease that the spending plans of the AI industry will fail to translate into sustainable revenues.",
-          "Chinese AI companies pose a key threat. While they remain a step behind Anthropic and its rival OpenAI in terms of performance, they have been seeking to usurp Silicon Valley’s market dominance by making AI cheaper than ever.",
-          "And although Anthropic’s most powerful technology is widely regarded as still being a cut above the best that China can offer, the gap has been closing. The US’s lead over China was once a year, then six months and now perhaps just weeks.",
-          "Both Anthropic and ChatGPT developer OpenAI have been forced to trim their prices in response to China’s brutal price war.",
-          "More fundamentally, China has pioneered work on so-called “open-weight” AI tools, which can be freely downloaded and tweaked by users.",
-          "Those with some technical knowledge can run them on their own hardware, rather than via the cloud, bringing down costs further.",
-          "Last week, DeepSeek revealed a new open-source AI system known as DeepInfer. It effectively offers free access to technology the company uses in its internal AI systems, aimed at helping businesses and expert users to bring down their costs.",
-          "Silicon Valley’s leading AI tools, on the other hand, are normally run on systems with guardrails and settings tightly controlled by the labs themselves.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "UK making up China policy ‘as it goes along’, MPs warn",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1rM1VkUjU2bUdnYWVZSlZnbjVfS092ZGIwRnNkaWpKMkpocmtMamcydjFHM1AySWtKU2l3ejIzNWdEdFVTQThEbkZjeENKUXB3RTdoeWFFOW9uUmsycEZ1VTNtekNNcWJsQkdoUlZLMGhVNzJWd2JFM1lNMHJoR2ltT05tSjlMTEhpT21hN0U2ZnNlX3NRNHRtUQ?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 11:58:00 GMT",
-        "source": "The Guardian",
-        "text": [
-          "Commons committee says lack of coherent strategy is hampering business and leaving national security risks unaddressed",
-          "The UK is making up policy on China “as it goes along” and risks having its strategy dictated by Washington or Beijing, a parliamentary report has concluded.",
-          "An investigation by the Commons business, innovation, science and trade select committee said Labour’s failure to formulate a coherent strategy since 2024 “combined the worst of both worlds” for the UK in relation to China.",
-          "Liam Byrne, Labour MP and chair of the committee said the UK’s policy on China meant it was also endangering its business with the EU with the risk of being “cut off” from big manufacuring contracts.",
-          "The government could neither deliver commercial opportunities to British businesses nor control the “increasing exposure to unquantified, managed risk” in relations with China, it found.",
-          "The report said: “In 2024, the new government promised a strategic, long-term, consistent UK approach to China. It has not delivered on this.",
-          "“Britain must shape its own relationship with China or risk having that relationship shaped for us in Washington or Beijing.”",
-          "The UK’s relationship with China has been marked by a lack of engagement in the last 10 years, with Keir Starmer making the first official visit in January since Theresa May in 2018.",
-          "That trip was billed as an effort to end the “diplomatic ice age”, but since 2018 China has benefited from an export boom that is now fuelling fears about deindustrialisation, adding to deep-seated existing concerns about cyber espionage and national security.",
-          "The MPs acknowledged the advantages of trading with Beijing in their report, noting that British businesses have profitable operations in China and “are ambitious to grow” and learn from the country’s “world-leading” innovations.",
-          "At the same time, consumers benefit from low-cost imports when household incomes are squeezed, with electric vehicles being a case in point.",
-          "However, Byrne sharply criticised the government’s piecemeal approach.",
-          "“Britain’s businesses cannot plan for the future when the government keeps making up its China policy as it goes along.",
-          "“Ministers promised clarity and consistency. Instead, we have opportunities missed, risks unmanaged and decisions left until the 11th hour.”",
-          "The committee cited the decision in March to block the Chinese firm Ming Yang from building a £1.5bn wind energy plant in Scotland after years of negotiation because of unspecified security risks.",
-          "Scotland’s first minister, John Swinney, has called on Andy Burnham to reconsider Starmer’s decision.",
-          "That decision, along with the emergency takeover of British Steel from its Chinese owners, “has been characterised by reactivity, inconsistency and opacity”, the report said.",
-          "Work on a new strategy, the committee said, should be combined with official preparations for new trade remedies to counter unfair competition, including potential tariffs on EVs, something Downing Street has not ruled out.",
-          "The report calls for “clear new rules of the game” and recommends the designation of a “red zone” for industries that would be off-limits for Chinese investment and a “green zone”, where trade should be encouraged.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "China’s CXMT defends push into new DRAM architecture as US chip curbs bite",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1lXREp3Z1lqNVNmcFdmVXJuQll5c25RZnVvZm83aU4zODRqZzIxMUl6eEhQcGlFQk4xVHd4SVlmSVdLSW1kRlBSYzRURnczMWkyS2k2bjdLQmRkLWxmMHN6Uml1NjhzdF8xb3hEZGRBTXpZdG5MOE9jcVNXX2ZKX2lya2V5OWFoSzlpWkh1STVUcVUtZlpYc2xfS3ZGOVVDT3ZmVExzMjg1ck5zUE1YVE43dkxtNl90QXNrdHF1N1MzR1R1dlHSAcYBQVVfeXFMTi1FMUJ6MG1iNlBneVhoQ0dPZVlDdXpiT3pTOXRzVUxCRlBPbDVLM1lwdnJIaHRmV25CT2VEUGZSWXE5MllZUFhzV0hUOXRMR3Nwbm9MekFhTUVLNjNnLW91NlpRazFlMkVoQktQV2FtV29CaWhDaURiMW5IYjQ1d3FoQVAtREFmdG81a21mdGlxS2UzcUxjVUtwbWRpNXhOY1dhZFE2aTNfdWdJLWJDTGJ3MkY0TGFCR0hPR0h5NThpczN6UEtR?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 11:30:09 GMT",
-        "source": "South China Morning Post",
-        "text": [
-          "The company plans to send customers samples of its first server-grade DRAM product built on the 4F² architecture by the end of this year",
-          "Chinese memory chip giant ChangXin Memory Technologies (CXMT) is pressing ahead with an alternative chip architecture that US rival Micron Technology has chosen to bypass, highlighting an industry divide over how best to pack more data onto silicon under cost and geopolitical constraints.",
-          "A timeline for mass production was not disclosed. CXMT said commercial roll-out would depend on client validation and market demand."
-        ]
-      },
-      {
-        "title": "Government making up China policy as it goes along, say MPs",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zY2VMV1hiZDY0QWgxZExhdE5OdWFPakJSUXlaM05zbzBEYWcxOVdaS2k3QWw5SmF1TzBKSENfLXNuQkxFMzNBTGRsR3dkQ3dsZ3QtMU5MRUVsQmM?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:53:20 GMT",
-        "source": "BBC",
-        "text": [
-          "The government has failed to deliver on its promise to pursue a consistent approach towards China and is instead making up policy \"as it goes along\", MPs on the business committee have said.",
-          "The committee said in its report that decision-making had been characterised by \"inconsistency\" and was heightening national security risks.",
-          "It called on ministers to block the transfer of sensitive data to China, give businesses clear rules for doing trade with the super power and ban imports made using forced labour.",
-          "The business department said it disagreed with the report's conclusion adding: \"Our approach to China is consistent - we will co-operate where we can and challenge where we must.\"",
-          "\"We have placed our relationship on a more stable, balanced, long-term footing, and based it on a clear-eyed assessment of both the opportunities and the risks.",
-          "\"Our trade strategy makes clear that we will capitalise on every opportunity to grow our economy while never compromising on our national security, and our increased discussions with China allows us to directly raise concerns where they arise.\"",
-          "Former Prime Minister Sir Keir Starmer had sought to pursue a closer relationship with China, arguing that the UK could not afford to ignore economic opportunities, while insisting that should not mean compromising on national security.",
-          "However, efforts to build ties were criticised by some MPs concerned about China's alleged spying activities in the UK.",
-          "An audit of the two countries' relationship was carried out last year but the government has not published the document in full, saying it contained classified information.",
-          "Sir Keir's successor Andy Burnham has yet to set out his position on relations with China.",
-          "In its report, the Business, Innovation, Science and Trade Committee said successive governments had \"failed to reassure\" the public they had taken \"adequate measures to defend UK national security and economic resilience\".",
-          "The MPs said the unpredictability of government approaches and a lack of clear guidance had hindered businesses ability to trade with China.",
-          "It proposed setting up \"red\" and \"green\" zones to clearly defining where trade and investment would be encouraged and the areas which were \"off limits\".",
-          "The committee said that the government should insist on fair trade with China and advised preparing tariffs that could be imposed if the country continued to subsidise its industry or failed to offer \"fully reciprocal\" market access.",
-          "On protecting sensitive technology and data, the report said there should be a ban on connected technology devices being used in critical national infrastructure.",
-          "The committee said \"low-cost\" Chinese connected technology had become wide-spread in the UK and that in this area the government had \"prioritised diplomatic politeness over the UK's national security\".",
-          "Universities should also get \"faster advice\" on conducting research with Chinese bodies, it said.",
-          "Committee chair and Labour MP Liam Byrne said: \"Britain's businesses cannot plan for the future when the government keeps making up its China policy as it goes along.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "Taiwan Criticizes China for Diplomatic Slight in APEC Invitation",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd25TZ0NHaFhZYjVicGJiZ0FpaWliMjh2WF9ZaFUtdm9DVW9IRmlEM2lMVEZSQ0gwSGlqUkZxV2hUR1hHSjAweVl6M09sLW0zdE9rWFQ4UXRaTEVDZUlta282S0Q2dkxCNDdGVlNtQ0xfRlZFZ0NTbFFQMlZ3NFVJdE5ESWpRQ0ZUc0M3ZDZOZ1BrSENFeDVxZndqWWU4X2JVQlR3eS1oazFYLWk0NWtiZGE4ZFJQQ0w5N3VoOHlWSWpKSU8tR2c?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:20:15 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "China's slow buying of US farm goods tests $17 billion trade pledge",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGp4TlZzUzhLZkJsbVoyLWVtTVNHUmMtWVNteFpvbE9vYkZhcWxUSTdwQ0JyYi14MzdCN2dqeEU1Rkw5NHZISnhzbVV0Wno3U3M2b3FkRFdlXzBkdW5OT3RKRU5DamhSOWh1WVQyVk5ucG83amhtMDdqNWUwR2xianV2MUNtQ1Y0Qmo1QXJmOWd3SnB3eVZDcHpCZFFXc1MwamktYlRMeVhRc3FlZUlr?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:16:42 GMT",
+        "title": "China regulator tells banks to pause IPOs, FT reports",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjN6YlQ3VTFGbEdFbkIwWDc1NzBsaDg3RlUycGtxVE9kNEplZUVNZ3VJbDQyUEFZVGdWcnVZaUdPOFJqTk0tNmhKVi1yVTFGeDE3X1ZHZ3lfNWpDTU1aczAyeEZhSmktNi1WcFZ2WEMyaXZiSTluMFRuQ0FWMi1yMS1RTDM4VHZCRmVEY3BkbC1jN3ctcklXZjJVQnVtQQ?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 06:59:00 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "Beijing doubles down on Type 071 amphibious warships, signalling a Taiwan focus",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBCVk9FbUItM3JkeEhxaWtvNUh4c0x0Um9VSkJ2TEw5YnI4cDItaHhmMW9IazJXaW52ZXJ0c0t0ZjIzQU1hSTc4Qzh2S0paTU1LaFZfcGtvZlA5am13V3g2OWNUSmRGcTRiTlNHYnl1M3NHcEl6Z2Z5aXljVmNxb201MHdBYmhwMm5tRGt1YmhtU2xDSk00bTRNTElwSzRZN0w2VFFZWUd0d21FaVdqRTltT1V5MGNQN1V4VzR0Wm1jX3paYVV6bmdR0gHKAUFVX3lxTE5lMHl4c2VYY2JTUnhIWjRwMV9xbUl5a1d0ZE5pWWE2eWI0Q0dkUDRrMUtCaXlISG1JY3RXME1wd1VWWDlXd09lUG5pWEdlMGtubURSakM4TDdaQ1l1ajVqcFFoV1hhUFduajRrdHF0M3gwaXhpWU80NjZzWmlXU1ZLbEFpRUdISjlZa3pMWmkxUFhrRV9MTVN5VkNPTVhITDlCQWFacGwwUXFGUi1ZOUdGaTY2NDdvQ3dJNkNfWmdEUUVQNFMxMVNzTnc?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:06:23 GMT",
-        "source": "South China Morning Post",
-        "text": [
-          "Move challenges US assessments that Beijing lacks the maritime lift and logistical support needed for a large-scale attack on the island",
-          "Beijing is accelerating production of its Type 071 amphibious transport docks by expanding construction to a second shipyard, potentially strengthening its ability to move troops and military equipment across the Taiwan Strait in a conflict.",
-          "According to Janes Fighting Ships, two of the vessels in Shanghai were launched in August and October but have yet to enter service, while the other two remain under construction."
-        ]
-      },
-      {
-        "title": "China Factory Activity Expands But Ends Streak of Faster Growth",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVgyV0NaWmJKNS0yUDZVcFJyaDJhcThxWk9KM2puRDlIYzF3TFlTMzQ1el9lRDlqMGpRcVE0WUhSRHZsalRpZHZmM1ZNeHRORXFHRlR5M0phWUxQX3dmdU5yUW0td1BDZkgzeWxtd0dGZjJ3R1M5VUgzZ2lGV2VsdVBlRm9iUlhWNFFWekZYT3dUVlV0dnZ1YTQyaGxpOXhvREhReEJsaS1wTW5PY0lhemY0cFU?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 10:00:00 GMT",
-        "source": "Bloomberg.com",
+        "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFhBT1lnS0xzTk9POHBCNUlEYmh6d3JkYW9xMnNRQ2gtYWJ3MF8xWDFTVjYwSGhjUjJnTVpRYzlmMFN0RkZtRTFYQkNQRUg0RlVEMDRRTEtOZGRpUFNlQm1IbTZTeDFnRUtoSkgybVBCcXlBLXNxS2U1d0lqNmRoQVBnWDdpdHJsbmwwNkNaV2htRkVlOEJzOWNXYUN3czFQU1VBRVNrQ01mazFULWJjeUdteTBIY3UwMkkxQjlxbXJaQQ?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 06:34:00 GMT",
+        "source": "Reuters",
         "text": null
       },
       {
-        "title": "Robots strut their stuff, race up sacred China mountain, some carrying eggs and watermelons",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84VVNWdm5SeVAxc1ZXc1hYdFR1UGxsYkZPcHd1SEExdXBTYmZJcEVUTENlbEliODU5dDFMYzJkRGRVclctVXd3X0JKbGwyVmNVMVRsam1tajBwR1NwZC0tSFI4V1hEZ0NpR3BoSG9YbzRQdF9xZFVvc3l0ZDFGQQ?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 09:54:00 GMT",
-        "source": "CBS News",
-        "text": [
-          "Dozens of robots took on more than 3,000 steps up one of China's most famous peaks Monday, many carrying eggs and watermelons in a race organizers billed as a test of real-world machine endurance, state media showed.",
-          "For hundreds of years, Mount Tai -- the tallest peak in China's eastern Shandong province -- was an important pilgrimage for Chinese emperors, and it features prominently in Chinese mythology.",
-          "But the rugged terrain would prove a stern test for some competitors. One humanoid robot wearing a bandana collapsed in a heap on the cobbled route before engineers rushed in to repair it, while another tumbled down a flight of stairs and came to rest beside a rubbish bin.",
-          "The UNESCO World Heritage site hosted technologies of the future as part of a new World Mountain Robot Challenge, footage from state broadcaster CCTV showed.",
-          "&nbsp;Over a 2.4-mile course with more than 1,970 feet of ascent, robots and their engineers from around 90 teams were tasked with either completing the route as fast as possible or transporting fragile goods such as fresh eggs and watermelons to the summit.",
-          "A canine robot made by Beijing Lingyi Technology -- a subsidiary of industry giant Unitree -- completed the course in 43 minutes, 41 seconds, to win the four-legged speed category.",
-          "Most tourists take at least two hours to complete the route, according to CCTV.",
-          "The fastest humanoid robot -- belonging to Beijing-based team Zhishen Lingyue -- completed a shorter race course in 27 minutes and 26 seconds.",
-          "Organizers called Mount Tai's rocky terrain a \"natural extreme testing ground\" that could help train robots for real-world use, local media reported.",
-          "The race, organized by the state-run China Media Group, featured cash prizes for winners in several categories, including the fastest robots and the best load-carrying four-legged machine."
-        ]
+        "title": "China halts listings in bid to bolster struggling markets",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRIVmFzanBxYUk3dEZxMUdxVURNZlVMakljMHBrdVhWbHhYUHQ0WUtlQjZ2OFJ5ZzY0UzMwY1UxSGtvZFRpRVFMdDNPZ0xzVzRJOHlkQl8yX3BYMXJsMXlUbG0wckU4UjJjSkItTzR5WkMyR0RpWXNCUW9JQklZSEUxRU0?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 06:26:27 GMT",
+        "source": "Financial Times",
+        "text": null
+      },
+      {
+        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 05:39:00 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzNPU2lPQ0J6NnhJUUswMHpxVkozRlZfU1JvWTZid1ZpZHl3V0FqWUQxQnRBRkNJdHRCaFZKcHY0Mm96Y2Y3YU1lQ2hsQ05ROWZ6ZUZYZ2NNRDBENUN1bjZjZ2VsSnZiVWxkTkpRcVA1R0tMbDRZQmVyRTEtOEZ1VFZ6QjhUTG1XdHFtVkNpQzU1eTNGbmxuWF9XYXU5WUxSTUVZNlNBanVDTk9ueHMwOA?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 05:24:00 GMT",
+        "source": "Bloomberg",
+        "text": null
       }
     ]
   }
