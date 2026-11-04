@@ -27,7 +27,12 @@ const WAV_PATH = join(OUT_DIR, 'latest.wav');
 const META_PATH = join(OUT_DIR, 'meta.json');
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const TEXT_MODEL = 'gemini-3.8-flash';
+// Alias "rolling" di Google: punta sempre al modello flash raccomandato
+// corrente, invece di un punto release specifico come "gemini-3.8-flash"
+// (che nei test reali ha dato HTTP 503 "alta domanda" in 4 run su 5 —
+// probabile scarsa capacità perché appena uscito). Verificato con
+// scripts/list-gemini-models.mjs che esiste davvero per questa chiave.
+const TEXT_MODEL = 'gemini-flash-latest';
 const TTS_MODEL = 'gemini-2.5-flash-preview-tts';
 const VOICES = { Marco: 'Puck', Giulia: 'Kore' };
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
