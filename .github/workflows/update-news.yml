@@ -30,11 +30,6 @@ jobs:
       - name: Fetch RSS feeds
         run: node scripts/fetch-news.mjs
 
-      - name: DEBUG - elenco modelli Gemini disponibili (temporaneo)
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/list-gemini-models.mjs
-
       - name: Install ffmpeg (per convertire il podcast in mp3)
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
