@@ -1,86 +1,115 @@
 {
-  "generatedAt": "2026-11-06T12:47:53.071Z",
+  "generatedAt": "2026-11-07T11:36:40.647Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Xinhua News | Xi replies to young Australian students",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JMkxta0hHcnlTeFBtdlFSZHozQ2xxcDdMMkNTQnJsWk81c05mNkJUbmpvWkFkc0tGajFnT1NEZm1hbGlCa1dnSndkMjFzWjJUTmsyS3E4eEVQQXNUSmRuUU8xUWZsNlRrYTM3ZG1PSjVqN3VLRDNmYmo1bWQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 04:33:15 GMT",
+          "title": "Media executive calls for greater cooperation, human oversight in AI-driven journalism",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5obHJKYWxQdjAwcFZ1aEhxQVhvX3VlOGYzVlRJeGo3QzNrdzFsMEg5aTZRZnlLTFYzcVJPeWdpWVM4aTZIVk1IODJvME1NZ1hLRkZjeWFfT0EzWFdLYlg2N3MtWk82ZEE1cnhUbjY1LWh0Sjh5UGJwM29aS1E?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 11:08:16 GMT",
           "source": "Xinhua",
           "text": [
-            "Chinese President Xi Jinping recently replied to 110 young Australian students who had written to him, encouraging them to remain committed to promoting the China-Australia friendship. #XinhuaNews",
-            "Xi holds talks with Sultan of Oman, stressing bilateral cooperation, peace efforts in Middle East"
+            "ISTANBUL, Nov. 7 (Xinhua) -- Artificial intelligence (AI) is opening up new possibilities for journalism, but media organizations must strengthen cooperation to ensure technological advances go hand in hand with reliable reporting, said Sumeyra Teymur, CEO of Turkish news platform Haberler.com.",
+            "In an interview ahead of the 7th World Media Summit, Teymur praised China's innovative use of AI in journalism, saying she was impressed by the country's efforts to integrate advanced technologies into the media industry.",
+            "\"I heard about and saw AI anchors presenting news during my previous visit, which really impressed me,\" she said. \"I have always loved technology, and these developments make me excited. I am always thinking about what is coming next.\"",
+            "She also expressed interest in the potential use of humanoid robots to cover dangerous situations, such as earthquakes and conflicts, where deploying human reporters could pose risks.",
+            "Haberler.com has also integrated AI into its daily operations. Receiving more than 2,000 news articles from various sources every day, the platform uses AI to organize content, generate headlines and supplement articles with relevant photos and videos, enabling its editorial team to handle a larger volume of news.",
+            "However, Teymur stressed that human oversight remains essential, warning that AI can make mistakes and facilitate the creation of fabricated news, images and videos, as well as the manipulation of voices and identities.",
+            "\"Whenever we use AI, we always have a human checking the content,\" she said, emphasizing the responsibility of media organizations to verify information before publication.",
+            "She called for stronger international media cooperation in sharing information, technological expertise and cultural stories, noting that no single organization can tackle the rapid spread of misinformation across borders alone.",
+            "The 7th World Media Summit, hosted by Xinhua News Agency and the Beijing Municipal People's Government under the theme \"Media in the Intelligent Age: From Consensus to Action,\" is being held in Beijing from Nov. 5 to 9.",
+            "Teymur said she looked forward to exchanging experience with Chinese journalists and strengthening ties with Chinese media organizations.&nbsp; ■"
           ]
         },
         {
-          "title": "Xinhua News | China's second homegrown large cruise ship delivered in Shanghai",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXQklMaENCckZFd3E1cVljak9vOWxHNHJOTlRIQ2NkTEVfTnl1UmhzVzBqMXc0dktZUFR4QjlEOHZ1LXhIYU03VWxTN2NPRF9pVXg5dzZiSS1JRTFlSkI4VFRNbFRoTmQwNzU5b3FJU0JVM0Zrc1AyUjBueTc?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 04:09:16 GMT",
+          "title": "Xinhua News | Int'l seminar explores CPC's self-governance practices, global implications",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05dE92bmJya3lnQlNNN0otd3ZzMVgxWHZMVmh1WlA1U3JnVnRTYmRTTW9OMExxc0dTRWhSY1BHQTg5dmhvUFFmRlluUkhYNW1JMF9XSER2UHh0Rldid1hBVHVxVVlUYkVsTjRhdHc2dll2ZlY4bW9UeDlBUUo?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 04:44:16 GMT",
           "source": "Xinhua",
           "text": null
         },
         {
-          "title": "Xinhua News | Paraguayan president resigns following bank collapse",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OUk5aMzZ3am9oUmVSV2VmYktGb0pobE40dEhmNHRlaWVGUDVVSmhlYUhiVTJlN3N6WHBXVFhodW5ESnZLQ01aZXE2Qk5vVjRjWVRFTmNWX3V2Yk5BNksydWJPNmh3aTNySHpDZkpISkp2VElsVTRjMGQ2c1g?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 03:15:15 GMT",
+          "title": "Xinhua News | First foreign astronaut to board Chinese space station",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkd2VCR3c2N1pfUjFZWGl3bUlsT1FDQkhGZEh2Ujd2Mzk5MUlKbmV6UmxjcHVqNFgzazRVbDBvaXYwVDVSenNULTJ5MDJhWnVyVDlsb1ozWUN5cFFqc3F6bGxGRW1FOVk4WFExaXJFblhheDV0SVdrUnZBQjM?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 04:30:31 GMT",
           "source": "Xinhua",
           "text": null
         },
         {
-          "title": "Xinhua News | Around 600,000 people take part in demonstrations across France: media",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LdTFJQ0g0ZjVZVGJaNkpHZ3JqN1NPOTZzNlhlU1NXNEFMYWFqY1B0bHFMVXNEZmNJVXV1MHdCZEduaXRzVU1KMnp3UXFabXEzb1JFd25kMHNTM1lOLThJTG1xS3pUZXNlMnhBaFFud2lHTFpOUUp6VElPcG8?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 03:07:17 GMT",
-          "source": "Xinhua",
-          "text": null
-        },
-        {
-          "title": "Xinhua president meets with foreign media leaders attending 7th World Media Summit",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCZEx5ZEw0UFFNV3NrOG00Y3FfMldGTHh5czhWUy1SVVZWNUdVa2JjeTBrcmVRelBqb0RveXFjQTNfMGxzMzc1eHd0YVdydzBCVVdhZ3RRRXYxRmpQdVNDRHhrUWJpak01MFJSV19TYVgxTE9aR21OSDRsVHU?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 16:04:45 GMT",
+          "title": "Xinhua China news advisory -- Nov. 7",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aVzU3TzhzZGEtZ3lkQk9peEpBYVlhN3J5UDNER0sxbWR3aktXWUVLbkJtM0hwS1FJZENta0NwdGFQZFBMWDU5TU56ZlRUWGFGNWlFSm1xYzJQREFvTi1QZVJSVkVJc3dhWDVuR0RvVWd4cEFrNVh3NTBhdmc?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 03:10:16 GMT",
           "source": "Xinhua",
           "text": [
-            "BEIJING, Nov. 5 (Xinhua) -- President of Xinhua News Agency Fu Hua met separately in Beijing on Thursday with Abdul Hakim, president director of Indonesia's Antara News Agency, and Yoshiki Kishida, senior managing director for international affairs of Japan's Jiji Press.",
-            "Fu also had a group meeting with representatives of major African media outlets, including Loyce Mkwayaya Saili, director of Zambia News and Information Services. The media leaders are in China for the 7th World Media Summit (WMS).",
-            "Fu welcomed the media leaders from various countries to China for the summit, noting that the WMS is a major gathering of the global media community, and that this edition coincides with the 95th anniversary of the founding of Xinhua.",
-            "Fu said Xinhua is ready to work together with participating media under the theme \"Media in the Intelligent Age: From Consensus to Action\", to explore in depth how artificial intelligence can be better harnessed to empower news gathering and editing, and jointly uphold journalistic credibility. He added that Xinhua looks forward to further strengthening cooperation with various media organizations to promote closer people-to-people ties and play a positive and constructive role in advancing relations between countries.",
-            "Congratulating Xinhua on its 95th anniversary, Abdul Hakim said that Antara News Agency and Xinhua News Agency have long maintained friendly cooperation and Antara hopes to learn from Xinhua's effective practices in empowering news gathering and editing with technology. He expressed appreciation of Xinhua's important role in promoting global media exchanges and cooperation, and the willingness to strengthen cooperation between the two agencies within a multilateral framework.",
-            "Yoshiki Kishida expressed his delight at attending the event in China. Noting that better application of artificial intelligence in news reporting is a common challenge for the media and a key topic at this summit, he said he looks forward to strengthening cooperation with Xinhua on this front.",
-            "Pointing out that Xinhua is a globally influential media organization, the African media representatives expressed hope for deeper practical cooperation with Xinhua to accelerate the modernization of news gathering and editing operations of African media, boost their capacity to apply new technologies and produce multimedia content, and enable African media to better make their voices heard.",
-            "On the same day, Xinhua also signed cooperation documents with the Gabon News Agency and Lesotho News Agency, agreeing to deepen cooperation in such areas as news information exchange and personnel exchanges.  ■"
+            "BEIJING, Nov. 7 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Saturday.",
+            "-- China Focus: More than just shopping: traditional Chinese markets enjoy youth-driven revival",
+            "-- China Focus: AI opens new possibilities for tropical farming, regional cooperation",
+            "-- (CIIE) China Focus: Turning debuts into demand, CIIE sets stage for global innovation",
+            "-- China Focus: China aims to turn frontier technologies into new growth engines",
+            "http://www.youtube.com/user/ChinaViewTV  ■"
           ]
         },
         {
-          "title": "Xinhua world news summary at 1530 GMT, Nov. 5",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kZEZqbWxJQWx1bGFObXBzNkwtR1VCbzJBVXZza3pMUk5sVU1Hd29aSUVsSkx0Mzl6TlAzamlUQno5VWtuSXR0d05JQVQyQzQtZGs4SWJmQkVweEtCbm8wcDl5WEtwQWxESnppWmlvd2NLOXRHRFZJb1lHRGU?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 15:30:16 GMT",
+          "title": "Xinhua Middle East news summary at 2200 GMT, Nov. 6",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DRVN1TWpoenJ1LXFrcXl1QUFlU1dMZ3Q5UEZxVURHRFVGdGlzUWZEb1I3VFJ1c3hBRTVnQUdIQkFFYWRLWU5VMG1qZ2NJNlJVY0lLNy1zLWJsQzh2cERGY0xIbHF1dWV5SFFtU3NyS0tsR2MxcGFTc3QwN3Y?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 21:58:00 GMT",
           "source": "Xinhua",
           "text": [
-            "LONDON -- The Bank of England announced on Thursday that it has decided to increase its benchmark interest rate by 0.25 percentage points to 4 percent, according to a statement on its official website.",
-            "The Monetary Policy Committee has voted by a majority of 8-1 to raise bank rate to 4 percent. One member voted to increase the rate by 0.5 percentage points to 4.25 percent. (Bank of England-Interest Rate)",
-            "BRUSSELS -- Onboard bomb threats affected multiple passenger flights across Europe on Thursday, causing extensive disruptions, while some flights have already landed safely.",
-            "Three flights operated by the Irish airline Ryanair from Copenhagen, Madrid and London to the Bulgarian capital Sofia received bomb threats before safely landing, Bulgarian media reported. (Europe-Flights-Bomb Threats)",
-            "MUSCAT -- Oman and Iran on Thursday stressed the importance of consolidating sustainable understandings to ensure maritime security, end the state of war and prevent renewed confrontations in the region.",
-            "During a phone call, Omani Foreign Minister Sayyid Badr bin Hamad Al Busaidi and his Iranian counterpart, Seyed Abbas Araghchi, reviewed the latest contacts and talks aimed at reaching understandings to resume navigation through the Strait of Hormuz without hindrance, according to a report by the Oman News Agency. (Oman-Iran-Arrangements)",
-            "MOSCOW -- Five people were killed and another 13 injured in a Ukrainian strike on a bus in the Russian-controlled Lugansk region, Leonid Pasechnik, the Moscow-appointed head of the region, said Thursday.",
-            "Among the injured were two teenagers, aged 15 and 17, Pasechnik said, adding that all the victims were under medical supervision. (Russia-Ukraine)  ■"
+            "SANAA -- At least 30 people were killed and eight others wounded in an attack on a crowded market in Yemen's southwestern Taiz province on Friday, Houthi-run al-Masirah TV reported, as the country's government and Houthi group traded accusations over responsibility.",
+            "The channel said three Saudi airstrikes hit Al-Hadarah public market in Taiz's Al-Wazi'iyah district in the morning, when it was crowded with shoppers. The casualty toll remained preliminary as rescue teams continued searching through the rubble, it added. (Yemen-Attack-Casuality)",
+            "JERUSALEM -- The office of Israeli Prime Minister Benjamin Netanyahu on Friday issued its first response to U.S. President Donald Trump's announcement that Washington will end its annual military aid to Israel, saying that Israel and the United States agreed to move from military aid to partnership.",
+            "\"U.S. military aid to Israel has always been a cross-the-aisle agreement,\" Netanyahu said in the statement. \"Israel has used it both to defend itself and to confront enemies who threaten America and the West.\" (Israel-US-Military Aid)",
+            "TEHRAN -- A senior Iranian security official said on Friday that Iran needs to see practical measures by the United States rather than mere \"paper commitments\" before entering a new phase of diplomacy.",
+            "\"It is Iran's right not to settle for the U.S. paper commitments for entering a new phase of diplomacy. We need to see practical measures from the Americans, actions that are quite self-evident,\" Deputy Secretary of Iran's Supreme National Security Council Ali Bagheri Kani said in an interview with state-run IRIB TV. (Iran-US-Diplomacy)",
+            "DOHA -- Qatari Emir Sheikh Tamim bin Hamad Al Thani and U.S. President Donald Trump discussed ongoing diplomatic efforts to ease regional tensions and reach a comprehensive agreement to end the crisis during a phone call on Friday, Qatar's Emiri Diwan, the administrative office of the emir, said.",
+            "They reviewed the latest regional developments, particularly Qatar's mediation efforts to narrow differences between the parties concerned and support negotiations toward a lasting settlement, according to a statement from the Emiri Diwan. (Qatar-US-Diplomacy)  ■"
           ]
         },
         {
-          "title": "Xinhua launches world's first bionic humanoid robot news anchors",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84QWZTS0t6Y2VPRUdycGRGcGNwQzZpRzNnOGxKSFBxbWkyV3l1MGpDNnA2dnZtcy1LU0NjVjZEVVlUcTNMQmx0eUZPbHI2NE1vQVYyN3JmYmpWdms4aTVfMm1KLTUzcjd6cVVleG1MVHZBY1BWZ1FOQkExUGI?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 14:23:16 GMT",
+          "title": "Eastern DRC violence claims lives, disrupts Ebola response: UN",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBocDkzTXB5cm1UQ0dsR1lORW5rdnBaY1NKZHBLRVFrYjRmU1B3RDFONkxCX3ZZNjMzV2c0cGJPVExxUk40Q1hvaWZEQWVoMy01VHg1dDFMWDNNSnZIcE83aDhMQnZQZXFxdGtYV0VuRjVQUy05NlVhUWkzV00?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 19:37:16 GMT",
           "source": "Xinhua",
-          "text": null
+          "text": [
+            "UNITED NATIONS, Nov. 6 (Xinhua) -- Dozens of civilians were reportedly killed overnight in violence in the eastern Democratic Republic of the Congo (DRC), further disrupting the Ebola response, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said Friday.",
+            "At least 30 civilians were killed, homes were burned and a health center was destroyed in the Cantine-Aloya locality of Beni Territory in North Kivu. Several patients are reportedly among the dead, the office said, citing local sources.",
+            "\"People who had been in contact with Ebola patients reportedly fled an observation centre, while response teams were forced to suspend operations in the area,\" the office said in a daily news update. \"This is making it harder to track potential infections and contain the outbreak.\"",
+            "Authorities have reported more than 10,700 confirmed Ebola cases and over 5,200 deaths to date, mainly in the eastern DRC, according to OCHA.",
+            "The office calls on all parties in the country to protect civilians, respect international humanitarian law and ensure safe and unhindered access for humanitarian and health workers.  ■"
+          ]
         },
         {
-          "title": "Xinhua News | Bomb threats reported on multiple flights across Europe",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTzRzOWZCREdfQ2owam16V2lNZ2hPOEZJTFdkRHFqZ1ZqZ1ZyNV85T2xiYi03VEdzVnBKNFc3N1pBNXllUE04TzlfeG9sb2YydGhGUVJjTV9zcWN4LTBiQlBjY2FCbHExZzJ5alVPa3RmbEo5a2NZakV3cWw?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 11:36:15 GMT",
+          "title": "Xinhua Asia-Pacific news summary at 1600 GMT, Nov. 6",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMGMtb2ExU2d4YXRBNWhBclRpNnlCVjVtdy11dFhYWDVjUDQxLWZLNUpWOGtKV2dzTU5wS0tiSEJZMWVmdUcwaHVpQ2V6RmFZSmdrR1Z1bTlPdXB5T1dlRDhXTHVoVzBUdUJvTnlIRWNmMkJ2bFU3akcwZ2U?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 16:08:15 GMT",
           "source": "Xinhua",
-          "text": null
+          "text": [
+            "DHAKA -- A groundbreaking ceremony for the expansion and modernization project of Mongla Port facilities, undertaken by China Civil Engineering Construction Corporation, a subsidiary of China Railway Construction Corporation (CRCC), was held Thursday at the port in southwestern Bangladesh.",
+            "Bangladeshi Prime Minister Tarique Rahman said at the ceremony that the project would further enhance the port's overall service capacity, reduce logistics costs, boost investment and employment, and promote economic development in the country's southwestern region. (Bangladesh-China-Mongla Port)",
+            "SEOUL -- South Korean stocks plunged over 8 percent amid tech sell-offs Friday, activating a circuit breaker on the main KOSPI market.",
+            "The benchmark KOSPI dropped 460.33 points, or 8.55 percent, to trade at 4,923.47 at 9:08 a.m. local time, while the tech-heavy KOSDAQ plummeted 46.04 points, or 6.79 percent, to 632.37. (South Korea-Stock-Plunge)",
+            "TOKYO -- An earthquake with a preliminary magnitude of 6.1 struck the waters off the eastern coast of Japan on Friday, the Japan Meteorological Agency (JMA) said, with shaking felt in central Tokyo.",
+            "According to the weather agency, the temblor occurred at around 7:39 p.m. local time at a depth of about 10 km, measuring 3 on Japan's 0-to-7 seismic-intensity scale in parts of Miyagi, Fukushima and Ibaraki prefectures. (Japan-Earthquake)",
+            "KUALA LUMPUR -- Flooding displaced over 1,300 people in Malaysia on Friday, with the hardest-hit area being the state of Selangor, according to authorities.",
+            "Selangor, which has seen continuous heavy rains over several days, recorded 1,174 flood evacuees housed in 12 flood relief centers, according to the country's social welfare department. (Malaysia-Flood)  ■"
+          ]
+        },
+        {
+          "title": "10 civilians killed in suspected ADF attack in eastern DR Congo: local sources",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORl95eVpzT3FJdV9SZ2pjMk16ZFJ6R1drMkVlUG5CUW1SQlUwMkhzdkNrRDN1SEQ4cXRxUklMb0FCeEF0ZnI1eW0tLU9fUGxlWmM1S0piS2lzSk8xYjNXLWNpQVBYRjViWTJ0ZDk4MXpvZE15YUdlbFJaQXIwbmJaWjhMb3M1QQ?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:08:00 GMT",
+          "source": "Xinhua",
+          "text": [
+            "Photo taken on Nov. 6, 2026 shows the debris after an attack in Cantine-Aloya, a locality in Beni territory, North Kivu province, eastern Democratic Republic of the Congo (DRC). At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources. (Xinhua)",
+            "KINSHASA, Nov. 6 (Xinhua) -- At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources.",
+            "The attack occurred overnight from Thursday into Friday in Cantine-Aloya, a locality in Beni territory, North Kivu province. Armed assailants reportedly entered the settlement, killing residents and setting fire to homes and commercial buildings.",
+            "Tchetche Aliamini, head of a local civil society organization, confirmed the attack and reported extensive damage to civilian property, according to local media.",
+            "The death toll remains provisional, with some local media outlets reporting that more than 20 people were killed. Some bodies were reportedly still at the scene, while many residents fled their homes amid the violence.",
+            "The ADF, an affiliate of the Islamic State in Central Africa, is a Ugandan rebel group operating in eastern DRC. Its continued activity has prompted joint military operations by Congolese and Ugandan forces since November 2021 to track down and neutralize the group. ■",
+            "Photo taken on Nov. 6, 2026 shows the debris after an attack in Cantine-Aloya, a locality in Beni territory, North Kivu province, eastern Democratic Republic of the Congo (DRC). At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources. (Xinhua)"
+          ]
         }
       ]
     },
@@ -88,6 +117,17 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GU0pJbWNzWnRDVG03dG85VTZvQjc2dXFRY1R2QnVTY2NQZTIwdHhsN3E0dkh0MDZ5Sng1dmxlN3RHbzlNUEVRcWFvVFUxbG5TSmJHUHpCdXN4ZnBuSW1tYjZlTkhnMVNtY01tdEp1Yw?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 08:27:00 GMT",
+          "source": "人民网",
+          "text": [
+            "          &nbsp;          2027            ",
+            " 2026  11  5  8  00  10  18  00                  2026  12  13                         &nbsp; 2027  5         ",
+            "               &nbsp;       &nbsp;     &nbsp;       &nbsp;      &nbsp;   &nbsp;                                &nbsp;    &nbsp;          "
+          ]
+        },
         {
           "title": "人民网蒙文版",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTC16ZUpUVDkzdmhLYXVYMDZrZE15QlN3Q1lUd1RWanN2ak5SNW1WeUw2TmNHRXFLaVRHOFVTaFloZWZaSmtSc2NkREFYOHBDX2ppaFdiZnpfNzcyck1oZjN4azA0RktoVjhVN0lHWQ?oc=5",
@@ -114,109 +154,105 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Changsha footwear company rides AI, fast delivery to expand in US market",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wSnlrSlJMX1lBQnpRMWloeGZRd1dnSEZHZmM2TGx1dnQ2ZURTNVNiUVlJMHZ4cVNXTVJJN0JzRHNXdjJ1aHZNcGgxeGdhQnp6d2tTQ1pucGEybzRaWFZBZ0FBVTlwLTN2UE1qaHlwUUxFcUxWZ2tfZnpyZ1N2UQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 12:21:49 GMT",
+          "title": "Construction workers, truck driver injured as section of bridge collapses",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSndBdUdncWNJWkEzNW1xZEFKOTBkZDM5bElZVU9rRUw2dkYzYkpfWFE1bnZuQnNmOFpHUlU5di1JTDVfQkI0ajZ3Zzc1TjlwUEJCSTJqOFUyX0tpLVo5TW8zR1dYLUFINUF0OUQ4cDhUOURvb3pfWHJNLW0zZw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 08:39:12 GMT",
           "source": "China Daily",
           "text": [
-            "On the US shopping website Amazon.com, the brand Dream Pairs consistently ranks among the best sellers in the women's shoes category. Meanwhile, the men's brand Bruno Marc and the outdoor label NORTIV 8 also hold top positions on major North American shopping platforms. However, few shoppers realize that all these brands are owned by a company headquartered in China.",
-            "Miracle Miles Group, based in Changsha, Central China's Hunan province, sold over 30 million pairs of shoes in the United States last year, generating more than 6 billion yuan ($900 million) in revenue, according to Xie Mengling, the company's brand marketing manager. In the first nine months of this year, sales on cross-border platforms reached 5.13 billion yuan, marking a nearly 20 percent increase year-on-year."
+            "Three construction workers and one passing truck driver were injured on Saturday after a section of a bridge collapsed during the jacking of a steel truss at the construction site for the Cangzhou-Yulin Expressway, according to authorities.",
+            "The construction site was located in the Qingyuan district of Baoding, Hebei province, crossing the expressway linking Cangzhou, Hebei, and Yulin, Shaanxi province.",
+            "Two of the construction workers sustained serious injuries. All the injured have been promptly taken to the hospital for treatment.",
+            "Currently, local authorities are working on-site to ensure that the expressway can resume traffic as soon as possible. Investigations into the cause of the accident and follow-up actions are underway."
           ]
         },
         {
-          "title": "China opens two anti-dumping probes into EU imports",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmlWWDJPTlhVY1NwaTl5TGxhc1oyTGkwVGZILWM4UWdUR1Z4TFlfd1ZnamhxYVZJRHAxTHZQMnJocE1vV0hmcWxqR1ZoV0ZPWDM4Q2hsaWszT3NsMkxZdkRJdjhnVFM0VUpyMEd3ZmRHVFBESUppZXVWVGk5YUx5LVBn?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 09:33:47 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By Zhang Chenxu | \n          chinadaily.com.cn |\n          Updated: 2026-11-06 17:33",
-            "China has launched two anti-dumping investigations involving imports from the European Union in line with the rules of the World Trade Organization and relevant Chinese laws and regulations, the Ministry of Commerce said on Friday, urging Brussels to address trade concerns through dialogue.",
-            "The probes, announced earlier in the day, cover imports of para-aramid filament yarns from the EU and ethylidene norbornene from the EU and Japan, according to ministry announcements.",
-            "Both investigations were initiated in response to applications filed by domestic industries, a ministry spokesperson said in a separate statement.",
-            "Preliminary evidence submitted by the applicants showed that imports of para-aramid filament yarns from the EU remained high from 2023 through the first half of 2026, while prices fell by more than 50 percent over the period, the spokesperson said.",
-            "The evidence also showed that imports of ethylidene norbornene from the EU and other markets increased by a cumulative 27.35 percent between 2023 and 2025 and were up 56 percent year-on-year in the first half of 2026. Prices trended lower overall, the spokesperson said.",
-            "The applicants alleged that the imports were being dumped in China and were hurting domestic producers, the spokesperson said.",
-            "After reviewing the complaints and supporting materials, the ministry found that both applications met the criteria for opening anti-dumping investigations under Chinese law and WTO rules, the statement said.",
-            "\"China will conduct the investigations in accordance with relevant laws and regulations, fully protect the rights of all interested parties and issue objective and impartial rulings,\" the spokesperson said.",
-            "The spokesperson also pointed to a sharp increase in EU trade remedy investigations involving Chinese products. Brussels has opened 16 such cases so far this year, nearly twice as many as in the same period last year. Nine, or nearly 60 percent, involve chemical products.",
-            "Since mid-October, the bloc has launched a series of anti-dumping probes into Chinese products, including furfuryl alcohol and polyvinylidene fluoride, the spokesperson added.",
-            "China, by contrast, has consistently taken a prudent and restrained approach to trade remedies, the spokesperson said.",
-            "\"The EU should face up to its own economic and trade challenges,\" the spokesperson said. \"Protectionism cannot improve competitiveness. Dialogue and consultation are the right way to address each other's concerns.\""
-          ]
-        },
-        {
-          "title": "International scholars explore Xiamen's connection with the ocean",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uQTd1SVI3T250QWNMejc4N19HTXR4cGs4MHJTQV9sZjczZVdZc29CODc5Ym5SVEFrajk0a0txeHBoeWNXWjNSVW1kdmU5UVVBN1ZoTzBVNHJXbTNyQ3FpbGItOU95djBnNnZFQzI5eTVJSjk0N2ZZU0V1VzFMUQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 09:11:03 GMT",
+          "title": "Price wars without efficiency boosts must come to an end",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqcjhXRUxfNTlTZzNxSExndDB0TUczLUpSQWtubkU3Z3otQkZic0FBeXpvS3NtRjhRVlJiUmw0dmNpVHpvM0FYM2NxejMwRDF1YmxkcHMtSV9MbGNKOFRXeVkwSmNqWUpNYmNPTDlxOFdCZmlZQlN5OE0tbTJMUQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 07:36:45 GMT",
           "source": "China Daily",
           "text": [
-            "The 21st World Ocean Week in Xiamen, opening on Nov 5, brings together international perspectives on the city's longstanding connection with the ocean. On Nov 4, marine scholars from Brazil, Germany, Ghana, and Cameroon shared their experiences and insights, highlighting Xiamen's research resources and marine conservation efforts.",
-            "Their perspectives also offer a glimpse into the warmth of the city's people and the everyday connections that make Xiamen a welcoming coastal city."
+            "Imagine a crowded theater where one person stands up to get a better view. Soon, everyone follows suit, and the result is that everyone is standing, yet no one can see better than before. The only change is that watching the show has become more tiring.",
+            "This analogy aptly describes China's current debate over \"involutionary\" competition — a scenario where businesses continuously intensify their efforts without meaningful gains.",
+            "In recent months, regulators have stepped up scrutiny of subsidy-driven price wars among e-commerce platforms and penalized unfair competitive practices. The aim is not to stop companies from lowering prices but to prevent price cuts from becoming a contest that drains resources while doing little to improve products, services or productivity.",
+            "Low prices per se are not a problem. A new electric-vehicle maker may cut prices to enter the market or a retailer may offer discounts to clear inventory. Such strategies can benefit consumers and give new businesses a foothold. Competition is doing its job when lower prices reflect greater efficiency, better technology or a genuine effort to attract customers.",
+            "The problem begins when companies cut prices primarily because their rivals have done so. One company lowers its prices to protect market share, prompting others to follow suit to avoid losing customers. If none of the companies has a lasting cost advantage, the battle may leave their relative positions unchanged while shrinking profit margins across the industry. The market becomes busier, but not necessarily more productive.",
+            "This pattern has emerged in industries ranging from steel and cement to solar panels, batteries and electric vehicles. It has also taken hold in services such as delivery and ride-hailing, where platforms compete for users through discounts and subsidies. In some cases, opaque pricing practices and algorithmic tools make it harder for consumers and regulators to understand how prices are set. What looks like a bargain today may come at the expense of smaller merchants, sustainable business models or meaningful improvements in service.",
+            "The deeper problem is that some price wars can continue long after they become commercially untenable. A business that consistently sells below cost would normally have reason to rethink its strategy. But that calculation changes when losses are cushioned by preferential policies or other forms of external support.",
+            "Local governments have valid reasons to attract investment and foster industries suited to their economies. Yet, the pursuit of growth can become counterproductive when local officials compete to offer increasingly generous incentives, regardless of a project's commercial viability. One locality supports a favored industry; others respond with incentives of their own, hoping to keep investment and jobs at home. Companies gain room to maintain aggressive pricing, but the advantages may cancel each other out. Public funds are spent, fiscal pressures increase, and the underlying imbalance between supply and demand remains.",
+            "[continua sulla fonte originale]"
           ]
         },
         {
-          "title": "Traditional craft classes draw young people to Guizhou mountains",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcTItSUpGd0FDaWZnaS0tYWNBT2p6RG5yR2Q0OWNFekMxREhDZm9FQ0lWZ3FzRzY1MGZ4Rm9ocWViaEVtSzBlc2NSVGt0cXp3VUdNd1FzWXBEaDNPa29lTVAwWW5rcHBEVk5yaVR4WkRpWWxGOTQzeEo4T2VCREtzaU13?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 09:06:25 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By Liu Boqian and Yang Jun | \n          chinadaily.com.cn |\n          Updated: 2026-11-06 17:06",
-            "Hands-on classes in traditional crafts, from weaving to silver jewelry-making, are drawing young people to the mountains of Guizhou province. For many, they offer a chance to slow down, learn something new, and take a break from the pressures of city life.",
-            "In Dali Dong village in Rongjiang county, visitors are gathering to learn traditional weaving techniques. Local villagers have become instructors, sharing skills that have long been part of everyday life in the community."
-          ]
-        },
-        {
-          "title": "Chinese and Thai poets celebrate Mid-Autumn Festival in Bangkok",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm1wRGJxNFMwcDlNdEFPUVBENFN0MlRhMHc1VC1COGlxSy1EeUN2WW5UM3VvaDBsYlZocU1TRWJ0a0s0NG1peGNISHIwa213R0IwQnM4Q3FGaFoxMFcyZnZXQ2UtSmNEcTBTRWtMZXJlNGVkY1NaLTNuSFY0d0dSMjR3?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:20:40 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "chinadaily.com.cn |\n          Updated: 2026-09-22 09:10",
-            "On Sept 21, Chinese and Thai poets celebrated the Mid-Autumn Festival at a gathering in Bangkok, reading poetry and discussing closer literary ties.",
-            "The event, themed \"A Shared Moment Across the World\", brought Chinese poets Cheng Yong, Liu Liu and Zhang Huijun together with Thai poets and writers to read works in both languages and exchange ideas. It drew an enthusiastic response from readers.",
-            "The program comprised a literary salon and a seminar titled \"Poetry Across Mountains and Seas\". Participants discussed distinctive approaches to writing poetry, the transmission of literary traditions between generations, changes in media, literary translation and prospects for future exchanges. Alternating readings in Chinese and Thai brought out both the differences between the two poetic cultures and the feelings they share.",
-            "Cheng said classical Chinese and Thai literature have much in common in their treatment of human nature and the natural world. The internet has created new opportunities for poets and poetry enthusiasts to communicate, he said, calling for wider informal exchanges, deeper understanding and more opportunities to create new work together."
-          ]
-        },
-        {
-          "title": "Chinese poets connect with European readers in Romania and Germany",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1lMbElCXzRJY01BVjN3WWsybFNLcHIydlZrQnhFbjBLRkJPU2hSMnFVckV5T0pTQ2pkdlRySDY3UVhzNV9OSUVyWGxuX3pGN21ZRTJabTBSRTRYYXh1aTJxQ3NvNWlXdklvUDhRcF8wSWx4clBkZWhCSlAzcC1TRG53?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:09:04 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "chinadaily.com.cn |\n          Updated: 2026-11-06 16:09",
-            "Chinese poets Wu Shaodong, Ya Lijuan and Yu Cheng'an, who writes under the pen name Fu Bing, recently took part in a series of poetry events in Romania and Germany, sharing their work with European readers and exploring connections between literary traditions.",
-            "The first stop was the 16th Bucharest International Poetry Festival in Romania. The three poets attended the opening ceremony, where Zhang Lili, cultural counselor at the Chinese embassy, delivered an address. Zhang said poetry connects people across borders. China and Romania have a strong tradition of poetic exchange, with poets attending international festivals in each other's countries and continuing efforts to translate and publish one another's work. She expressed hope that the festival would encourage closer cultural cooperation and exchanges among poets and writers, deepening understanding and friendship between the two peoples.",
-            "Wu, Ya and Yu read works including Blazing Sun, Time with a Suffix and An Operatic Life at the festival's main venue, the Central University Library, and at the National Museum of Romanian Literature in Bucharest. At the invitation of the Chinese embassy, the poets also met young diplomats for a discussion chaired by Zhang. They spoke about modern Chinese poetry and poetry by women, among other subjects. Participants said poetry is an important part of Chinese literature and cultural diplomacy, and pledged to continue introducing contemporary Chinese verse to international readers through a variety of activities.",
-            "In Germany, the poets joined Mid-Autumn poetry gatherings at the China Cultural Center in Berlin and Magdeburg's municipal library under the theme \"A Shared Moment Across the World\". Poetry, instrumental music and singing brought together Chinese and German literature enthusiasts and other guests to celebrate the festival and discover contemporary Chinese writing."
-          ]
-        },
-        {
-          "title": "Chinese president appoints new ambassadors",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtX29EQ3hjTFNwY3RLR2xuaE9QaTYwcG5GM2dlVFYtLVpkaGlZMXJPOHlWeGF0ZXozZ3hZYlBIcUp4azRJMDEyemZpa0ZqeXpuMWY1UVFITTR5ZE0zaVRBRWhnbnZqMU1GcjU5bldnSzhiYnkyS1hLWFR5U19wQQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 06:48:10 GMT",
+          "title": "Keep geopolitics out of marine science",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtbkhBUXE4OHRaSFVjMFU5OTZPZGVrTl94WHQ2QnAyM2hnSUlOaVdjUENBOGJSUkh5SkZOVC04VU5XY0dBX0VTQXdxeTYzeWxiX3BaSTc5WDBDMTlTa09YVnR6dmRFVjJ5WUZ1V0ZMVkpnbGNrOTNEaFhSUTh2UQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 07:34:49 GMT",
           "source": "China Daily",
           "text": [
-            "BEIJING -- President Xi Jinping has appointed the following ambassadors in accordance with a decision of the Standing Committee of the National People's Congress, China's top legislature, an official statement said on Friday.",
-            "Zhou Jingxing was appointed ambassador to Norway, replacing Hou Yue.",
-            "Zhou Qian was appointed ambassador to the Czech Republic, replacing Feng Biao.",
-            "Hou Yue was appointed ambassador to Italy and San Marino, replacing Jia Guide.",
-            "Yao Fei was appointed ambassador to Kiribati, replacing Zhou Limin.",
-            "Chen Haiping was appointed ambassador to Fiji, replacing Zhou Jian.",
-            "Zhao Xing was appointed ambassador to New Zealand and the Cook Islands, as well as ambassador to the Island of Niue, replacing Wang Xiaolong."
+            "The politicization of marine scientific research is undermining the very cooperation needed to protect the oceans. Recently, some Philippine commentators have portrayed China's marine research activities near Huangyan Island and elsewhere in the South China Sea as potential \"military threats\". They have coined the term \"ghost research ships\", suggesting that routine scientific work is linked to military operations, submarine navigation and even anti-submarine warfare. By intertwining technological possibilities, the sensitivity of the locations and existing geopolitical tensions, they have crafted a narrative that misrepresents China's marine research as a \"security concern\". These claims lack supporting evidence and run counter to the international community's shared interest in advancing ocean science and protecting the marine environment.",
+            "Civic leader Jose Antonio Goitia repeatedly raises doubts about the identities of the Chinese vessels, equipment and purposes without providing conclusive evidence that they are engaged in military operations. This approach turns uncertainty into a perceived certainty of \"threat\". Instead of proving military engagement, it relies on insinuations and possibilities that lead the public to suspect that Chinese research vessels might be conducting military operations. Since each allegation is marked as unverified or under investigation, it cannot be refuted outright, allowing the negative perceptions to persist.",
+            "Official communication in the Philippines has further reinforced this narrative. Statements from the Philippine Coast Guard and military authorities have provided operational details and a broader security context, which, when combined with politically charged interpretations, blur the lines between facts and speculation. On Sept 28, the PCG linked anomalies in the Chinese research vessel Jia Hai Ke 7's automatic identification system signals to concerns about undersea communications cables and potential military data usage.",
+            "Similarly, on Oct 29, a PCG spokesperson speculated without any evidence that equipment on board an unidentified vessel near Huangyan Island might be a submersible or equipment for underwater operations, although its function had yet to be established. In subsequent coverage, the PCG's ongoing investigation appeared alongside Goitia's claims that autonomous underwater vehicles were being deployed to map submarine transit routes. This presentation risks leading readers to accept the speculative claims as confirmed facts.",
+            "[continua sulla fonte originale]"
           ]
         },
         {
-          "title": "China adopts law to strengthen public interest litigation",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOEp5WXR1eHpoTlF1ekV4LXFjMmYwR0FaLU80VGdVaTJBcHhWRFA3d1E5UXRjb21lZVVzc0QwRDM3OW5UMHJueU1TTjFvR2hfYUEwdkdUcno2cS1jSXVvcmxOZW5ZSU04Sm1NcmM0eWJHZHBVZHp0V3hHb0o5QQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 06:27:30 GMT",
+          "title": "Ministry of Commerce responds to US sanctions on 2 Chinese companies",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tQjgwb0Z3TzlKal9VVnRyaEs1U2lkemU2TTIxNGYtWE1HZnc5UXFJSUNJSElBdC0xWURQUldaaDkxU3NzVFpNcEFOcF9DeXRzdExvZGtSWDJZelNoc2g3YzBtWGFERWdSYkYwdlhvd3BJXzlnZlNJcjB5SGxydw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 05:41:31 GMT",
           "source": "China Daily",
           "text": [
-            "China's top legislature on Friday adopted a law on procuratorial public interest litigation, aiming to strengthen the legal protection of national and public interests.",
-            "The law was passed at the 25th session of the Standing Committee of the 14th National People's Congress and will take effect on Jan 1, 2027.",
-            "Comprising 53 articles across six chapters, the law covers general provisions, jurisdiction, case filing and investigation, litigation procedures, trials, enforcement and supplementary provisions.",
-            "It clarifies the scope of administrative and civil public interest litigation initiated by procuratorates, as well as the content and procedures of procuratorial recommendations issued before litigation.",
-            "The law also specifies how its provisions align with other relevant legislations, providing a clearer legal framework for procuratorates to pursue public interest cases."
+            "China voiced firm opposition to the US decision to impose unilateral sanctions on two Chinese companies, the Ministry of Commerce said on Saturday, urging Washington to \"promptly correct its wrongdoings\".",
+            "On Thursday, the US State Department announced Cuba-related sanctions on China National Electronics Import & Export Corporation, an electronics and engineering company, and Beijing H&C Technologies Co Ltd, a security equipment supplier.",
+            "In a fact sheet, the department said the measures targeted \"China-based suppliers of the regime's military forces\" and alleged that the two companies had supplied components and equipment to Cuba's military through a Cuban procurement firm.",
+            "Imposing unilateral sanctions on Chinese companies on grounds involving a third party \"violates international law and the basic norms governing international relations\", a ministry spokesperson said in a statement.",
+            "The spokesperson added that Washington has recently stepped up sanctions and pressure on China, introducing a series of discriminatory restrictions in quick succession.",
+            "Such measures have seriously harmed the rights and interests of Chinese companies, the spokesperson said, adding that they run counter to the important consensus reached by the two heads of state and undermine the stability of bilateral economic and trade relations.",
+            "\"China urges the United States to promptly correct its wrongful practices and reserves the right to take necessary measures to safeguard its legitimate rights and interests,\" the spokesperson said."
+          ]
+        },
+        {
+          "title": "Start of Winter",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SYWtqRkdqQ3pqaEJaUVZUQWFfVnFVVkZjc1NkXzd6TkRwS0Z5bFVrWGNQb0F4N3A5bGNHeFJjbUhpXzkxMWFON0ROYlBhaGlfdEZVbmJkWTlUWFZiU2lQeW1SRzZtYktiODNVb2s3RlFtU0lVSmpodkw4c0V4Zw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 04:14:01 GMT",
+          "source": "China Daily",
+          "text": null
+        },
+        {
+          "title": "Stephen Chao-An Chen: Connecting cultures through joy of learning",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rN2R4UkZMTkdwUFppTzgzOV9CelZrVXpBQTl2alNiUGNnWjBLZjNEajBNNzQ1OEI2c3RINktvdGxzSnYyY3ZrNmI0SVFKQmtGdzhTTWwzZWl3OUFNbGwweFR4eDQ3VDZ1Tmlmc01nYnpXVC1FYlMtTGlmTHdLQQ?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 04:02:22 GMT",
+          "source": "China Daily",
+          "text": [
+            "Language learning can encourage openness and connect people across cultures, said Stephen Chao-An Chen, general counsel of Duolingo, at the 2026 World Internet Conference Wuzhen Summit.",
+            "Describing the company's mission to make high-quality education universally accessible, Chen said its services reach 140 million people worldwide each month. He cited people learning French in China and Chinese in France as examples of the connections language learning creates.",
+            "Chen also highlighted engagement as a key to educational success. Characters such as Duo and Lily, alongside brand collaborations in China, help make learning appealing and encourage people to keep returning."
+          ]
+        },
+        {
+          "title": "Xi casts ballot in Beijing's local legislative election",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbUs5TExKOWthY2Myd3ZlYXhhdGVQY2JlRlpFX3dHTjVzbVhjeW90dGEzNVRpNjBQRXVuSUhWdTl6MU5LRXEwQ3dSMkVYMk9YMFZvb0Y0cExmX1YwNThDdmJkUkZqaF9yaGxGSEczQzRLdDRwdnhzS3ROWTMwdw?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 23:09:12 GMT",
+          "source": "China Daily",
+          "text": [
+            "President Xi Jinping emphasized the need to practice whole-process people's democracy and ensure the election of deputies who meet the people's expectations, as he cast his ballot in a local people's congress election in Beijing on Friday.",
+            "Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, voted at the Huairentang polling station in the Zhongnanhai electoral district in Beijing's Xicheng district to elect deputies to the Xicheng district people's congress.",
+            "He underscored that electing people's congress deputies is the foundation for upholding, improving and effectively operating the people's congress system, and a major event in the country's political life.",
+            "Xi called for practicing whole-process people's democracy, upholding Party leadership, giving full play to democracy and acting in strict accordance with the law.",
+            "He also urged stronger oversight throughout the electoral process to ensure that elections proceed in the right direction and in a clean and upright atmosphere, and that the elected deputies meet the people's expectations.",
+            "The people's congress system is China's fundamental political system, with the National People's Congress serving as the supreme organ of State power. Deputies serve five-year terms, with voters directly electing representatives at the county and township levels. Deputies to people's congresses above the county level are elected by deputies at the next lower level.",
+            "On Friday afternoon, Li Qiang, Zhao Leji, Wang Huning, Cai Qi, Ding Xuexiang and Li Xi cast their ballots in person, while Han Zheng entrusted a staff member to vote on his behalf. Hu Jintao also entrusted a staff member to vote on his behalf.",
+            "Ballots were cast at 13,054 polling stations across Beijing to elect 4,898 new deputies to district-level people's congresses and 11,137 deputies to township-level people's congresses."
+          ]
+        },
+        {
+          "title": "The path to constructive strategic stability | Short documentary | China-US relations",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3JpSmhySjNJYk1BRW9yWEl2VmN5TTlMb0lJaUhQd3loLVJfci1ydEFfWDdWQjBVNllaTkZrbEpGV2ZMYk9sSkpUWjdjbUk2dXR3QTZ4NmdVci1KMlVIWmVIR041UjFSYTUxenliaUd5amI1bGpJTk9uWWJWck1PMnRn?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 15:04:23 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "From Beijing in May to Washington in September, the Chinese and US presidents exchanged visits within six months, a pace unprecedented in bilateral relations.",
+            "At their May meeting, the two presidents agreed to build a constructive China-US relationship of strategic stability. In September, they further developed that vision, agreeing to pursue \"constructive strategic stability based on respect, fairness and reciprocity\".",
+            "How did China navigate economic and trade tensions in Sino-US relations while keeping engagement on track? This Media Unlocked short documentary looks at the choices that helped move bilateral ties toward greater stability."
           ]
         }
       ]
@@ -227,28 +263,22 @@
       "items": [
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3N2tsVndRZ0RBeGk1cmM3NTdkUEllM2Q0Y1JfRW90STZFcHktSGUyeGE3REN5X2JkazFQRWZaNEtBWnZQOHllVTVJdVg0RTNkSmFLUkI5RndBQWhY?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 05:28:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16M2NVY291Y2JBUEFSSXJQUVBIV3lKRXBfU1lJcjh1Nk9CYThReHROYnJxRDlpS0k3WHpZOU5yMS14ZGZLdTV6VkZ4OGNFR1Voczg5R0NoSmtRUXFL?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 04:05:30 GMT",
           "source": "Caixin Global",
-          "text": [
-            "【财新网】汽车品牌扩张导致澳大利亚新车零售市场竞争激烈，经销商承受巨大压力。当地时间11月5日，澳大利亚汽车经销商协会发布公开声明，呼吁政府暂停新的汽车品牌涌入澳大利亚。",
-            "声明称，澳大利亚的汽车品牌从2021年的39个增长至2026年的67个，数量还在持续增加。澳大利亚汽车经销商协会首席执行官James Voortman称，当地消费者确实能从丰富选择和市场竞争中获益，但车企的扩张野心，必须匹配市场本身的承载能力。"
-          ]
+          "text": null
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94RFl3Ync3bldnTnh2TXozdnBpNGxfek1IYktUSjE1dzNzbjEwNHhQOUJDaHg0T2R4eGdDOW9HYjB3YUQ3N0pkM2xVM3lUc0NjNE1jRnh1M1lvRjdR?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 04:28:40 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0x5QTJnSmlISFJ3QzVfaUsybjJraFdTZFc0eVljRFh2X3FkaFptNWdjaEg5YWdOMkI4RGo1RGF1Z0RXS1k4MW1UZHJoY1hBVWRuN2NXUndxdW9lRGhUVWNZN1V6azBjSmlnZ1ZjYlhSMU5ON1c3QUJFRm5TQkI2R1VXTlNIVGQyVkZER2ZqM3M4dTBpRjlUZUF5azZDc3otVi1EUGZpOFk?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 22:56:24 GMT",
           "source": "Caixin Global",
-          "text": [
-            "【财新网】“人工智能驱动移动网络流量快速增长，今年手机上网流量增长18%，增速是去年的两倍，AI生成的内容流量增长5倍。”11月6日，中国移动董事长陈忠岳在2026年移动网络大会上指出，AI对通讯业带来了三大显著影响。",
-            "根据中国移动2025年三季度报告，2025年，前三季度手机上网流量同比增速为8.3%，手机上网DOU（户均月流量）为17.0GB，同比增长8.1%。今年增速进一步增大，且主要推动力来自AI生成内容的流量增长。"
-          ]
+          "text": null
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jWS1tLUNud2g1SUxJYmhVNWVTYUdsNHlyVTdVd203cTNGbmFheFFpUmQ3MzhIeDIteHVNSVoxNWhzWUFVT1FNLTRLY0ZsRHo2NlVWNjdmcG5fMlJ1?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 01:26:23 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEYxcE1GcllBOERERURZenhyLUcxcXJCSzljMFNOWnJzZ1A5OUc3NXRqM2tCLVlYVW11d0x6YjNCNzlZbldkQ3F4aFVPMGtWRzJHTE1udzFkRXFKM2hWQURnbnRzbHF3MkE3Qll0djdlZ3pZYzlRZWVZRG8tVm5tb0FQMWpPOUNRNXZlcFRSYUxtQXpOUl9Nd09xX3I5dzNPdXBiQ3NHVFI?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:56:28 GMT",
           "source": "Caixin Global",
           "text": [
             "【财新网】11月4日美股盘后，美国光模块公司Coherent（NYSE：COHR）发布截至2026年9月30日的2027财年第一财季业绩，其数据中心业务收入同比增长79%，拉动公司营收、利润提升。",
@@ -258,50 +288,54 @@
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jZ3ZCVXVPSUVzM2s3eG5tVGhqV1dyS1Rnci1wQVFjQ284eXRQOHk3ekgxUUM2ajRlNlY3XzJjVTZDdFFTellTTDV5NFRheTFleUxMZWRDVklfdjZN?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 23:55:44 GMT",
-          "source": "Caixin Global",
-          "text": null
-        },
-        {
-          "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN05VdGRQQ0JwTlhyY3Y1Z3VzMk83RU9za3dZOXJick9ZYkFzRTl5MFg2VkZqWUZEWjFTdm1lVDZoUHpkQk1ySEsxd1ZsY3lpWUVmN1hlWXFBMlAtc1plOTFpRXBodjhEbWo2ZmlpMEh4cmNqNHktV3hSYjVEakJ0aktBY3JReVZ6Q3JybUVRdmRQdDRHeWhEaDRVakZuY2xlN01TMjVqSXA?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 14:59:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDgtZDRjd2VTQjJWLXdFSFZpWXVJQkMyZ2hzZnUxUUxKUjRPdW9aU3VreTd6TW5jdExrSlpZa1lFMXVONlY1Wk9PVnhhYlZQRWY5SGN1Mnl6aHc0bktkZXdXbmNoMVRtRnI1Z0tlS1RBaTZCQ1I0U2tMNTVVd2dBbFNDWHhuekFGTXJNajl1YnhUdjJOX0lhVHhqZnp5dmszcG9VYTNxOTE?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:56:28 GMT",
           "source": "Caixin Global",
           "text": [
-            "以“以发展应变局”为主题，由财新传媒主办的第十七届财新峰会将于2026年11月11日至13日在北京举行，共寻不确定时代的发展路径与合作机遇。",
-            "本届峰会举办之际，恰逢2026 APEC会议前夕，中国经济转型进程与亚太区域合作前景备受各界关注。如何通过区域合作重拾发展动能，以发展化解时代挑战，正是本届峰会“以发展应变局”的核心要义。"
+            "【财新网】《纽约时报》等美国新闻出版商起诉OpenAI和微软，得到了美国内容行业的声援。近期，好莱坞演员、经纪公司、演员工会（SAG-AFTRA）、美国编剧工会等以法庭之友（amicus curiae）身份向纽约南区联邦地区法院提交意见书，认为OpenAI和微软使用版权内容训练AI的做法极不合理，建议法院做出支持内容创作者的判决。",
+            "法庭之友是指在诉讼中未直接参与案件的第三方，通过提交意见书，为法庭提供有价值的法律、社会或专业见解，作用是帮助法官理解案件的广泛影响，或提供专业视角，促使法院作出更为公正和全面的判决。"
           ]
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3d3c4b1FKOURaLV9DRHJaZS0wTkg4WWFGaW1fam9taF9pMk1SMnVoMjdfZG1xSW9wejRxWkpqdjB0cEM4NG81SXFldV9EX0FNcnJiekZ2LW1HT1FM?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 12:52:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1BHYlJXdEYycGFjUmdudlBBWk9jZU55SnBhc01JTzRYSnJJTXFySjJIeWlxS1E1WkFhVC1vTTVwRzZoWmlRZVBIOWo3R1RnbkE3SUVvWERYbld3NUpkN2YwRlZpR3hJTzdNWnRvNHBpaVA4dkJQZC0wU3dySy12NzVLblduaS1zTjNnWWllcUVST3h1dE00cTF5MHNva3JvVTJDSS1Ha0VpNVVCQUE?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:56:28 GMT",
           "source": "Caixin Global",
           "text": [
-            "以“以发展应变局”为主题，由财新传媒主办的第十七届财新峰会将于2026年11月11日至13日在北京举行，共寻不确定时代的发展路径与合作机遇。",
-            "本届峰会举办之际，恰逢2026 APEC会议前夕，中国经济转型进程与亚太区域合作前景备受各界关注。如何通过区域合作重拾发展动能，以发展化解时代挑战，正是本届峰会“以发展应变局”的核心要义。"
+            "【财新网】隔夜美股遭遇了史诗级的重挫，纳斯达克100指数下跌6.4%，单日高达2.3万亿美元的市值蒸发，创下2020年3月疫情熔断以来的最大日内跌幅。标普500指数同步下跌4.4%，费城半导体指数暴跌12%，权重科技股几乎全军覆没。",
+            "“科技七巨头”一夜之间合计蒸发约1.04万亿美元。 英伟达大跌9%，抹平年内涨幅；存储芯片巨头闪迪暴跌22%，西部数据重挫17%。随着市场对科技巨头高昂的AI资本开支产生疑虑，10月美股承压下行，纳指100全月跌幅达6.65%，费城半导体指数当月跌幅高达15%。",
+            "[财新与小鹅通平台合作推出实验性单品“我闻”/“金融人·事”，对金融圈有更多垂直报道。可点此订阅。"
           ]
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWkF4b3AwQU9icVZpeGdYc0FjLVRkYWdTQ05mQ3VaVlhic1piRF9ZREVsbi01Y0lLT2F6RmJVMEhZWEJVWVdZZlo3aGtSdGhFcXZYMWhwT1E0aHk1?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 07:46:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NZDMtSDctSFlvc2R1dk44LVdXT1EtU3Zfc3BmM3BMQkROcVh6aE1Oby1PV1ppVjRBaFhNaGQ3bDM0eFllN1h3QU9UdkZ4a25zWm1kaEFGRC1taGFQ?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:29:09 GMT",
           "source": "Caixin Global",
           "text": [
-            "11月4日，2026年阿布扎比国际石油展览会（ADIPEC 2026）召开，大宗商品与海运信息提供商Kpler中东能源研究主管Amena Bakr在当日对财新提及上述趋势。",
-            "她介绍，目前海湾国家秉持的理念是，在石油生产和运输系统中建立冗余，且相关计划和投资要提前制定，以便应对诸如今年霍尔木兹海峡被迫中断九个月的情况，使他们仍能将石油运往全球市场。",
-            "她表示，往年展会关注点更多集中在上下游项目开发。今年的参会人数依然非常多，但焦点转向了“韧性”，这表明海湾国家将大量精力投入到了应急预案的制定当中。"
+            "【财新网】美国民主党在中期选举掀起的“蓝色海啸”加剧市场对数据中心建设进度的担忧，引发新一轮抛售。11月5日，美股数据中心标的在前一交易日普跌后继续下跌。",
+            "IREN大跌16.95%、CoreWeave跌9.83%、Applied Digital跌14.69%、Cipher Digital跌14.62%、甲骨文跌6.93%，这些公司全部于盘间创下52周以来的股价新低；此外，Nebius跌14.94%、Hut 8跌6.11%。"
           ]
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTdPVGhFbUZzNDNiQ2dWZ1FxM2N1NElWLUdrYk9tVlU0RUZLdy1OQUFUa3Z6Sk1XQnZVUjMwWE9xZ2U2SUFEcXZhNW1yOU95a0hvemNUaDNoYnR4eE9NajFEcGR6QjFESlZSN1ZjUC1odkl2bTBqRXRBOFhlMDBXZWlfeFZLZ2o4VHRmTnVFN0ZBMXRtNFVfNTlHSUpHNjVvZkxGbnZ1a3A?oc=5",
-          "pubDate": "Thu, 05 Nov 2026 06:59:05 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56UXNlNHNxMTEtcDdaUmVuUE5CZ1NPY3FBRmNKNmo5TkRvTnZiTHMxTUlSZUU5amVEdE1sUDV2N0Q1NV8tME5TdTUzdzdZUk5McDVManpNMmNjelJk?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 12:50:13 GMT",
           "source": "Caixin Global",
           "text": [
-            "【财新网】随着AI从手机应用走向机器人、智能眼镜等物理设备，未来通信网络的服务对象将从人类用户扩展至大量能够自主感知、决策和行动的AI智能体。11月4日进博会开幕前夕，瑞典通信设备供应商爱立信中国区技术部副总经理张永涛在媒体交流会上表示，这一变化将对通信网络的带宽、时延和算力资源调度能力提出新的要求。",
-            "爱立信对27个市场超过4.3万名智能手机用户开展调研，调研报告预计，到2030年，全球约三成智能手机用户将成为重度AI用户，贡献AI总用量的80%；而目前AI用户仅占一成，贡献AI总用量的35%。"
+            "【财新网】地方政府出让住宅用地时，除了收取土地出让金，还不时要求房企承担周边公共设施的建设及移交义务。广州拟调整这一做法，减少附加在土地出让条件中的配建要求。",
+            "11月4日，广州市规划和自然资源局发布《广州市人民政府办公厅关于加强土地供应及供后监管的实施意见（征求意见稿）》（以下简称《意见》），提出在出让商品住宅用地时，严格限制土地供应与配建的实施范围，严禁配建经营性项目及楼堂馆所项目，原则上不配建道路、绿地、河涌、政策性住房、独立占地的公共服务设施、市政公用设施等。"
+          ]
+        },
+        {
+          "title": "- Caixin Global",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02WHA2bF9CaFdJZ1lqNjVnYnJmU0Y4VmRtMGE4QW55dVpjZy1yaWh0bUVhaVk2Zmh6cGlPc3BJbmlyZFhISzc2X1V0WGNaTE5PZFNsZ2dpc2xjQ0N2?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 12:21:11 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "提供商业机会、购买战略配售股、挂名领薪、虚假诉讼、专设高薪岗位、设备采购等，都可能是腐败手段",
+            "2027年全年投资5000亿元，2026年和2027年分别再建2个和3个吉瓦级数据中心，完成7个吉瓦级数据中心",
+            "佐科出庭之际，印尼首都雅加达的安保措施也明显加强，印尼当局安排了6770名警员及军方人员参与安保"
           ]
         }
       ]
@@ -478,6 +512,103 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Ahuanqiu.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Annual CIIE opens in Shanghai, showcasing China's commitment to opening up",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbXBHbHdkUXdocHQ3eVdmWlp4cExOamE0RjJqRzdLRTBfQnNEd05GUWtWNi1RQ01Kekk2ZHhVSjVHc3Y5RnNjQmxYUjYwd1k5eEV3?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 13:33:34 GMT",
+          "source": "环球网",
+          "text": [
+            "On Thursday morning, in the waiting lounge of the opening ceremony of the 9th China International Import Expo (CIIE) in Shanghai, two hours before the ceremony began, the guests had already begun arriving.",
+            "They took selfies, chatted, posed for group photos with old friends and gave interviews to the media. According to on-site observations by the Global Times, in the relaxing atmosphere, the words they mentioned most were \"opportunity\", \"openness\" and \"market.\"",
+            "Running from Thursday to Tuesday next week, this year's CIIE has attracted 4,142 overseas exhibitors, with total exhibition area exceeding 440,000 square meters. Over 480 exhibits are set to make their global, Asian or China debut at the event, the highest number in history. In addition, nearly 200 companies and institutions have been \"full attendees\" at the CIIE for all nine editions.",
+            "In his keynote speech at the opening ceremony, Chinese Vice Premier Ding Xuexiang, also a member of the Standing Committee of the Political Bureau of the Communist Party of China (CPC) Central Committee, said that the CIIE has witnessed China's firm determination and concrete actions to promote high-standard opening-up, the remarkable results and tremendous gains of businesses and people from various countries in sharing opportunities in the Chinese market, and the unremitting efforts and important contributions of visionary people from all walks of life in improving global economic governance, according to Xinhua News Agency.",
+            "This fully demonstrates China's strategic resolve in advancing high-standard opening-up, injecting valuable certainty, stability and confidence in development into the world, Hu Qimu, professor at the Maritime Silk Road Institute of Huaqiao University, told the Global Times on Thursday.",
+            "Gabonese President Brice Clotaire Oligui Nguema, Federal Chancellor Christian Stocker of Austria, and UN Development Programme Administrator Alexander De Croo attended the opening ceremony and delivered remarks, Xinhua reported.",
+            "Ding's speech was welcomed by many executives from global multinational companies, who said they draw great inspiration from the speech and remain confident in honoring their long-term commitment to China.",
+            "Rogier Janssens, President of Merck China, told the Global Times that CIIE brings the world to China, and gives China a stronger voice in the global conversation. \"As China moves into its 15th Five-Year Plan, the Expo's role is even more important,\" Janssens said.",
+            "The CIIE opening ceremony underscored the importance of openness, collaboration and innovation-driven development, further reinforcing Henkel's confidence in the long-term growth of the Chinese market, Anna An, President of Henkel China told the Global Times on Thursday.",
+            "Vice Premier Ding's speech reaffirmed China's steadfast commitment to high-standard opening-up and highlighted the country's important role in driving growth and building an open global economy, echoed Poh-Yian Koh, President of FedEx China.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Recalibrating the world's cognitive coordinates",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUWdFOEdCWlBNV1k4dDhnaDFEeFBid3pVQ0tWTWxZZWExMTV4WXpHOTFkWncxNjNsaHhLdUVwalJHOF9CU3VhN1UxWGEway1KaFZr?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 11:05:00 GMT",
+          "source": "环球网",
+          "text": [
+            "In September 2026, the Global South moved to recalibrate the world's old cognitive coordinate system at three levels: institutions, initiatives and public discourse.",
+            "At the institutional level, on Sept.&nbsp;4, the UN General Assembly adopted a resolution on \"correcting the map\"&nbsp;by a vote of 164 to 1, encouraging the replacement of the Mercator projection, which inflates high latitudes and compresses the equator, with the&nbsp;Equal Earth&nbsp;projection.&nbsp;The United States cast the sole opposing vote.",
+            "At the level of initiatives, on Sept. 12-13, BRICS leaders issued a declaration in New Delhi explicitly calling for international law and international rules to be \"applied equally, without double standards.\"",
+            "At the level of public discourse, from Sept.&nbsp;22 to 28, the General Debate of the 81st session of the UN General Assembly was held at UN Headquarters in New York. From Nairobi to Belgrade, leaders took turns criticizing the same thing: international law is being applied selectively.",
+            "From the projection of a map to the scale on which a rule is applied&nbsp;and then&nbsp;the authority to interpret an order, the domains differ and the levels differ,&nbsp;but the question being asked was&nbsp;the same: Who sets the world's cognitive coordinates?",
+            "This recalibration first took place on the map. The Mercator projection was born in the Age of Exploration as a technical tool for ocean navigation. It accurately represents direction and routes, but systematically distorts area.",
+            "Over the centuries, the navigation chart made its way into textbooks and newspaper pages, and eventually became what people took to be \"the world itself.\" A technical choice originally made for navigation thus quietly became the default framework through which people perceived the world.",
+            "In this projection, the higher the latitude, the more it is magnified. Europe and North America accordingly sit at the top&nbsp;of the map, while regions in the equatorial belt, such as Africa and Latin America, are compressed. Greenland looks nearly as big as Africa on the map, yet Africa's actual land area is 14 times the size of Greenland.",
+            "The African Union notes that the world's long-standing perception of Africa rests on a distorted map.&nbsp;The UN General Assembly resolution therefore means far more than a technical fix to map-making.&nbsp;",
+            "It does not require the Mercator projection to withdraw from navigation and aviation, nor should it. What it challenges is the monopoly of the \"default base map\": When public communication needs to show the true size and position of countries, it cannot continue to present a base map that magnifies the few and compresses the many as if it were the world as it actually is.",
+            "At the same time, correcting a bias is not about replacing one bias with another, such as drawing a map that elevates the South, but about acknowledging that every projection involves trade-offs.&nbsp;The question is which set of trade-offs has been treated as the only standard.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "2026 World Ocean Week spotlights China's ocean governance role",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWnNQUFBpVDd4cXl6SWpUaVhJX2ZsY1ZONTV2TFc5R2FfT3pta1BSR1hZZUZ2Tll2QjJfamM5MTlfN3pydk5QTlhLNVV1bUUzTWRV?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 08:11:00 GMT",
+          "source": "环球网",
+          "text": [
+            "The 2026 World Ocean Week opened on November 5 in Xiamen, southeast China's Fujian Province, unveiling five outcomes, including a publication on seamounts and a dedicated ecological and environmental data product.",
+            "The week also features 33 activities, including seminars on marine science and ecology and industry and business matchmaking events, to advance global ocean governance and the high-quality development of the blue economy.",
+            "A bilingual report on the status, role and prospects of the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement), and China's role in it, was released on the same day.",
+            "Compiled by the China Institute for Marine Development Strategy under the Ministry of Natural Resources, the report outlines the significance of the agreement's entry into force and China's contributions to its negotiation and implementation.",
+            "The BBNJ Agreement took effect on January 17, 2026, becoming the third implementing agreement to the United Nations Convention on the Law of the Sea and filling a legal gap in the conservation and governance of marine biodiversity in areas beyond national jurisdiction.",
+            "China participated in nearly 20 years of negotiations and put forward proposals on the agreement's four key areas. Its contributions included promoting a benefit-sharing mechanism for marine genetic resources, advancing area-based management tools, improving transparency in environmental impact assessments and helping developing countries build capacity to implement the agreement.",
+            "China has designated marine ecological conservation redlines covering about 150,000 square kilometers, established 353 marine protected areas and carried out 194 marine ecological conservation projects. It is also one of the few countries worldwide to have recorded a net increase in mangrove area.",
+            "China has made manned deep-sea submersibles Jiaolong and Fendouzhe, as well as research vessels such as Deep Sea No. 1, available for international scientific expeditions. It preserves nearly 60,000 marine microbial resources and provides international users with access to samples and data.",
+            "Under the United Nations Decade of Ocean Science for Sustainable Development, China has led 10 major international science programs, including one on the digital discovery of typical deep-sea habitats.",
+            "China has improved its legal framework for environmental impact assessments of activities in the international seabed area, while contractors engaged in mineral exploration there have actively fulfilled their assessment obligations.",
+            "Its experience, environmental data, expertise, and trained personnel can help developing countries assess deep-sea activities and promote a greener, low-carbon approach to ocean activities.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "China Pavilion showcases forward-looking vision at 9th CIIE",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtWTNoUmhyZ0U5Y1dDVXNkY29TUXNLeGFUTERFNUJwbUlXSFp1Ui0yX3Nmd2h4ZGJLbnJOdHotN3NKMW5YNjVsMkkyaGxvckJaTTZv?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 08:09:00 GMT",
+          "source": "环球网",
+          "text": [
+            "The China International Import Expo (CIIE), the world's first national-level exhibition dedicated to imports, opened in east China's Shanghai on Thursday.",
+            "Themed on \"New Advances for a Bright, Win-win Future,\" the China Pavilion presents a forward-looking perspective, global vision and openness in line with the 15th Five-Year Plan (2026-2030) blueprint.",
+            "Visitors from Seychelles communicate with a robot at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Guo Lei)",
+            "A visitor tries an intelligent personal health assessment system at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Photo by Qiu Shaoyu/Xinhua)",
+            "People visit the Country Exhibition area during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wang Nuo)",
+            "Staff members in traditional Chinese costumes pose for a photo at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)",
+            "Visitors learn about the cruise ship Adora Magic City at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cheng Tingting)",
+            "A humanoid robot makes tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cao Mengyao)",
+            "People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Xing Guangli)",
+            "Visitors watch a humanoid robot making tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Ying)",
+            "A staff member receives an interview next to a model of an exported Chinese tunnel boring machine at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Lingyi)",
+            "People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Du Xiaoyi)",
+            "A staff member (L) introduces cultural and creative products at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Computing-Electricity Index offers a precise portrait of China's computing power industry",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01U1BhUUxLTTJ0bjFDT0RBODBmZGhzNEJxNE5NeDREdlFSOTZUTWhWOWF0eW5YWnc1dFBVY013WGhGQmF2SjZDLUd4YkotUGExMDRN?oc=5",
+          "pubDate": "Wed, 04 Nov 2026 16:45:00 GMT",
+          "source": "环球网",
+          "text": [
+            "Staff members from State Grid Hangzhou Power Supply Company visited China Mobile (Hangzhou) Information Technology Co., Ltd. on November 2, delivering a customized computing operations&nbsp;monitoring report built on a&nbsp;Computing-Electricity Index system. Based on the company's electricity consumption, the team also conducted on-site load analysis, energy efficiency assessment&nbsp;and electricity-use advisory&nbsp;services.",
+            "The report covers data center&nbsp;cabinet&nbsp;load rates, server rack deployment rates, green electricity consumption, and rack energy efficiency, offering a clear picture of&nbsp;a company's computing operations and electricity use.",
+            "Like a dedicated \"health checkup report,\" it provides a reference for companies to assess the performance of their computing operations, optimize operations and management, and develop expansion plans.",
+            "\"The Computing-Electricity Index shows that our intelligent computing business is growing rapidly and demand for high-end computing is strong. It recommends that newly added computing capacity be prioritized for intelligent computing and AI inference scenariosputing capacity be prioritized for intelligent computing and A\"&nbsp;said the head of the company's data center.",
+            "The Computing-Electricity Index uses big power data as its foundation to quantify and score the prosperity of the computing power industry across four dimensions: scale momentum, business climate, expected vitality and green efficiency. The index system consists of two scale-momentum indicators, three business-climate indicators, two future-vitality indicators and two green-efficiency indicators. It can support the government in coordinating computing and power resources, while also providing a basis for enterprises to expand computing capacity, save energy and reduce carbon emissions.",
+            "Guided by the index's monitoring results, State Grid Hangzhou Power Supply Company is extending its power services beyond&nbsp;support for individual projects to serve the development of the computing power industry,&nbsp;taking a more proactive approach to&nbsp;service delivery.",
+            "Given computing power enterprises'&nbsp;large&nbsp;electricity capacity&nbsp;requirements, rapid&nbsp;load growth and high requirements for power supply&nbsp;reliability, the company has strengthened load monitoring and trend analysis for computing centers, promptly detecting abnormal load fluctuations and providing early warnings on risks related to energy efficiency and power quality.",
+            "For key computing projects, it implements list-based management and forms \"1+N\"&nbsp;service teams to provide contracted power connection services and customized power supply plans, while delivering targeted&nbsp;power supply support&nbsp;based on each&nbsp;enterprise's electricity-use&nbsp;sensitivity&nbsp;level."
+          ]
+        },
+        {
           "title": "China's services trade rises 8.5% in first nine months of 2026, deficit narrows",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNnd5RVdYX0E5bTNqSmlGTEVyR0k5YXptSjhkd0dVVkJ6Y29BQzZfb1FaX3VzcEdDTjF0TFM0c0h0eW9OclpUOEhHRGI0RFlHdXhZ?oc=5",
           "pubDate": "Wed, 04 Nov 2026 08:48:00 GMT",
@@ -505,127 +636,139 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "ISU GP Cup of China 2026",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MbHF2MXJaeEd5OWNaV2xnVGY5bGt1Ylc3UVRwenQ2NE5fWk5rQ3pzZ3ZlYVRoUURYU2luZXlPbUVrX0luQkJrbHVUMHItenZLMFlTaHhjMHBVdmRLSEJiQU0tbw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 09:50:58 GMT",
-        "source": "ISU",
-        "text": null
-      },
-      {
-        "title": "UK deploys China-style surveillance to track visa overstayers as immigration crackdown tightens for Nigerians, Indians and South Africans",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZzZISGFJMFhhSU13cmRTSkYyX3BHS05oeVNKQ1NvXy1DWEwyQ1dVdVhobGxWMF9YTkJsQkN6ZEpWM3RIR1RwSzFWaENNcGJoZEtsdVNqOHhoS0hXWFpRbW44Tnk0RjhRZDRDRDlqOXc3NGlHR2UydkhkRmlMYWJ5a2JHZDYxcVRtVjdoTDJPV0gzSW9ialVjaGh1VXJtMFltUkw0QVZlcnFZRmxLdGFCOUxyNDdsVG9Ud2pxdHUtVlZxNmF4NUlhRXd2NF8zd2o0YXlQSkk0MA?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 07:48:39 GMT",
-        "source": "Business Insider Africa",
+        "title": "Chinese consulate demands justice after delivery worker killed in Melbourne",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUE5TLW9Ub3ZNRFR3bVdIQnl6cVhlOUR5WnFDUUItekxnUW1kMGRyR3N2Uks5bEx0cXZVaDdFbUw1VkRqelpwcGR4eG9oMjFMRnAteUprWDlYLWpSY1BhZkVEU294V2duUHVwX1BleGp1Z0R4Wk9kN013NlU0OTZhMERoY3RUVHRRT1Y0N0F0MGRpcVV5NUs4dmlDZFhmOXdDZExaaHBUZURZTlpoVGQzYnk5OU1NSmI2TXFZZEpSMThOcW4xNkJweVliSHRTY1QwMVRhYtIB1AFBVV95cUxOOXpXSkJjb05vTDFZZHFNakFOOU11TnFnQ0VJVkdfdklTVzU5RzFJbVh1MjJTNTZMV0hWWmtUSjNzeXptdl9ZQmhHdm9obTljQTRsUjhRWjBTUUVEN1ZiYlVVbURFT0pZMjdSMDhYaEFndjZCb2l2ZWYtclJFMVRncU1TQ0Q3bGJ2Um5WVmROQ2theFBxamVsT3NQWTlmVUdDRkFuZW4zQnRISjdRQTRUbnIyb3o0Z3A3clF0UUVyQzB3Wk42aEJYQmVXSEVyU2pXclE5dg?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 10:37:02 GMT",
+        "source": "South China Morning Post",
         "text": [
-          "The UK is preparing to expand its use of live facial recognition technology to hunt visa overstayers and identify people who have breached immigration conditions, potentially deploying cameras at transport hubs, ports and major public events. The plans could bring Nigerians, Indians, Pakistanis, South Africans and other immigrants under greater scrutiny as the government considers using biometric surveillance to strengthen immigration enforcement.",
-          "[continua sulla fonte originale]"
+          "The tragedy has sparked online outrage over delivery platform policies and gig worker safety",
+          "A 47-year-old delivery man from China’s northwestern Shaanxi province was stabbed to death while on the job and another rider was injured in downtown Melbourne on Friday evening, after the two confronted a man who was “tampering” with their bikes, sparking an “altercation”, Victoria state police said.",
+          "A 51-year-old suspect was arrested on Saturday morning and remains in custody, while the second delivery rider was taken to hospital with non-life-threatening stab wounds, according to police."
         ]
       },
       {
-        "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREVEWGlac01nYWJUY3lwTUdnLXI2WW9mbWlmYkZzOVNxc2hoVWdnWXFtVWNXUVZ4cnpuUnFySWo0cDMwYU9HVndHRmt0ZTg5Uy02TDdxa0x4RXlLY1NQMUdSUkxGV2l5emNVX0dKaUlsV0F4dXkzUzRBQVdldGRxYlkweEZ6OUVOYXE0Ymtla3VCLVYtbzhucXNIYlp6OGkzNDdTTEg0eWlDUnp1c09B0gG0AUFVX3lxTFBzbG90aHg5TTdmRVd6bEI2Y2NsVUJUa1c4Ml81eno0LWVSbXM1R3RMVl9CR1RrNzBVeEk5UVpRQy0xU2xkZ0dPQm1VT0NTeFAyVXVySmJIYlRJNzBOb01oaklFeHdQeTdRcTFlS1BPb3oyWm5OS3BsZXZEc3dPLWNPbURLZXJTTEg3Nk1kN2ZCTUZFQnFPbWZYWVFpaERtY2tWTFN2NlhMa0g0dHFuRHVPNzVraw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 06:13:36 GMT",
+        "title": "Pakistani astronaut to join China’s next space station mission",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTRRRXdXNmphejg5d3hubWpfNVZ2Skp0XzNQamJZRE1hN202Y3czZ3JyZWRPalJDaks3VlNvMy10NERJa1YxRDVUUVVxempZRk1oTjBPMVQwdm5UMW52VEJyMFRvSDNBTFI5Q2hQY3RBOWpacnA5eFFicGNYWXZpdXhFUmRKYnlwZ0VaYlNBUFd6Mm16M2hkTW5zd3lLQXYxaXIzQ9IBqgFBVV95cUxQSXZKQ0VIZHBaejV4UGp5Zy04MmJ0Njd2ejNJTkpZOThpX3VZT2huRHY4YzJsNUJyd0pwdnIxQ0xiQ0lDWnd6MmYzQU9CRTZPRTc2bjY0d081NkcwelZBVWhKeDlsV3Z4Q2NXODhMZkVCME5QUHE4YS1oRzRfeDZTaDdaQmdnb09EVjJEM212MEdwclBnaFhtZWttbXd0OUhHTFZ1SGtycXZPUQ?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 10:22:42 GMT",
         "source": "Al Jazeera",
         "text": [
-          "Iran has exempted ships from India, China, Iraq and Qatar from its Strait of Hormuz restrictions, a senior Iranian lawmaker said on Tuesday.",
-          "“Ships from these countries pass freely, and the Americans do not intercept them either,” Amir Hayat Moqaddam, deputy chairman of the Iranian parliament’s National Security and Foreign Policy Committee, told the Iranian Students’ News Agency (ISNA).",
-          "Iran effectively shut the strait early in the US-Israel war on Iran, which began on February 28, and the United States reimposed a naval blockade on Iran’s southern ports in July.",
-          "So why have these four countries been granted passage through the critical strait, and can their ships really sail freely while the blockade remains in place?",
-          "It will receive medicine from India and political backing from China, according to Hayat Moqaddam. Iran already receives diplomatic support from Qatar, which is leading mediation efforts to end the US-Israel war on Iran.",
-          "Hayat Moqaddam said Tehran will also collect transit fees from Indian and Chinese ships, while Qatari vessels pass free. He did not say whether Iraqi ships will pay a toll.",
-          "“Whatever the lawmaker says is the rationale – the big question is if it works and, if yes, to what extent?” Rouzbeh Parsi, an Iran analyst and affiliated researcher at Lund University’s Department of History and Human Rights Studies, told Al Jazeera.",
-          "“Iran has been under sanctions for a very long time, so bartering and quid pro quos in trade are nothing new,” he said. The difference now, he added, is that “it’s about poking holes in an embargo and getting crucial goods/services in and out”.",
-          "Nader Hashemi, an associate professor of Middle East politics at Georgetown University, said that “most likely Iran is charging a transit fee or a percentage of the cargo value to allow those ships to go through without being harassed”.",
-          "“It’s a clever move by Tehran for several reasons,” Wolfgang Pusztai, a security and defence analyst and Austria’s former defence attache to Libya, told Al Jazeera.",
-          "“If successful, this move will generate significant revenue for Iran, as China is by far the largest purchaser of Iranian crude oil, buying nearly 90 percent of Iran’s total oil exports,” he said.",
-          "By including Qatar, with its many liquefied natural gas (LNG) buyers, and India, Iran is also “trying to undermine acceptance” of Washington’s strategy in the conflict, especially as it charges Qatar no tolls, he added.",
-          "All four are highly dependent on the Strait of Hormuz for exports.",
-          "Of the 10.23 million barrels a day of Gulf crude that passed through the strait in October, about 42 percent went to China and 13 percent to India, Muyu Xu, a senior crude oil analyst at the analytics firm Kpler, told Al Jazeera.",
-          "“China is the country most able to cross US interests. The question is whether Beijing considers it worth the potential political cost,” Parsi said.",
-          "Asia is particularly reliant on Gulf oil and gas usually shipped out via Hormuz. Countries there have much to offer in return for allowing ships to pass.",
-          "“For India, the shutdown of oil from the Gulf has been a great loss – and it is a big producer of the pharmaceuticals that Iran cannot manufacture itself,” he said.",
-          "[continua sulla fonte originale]"
+          "China’s Manned Space Agency has selected a Pakistani astronaut as a payload specialist for its upcoming Shenzhou-24 mission, making the unnamed individual the first foreign national to visit the country’s space station.",
+          "The Pakistani astronaut would join China’s Shenzhou-24 mission, as part of bilateral cooperation under Beijing’s Belt and Road Initiative, Chinese state media reported on Saturday.",
+          "China has not identified the astronaut nor given a date of departure, but the mission is expected to take place by the end of the year.",
+          "Pakistani pilots Zeeshan Ali and Khurram Daud spent months training at the China Astronaut Research and Training Center in Beijing for a mission.",
+          "Last February, Pakistan and China, longstanding strategic and diplomatic partners, entered into an agreement, establishing a Chinese government-led programme to train Pakistani astronauts. China is Pakistan’s largest trading partner and a key foreign investor.",
+          "The China National Space Administration will also deploy Jinnah-1, Pakistan’s inaugural lunar rover. Weighing 35kg (77lb) and fitted with specialised scientific equipment, the rover is tasked with analysing plasma behaviour, radiation, and the composition of lunar soil.",
+          "The training programme includes practical operational exercises and intensive Chinese language lessons to prepare the candidates for the mission.",
+          "Beijing’s China Central Television reported that after completing a short-term in-orbit flight, the astronauts would return to Earth on board the Shenzhou-23 spacecraft.",
+          "China invested heavily in its space programme in recent years – catching up with its main rival, the United States – and aims to land astronauts on the Moon by 2030.",
+          "The US, Russia, and China are also racing to build nuclear reactors on the Moon. While the US space agency, NASA, announced plans to develop a nuclear reactor on the Moon by the end of 2030, Russia has been working with China and aims to do the same by 2036.",
+          "The reactors will be needed to power the mining of frozen water trapped deep in the moon’s craters, which scientists believe could supply drinking water, air, and rocket fuel for future bases. The reactors would also provide power for lunar bases."
         ]
       },
       {
-        "title": "Why China Uses a ‘National Team’ to Influence Trading",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGZ4NFVYSllGdXQxUWhaT2g5VEpYSkUydFF4ZnVHelAtUkFRdXV6dF9zcVFxaEJMSUVJSFp4VDlOVlFYUFRFa1ZpR01SdVpfTG5INFRldXdPNHpzbXU5SndLbk5SMFBfb2ZIMGk4SGkwUzZmMWZKbExqZW81TW5Ob2xfNWk0RWNMSGEyMUc2bWVUa1I4UjFka1pfa3Y4bURpUWtWTC1ZbWhkRFF5SHRoc0lXZw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 05:12:00 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGxKZlQwYlRxUnZ0RjY2SVJTVU5kRS01Smx0aFU5RDdLT3VzOFliLUNzeTBFYXIzT0JYcnFkNjBOcFl4NFBlb3BtRXFaOUJzamROMk82UlZDTTJva1NOX1d2UE9tYUNyZ3NMVndDdFNNNkVIM0xYNlVVNU9uaEZMNUNVTzM?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 05:01:11 GMT",
+        "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 10:00:40 GMT",
         "source": "The New York Times",
         "text": null
       },
       {
-        "title": "EU-China truce under strain as both sides brace for potential trade war",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjVtNGU1dEM3bzhWMDFrSVNJdEhyajJKSG1sS1pUWGdBX084eVRkQ2x6MGd5RWV6bm5GTE9xbVdZRHhZR1M3UzYwekh0MGZOXzJJcTRzUmtlZjN3LU1qMHNPTkhUQmE0Zm5QLXEzLWMtcXUySFotUS1VV0luZzdyUE1acVdtd0VUZC1LaWJSMkV6dThfVWZ1SGxDQWJZZ29zcUY5STREX2pRd3g3Z1pRbVg5c3Q2VVhYU0HSAboBQVVfeXFMTzFXVmdua3JUbjNFTGZWT2o3VjdVUVBmQXVKSWI3VmJmZkJhVTl1ZFBpZm5KZU0xNXB1bktfNDJxMWlQTk1QQWVGdnJ1SE10NHZwVWtlQWxaOE5FMmZnQi1QX0tMQVZVdkFQSjFBOXA2YzVweTJHaGJiMF9nNjdBNmFSWnNpWDlaVUFoaC1ZbW1SSmlkbTVXRUxEaElYTUhTYTFpQXZDU282cEJKWk1hVUpYNWtYd1ozLWhB?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 04:37:57 GMT",
-        "source": "South China Morning Post",
+        "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 09:55:43 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 04:55:32 GMT",
+        "source": "DW.com",
         "text": [
-          "Beijing warns of swift counterstrikes while Brussels readies fast-track export bans just weeks after striking deal",
-          "At events in Brussels this week, threats were exchanged and differences rose to the surface. With the ink barely dry on their fragile trade peace, it was clear that both were still preparing for a trade war.",
-          "Speaking at the same event – which was sponsored by China’s mission to the EU – Stefano Grassi, a senior official who helps coordinate the European Commission’s China policy, returned criticism of his own."
+          "Top officials of United States President Donald Trump's administration have called on China to \"fully and immediately\" implement its commitments under a 2025 trade agreement between the two nations, including on rare earth and other critical minerals.",
+          "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer on Friday held a videoconference with Chinese Vice Premier He Lifeng on the trade and economic relationship between Washington and Beijing, a statement from Greer's office said.",
+          "Greer \"emphasized the critical importance of China taking concrete actions to fully implement its past commitments, particularly as they relate to agricultural purchases, rare earths, and other critical minerals.” it added.",
+          "The US officials were referring to an accord reached between the world's two largest economies in 2025 in a meeting between Trump and Chinese President Xi Jinping in South Korea's Busan, on the sidelines of  an Asia-Pacific Economic Cooperation (APEC) summit.",
+          "The deal had been reached during a period that saw the two countries exchange tariff escalations prompted by Trump's wider tariffs policy, which particularly targeted China, among other countries.",
+          "The accord capped US tariffs on Chinese goods —  enforced during Trump's second stint as president —  at about 20%.",
+          "China agreed to buy 25 million metric tons of US soybeans for the next three years.",
+          "Beijing also said it would keep China's rare earth exports flowing, suspending new export curbs.",
+          "The minerals are critical for the technological industry, and the Trump administration has in the past complained that Beijing was not meeting its commitments regarding supply.",
+          "\"The Trump Administration will continue pursuing policies that benefit American workers, farmers, and businesses and strengthen our economic and national security,” Bessent wrote on X after the high-level call.",
+          "He, who is Beijing's lead negotiator on trade ties with the US, during Friday's interaction expressed  \"serious concern\" over recent US trade restrictions targeting his country, Chinese state news agency Xinhua reported.",
+          "The report did not elaborate which measure the vice premier was referring to.",
+          "But both parties agreed to \"continuously strengthen cooperation”and \"properly manage differences\" to promote a \"stable\" US-China trade relationship, Xinhua said.",
+          "The Busan trade deal  at first covered only one year, but the US and China extended their trade pact until January 10 next year, as  Trump hosted Xi at the White House in September.",
+          "The two leaders are expected to meet again at the upcoming APEC forum in Shenzhen, China, slated from November 18 to 19.",
+          "Meanwhile, in a separate development, China has confirmed for the first time that it is discussing a historic trilateral summit of Xi, Trump and Russian President Vladimir Putin on the sidelines of the APEC gathering.",
+          "China \"is in communication with relevant parties regarding a meeting between the three heads of state,” Mao Ning, a spokesperson for the Chinese Foreign Ministry, said at a media briefing in Beijing this week."
         ]
       },
       {
-        "title": "China's Q3 emissions post biggest drop since pandemic as Hormuz crisis curbs fossil fuel use",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOek9mbzZtNDlzcFBXWjJQMnYtQUJvNHdkUkZTUzFHUDhvSVlaRy1xemJ0a3BhRlVlZDhKTkVrdzFqYTRBYUYxTFRGN1VRZ21uUS01VGlMOWRJUXVfWVZwamllNExNLW00U0dKWVhnQWNCY1lQWHp0cDRSQ1ZRSVFOR0hjR3gwYUpQX2owYVJYVDFqRmlBV05tWkpPRDE5OUphVjNzTDdSOHRoaXRwNDEzVXZjc3VCRWhlRGlxTWJtZnRZcjhMRE1nLXoxaw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 04:34:00 GMT",
+        "title": "Pakistani astronaut to join China space station's Shenzhou-24 mission",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWlCUHUxM2NQQ3VJOUttWWpFbUxsX3pFN3ItSTNlbF9jM1BVX0g5b0xNUjZaaExjS2xFWG1aTy05TS1qQ093d04wNWdvWTVHXzBhUXVwazZWX0xFNmROQTJITzl0ZFZSOEpyLTh3SlJ0eFJ2a08xSnVTQl9RSC1OZ1E5OXJHNnB3c2pLakJUaHdqSDVLN1p6ZEZLWDlDUXNtZ3hqaVdfeHBhcmVtUkE?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 04:32:00 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2pDd1BuOVZzeGl6Q0RiSzR3MzVBTnhnQUJOMXRUZk1PSF9HZTk5YVhzVjJZVVpaMFlKV0hhMVZNeXpOTHpxZkxvSVZKclYtMWwzUGc5N0dxQlZuS0NURFJBcUloOU9rVGJQbmprb2E4N1JRaGpjNi04OFgxUTdXVFY4OGFBWVQ4OHVkOFpoY1B4ZmhoNFJySWhfdXFBYTZSUGlVeG1KWW1XVUI3c3FfMjF0bXlNVUZNdHlSdktSaw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 04:03:00 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 03:04:00 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "China's marriage rate in third quarter tumbles to 18-year low",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDN2Yk93ZE1nTFJadmdpaF82dEdEbElBQ0loRmp6RjNUNldObmc1b2w1SVN6VXpJbzNWUnZHb29hSDR0bUhaeUNJbzBQZFhiNUNYMWYwX3hSd1dSWXBaQlVvODJ2WE4zel9sZUNPaHFGb3B4ZTgxSmo2dlRZS29IRE1RM2xncC1iX2xjQ0gwOEJocWw1bks4V2RvTG5jY3JTSkxsNQ?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 02:52:00 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "China passes cross-border corruption law, expanding anti-graft drive",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeU1ROGdLUTVzWlo0Q0YtMk9Pa3VSNjZtdEViV3FEalY2Nm9VQ2hvajdSeDFXOHlnRGJVTkZhYTh6V2U4cllEdjAxNVIxZTBNWUs5SU56bldDWVBMUHJEUWJseFB5M09sYm9FZU1za0N4VWNKVkcwYzdjOUgwa0ROQVg3bXNldU10RXBIWDBLRFJfZzRvbURURWtFM1NLZ2plSWdNVnpUdVBubTZSN0dtekNTZmZZelA0LUd1dUo2bTAtWW9i?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 02:51:00 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjhwREpfcE9NUlVZNExsTE1ZMGphR01NMVVlVFJhT3ZpRmIzUXQ1UHl3LTVzTGIwZklGdkREbFRHNHIzaUhYVVJNelhDNkdFRUFlUWNUZURmTjZfTVNtNmZzR3dZZ2hmNkpWS0hRUXE2Zm54M2JHaU4tSjBpV1JaRHpsS1psbzNnUlZuUDFGb3ZDTHdMQ1o2TTFfei1NSzk1azM4bS1obWRRajNsUWo2Zw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 02:37:00 GMT",
+        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 03:32:00 GMT",
         "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "The perils of Xi Jinping’s purge",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2FOMnJMZ203c2wxMUcwYzlvUlRyR3J2bHRIWFQzRWd2X0VxUkYyVjVlWWlBcmRmVmpJdEZTc3UyQ2RHcTNZVDlVR25CXy1nTzdvYXYxVWlETWE5WEJiVDAwTVZzTjNIUDBidWxqaDVMLW5TYTBZWWxOSTlXN3FWTHdBSzE?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 02:14:55 GMT",
+        "title": "US Believes Woman Close to Nvidia CEO Was a China Spy, NYT Says",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeks3UUZzZHludldva0o2QkpXMGZySHJkZzNtNGJTcUcwbHBtV3pKbW9TWUc1ZWRxaDl2SGo4NzFHQnYyRlg1UmZMazRwVnRpcmhaeFR0a2VjWEpXdDhaaWNIOGVsUEc5TFJRSlVHTFlKX0NBRzZhcEVFMkU2Y2dRMGdyaDVqU1dQOWxjd3lVekxvZHFETmg5UlpGRWl3NEtVRGhYWW5hQXJVOXJVNV9reWV3QQ?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 03:13:00 GMT",
+        "source": "Bloomberg.com",
+        "text": null
+      },
+      {
+        "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 02:33:26 GMT",
         "source": "Financial Times",
         "text": null
       },
       {
-        "title": "China’s AI-Propelled Growth May Take a Blue Wave Hit, BE Says",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ04xWGttUUN2cjlFbUVVZkIwYW9XS0I1M3ZMWjZZRE1zNW5aVTMtRmt1SXQwd3hFYUR3ME5yOS1qUHkwVHktS0xnU25vaE5XR0Q0WnU4OWVNRnJkNU1tNkh6U083dWp4anZRT184dHVqLWwzeHAxM09zYXBSSmlURFU1RXhqNXVlSjNIRzJzcTQxd3l1Ry1sb1k0YnI2eXJxNXV0T2hLLTdjeElTdzVOQw?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 01:58:00 GMT",
+        "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlRKTG9WNHBINWg3VkxadkZGV0dCbHZPWUpFclJJNFZBdzNmbGNLbldyWVgtblFfUk1famJaZUlzX3JSTHpyYnRIa25Qd01jNWhPbVV0QllXRW5pTGdBam9NaE1iTXBXMmhCNVFoNTI3ZHFDVEFSU0F5dXNTMHVfY0Z1RzltVGpRdDdaUUlYNzQwWVlz?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 02:18:42 GMT",
+        "source": "The New York Times",
+        "text": null
+      },
+      {
+        "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 01:54:00 GMT",
         "source": "Bloomberg.com",
+        "text": null
+      },
+      {
+        "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 01:33:00 GMT",
+        "source": "Bloomberg.com",
+        "text": null
+      },
+      {
+        "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVNOeWN6Sm8tZ1Zlc1hOTFR6OTVBTUNJcEtaSE5MQ25aSEo3QU5Pc3lXSWNrUVhjT3RsZFpVTEY2MUdiYXNpUjJhUnRaQ1pDb0xmWVdEbDR5T3g0ellxWFIyNk5PTGN6WnY3dUZnUXA5QnMzdWsyb284NFVpTnNkOGMyWVR0c3NUQklYOTVGUjFwOVRITnpDM1lpU0RCeFNDQTFfOVBHbmxmY0ZTSmpoZzl6a3gxMjdiSmZUdENjTHRQNjRVVFB6Q2IxMW56UdIBzgFBVV95cUxPajdVeFBuM0pRT1NjTFdsSFp4ZzhPTEVrT0pfRTRVMm9weVdqSTRRbF9WWFVuTjV6MlU4Q0Vkbi1vQlF3Z2FZMWJjNnBOSy1vSjYzS3UyWGdvTzdTVG0yeTdZNGstRmJjaVRPMFVjQjdJb0lIRHZPMmhhSUk2dUxqT0tXaVg0ZzlRZ0Yxbnh3RnBhZ2hYU3JhVDlEUWRBQTQycmhLNWp0cXlkWDEyR1dCb3NaMFNNNWxCc2pWNlcwVTdKSURsV3ZTUnVkWjhVdw?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 01:00:12 GMT",
+        "source": "South China Morning Post",
+        "text": [
+          "Prime minister welcomes Unesco bid for Japan’s ‘shodo’ tradition, but is criticised for not mentioning the artform’s roots",
+          "On Thursday, Unesco released this year’s nominations for inclusion on its Representative List of the Intangible Cultural Heritage of Humanity.",
+          "The 59 nominations submitted for consideration for the UN cultural body’s list include Chinese cuisine, Spain’s traditional jota music and dance genre, and Japan’s shodo calligraphy."
+        ]
+      },
+      {
+        "title": "‘It’s almost like a nightclub’: Hyrox takes off in China amid fitness frenzy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFM5d1hySHpidjROdm1ybFJERzk3NTkzWFU1eGg2ZTJXd085cDhjVm5DeUhTSHRkZm1VV3RpcjZjWm43WThxdHNXUVlBRDlTdklKOGlZNTR4cWZLeFJiTlBtWG04ZDRia3hXU3UzamxwZUZHbkZsZFprNndTNU85SHRlenk?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 01:00:00 GMT",
+        "source": "Financial Times",
         "text": null
       }
     ]
