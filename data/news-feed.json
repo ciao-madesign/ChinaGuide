@@ -1,10 +1,48 @@
 {
-  "generatedAt": "2026-11-07T11:36:40.647Z",
+  "generatedAt": "2026-11-08T11:47:37.324Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Xinhua News | U.S. forces disable commercial cargo vessel in Gulf of Oman: CENTCOM",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCTjE1UTMtY1NmR0dZSnpRM0RabGVqQ2JzNkltLTF2YVRRdFVwUWRMSXo3S2Q3WElzcXVOUEZCbW1CMEN4RXI1NG56cHcyMUhoWEliWFoxYzZaTnRBVlhySllWdmNXRkg2Y2kyZDMwTGNGTV9hLWkyVWx3dFg?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 03:36:18 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua world news summary at 0030 GMT, Nov. 8",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yR2FGcTFwYVdkLWJHaVN5RExqSV9rQ3Q4V2FKRW1UdTY4OWlKZTVZRmFzQ19iQWNDaFlWM3Z3bEVfMEdUZ3lyOURMWDhqMWFpOXFqQWZMQVJCQXN2WXJxSWZUTDUxU2RrU01jMWpNUGw0bXYwREx4MmVCYms?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 00:08:45 GMT",
+          "source": "Xinhua",
+          "text": [
+            "WASHINGTON -- U.S. forces struck and disabled a commercial cargo vessel in the Gulf of Oman on Saturday, the U.S. Central Command (CENTCOM) said.",
+            "A U.S. military aircraft fired precision munitions at the stern of the Saint Kitts and Nevis-flagged M/V Huda, disabling the ship after its crew was instructed to abandon targeted spaces, CENTCOM said in a statement.",
+            "According to CENTCOM, the cargo vessel attempted to leave regional waters after visiting an Iranian port. The command said its civilian crew ignored warnings and repeatedly attempted to breach the U.S. naval blockade against Iran.",
+            "Since July, U.S. forces have redirected 147 commercial vessels and disabled five merchant ships that refused to comply with the blockade, CENTCOM said.(US-CENTCOM-Cargo Vessel)",
+            "JERUSALEM -- Israeli President Isaac Herzog announced Saturday evening that he would task Yashar party leader Gadi Eisenkot with forming the next government, following consultations with political parties.",
+            "Herzog has invited Eisenkot to the president's residence on Sunday at 5 p.m. local time (1500 GMT) to formally receive the mandate, according to a statement from the Office of the President.",
+            "\"This is the time to establish a national emergency government. I will do anything possible to prove us worthy,\" Eisenkot said on the social media platform X following the announcement.",
+            "Under Israeli law, the former military chief has 28 days to assemble a governing coalition and can request a 14-day extension from the president.(Israel-Forming New Gov't)",
+            "SANAA/RIYADH -- At least 27 people, mostly women and children, were killed and more than 36 wounded in airstrikes near Yemen's capital Sanaa, Houthi-run al-Masirah TV reported Saturday, as the Saudi-led coalition said it had intercepted a Houthi cruise missile.",
+            "The channel blamed Saudi warplanes for the strikes, saying they hit a village east of Sanaa and destroyed about six houses.",
+            "Meanwhile, Houthi military spokesperson Yahya Sarea said in a statement on social media platform X that Saudi forces had carried out 105 airstrikes and missile attacks on Sanaa and seven other Yemeni provinces over the past 24 hours, claiming dozens of casualties, mostly women and children.",
+            "The claims could not be independently verified, and there was no immediate comment from the Saudi-led coalition.(Yemen-Houthis)",
+            "ASUNCION -- Paraguayan prosecutors on Saturday formally charged ousted President Santiago Pena with breach of trust and administration for personal gain over alleged irregularities linked to the collapse of Ueno Bank.",
+            "Prosecutors also requested pretrial detention for Pena and restrictions on his assets, according to local newspaper Ultima Hora.",
+            "Former central bank chief Carlos Carvallo was charged with breach of trust, administration for personal gain and the production of false public documents. Prosecutors likewise requested his pretrial detention. (Paraguay-Former President-Charges)",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Media leaders discuss AI in news industry at World Media Summit",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adHEyZHU1OTJCTFdzTWg1TjQ2OGhCMkNkd2ZxRXBsNGdWZDlWeWVQSVFRVHRHbWhWWmEyY0ZxVUU3LUZqeWUyQm1qb21fajZ6V0c0WnYwNHFmTk9XemIxVVREOFpObFpCbjhJUFZBRTZTVlVEYlVlVV85WGw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 13:45:32 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
         {
           "title": "Media executive calls for greater cooperation, human oversight in AI-driven journalism",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5obHJKYWxQdjAwcFZ1aEhxQVhvX3VlOGYzVlRJeGo3QzNrdzFsMEg5aTZRZnlLTFYzcVJPeWdpWVM4aTZIVk1IODJvME1NZ1hLRkZjeWFfT0EzWFdLYlg2N3MtWk82ZEE1cnhUbjY1LWh0Sjh5UGJwM29aS1E?oc=5",
@@ -66,50 +104,6 @@
             "DOHA -- Qatari Emir Sheikh Tamim bin Hamad Al Thani and U.S. President Donald Trump discussed ongoing diplomatic efforts to ease regional tensions and reach a comprehensive agreement to end the crisis during a phone call on Friday, Qatar's Emiri Diwan, the administrative office of the emir, said.",
             "They reviewed the latest regional developments, particularly Qatar's mediation efforts to narrow differences between the parties concerned and support negotiations toward a lasting settlement, according to a statement from the Emiri Diwan. (Qatar-US-Diplomacy)  ■"
           ]
-        },
-        {
-          "title": "Eastern DRC violence claims lives, disrupts Ebola response: UN",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBocDkzTXB5cm1UQ0dsR1lORW5rdnBaY1NKZHBLRVFrYjRmU1B3RDFONkxCX3ZZNjMzV2c0cGJPVExxUk40Q1hvaWZEQWVoMy01VHg1dDFMWDNNSnZIcE83aDhMQnZQZXFxdGtYV0VuRjVQUy05NlVhUWkzV00?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 19:37:16 GMT",
-          "source": "Xinhua",
-          "text": [
-            "UNITED NATIONS, Nov. 6 (Xinhua) -- Dozens of civilians were reportedly killed overnight in violence in the eastern Democratic Republic of the Congo (DRC), further disrupting the Ebola response, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said Friday.",
-            "At least 30 civilians were killed, homes were burned and a health center was destroyed in the Cantine-Aloya locality of Beni Territory in North Kivu. Several patients are reportedly among the dead, the office said, citing local sources.",
-            "\"People who had been in contact with Ebola patients reportedly fled an observation centre, while response teams were forced to suspend operations in the area,\" the office said in a daily news update. \"This is making it harder to track potential infections and contain the outbreak.\"",
-            "Authorities have reported more than 10,700 confirmed Ebola cases and over 5,200 deaths to date, mainly in the eastern DRC, according to OCHA.",
-            "The office calls on all parties in the country to protect civilians, respect international humanitarian law and ensure safe and unhindered access for humanitarian and health workers.  ■"
-          ]
-        },
-        {
-          "title": "Xinhua Asia-Pacific news summary at 1600 GMT, Nov. 6",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMGMtb2ExU2d4YXRBNWhBclRpNnlCVjVtdy11dFhYWDVjUDQxLWZLNUpWOGtKV2dzTU5wS0tiSEJZMWVmdUcwaHVpQ2V6RmFZSmdrR1Z1bTlPdXB5T1dlRDhXTHVoVzBUdUJvTnlIRWNmMkJ2bFU3akcwZ2U?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 16:08:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "DHAKA -- A groundbreaking ceremony for the expansion and modernization project of Mongla Port facilities, undertaken by China Civil Engineering Construction Corporation, a subsidiary of China Railway Construction Corporation (CRCC), was held Thursday at the port in southwestern Bangladesh.",
-            "Bangladeshi Prime Minister Tarique Rahman said at the ceremony that the project would further enhance the port's overall service capacity, reduce logistics costs, boost investment and employment, and promote economic development in the country's southwestern region. (Bangladesh-China-Mongla Port)",
-            "SEOUL -- South Korean stocks plunged over 8 percent amid tech sell-offs Friday, activating a circuit breaker on the main KOSPI market.",
-            "The benchmark KOSPI dropped 460.33 points, or 8.55 percent, to trade at 4,923.47 at 9:08 a.m. local time, while the tech-heavy KOSDAQ plummeted 46.04 points, or 6.79 percent, to 632.37. (South Korea-Stock-Plunge)",
-            "TOKYO -- An earthquake with a preliminary magnitude of 6.1 struck the waters off the eastern coast of Japan on Friday, the Japan Meteorological Agency (JMA) said, with shaking felt in central Tokyo.",
-            "According to the weather agency, the temblor occurred at around 7:39 p.m. local time at a depth of about 10 km, measuring 3 on Japan's 0-to-7 seismic-intensity scale in parts of Miyagi, Fukushima and Ibaraki prefectures. (Japan-Earthquake)",
-            "KUALA LUMPUR -- Flooding displaced over 1,300 people in Malaysia on Friday, with the hardest-hit area being the state of Selangor, according to authorities.",
-            "Selangor, which has seen continuous heavy rains over several days, recorded 1,174 flood evacuees housed in 12 flood relief centers, according to the country's social welfare department. (Malaysia-Flood)  ■"
-          ]
-        },
-        {
-          "title": "10 civilians killed in suspected ADF attack in eastern DR Congo: local sources",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORl95eVpzT3FJdV9SZ2pjMk16ZFJ6R1drMkVlUG5CUW1SQlUwMkhzdkNrRDN1SEQ4cXRxUklMb0FCeEF0ZnI1eW0tLU9fUGxlWmM1S0piS2lzSk8xYjNXLWNpQVBYRjViWTJ0ZDk4MXpvZE15YUdlbFJaQXIwbmJaWjhMb3M1QQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 08:08:00 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Photo taken on Nov. 6, 2026 shows the debris after an attack in Cantine-Aloya, a locality in Beni territory, North Kivu province, eastern Democratic Republic of the Congo (DRC). At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources. (Xinhua)",
-            "KINSHASA, Nov. 6 (Xinhua) -- At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources.",
-            "The attack occurred overnight from Thursday into Friday in Cantine-Aloya, a locality in Beni territory, North Kivu province. Armed assailants reportedly entered the settlement, killing residents and setting fire to homes and commercial buildings.",
-            "Tchetche Aliamini, head of a local civil society organization, confirmed the attack and reported extensive damage to civilian property, according to local media.",
-            "The death toll remains provisional, with some local media outlets reporting that more than 20 people were killed. Some bodies were reportedly still at the scene, while many residents fled their homes amid the violence.",
-            "The ADF, an affiliate of the Islamic State in Central Africa, is a Ugandan rebel group operating in eastern DRC. Its continued activity has prompted joint military operations by Congolese and Ugandan forces since November 2021 to track down and neutralize the group. ■",
-            "Photo taken on Nov. 6, 2026 shows the debris after an attack in Cantine-Aloya, a locality in Beni territory, North Kivu province, eastern Democratic Republic of the Congo (DRC). At least 10 civilians were killed and several houses were set ablaze in an overnight attack by Allied Democratic Forces (ADF) rebels in the eastern Democratic Republic of the Congo (DRC), local media reported Friday, citing civil society sources. (Xinhua)"
-          ]
         }
       ]
     },
@@ -117,6 +111,33 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hbkZlc3RhNGRWelVhcG9KR1JtVTZ1cTZoN1hES1hfREZiNEJDZmVkaHBDSXhtMWl1M0xNeHhZUnZWZFIyMUtoQWg2N2ZNUFBDbzdJVXVXUmphRFJvQXhWS0pkMU5DdnRaZTBuaHQ0TQ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 07:44:00 GMT",
+          "source": "人民网",
+          "text": [
+            "&nbsp;            &nbsp;                &nbsp;  &nbsp;                       50 %   &nbsp;        30 %&nbsp; 40 %   ",
+            "          ",
+            "1.         &nbsp; ",
+            "&nbsp; &nbsp;   &nbsp;       &nbsp;    &nbsp; &nbsp;  ",
+            "2.               &nbsp;              "
+          ]
+        },
+        {
+          "title": "人民网蒙文版",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91YjRXWVRCOXJOY2pob09LVHVqRERYM3U3UmRIbF9NZ0oxX2ZJWHlSMTQ0cFQ0NnhVcmxydXhrREFyQmNueGFTSERydGtLYU5xYzlfLXk1M1lQQkxCeGdKSFEzV1hWT2otWUs3TnpvVQ?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 07:44:00 GMT",
+          "source": "人民网",
+          "text": [
+            "              11  3  &nbsp;               &nbsp;          AI            &nbsp;                        &nbsp;         &nbsp;      &nbsp;                   ",
+            "                      4     ",
+            "  11  4  16  40   ",
+            "·     12           4047 . 50   &nbsp;    2 . 73 %   ",
+            "·          4038 . 55   &nbsp;    2 . 65 %   ",
+            "   &nbsp;           &nbsp;     &nbsp;   &nbsp;  &nbsp;        321  &nbsp;    42 %       ETF  211    &nbsp;       &nbsp;               "
+          ]
+        },
         {
           "title": "人民网蒙文版",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GU0pJbWNzWnRDVG03dG85VTZvQjc2dXFRY1R2QnVTY2NQZTIwdHhsN3E0dkh0MDZ5Sng1dmxlN3RHbzlNUEVRcWFvVFUxbG5TSmJHUHpCdXN4ZnBuSW1tYjZlTkhnMVNtY01tdEp1Yw?oc=5",
@@ -127,20 +148,6 @@
             " 2026  11  5  8  00  10  18  00                  2026  12  13                         &nbsp; 2027  5         ",
             "               &nbsp;       &nbsp;     &nbsp;       &nbsp;      &nbsp;   &nbsp;                                &nbsp;    &nbsp;          "
           ]
-        },
-        {
-          "title": "人民网蒙文版",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTC16ZUpUVDkzdmhLYXVYMDZrZE15QlN3Q1lUd1RWanN2ak5SNW1WeUw2TmNHRXFLaVRHOFVTaFloZWZaSmtSc2NkREFYOHBDX2ppaFdiZnpfNzcyck1oZjN4azA0RktoVjhVN0lHWQ?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 08:57:00 GMT",
-          "source": "人民网",
-          "text": null
-        },
-        {
-          "title": "人民网蒙文版",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLa29reWhraGY5Q3RCZEpULTBTRmhlaURRNkdETUNacFZ2TnVzNXRSOGVNRVBtWFRyLXVlYWZqNnlaam9MdURaWXVkSndPa3BYNW5iOEF1eGZqdHpkNlVZb2tJSGZ6eXZXX1dad2hUbw?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 08:10:00 GMT",
-          "source": "人民网",
-          "text": null
         }
       ]
     },
@@ -153,6 +160,51 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "China seeks to expand peaceful nuclear cooperation with ASEAN, GCC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHMXFRc1N5Z3N2ODhWYlhlWk5NMkFOY1ZELVBFNGRCc2h5UmRzbmRueTJobWFOaGQzNXpoeTlBZ0xjdjdTVzlMdFVyUDJmN3lNZjF2a2hyd01XcERUYXJEeGp0dXN0SnVoenhJaGY4Szd2Q05kUzdBSGFYSEpHQQ?oc=5",
+          "pubDate": "Sun, 08 Nov 2026 09:17:38 GMT",
+          "source": "China Daily",
+          "text": [
+            "China is willing to further expand cooperation with the Association of Southeast Asian Nations and the Gulf Cooperation Council in the peaceful use of nuclear technology, said Shan Zhongde, head of the China Atomic Energy Authority.",
+            "He made the remarks at the opening ceremony of the fourth China-ASEAN Forum on Peaceful Uses of Nuclear Technology, held in Kuala Lumpur earlier this week. The forum invited representatives from Gulf Cooperation Council member states for the first time this year.",
+            "In his opening address, Shan said China stands ready to deepen cooperation with ASEAN and GCC countries in the peaceful use of nuclear technology, working with them to build a closer China-ASEAN community with a shared future and a China-Arab community with a shared future for the new era.",
+            "China will firmly safeguard the legitimate rights of developing countries in the region to peacefully use nuclear technology and work with all parties to address nuclear-related risks and challenges, deepen industrial cooperation and promote shared development, he said.",
+            "China will also promote the development of nuclear technology in a safer, more efficient and more economical manner, while strengthening research and development cooperation in areas such as small modular reactors and controlled nuclear fusion to jointly address climate change. It will also step up cooperation in talent exchanges, Shan added.",
+            "At the forum, representatives from countries including Thailand, Indonesia, Singapore and the United Arab Emirates delivered national reports outlining the current status and development plans for sustainable nuclear energy. They also put forward proposals and visions for further strengthening nuclear cooperation.",
+            "The forum featured four roundtable discussions, during which representatives shared their countries' experience in nuclear energy and nuclear technology development. They also exchanged views on key areas, including small reactor innovation, irradiation applications, medical uses of isotopes and talent development, and explored the potential for regional cooperation.",
+            "An exhibition showcasing China's achievements in nuclear energy and nuclear technology was also held during the event, highlighting the country's latest technological advances and practical applications in the field."
+          ]
+        },
+        {
+          "title": "Foreign medical companies forge deeper collaboration with local partners at CIIE",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQalZzb0xhUEV0Y0N5VW1IYTRfQy1aV21nZHoyYUFORHAyTF9UM2taclVhV3UybVM4VUhxckp1d3V0R1JrbG1mMXI1S2RIaU43NkJPWV9TWnB0UlFBZW5RNFZVemEtSjJ3dFFLRXIzOEhWYlEzWHEzMnFMaXpzcTk5WFB3?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 15:26:26 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "By Zhou Wenting in Shanghai | \n          chinadaily.com.cn |\n          Updated: 2026-11-07 23:26",
+            "In the medical products pavilion, one of the most bustling areas at the ongoing ninth China International Import Expo in Shanghai, multinational medical companies are reaching more collaborations with local stakeholders to further contribute to building the country's healthcare ecosystem.",
+            "Attracting 16 of the world's top 20 pharmaceutical companies as well as the top three medical imaging players and top three radiotherapy equipment manufacturers, the CIIE functions as a platform for linking the country's government authorities, hospitals, and businesses more deeply, the companies said.",
+            "At the CIIE, Merck Healthcare presented an integrated ecosystem approach to benefit patients. This commitment manifests across multiple dimensions, including its collaboration with Alibaba Health and medical professionals to make public health education more accessible, and its strategic collaboration with the China Alliance for Rare Diseases to support the development of rare disease care.",
+            "\"True innovation means more than scientific breakthrough alone. It's the ability to translate scientific discovery into patient-accessible solutions - at speed, at scale, and with impact. This requires an ecosystem mindset, trusted partnerships, and a commitment to open collaboration,\" said Andre Musto, managing director and general manager of Merck Healthcare China.",
+            "Takeda is engaged at the CIIE in in-depth discussions with government departments and industry partners on topics around medical innovation, capacity building in diagnosis and treatment, patient services, and digital health. Together with various stakeholders, Takeda will host thematic events to accelerate the implementation of innovative achievements.",
+            "Gilead Sciences will organize more than 10 activities, including partnership signings, launches, and interactions, at its booth. Topics include HIV standard treatment and public health education, and comprehensive management of metastatic breast cancer, further promoting consensus among stakeholders into hospitals and communities.",
+            "\"China is one of Gilead's core strategic markets globally. We look forward to deepening cooperation with local innovative firms and all parties in the healthcare ecosystem to contribute to building a balanced, inclusive, high-quality, and efficient Healthy China,\" said Jin Fangqian, vice-president and China general manager of Gilead.",
+            "Roche Pharmaceuticals, in collaboration with the China Population Welfare Foundation, clinical experts, and partners from retail and internet healthcare sectors, launched an influenza season protection initiative at the CIIE. The initiative aims to build a new ecosystem for flu prevention and treatment, promoting coordination across prevention, screening, treatment, and care. Roche's innovative influenza drug Xofluza is showcased again at the expo.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Governing the ocean, shaping our future",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tTTRDSnVWYnFzVl94Z0dJQWJkQjV4ODVZcUVGQkFWVUJua1lIVlp6dTFOd1lEMVJaZXYyTmxyTTBuVHdOLUNKeDRPX0xZS2VMdlhhVE43ZVRCNUJkSzhIWlo4eWkzamtRdWRySlNpMXZvRS1lWDZkV0NEXzZwZw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 12:47:48 GMT",
+          "source": "China Daily",
+          "text": [
+            "The ocean is central to our shared future, but it is also a place where competition, tensions and environmental challenges are on the rise.",
+            "At the 7th Symposium on Global Maritime Cooperation and Ocean Governance, more than 400 participants from over 30 countries and regions—policymakers, representatives of international organizations, scholars and industry representatives—are focusing on some of the most pressing ocean issues of our time.",
+            "The symposium, running Friday to Sunday, is jointly organized by institutions including the Huayang Center for Maritime Cooperation and Ocean Governance and the China Ocean Development Foundation."
+          ]
+        },
         {
           "title": "Construction workers, truck driver injured as section of bridge collapses",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSndBdUdncWNJWkEzNW1xZEFKOTBkZDM5bElZVU9rRUw2dkYzYkpfWFE1bnZuQnNmOFpHUlU5di1JTDVfQkI0ajZ3Zzc1TjlwUEJCSTJqOFUyX0tpLVo5TW8zR1dYLUFINUF0OUQ4cDhUOURvb3pfWHJNLW0zZw?oc=5",
@@ -216,44 +268,6 @@
           "pubDate": "Sat, 07 Nov 2026 04:14:01 GMT",
           "source": "China Daily",
           "text": null
-        },
-        {
-          "title": "Stephen Chao-An Chen: Connecting cultures through joy of learning",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rN2R4UkZMTkdwUFppTzgzOV9CelZrVXpBQTl2alNiUGNnWjBLZjNEajBNNzQ1OEI2c3RINktvdGxzSnYyY3ZrNmI0SVFKQmtGdzhTTWwzZWl3OUFNbGwweFR4eDQ3VDZ1Tmlmc01nYnpXVC1FYlMtTGlmTHdLQQ?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 04:02:22 GMT",
-          "source": "China Daily",
-          "text": [
-            "Language learning can encourage openness and connect people across cultures, said Stephen Chao-An Chen, general counsel of Duolingo, at the 2026 World Internet Conference Wuzhen Summit.",
-            "Describing the company's mission to make high-quality education universally accessible, Chen said its services reach 140 million people worldwide each month. He cited people learning French in China and Chinese in France as examples of the connections language learning creates.",
-            "Chen also highlighted engagement as a key to educational success. Characters such as Duo and Lily, alongside brand collaborations in China, help make learning appealing and encourage people to keep returning."
-          ]
-        },
-        {
-          "title": "Xi casts ballot in Beijing's local legislative election",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbUs5TExKOWthY2Myd3ZlYXhhdGVQY2JlRlpFX3dHTjVzbVhjeW90dGEzNVRpNjBQRXVuSUhWdTl6MU5LRXEwQ3dSMkVYMk9YMFZvb0Y0cExmX1YwNThDdmJkUkZqaF9yaGxGSEczQzRLdDRwdnhzS3ROWTMwdw?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 23:09:12 GMT",
-          "source": "China Daily",
-          "text": [
-            "President Xi Jinping emphasized the need to practice whole-process people's democracy and ensure the election of deputies who meet the people's expectations, as he cast his ballot in a local people's congress election in Beijing on Friday.",
-            "Xi, who is also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, voted at the Huairentang polling station in the Zhongnanhai electoral district in Beijing's Xicheng district to elect deputies to the Xicheng district people's congress.",
-            "He underscored that electing people's congress deputies is the foundation for upholding, improving and effectively operating the people's congress system, and a major event in the country's political life.",
-            "Xi called for practicing whole-process people's democracy, upholding Party leadership, giving full play to democracy and acting in strict accordance with the law.",
-            "He also urged stronger oversight throughout the electoral process to ensure that elections proceed in the right direction and in a clean and upright atmosphere, and that the elected deputies meet the people's expectations.",
-            "The people's congress system is China's fundamental political system, with the National People's Congress serving as the supreme organ of State power. Deputies serve five-year terms, with voters directly electing representatives at the county and township levels. Deputies to people's congresses above the county level are elected by deputies at the next lower level.",
-            "On Friday afternoon, Li Qiang, Zhao Leji, Wang Huning, Cai Qi, Ding Xuexiang and Li Xi cast their ballots in person, while Han Zheng entrusted a staff member to vote on his behalf. Hu Jintao also entrusted a staff member to vote on his behalf.",
-            "Ballots were cast at 13,054 polling stations across Beijing to elect 4,898 new deputies to district-level people's congresses and 11,137 deputies to township-level people's congresses."
-          ]
-        },
-        {
-          "title": "The path to constructive strategic stability | Short documentary | China-US relations",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3JpSmhySjNJYk1BRW9yWEl2VmN5TTlMb0lJaUhQd3loLVJfci1ydEFfWDdWQjBVNllaTkZrbEpGV2ZMYk9sSkpUWjdjbUk2dXR3QTZ4NmdVci1KMlVIWmVIR041UjFSYTUxenliaUd5amI1bGpJTk9uWWJWck1PMnRn?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 15:04:23 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "From Beijing in May to Washington in September, the Chinese and US presidents exchanged visits within six months, a pace unprecedented in bilateral relations.",
-            "At their May meeting, the two presidents agreed to build a constructive China-US relationship of strategic stability. In September, they further developed that vision, agreeing to pursue \"constructive strategic stability based on respect, fairness and reciprocity\".",
-            "How did China navigate economic and trade tensions in Sino-US relations while keeping engagement on track? This Media Unlocked short documentary looks at the choices that helped move bilateral ties toward greater stability."
-          ]
         }
       ]
     },
@@ -263,8 +277,8 @@
       "items": [
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16M2NVY291Y2JBUEFSSXJQUVBIV3lKRXBfU1lJcjh1Nk9CYThReHROYnJxRDlpS0k3WHpZOU5yMS14ZGZLdTV6VkZ4OGNFR1Voczg5R0NoSmtRUXFL?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 04:05:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjVoYjQ2WUgzN0cwWGdvNEJwcDdSMm16Nlp1WUFESTVDZHF1bVFZcmJwZjgwZ0R0YU1tWXg3bEtPeFBqbmFyeE01cDBRTVBQZDREalpPbXl3aENyNkE2LUtGZG5rMUVSTXhUZzVCX3VQdzhZcTY0SDJnUjBqdHZZZGp4enc0ZU1Pal84NWtnYnJVenVmLXFpOVNya2VGUEotaURTYXcwLVliX2RHTWc?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 14:52:41 GMT",
           "source": "Caixin Global",
           "text": null
         },
@@ -274,6 +288,16 @@
           "pubDate": "Fri, 06 Nov 2026 22:56:24 GMT",
           "source": "Caixin Global",
           "text": null
+        },
+        {
+          "title": "- Caixin Global",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1hUdGo3bEJxNWN5blI2WTh3N1FpcFhWUDBvY3A2SE5NeDRNaUVGLUh3aUpqVzVEZmRnaHpnMm5GUHJVZjdmU3RTSXVtSlo2N3dGOEE2QW5fTTVKaUgxWlM1bDdCWGdrSGJlWFFrWEhJSnpIRGszUk5PLUtwazJ3ckNUdkg5MFFha3JDZldnU29QYVU3UUgzWDVoX1g3ZFIyeHozMmEwMjY?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 14:56:28 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "【财新网】美国民主党在中期选举掀起的“蓝色海啸”加剧市场对数据中心建设进度的担忧，引发新一轮抛售。11月5日，美股数据中心标的在前一交易日普跌后继续下跌。",
+            "IREN大跌16.95%、CoreWeave跌9.83%、Applied Digital跌14.69%、Cipher Digital跌14.62%、甲骨文跌6.93%，这些公司全部于盘间创下52周以来的股价新低；此外，Nebius跌14.94%、Hut 8跌6.11%。"
+          ]
         },
         {
           "title": "- Caixin Global",
@@ -298,44 +322,34 @@
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1BHYlJXdEYycGFjUmdudlBBWk9jZU55SnBhc01JTzRYSnJJTXFySjJIeWlxS1E1WkFhVC1vTTVwRzZoWmlRZVBIOWo3R1RnbkE3SUVvWERYbld3NUpkN2YwRlZpR3hJTzdNWnRvNHBpaVA4dkJQZC0wU3dySy12NzVLblduaS1zTjNnWWllcUVST3h1dE00cTF5MHNva3JvVTJDSS1Ha0VpNVVCQUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3M2WXdDekpWMEpiX0tRTmxyVnJhTnc2OC03MjBKZHlMbW5yeUhGX1Mwd3ppM3dtT0pZTktfTG9zOEg4MVIxR2tLQjdhb0pHNUY5ZFhwcWNWYTZCbTh4emh2MUtrNWVkR1hJcHVwc3ZDQjQ1bHB1Vk1WQVdubldUaG1RbWFqSXRzV2lSOEx3d0hoR19ITHhiaHYwTi1YcEpPX2FSV21YOFFCYk1leFhUWVJjV0o3QQ?oc=5",
           "pubDate": "Fri, 06 Nov 2026 14:56:28 GMT",
           "source": "Caixin Global",
           "text": [
-            "【财新网】隔夜美股遭遇了史诗级的重挫，纳斯达克100指数下跌6.4%，单日高达2.3万亿美元的市值蒸发，创下2020年3月疫情熔断以来的最大日内跌幅。标普500指数同步下跌4.4%，费城半导体指数暴跌12%，权重科技股几乎全军覆没。",
-            "“科技七巨头”一夜之间合计蒸发约1.04万亿美元。 英伟达大跌9%，抹平年内涨幅；存储芯片巨头闪迪暴跌22%，西部数据重挫17%。随着市场对科技巨头高昂的AI资本开支产生疑虑，10月美股承压下行，纳指100全月跌幅达6.65%，费城半导体指数当月跌幅高达15%。",
-            "[财新与小鹅通平台合作推出实验性单品“我闻”/“金融人·事”，对金融圈有更多垂直报道。可点此订阅。"
+            "【财新网】“眼下来看，在太空建设数据中心还挺有吸引力的。”美东时间11月4日凌晨，美国中期选举共和党大败的情况逐渐明朗之后，频频介入美国政治的科技巨子马斯克（Elon Musk）在社交媒体上发文如此自嘲。",
+            "在共和党长期的重要票仓得州，主张暂停数据中心建设项目的民主党州长候选人伊诺霍萨（Gina Hinojosa）也击败了寻求四连任的共和党州长阿博特（Greg Abbott）。",
+            "[财新双语通产品，是为有双语需求读者专门订制的优惠产品， 按此可享超值优惠订阅。]"
           ]
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NZDMtSDctSFlvc2R1dk44LVdXT1EtU3Zfc3BmM3BMQkROcVh6aE1Oby1PV1ppVjRBaFhNaGQ3bDM0eFllN1h3QU9UdkZ4a25zWm1kaEFGRC1taGFQ?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 14:29:09 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0twU1UyVm8zcTdHcUJicEdxcDd0dVlYR0NnclVjNWpzRWF5b2lGOGd0UmZ1cTQxNXFXNXZXRWJ5bzBST3ZGQWVuZGFkVGUzeDF6dWFaU0kyZVowM2tSQ01qdkVoSm5FMkhzbmtYZFJxQ25kd2pmdnd0V201Q1NMN0N1b0RMdFNuWWdwS1JjSkpabHBmX1cxWXpqdXZ3NGR5cjFuckJnMDU?oc=5",
+          "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
           "source": "Caixin Global",
           "text": [
-            "【财新网】美国民主党在中期选举掀起的“蓝色海啸”加剧市场对数据中心建设进度的担忧，引发新一轮抛售。11月5日，美股数据中心标的在前一交易日普跌后继续下跌。",
-            "IREN大跌16.95%、CoreWeave跌9.83%、Applied Digital跌14.69%、Cipher Digital跌14.62%、甲骨文跌6.93%，这些公司全部于盘间创下52周以来的股价新低；此外，Nebius跌14.94%、Hut 8跌6.11%。"
+            "【财新网】冰柜网络安全事件引美国多家政府机构发声。当地时间11月5日，美国联邦调查局（FBI）与卫生、农业、网络安全等部门联合发布警告称，注意到全球范围内的工业制冷和冷链温控系统正遭受恶意网络攻击。",
+            "FBI等部门指出，近期，零售杂货店和冷库设施使用的电子温控器频频成为黑客攻击目标。例如，法国国家血液服务机构的一处设施曾遭遇未遂干扰事件。",
+            "根据法国血液中心（EFS，Etablissement francais du sang）11月2日夜间发布的声明，该中心旗下三处血浆冷藏设施的“温度以及解冻阈值被调至极高水平”。（详见《继欧洲多国超市后法国血库亦遭网攻 冷藏设备温度被调高至110摄氏度》）"
           ]
         },
         {
           "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56UXNlNHNxMTEtcDdaUmVuUE5CZ1NPY3FBRmNKNmo5TkRvTnZiTHMxTUlSZUU5amVEdE1sUDV2N0Q1NV8tME5TdTUzdzdZUk5McDVManpNMmNjelJk?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 12:50:13 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTdPVGhFbUZzNDNiQ2dWZ1FxM2N1NElWLUdrYk9tVlU0RUZLdy1OQUFUa3Z6Sk1XQnZVUjMwWE9xZ2U2SUFEcXZhNW1yOU95a0hvemNUaDNoYnR4eE9NajFEcGR6QjFESlZSN1ZjUC1odkl2bTBqRXRBOFhlMDBXZWlfeFZLZ2o4VHRmTnVFN0ZBMXRtNFVfNTlHSUpHNjVvZkxGbnZ1a3A?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 06:59:05 GMT",
           "source": "Caixin Global",
           "text": [
-            "【财新网】地方政府出让住宅用地时，除了收取土地出让金，还不时要求房企承担周边公共设施的建设及移交义务。广州拟调整这一做法，减少附加在土地出让条件中的配建要求。",
-            "11月4日，广州市规划和自然资源局发布《广州市人民政府办公厅关于加强土地供应及供后监管的实施意见（征求意见稿）》（以下简称《意见》），提出在出让商品住宅用地时，严格限制土地供应与配建的实施范围，严禁配建经营性项目及楼堂馆所项目，原则上不配建道路、绿地、河涌、政策性住房、独立占地的公共服务设施、市政公用设施等。"
-          ]
-        },
-        {
-          "title": "- Caixin Global",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02WHA2bF9CaFdJZ1lqNjVnYnJmU0Y4VmRtMGE4QW55dVpjZy1yaWh0bUVhaVk2Zmh6cGlPc3BJbmlyZFhISzc2X1V0WGNaTE5PZFNsZ2dpc2xjQ0N2?oc=5",
-          "pubDate": "Fri, 06 Nov 2026 12:21:11 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "提供商业机会、购买战略配售股、挂名领薪、虚假诉讼、专设高薪岗位、设备采购等，都可能是腐败手段",
-            "2027年全年投资5000亿元，2026年和2027年分别再建2个和3个吉瓦级数据中心，完成7个吉瓦级数据中心",
-            "佐科出庭之际，印尼首都雅加达的安保措施也明显加强，印尼当局安排了6770名警员及军方人员参与安保"
+            "【财新网】随着AI从手机应用走向机器人、智能眼镜等物理设备，未来通信网络的服务对象将从人类用户扩展至大量能够自主感知、决策和行动的AI智能体。11月4日进博会开幕前夕，瑞典通信设备供应商爱立信中国区技术部副总经理张永涛在媒体交流会上表示，这一变化将对通信网络的带宽、时延和算力资源调度能力提出新的要求。",
+            "爱立信对27个市场超过4.3万名智能手机用户开展调研，调研报告预计，到2030年，全球约三成智能手机用户将成为重度AI用户，贡献AI总用量的80%；而目前AI用户仅占一成，贡献AI总用量的35%。"
           ]
         }
       ]
@@ -464,44 +478,6 @@
             "The creator told Sixth Tone that Bedbug Map was created with the help of AI in under two weeks. He said he got the idea after searching online for bedbug information after he and his girlfriend developed bites following a move, discovering most bedbug posts involved hotels.",
             "On the day of its release, the mini-program attracted over 100,000 users, according to the creator. Under his release announcement on Xiaohongshu, many commented asking him to expand the function to public transportation, which he then added to the app. However, the function was removed in subsequent updates.",
             "“I guess the reason the app was well-received is that it addresses a key pain point for the average traveler: the lack of cleanliness and the resurgence of bedbugs.”",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Who Gets the Credit for China’s Culinary Creations?",
-          "link": "https://www.sixthtone.com/news/1019210/Who Gets the Credit for China’s Culinary Creations?",
-          "pubDate": "Nov 03, 2026",
-          "source": null,
-          "text": [
-            "A few weeks ago, I served as a judge on a food program in China, where I met many chefs and got a close look at how they develop new dishes. I was particularly impressed by one dish: a steamed egg custard topped with a rich crab paste made from crab roe and fat. It was a combination I had never considered before. The crab paste had a delicate aroma and a rich, oily texture, while the steamed egg custard was soft and silky, perfectly balancing its richness.",
-            "I was struck by the dish’s ingenuity, but it also raised a question: Would people be willing to pay for the recipe and instructions on how to make it?",
-            "I put this question to one of the chefs on the program. He smiled at me as though I were a child and asked why anyone would pay for a recipe. He then let me in on an industry secret: When a restaurant discovers that a competitor has introduced a new dish, it will order it and have its own chefs taste it, analyze its ingredients, cooking techniques, and seasonings, and work out how it was made. In most cases, they can reproduce it. The chef told me he had recreated other people’s dishes and had his own copied by others.",
-            "It all sounded rather cutthroat. The person who bears the cost of innovation often reaps little of the reward.",
-            "In Chinese cuisine, creating a new dish is not nearly as simple as diners might imagine. Chefs must find the right ingredients, adjust proportions, experiment with different cooking temperatures, refine textures, and continually adjust based on customer feedback. Developing a successful dish can involve dozens or even hundreds of failed attempts before it is ready to serve.",
-            "The time, ingredients, and labor costs of this trial-and-error process are all borne by the original creator. Yet as soon as the dish reaches the table, anyone can observe, taste, analyze, and even reproduce it. For a competitor, learning most of the techniques needed to make a dish may cost little more than the price of a meal.",
-            "Even more frustrating, many of these innovators lack the resources to promote their creations. A small restaurant might be the first to develop a dish but lack the advertising budget, media exposure, or network of locations to popularize it. Meanwhile, a larger restaurant can simply copy the dish and quickly introduce it to a wider audience. Since more people encounter it there first, they may assume the larger restaurant came up with it.",
-            "This suggests that the first-mover advantage does not necessarily apply in the restaurant business. Being first matters only if consumers know who created the dish and the original creator has the resources and business acumen to turn that innovation into a brand and a source of revenue. Otherwise, the creator is essentially providing free research and development while introducing consumers to a dish that benefits the entire market.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "China Clears New Formula for Patients Who Must Limit Protein",
-          "link": "https://www.sixthtone.com/news/1019209/China Clears New Formula for Patients Who Must Limit Protein",
-          "pubDate": "Nov 03, 2026",
-          "source": null,
-          "text": [
-            "China has approved its first domestically developed amino acid-based nutritional powder, designed to give patients with phenylketonuria (PKU) — a rare genetic disorder that affects metabolism of the amino acid phenylalanine — greater freedom in what they eat. Treatment of PKU requires lifelong dietary restrictions to prevent developmental disorders and brain damage.",
-            "The new formula officially entered the Chinese market on Oct. 30 and was jointly developed by Shanghai-based Xinhua Hospital, affiliated with Shanghai Jiao Tong University School of Medicine, the Shanghai Institute of Pediatric Research, and dairy producer Bright Dairy.",
-            "PKU affects about one in every 11,000 newborns in China, with an estimated 120,000 to 150,000 registered patients nationwide.",
-            "Due to a genetic defect, people with PKU cannot break down phenylalanine, an amino acid found in protein-rich foods. The resulting buildup can damage brain cells, requiring patients to follow a low-phenylalanine diet by cutting out meat and eating low-protein grains, while relying on milk powder-like formulas to supplement the other amino acids they need.",
-            "Earlier formulas contained 30% to 60% amino acids, with the rest composed of fats, carbohydrates, and other nutrients.",
-            "“As patients grow older, they need more protein. That means consuming more of these formulas, which also means taking in more fats and carbohydrates, increasing the risk of obesity,” Cai Wei, director of the Shanghai Institute of Pediatric Research and leader of the research team, told domestic media.",
-            "In contrast, the new formula contains 95% amino acids, allowing patients to meet their amino acid needs without consuming as much fat or as many carbohydrates, and giving them more freedom to enjoy other normal low-protein foods.",
-            "Zhuang Yingying, a 33-year-old PKU patient, told domestic media that patients previously relied heavily on imported products, and overseas supply disruptions were common. Special low-protein foods such as rice and noodles cost five to 10 times as much as regular varieties.",
-            "The formula, designed for PKU patients aged 1 and older, could save some families more than 1,000 yuan ($140) a month, according to domestic media.",
-            "Domestic PKU formulas have existed for decades, but long faced hurdles in gaining regulatory approval in China, partly because of gaps in national standards for food-grade amino acids, according to a 2020 report by domestic media outlet China Times. High registration costs and the small patient population have also discouraged manufacturers from entering the market.",
-            "China approved its first PKU medical formula in 2018, an imported product, while the first domestically produced formula received regulatory approval in 2025.",
-            "Since 2018, some parts of China, including Shanghai and neighboring Jiangsu and Zhejiang provinces, have introduced public health insurance coverage for foods formulated for PKU patients. In Shanghai, annual coverage ranges from 8,000 yuan for infants under 1 to 12,000 yuan for patients over 10.",
             "[continua sulla fonte originale]"
           ]
         }
@@ -636,140 +612,167 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "Chinese consulate demands justice after delivery worker killed in Melbourne",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUE5TLW9Ub3ZNRFR3bVdIQnl6cVhlOUR5WnFDUUItekxnUW1kMGRyR3N2Uks5bEx0cXZVaDdFbUw1VkRqelpwcGR4eG9oMjFMRnAteUprWDlYLWpSY1BhZkVEU294V2duUHVwX1BleGp1Z0R4Wk9kN013NlU0OTZhMERoY3RUVHRRT1Y0N0F0MGRpcVV5NUs4dmlDZFhmOXdDZExaaHBUZURZTlpoVGQzYnk5OU1NSmI2TXFZZEpSMThOcW4xNkJweVliSHRTY1QwMVRhYtIB1AFBVV95cUxOOXpXSkJjb05vTDFZZHFNakFOOU11TnFnQ0VJVkdfdklTVzU5RzFJbVh1MjJTNTZMV0hWWmtUSjNzeXptdl9ZQmhHdm9obTljQTRsUjhRWjBTUUVEN1ZiYlVVbURFT0pZMjdSMDhYaEFndjZCb2l2ZWYtclJFMVRncU1TQ0Q3bGJ2Um5WVmROQ2theFBxamVsT3NQWTlmVUdDRkFuZW4zQnRISjdRQTRUbnIyb3o0Z3A3clF0UUVyQzB3Wk42aEJYQmVXSEVyU2pXclE5dg?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 10:37:02 GMT",
-        "source": "South China Morning Post",
+        "title": "China provides update on plans for historic Xi-Putin-Trump meeting",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWJjMEFIYktGVnRlZGhpWHZUZnoxZU5LY3BxUXBXUzN3Y0V5cV9fdnBXTG10V0d0bFVSX25YSmNVcklOV3I5blFhOWUtaWRrTm5RWDlnZGwtc0pPUnFlclVaWXcwWDNCT085cFdWU3RrU2tYdTNsbERRU3FQY25BdUVmODVOaC1ZWWtOSHlSd1ZEZVdUZDJXaA?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 10:21:00 GMT",
+        "source": "The Independent",
         "text": [
-          "The tragedy has sparked online outrage over delivery platform policies and gig worker safety",
-          "A 47-year-old delivery man from China’s northwestern Shaanxi province was stabbed to death while on the job and another rider was injured in downtown Melbourne on Friday evening, after the two confronted a man who was “tampering” with their bikes, sparking an “altercation”, Victoria state police said.",
-          "A 51-year-old suspect was arrested on Saturday morning and remains in custody, while the second delivery rider was taken to hospital with non-life-threatening stab wounds, according to police."
+          "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+          "China has confirmed that it is discussing a historic meeting of Xi Jinping, Vladimir Putin and Donald Trump.",
+          "Chinese foreign ministry spokesperson Mao Ning said at a press briefing this week that Beijing was “in communication with relevant parties regarding a meeting between the three heads of state”.",
+          "The three-leader gathering could take place this month on the sidelines of a regional summit in the southern Chinese city of Shenzhen.",
+          "It would be historic if the meeting were to happen, but experts argued the leaders of China, Russia and the US were unlikely to discuss anything substantive because their interests were at odds. They would gather for a photo, the experts said, with China carefully choreographing the meeting.",
+          "“I think it will happen. The question is the format and the content,” Sun Yun, director of the Stimson Centre’s China programme, said. “China wants the image but not the costs.”",
+          "Beijing is hosting this year’s summit of the Asia-Pacific Economic Cooperation, a 21-member grouping that includes the US and Russia, this month.",
+          "Mr Trump is expected to travel to Shenzhen and meet the Chinese leader for the third time this year, maintaining a fragile trade truce that is set to expire in January.",
+          "In a sign that tensions persist, American trade representative Jamieson Greer urged China during a video call with vice premier He Lifeng on Friday to take “concrete actions to fully implement its past commitments, particularly as they relate to agricultural purchases, rare earths, and critical minerals”.",
+          "Chinese news agency Xinhua reported on Saturday that the two sides had constructive exchanges and that Beijing expressed concerns about Washington’s restrictive economic and trade measures against it.",
+          "Mr Trump previously said that he would be interested in meeting Mr Xi and Mr Putin to discuss nuclear arms controls, though Mr Putin was focused on talking about the Ukraine war without Kyiv at the table.",
+          "“Putin has the most to gain from a leaders’ trilateral and the Russians are clearly behind the push for a meeting, which would be a diplomatic coup,” said Danny Russel, a former senior US State Department official who served in former president Barack Obama’s administration.",
+          "Mr Trump, with his “crush on authoritarian strongmen\", would love the meeting, though he clearly had been warned by his advisers to steer clear of Ukraine as a topic of the discussions, said Mr Russel.",
+          "Ms Sun of the Stimson Centre said Russia would likely use the summit to nudge China and the US closer to Moscow's positions on Ukraine, while “China will have to manage Russian manipulation”.",
+          "China also would not engage in talks on arms controls or discussions about Ukraine or Iran, other than its diplomatic refrain that peace was important and wars should end, Ms Sun said.",
+          "Beijing's biggest challenge might be the perception. The summit “should not be equated to three great powers dividing up the world”, she said.",
+          "[continua sulla fonte originale]"
         ]
       },
       {
-        "title": "Pakistani astronaut to join China’s next space station mission",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTRRRXdXNmphejg5d3hubWpfNVZ2Skp0XzNQamJZRE1hN202Y3czZ3JyZWRPalJDaks3VlNvMy10NERJa1YxRDVUUVVxempZRk1oTjBPMVQwdm5UMW52VEJyMFRvSDNBTFI5Q2hQY3RBOWpacnA5eFFicGNYWXZpdXhFUmRKYnlwZ0VaYlNBUFd6Mm16M2hkTW5zd3lLQXYxaXIzQ9IBqgFBVV95cUxQSXZKQ0VIZHBaejV4UGp5Zy04MmJ0Njd2ejNJTkpZOThpX3VZT2huRHY4YzJsNUJyd0pwdnIxQ0xiQ0lDWnd6MmYzQU9CRTZPRTc2bjY0d081NkcwelZBVWhKeDlsV3Z4Q2NXODhMZkVCME5QUHE4YS1oRzRfeDZTaDdaQmdnb09EVjJEM212MEdwclBnaFhtZWttbXd0OUhHTFZ1SGtycXZPUQ?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 10:22:42 GMT",
-        "source": "Al Jazeera",
-        "text": [
-          "China’s Manned Space Agency has selected a Pakistani astronaut as a payload specialist for its upcoming Shenzhou-24 mission, making the unnamed individual the first foreign national to visit the country’s space station.",
-          "The Pakistani astronaut would join China’s Shenzhou-24 mission, as part of bilateral cooperation under Beijing’s Belt and Road Initiative, Chinese state media reported on Saturday.",
-          "China has not identified the astronaut nor given a date of departure, but the mission is expected to take place by the end of the year.",
-          "Pakistani pilots Zeeshan Ali and Khurram Daud spent months training at the China Astronaut Research and Training Center in Beijing for a mission.",
-          "Last February, Pakistan and China, longstanding strategic and diplomatic partners, entered into an agreement, establishing a Chinese government-led programme to train Pakistani astronauts. China is Pakistan’s largest trading partner and a key foreign investor.",
-          "The China National Space Administration will also deploy Jinnah-1, Pakistan’s inaugural lunar rover. Weighing 35kg (77lb) and fitted with specialised scientific equipment, the rover is tasked with analysing plasma behaviour, radiation, and the composition of lunar soil.",
-          "The training programme includes practical operational exercises and intensive Chinese language lessons to prepare the candidates for the mission.",
-          "Beijing’s China Central Television reported that after completing a short-term in-orbit flight, the astronauts would return to Earth on board the Shenzhou-23 spacecraft.",
-          "China invested heavily in its space programme in recent years – catching up with its main rival, the United States – and aims to land astronauts on the Moon by 2030.",
-          "The US, Russia, and China are also racing to build nuclear reactors on the Moon. While the US space agency, NASA, announced plans to develop a nuclear reactor on the Moon by the end of 2030, Russia has been working with China and aims to do the same by 2036.",
-          "The reactors will be needed to power the mining of frozen water trapped deep in the moon’s craters, which scientists believe could supply drinking water, air, and rocket fuel for future bases. The reactors would also provide power for lunar bases."
-        ]
-      },
-      {
-        "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 10:00:40 GMT",
-        "source": "The New York Times",
+        "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 06:23:16 GMT",
+        "source": "Axios",
         "text": null
       },
       {
-        "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 09:55:43 GMT",
+        "title": "How China and NASA's human moon-landing plans compare",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TbGM1cUtPTEV6RC1pR1AtUzJMUnQtUWdVc0V6ZDYxbm1JNUxBekszMGtCMC1YUVJOeVVTaXdSVVVlQm4wcXlxQjZqMnZXVDJ2UlE4MnJkeHJmYnhiNXRBUVFqS2x0eHlIUk9qYlRld2RYaTc3aFE?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 05:01:51 GMT",
+        "source": "Mashable",
+        "text": [
+          "China's plan to land people on the moon by 2030 mirrors NASA's on paper but skips crewed lunar test flights, trusting robotic rehearsals for its first human landing instead.",
+          "Chinese space officials laid out their approach at the 7th Manned Space Symposium in Beijing on Oct. 31, according to Xinhua, the Chinese government's wire service. A slide reportedly from the presentation posted by CNSpaceflight, an independent outlet that tracks the Chinese space program, shows two of the initial missions with nobody aboard. A crew flies the Mengzhou, or \"Dream Vessel,\" capsule to Earth orbit in 2027. Then the robots take over. The Lanyue, or \"Embracing the Moon,\" lander touches down on its own in 2028, and an uncrewed mission rehearses the full landing sequence in 2029.",
+          "\"For any crewed mission, we will try to fly it in an unmanned state first,\" said Wang Xiang, chief designer of the Chinese lunar exploration program, in the English captions of a CCTV report, China's state-run broadcaster.",
+          "The split cuts to the heart of a heated new space race and reveals two different institutional cultures. China's tight-lipped, military-run program trusts machines to prove its lunar hardware works. NASA's civilian program, working in public view to land astronauts first in 2028, leverages human test pilots. U.S. leaders say they're reviving the Apollo playbook that beat the Soviet Union to the moon: put crews on key test flights, launch often, and build on each mission.",
+          "\"It's not entrepreneurial thinking or tech industry pixie dust or some new management philosophy,\" said NASA Administrator Jared Isaacman at a news conference on Oct. 23. \"It's a playbook this agency knows really well &mdash; the same playbook that went from Apollo 7 splashdown to Apollo 11 in just nine months.\"",
+          "NASA has already flown one of those crewed test flights. Artemis II sent four astronauts around the moon in April. Next year, the four-person Artemis III crew will spend about two weeks in Earth orbit practicing maneuvers to dock the Orion spaceship with test versions of two commercial landers.&nbsp;",
+          "One lander is from Blue Origin, and the other is from SpaceX. Astronauts will climb into Blue Origin's lander to check its air and life-support systems, but will only briefly dock with Starship.",
+          "Earlier this year, NASA decided to do that test as a separate mission, shoehorned between Artemis II and the first crewed moon landing. If something goes wrong, \"we can come home much more quickly,\" explained Jeremy Parsons, who manages NASA's Artemis program.",
+          "Apollo followed roughly the same script. Four crewed test flights came before Neil Armstrong and Buzz Aldrin landed in July 1969. China's first crew to head for the moon will be the one that lands.",
+          "Despite this major difference between the plans, NASA will lean on some robotics, too. SpaceX aims to land an uncrewed Starship on the moon by the end of 2027, and Blue Origin is working on its own uncrewed demonstration after Artemis III. NASA will keep both landers in the running as long as possible before picking one for its first crew, while China is building a single lander.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVNBelR6QURBUWMxQVp4SHlEUW9Nc1lhQVluWjgwSFh4cUlqdWxPeE96dXFvcUVmV3BrTFYtVXF6XzNEZU5Mc1k4dUxsa2hWamNRUkhsdGtfQjFCd1JfSkpJRnc1VDFGdU1GT29XSFllQ0hOTExvaEFtc1I5cHM2ZGl1aTFNQ1NMYnhoa084a2doRlQ2aVl2VnpzbzJqVWJkZ2pNdGNVeVJ6Zk5oU1NmTmk5Yw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 04:02:00 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "Astellas employee imprisoned in China to be released in December, Japanese media report",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODFjR25tcklTWnhjRDdJX0J4YjdUVTF3QU9hWUEwemp6cEd1c1NEb003Qm5kUE5WblVNN0c1SlBxZU4yM3lGdHRUZzR1cXpyNEs5VE9nTEF1b3d3NzlabkdLRDJWV3Nuc2tJQ3FaTU1MV1E5T0tUOUlKR2ZZSHp1TS10aWxrRzdiVi1ldlZlYXpJQldFMHFrUkRDd0hLc2NkUkp5NEpCTUlDSnJFTkYyUkE1SVJUcGw1cVI3dEdveEg3ckE?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 03:49:00 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 04:55:32 GMT",
-        "source": "DW.com",
+        "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3hwVEx0cHAxUFVTQThkbnhTajU5akxWcC1ReGd3d0cxU25DUkdEYzk2M1ljSHRSN3J0TWdQVVZUV3BkUVJJdDlhRTIyei02SWRzblBHSDdyb2ZURmtobFNqa3R4RmRuZTUwUnpQS2F6cFR4V2tYU0VtTW9sX0F4V0lMZEpDUTBfcEU1VUFxZGpld1hJWDlFbEF6THZ2cGIxajhhOGJUdGJiNWNyeFdiRA?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 03:29:00 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEdNVW9xb3BsRFNlejdiTkdkNV90dktPVGYtRHFhcFJFX3B5YnZwd0g1d1VPQXJxVldJOURWMUhZU2puQ3FiU3AwZmg3eG1zbGV0U3Y1Z0VvdTA2OWxMajhLb0hZVjBXTlRPUTNwQl9kNFZyTTFTcENFQ1hVZm1lZC1rNXRrTGNhR1EwVS0wWnJVeWxTNUtleHY0VWQ2TXI3Tmc?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 03:01:00 GMT",
+        "source": "The Guardian",
         "text": [
-          "Top officials of United States President Donald Trump's administration have called on China to \"fully and immediately\" implement its commitments under a 2025 trade agreement between the two nations, including on rare earth and other critical minerals.",
-          "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer on Friday held a videoconference with Chinese Vice Premier He Lifeng on the trade and economic relationship between Washington and Beijing, a statement from Greer's office said.",
-          "Greer \"emphasized the critical importance of China taking concrete actions to fully implement its past commitments, particularly as they relate to agricultural purchases, rare earths, and other critical minerals.” it added.",
-          "The US officials were referring to an accord reached between the world's two largest economies in 2025 in a meeting between Trump and Chinese President Xi Jinping in South Korea's Busan, on the sidelines of  an Asia-Pacific Economic Cooperation (APEC) summit.",
-          "The deal had been reached during a period that saw the two countries exchange tariff escalations prompted by Trump's wider tariffs policy, which particularly targeted China, among other countries.",
-          "The accord capped US tariffs on Chinese goods —  enforced during Trump's second stint as president —  at about 20%.",
-          "China agreed to buy 25 million metric tons of US soybeans for the next three years.",
-          "Beijing also said it would keep China's rare earth exports flowing, suspending new export curbs.",
-          "The minerals are critical for the technological industry, and the Trump administration has in the past complained that Beijing was not meeting its commitments regarding supply.",
-          "\"The Trump Administration will continue pursuing policies that benefit American workers, farmers, and businesses and strengthen our economic and national security,” Bessent wrote on X after the high-level call.",
-          "He, who is Beijing's lead negotiator on trade ties with the US, during Friday's interaction expressed  \"serious concern\" over recent US trade restrictions targeting his country, Chinese state news agency Xinhua reported.",
-          "The report did not elaborate which measure the vice premier was referring to.",
-          "But both parties agreed to \"continuously strengthen cooperation”and \"properly manage differences\" to promote a \"stable\" US-China trade relationship, Xinhua said.",
-          "The Busan trade deal  at first covered only one year, but the US and China extended their trade pact until January 10 next year, as  Trump hosted Xi at the White House in September.",
-          "The two leaders are expected to meet again at the upcoming APEC forum in Shenzhen, China, slated from November 18 to 19.",
-          "Meanwhile, in a separate development, China has confirmed for the first time that it is discussing a historic trilateral summit of Xi, Trump and Russian President Vladimir Putin on the sidelines of the APEC gathering.",
-          "China \"is in communication with relevant parties regarding a meeting between the three heads of state,” Mao Ning, a spokesperson for the Chinese Foreign Ministry, said at a media briefing in Beijing this week."
+          "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority",
+          "The deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back.",
+          "Last year, Thai authorities forcibly deported 40 Uyghur men to China despite pleas from the men themselves and the UN.\n \n \n The US and Canada had reportedly offered to resettle them, but Bangkok appeared to want to avoid upsetting Beijing. The UN has said the returnees’ whereabouts remain unknown.",
+          "Now, two more men fear becoming the latest victims of Beijing’s repressive crackdown against the largely Muslim ethnic group, condemned by the UN as a potential crime against humanity.",
+          "The girlfriend of one of the men said her boyfriend, whose name is being withheld for security reasons, told the Guardian he wanted to go “anywhere else but China”.",
+          "Human rights groups said two Uyghur men were at risk of deportation after recently being transferred to an immigration detention centre and they feared Thai authorities may once again give in to pressure from Beijing.",
+          "Elaine Pearson, Asia director at Human Rights Watch, called for the men to be allowed to travel to a safe third country. “Previous Thai governments have kept Uyghurs in inhumane detention for years and then complied with Beijing’s demands to send them to China, where they were forcibly disappeared,” she said.",
+          "The men had been serving a seven-year prison sentence for offences related to an attempted escape from immigration detention in January 2020. They were part of a group of more than 200 Uyghur men, women and children who were apprehended by Thai police in 2014 near the border with Malaysia after they fled from China.",
+          "Since 2014, women and children in the group have been released to Turkey, while the men have been deported to China, in separate batches, attracting criticism from the United Nations and the US secretary of state, Marco Rubio.",
+          "Uyghurs, a Turkic minority mainly from the Xinjiang region in China, have been subjected to decades of oppressive and discriminatory treatment from the Chinese authorities. This has included the incarceration of hundreds of thousands of people in detention camps aimed at stamping out their cultural identity.",
+          "Beijing has defended its policies in Xinjiang as being aimed at poverty alleviation and counter-terrorism.",
+          "In July, Marzeyya Kasem’s (who asked to be referred to by her Islamic alias) boyfriend wrote to her in a letter that he would be “like a slave” if he was sent back to China. “Sometimes I thought why I’m a human being. What I do wrong against China … no want to go back to China,” he wrote. She shared the letter with a Thai rights group.",
+          "The two men facing imminent deportation reportedly pleaded their case to Thailand’s office of the National Human Rights Commission on Wednesday.",
+          "Relatives of Uyghurs have said the Chinese government was “paranoid about Uyghurs going to a safe country in large numbers and living together”, and preferred to have them deported.",
+          "[continua sulla fonte originale]"
         ]
       },
       {
-        "title": "Pakistani astronaut to join China space station's Shenzhou-24 mission",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWlCUHUxM2NQQ3VJOUttWWpFbUxsX3pFN3ItSTNlbF9jM1BVX0g5b0xNUjZaaExjS2xFWG1aTy05TS1qQ093d04wNWdvWTVHXzBhUXVwazZWX0xFNmROQTJITzl0ZFZSOEpyLTh3SlJ0eFJ2a08xSnVTQl9RSC1OZ1E5OXJHNnB3c2pLakJUaHdqSDVLN1p6ZEZLWDlDUXNtZ3hqaVdfeHBhcmVtUkE?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 04:32:00 GMT",
-        "source": "Reuters",
+        "title": "Astellas employee to be released from China prison in December",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWhJc21hRTlDb25aNUZiNFlaY1VudzVTVkVBM0FmY2tBbC04b19mV0tPd1dEdWI5dHBOTmV0eHdtM1czdVpjOGp2M0hORkNDYVdZaXB2bjl5cmZ3N044S2JLUHpHbjYtSXl4dlZJa0NndXVjd1hzU2NXM196aXAwU0dHc1BmMEtHLUduTzBsdw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 03:01:00 GMT",
+        "source": "The Japan Times",
         "text": null
       },
       {
-        "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdJdkgwZnBIUEhYS0ZGcUpvYVFmWW5tVlZqVFlRSkJuOWUyU3Z2Zi1sZ3F1S3BuMmFrSUtuSDhDbWkzWS1lM2Q0OE14WTVkaEk0SnZMOExTRDFUV3h1dUNvejhVTkRmdjVLb1VKUU40ZlliTTVXenVaN3M5ZEpoZVFqMW9WemRDWGV2YmNCeGpVci0zU2p4a0xhRUhYaDB4ZC13bHNISUdOc3J2RUNKUg?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 03:32:00 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "US Believes Woman Close to Nvidia CEO Was a China Spy, NYT Says",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeks3UUZzZHludldva0o2QkpXMGZySHJkZzNtNGJTcUcwbHBtV3pKbW9TWUc1ZWRxaDl2SGo4NzFHQnYyRlg1UmZMazRwVnRpcmhaeFR0a2VjWEpXdDhaaWNIOGVsUEc5TFJRSlVHTFlKX0NBRzZhcEVFMkU2Y2dRMGdyaDVqU1dQOWxjd3lVekxvZHFETmg5UlpGRWl3NEtVRGhYWW5hQXJVOXJVNV9reWV3QQ?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 03:13:00 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 02:33:26 GMT",
-        "source": "Financial Times",
-        "text": null
-      },
-      {
-        "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlRKTG9WNHBINWg3VkxadkZGV0dCbHZPWUpFclJJNFZBdzNmbGNLbldyWVgtblFfUk1famJaZUlzX3JSTHpyYnRIa25Qd01jNWhPbVV0QllXRW5pTGdBam9NaE1iTXBXMmhCNVFoNTI3ZHFDVEFSU0F5dXNTMHVfY0Z1RzltVGpRdDdaUUlYNzQwWVlz?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 02:18:42 GMT",
-        "source": "The New York Times",
-        "text": null
-      },
-      {
-        "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 01:54:00 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 01:33:00 GMT",
-        "source": "Bloomberg.com",
-        "text": null
-      },
-      {
-        "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVNOeWN6Sm8tZ1Zlc1hOTFR6OTVBTUNJcEtaSE5MQ25aSEo3QU5Pc3lXSWNrUVhjT3RsZFpVTEY2MUdiYXNpUjJhUnRaQ1pDb0xmWVdEbDR5T3g0ellxWFIyNk5PTGN6WnY3dUZnUXA5QnMzdWsyb284NFVpTnNkOGMyWVR0c3NUQklYOTVGUjFwOVRITnpDM1lpU0RCeFNDQTFfOVBHbmxmY0ZTSmpoZzl6a3gxMjdiSmZUdENjTHRQNjRVVFB6Q2IxMW56UdIBzgFBVV95cUxPajdVeFBuM0pRT1NjTFdsSFp4ZzhPTEVrT0pfRTRVMm9weVdqSTRRbF9WWFVuTjV6MlU4Q0Vkbi1vQlF3Z2FZMWJjNnBOSy1vSjYzS3UyWGdvTzdTVG0yeTdZNGstRmJjaVRPMFVjQjdJb0lIRHZPMmhhSUk2dUxqT0tXaVg0ZzlRZ0Yxbnh3RnBhZ2hYU3JhVDlEUWRBQTQycmhLNWp0cXlkWDEyR1dCb3NaMFNNNWxCc2pWNlcwVTdKSURsV3ZTUnVkWjhVdw?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 01:00:12 GMT",
+        "title": "Grief in China as rare snow leopard cub Ling Xiaohan loses 26-day fight for life",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXFZb3BiQnVoUlE0aWNCTmFkT0tHU1dBUEpoUHJDWFQ2bHNicF83YXA5SnpPODJTM2w0X3BPZ3hYZUZOQUg5ZEUyVjYyalBCWExpU3hfV01tX1J2RDViRUF3MklUNERaeWRrMk9DU212OFJXQjNhT0R3WkFuOGx3NEdGeVhLOWo5a096cFYtSGx2Z1RsVzNMeHh0SmdaMmMxbjVudXRzaEw4OVZWb1RPTFQzMmd2bjh0YlBBRU5qcnl3aTVsUGfSAcYBQVVfeXFMTi0xMHpISjVRT296RjB4OEJScDM1WEE2V3I2NHMtQWROMHlGZUJzenAta19rMy1feDZIX1l4Yy1JdTRhcWt3V0Y5d2Z0RWpveWNocFNIQTd6QnFhaWQxa3J0R1NTZDdLamJCZVFjRnRrbUJjZFE3ZlBxTnNoZGlEcjNyMUgwT1hwWTlhaEtyTklnajF1ajQwWl80SlZRMnVHd2xzSWdxX1pSYUY3ZmEycmF0dnZLcHBUeGNKM25xQUxBOXJhd3NB?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 01:00:24 GMT",
         "source": "South China Morning Post",
         "text": [
-          "Prime minister welcomes Unesco bid for Japan’s ‘shodo’ tradition, but is criticised for not mentioning the artform’s roots",
-          "On Thursday, Unesco released this year’s nominations for inclusion on its Representative List of the Intangible Cultural Heritage of Humanity.",
-          "The 59 nominations submitted for consideration for the UN cultural body’s list include Chinese cuisine, Spain’s traditional jota music and dance genre, and Japan’s shodo calligraphy."
+          "The young animal’s death despite intensive medical care following its rescue has sparked an outpouring of mourning on social media platforms",
+          "Despite intensive treatment efforts, the five-month-old cub died from complications arising from a severe brain injury, the cause of which is unknown, according to a statement by the Qinghai Wildlife Rescue and Breeding Centre.",
+          "“The centre deeply regrets that it was unable to save Ling Xiaohan and will conduct a comprehensive review of the rescue efforts,” it said on Monday on the official social media account of Xining Wildlife Park, its subordinate unit."
         ]
       },
       {
-        "title": "‘It’s almost like a nightclub’: Hyrox takes off in China amid fitness frenzy",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFM5d1hySHpidjROdm1ybFJERzk3NTkzWFU1eGg2ZTJXd085cDhjVm5DeUhTSHRkZm1VV3RpcjZjWm43WThxdHNXUVlBRDlTdklKOGlZNTR4cWZLeFJiTlBtWG04ZDRia3hXU3UzamxwZUZHbkZsZFprNndTNU85SHRlenk?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 01:00:00 GMT",
-        "source": "Financial Times",
+        "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlmbjBTLXAyMXRaUFkyaXNncWYtdVB2X1puSzZiQmk3eHA2RzBLWTNmcE9KMzdQeGZ5T3lKclFuNTFzU3ItQWI3eTNYSGY4U0RtbnBXbm9jMUpmRjNCeDhpRUI1aWh6MklqTzdPR2w5OHhCQTZXMldXSjlLMEMyMHZwaDZodTlJOU4xbTFhcHJsTHg1bU1uaGNaR0FscDg5QWxmMUp5YTBCQUZNWGs0VQ?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 00:00:00 GMT",
+        "source": "Bloomberg",
         "text": null
+      },
+      {
+        "title": "We Visited China’s Stargate in Inner Mongolia",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDUWQ1UF9rdXRUemphVEhtLVF6U0FSVFdPbXhYV0tMUFhZR2JiMGdIbnFvMWk4YnN6b2dLZmxZSGFScl9VNnBlQmZvZEZUVzktOHlVY0xIVU10bG9qeDhjQm40TWFfN1duOGdHM25acGhWMmVCYklVc0t4a2ZZUQ?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 19:01:39 GMT",
+        "source": "SemiAnalysis",
+        "text": [
+          "Stargate Abilene has become the symbol of America’s AI buildout. It is a gigawatt-scale campus on the Texas plains built for OpenAI. China has campuses on a similar scale, though few people outside the country have had a look inside. In September, we visited one, and we found the speed, scale, ultra low cost, and deep vertical integration astonishing.",
+          "During the trip, we toured Inner Mongolia, China’s fastest-growing AI datacenter region. It's the “West Texas” of China, but while the Lone Star State faces its highest ever anti-datacenter sentiment, Inner Mongolia is accelerating and faces no such backlash.",
+          "Our main stop was Galaxy, a campus in Ulanqab planned for up to 800MW of IT capacity.",
+          "Galaxy is about the size of Abilene’s core campus. Its first 120MW phase was delivered within a year at a fifth of US costs. All four phases are built-to-suit for two internet giants.",
+          "When we visited, the rest of the campus was still a busy construction site, and the surrounding Chahar High-tech Zone had nearly 30,000 construction workers on site across 22 datacenter projects according to a local report. As we noted in our primer on the China datacenter market, with this much labor available, Chinese datacenters rarely take a fully modular approach, yet construction costs keep falling. We take a closer look at why in this report.",
+          "The datacenter is owned by Envision Group, a renewable systems integrator with more than 100GW of wind turbines installed worldwide. It came to datacenters from energy management, a path many others are taking today. Yet it is one of the most vertically integrated players we have ever seen.",
+          "Beyond running the datacenter, Envision builds its own wind farms and a dedicated power line to supply it. Its blade factory sits just across the road from the Galaxy datacenter campus, with finished blades stacked in the yard.",
+          "Inside the campus, it designed and integrated the low-voltage power modules and the 800V system, manufactured the battery storage that smooths the load, and co-designed the prefabricated substation.",
+          "In one 5MW hall, we saw the 800V system at work. Solid-state transformers (SSTs) take 10kV AC from the grid and convert it straight to 800V DC for the racks. This removes the low-voltage transformers, UPS and rectifier stages in between. The same architecture is still on the US roadmap, as we outlined in our 800V DC deep dive.",
+          "In China, datacenters have been running on DC power for almost two decades, from China Telecom’s 240V DC pilots in 2007 to Alibaba’s Panama power system in 2018. Today, roughly a quarter of Chinese datacenters built in the past decade run on DC, while about 97% of US datacenters still use AC UPS. An SST is a natural next step on that path, and we cover the evolution and the pilot in detail later in this report.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "Could China Turn on Xi?",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QTnFtOHNIbWE3RGxPaVg3MUFQcTkwcThhejQ4cTU5amZFSy1jRVRlNnV3ME50aFRTOFl0TjhJR1JYTldPcUR4ekV0NGFIbzdLX29wVU5R?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 18:00:16 GMT",
+        "source": "YouTube",
+        "text": null
+      },
+      {
+        "title": "JLR raids offices of Chinese rival BYD over ‘copycat’ claims",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1hKM0ZLTExQRWsxSmlaS1NSUW5SckhhNnFhbV9sOGhwcjBWNGdzSThKNU9IVzYzWWJuRFA5OURkeGVMcHJQTHhuTzQxR0V5Vl9ELXJqcEhUUnQtV2NJN2FLV3N5OEtCWjROWkN0S1ZWU0VYdmRRSkxPTmhDdmFzTEd1am5XWHpqQXlhTHJyODFVeEF0TUVBV1ZwM0xQdw?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 18:00:00 GMT",
+        "source": "The Times",
+        "text": null
+      },
+      {
+        "title": "World's largest economy faces double hit from Africa's largest economy and Canada as South Africa boosts China exports 25% and Ottawa unveils C$142bn plan",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1Q3b1htaEFMU013RXl6ZXIyZUZvUjBUSkJuMWNQbjdMRnNXdWp6QWRfYzUxZjNZWjhjeU9vZVN0Q21pUWRabzJpSFNhMVNJcWFTRTNLcklwT2tlX08ySlRESXdrcElsWXdnQTVJVDNMbEYyd0c1ZWxCUXRmMEdnSG0yZGVuUURKenZfWXVFTzI5UFpINk9rekJlbklOWnhEQUlkc0FuQ0dQajRqUFpTTm5meXpZLVRkY1ExckE0SVFSMzRTOUNBRVZuNDZJb054WktCVWpB?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 17:54:05 GMT",
+        "source": "Business Insider Africa",
+        "text": [
+          "The US's Donald Trump and Canada's Mark Carney [Image Credit: Sky News]\r\n                \r\n\r\n                \r\n                \r\n\r\n                \r\n\r\n                \r\n\r\n                \r\n            \r\n        \r\n    \r\n\r\n                            \r\n                                \r\n\r\n\r\n\r\n\r\n                            \r\n                                \r\n    \r\n        \r\n            \r\n        \r\n    \r\n\r\n                            \r\n                                \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    \r\n        \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n\r\n            \r\n\r\n            \r\n                \r\n                    \r\n                    \r\n                        \r\n                        \r\n\r\n                        \r\n                            \r\n                                \r\n                                    \r\n                                    \r\n                                        \r\n                                    \r\n                                    \r\n\r\n                                    \r\n                                    \r\n                                        \r\n                                            \r\n                                            \r\n                                                \r\n                                                \r\n                                            \r\n                                            \r\n                                                \r\n                                            \r\n                                        \r\n                                    \r\n                                \r\n                            \r\n                                \r\n                                    \r\n                                    \r\n                                        \r\n                                    \r\n                                    \r\n\r\n                                    \r\n                                    \r\n                                        \r\n                                            \r\n                                            \r\n                                            \r\n                                                \r\n                                                    \r\n                                                    \r\n                                                    \r\n    \r\n    \r\n    \r\n\r\n\r\n    \r\n        \r\n            Global trade tensions from U.S. tariffs under President Trump are causing countries to alter their economic partnerships.\r\n        \r\n            Canada introduced a C$142.1 billion budget to reduce reliance on U.S. trade, focusing on domestic infrastructure, tax incentives, and support for affected workers.\r\n        \r\n            Canadian officials emphasize the need for long-term economic diversification and self-reliance regardless of changing U.S. politics.\r\n        \r\n            South Africa is boosting its export relationship with China, driven by Beijing's zero-tarif",
+          "[continua sulla fonte originale]"
+        ]
       }
     ]
   }
