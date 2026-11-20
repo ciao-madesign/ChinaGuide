@@ -1,21 +1,79 @@
 {
-  "generatedAt": "2026-11-19T14:13:14.618Z",
+  "generatedAt": "2026-11-20T13:54:24.473Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Xinhua China news advisory -- Nov. 19",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pNHc1b2tvVUJIS2xCVnVtUDZtWlJLX3JLRGMzMFV4OVVWWGlfS0V0dGZPeU5pVU55UHZ4dmc4VU5HMXlVMHowUHdBempwaTljRFEyRGhyMThueFVoN3R2czhERmgtWmU3YXB4VUNHNEM1RjZYa2xBSF9zWUw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 02:22:21 GMT",
+          "title": "Xinhua News | Xi meets Malaysian PM in Shenzhen",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkVHM5TXdBVmZqdjNxdzR0TU9xSFNBVDU2ajAwalVkRHFseVhlVEExMjAwSE9DMHVEa09FeWM4eDE5aWRzWEF1ZV9hTTJoWF90bm9kUFN1LWJJNFZQakhWOU1CNmxEaUN6OElxd0RGVlJnQV9TOGpwRUFTeDY?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 06:28:16 GMT",
           "source": "Xinhua",
           "text": [
-            "BEIJING, Nov. 19 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Thursday.",
-            "-- Tropical Rainforest Ecosystem Partners Conference opens in China's Hainan",
-            "-- Economic Watch: Guangxi's paper boom deepens trade with Southeast Asia",
-            "-- New study identifies China's latest-known Homo erectus fossils",
+            "Chinese President Xi Jinping on Friday met with Malaysian Prime Minister Anwar Ibrahim in Shenzhen.",
+            "The city in south China's Guangdong Province hosted the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting from Wednesday to Thursday.&nbsp;#XinhuaNews",
+            "Xi calls for jointly building Asia-Pacific community to prosper together"
+          ]
+        },
+        {
+          "title": "Xinhua News | Xi meets Thai PM in Shenzhen",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRdzVRTHVtc2Jjd2F2Vy1EVm1ZQVFfOFFWMkdyVnh5SDNLZ0I3b1lwbk9BZjN3bkNWanhzYXJpZ18wcEthMzBWcUlDTEJCLTczWmFPdXoxRWd2M3pzbUNWdk9UN2U0RW9BRHJJRXZPSDNfUWwyQkM1OGFZR3g?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 06:06:15 GMT",
+          "source": "Xinhua",
+          "text": [
+            "Chinese President Xi Jinping on Friday met with Thai Prime Minister Anutin Charnvirakul in Shenzhen.",
+            "The city in south China's Guangdong Province hosted the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting from Wednesday to Thursday. #XinhuaNews",
+            "Xi calls for jointly building Asia-Pacific community to prosper together"
+          ]
+        },
+        {
+          "title": "Xinhua News | Xi meets Singaporean PM in Shenzhen",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuenBTMXdEUGw0b1RiOC1GUWVoLTRNN2JxSFQ2NTE4LUJiUVRDQkdxUjBTSlNiUk9Ya3BUc2VReG1hTDlNbEZBcVlPdzZEMXNMVGlJRVJLaDlXSlRONDFvTjd2d1Aybzc5aW0zdk1rbld4X0s5Q0F0QUliZF8?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 06:01:17 GMT",
+          "source": "Xinhua",
+          "text": [
+            "Chinese President Xi Jinping on Friday met with Singaporean Prime Minister Lawrence Wong in Shenzhen.",
+            "The city in south China's Guangdong Province hosted the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting from Wednesday to Thursday. #XinhuaNews",
+            "Xi calls for jointly building Asia-Pacific community to prosper together"
+          ]
+        },
+        {
+          "title": "Xinhua China news advisory -- Nov. 20",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLOVNsZFczWGJmaXdBVXFzZUl2dGp3UDJzcjhlTm5waFNrVVlleFVCQWFTWHBMUWNZS1lNVHh0TDlKdmkxbnBrWTFPWjhRakJzNXJkUVdzX2JPU0thQ1JTbFRtSkNQNkVZMlA0cjRha1NucG5hZ1NGRUJOVFY?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 02:30:15 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BEIJING, Nov. 20 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Friday.",
+            "-- China releases latest loan prime rates",
+            "-- China Focus: China steps up efforts to safeguard children's mental health",
+            "-- Jilin forges integrated new-energy chain amid national green transition",
             "http://www.youtube.com/user/ChinaViewTV  ■"
+          ]
+        },
+        {
+          "title": "China's loan prime rates remain unchanged",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pVm0zQlVldE1TTFc3NkROdmNUYkdqR28tUi1NdU9DbDJHT3ZuT0NpOUthUHU1eGpoSjQxYVNFSW05WWpKYzlVVUc1Rk5id3c0WDlRRXUtb3l3eHBGNzNCZno4LTZiSzluQUNMbVVON1Y1NC1jM2ZSMDJOQXk?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 01:09:45 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BEIJING, Nov. 20 (Xinhua) -- China's one-year loan prime rate (LPR), a market-based benchmark lending rate, came in at 3 percent Friday, unchanged from the previous month.",
+            "The over-five-year LPR, on which many lenders base their mortgage rates, also remained unchanged from the previous reading of 3.5 percent, according to the National Interbank Funding Center.  ■"
+          ]
+        },
+        {
+          "title": "Full text: China-Russia-U.S. Heads of State Declaration toward Peace",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41Y3hfWFBtaGozdDdDOUlfcjU3ODdELWVBUHItaUg0allhaElsRlVEbGxkbVluWkpVczVCaEtTZk5fdnNBb0F6LWNTa1ZObGpNdF9EMHpiYzVOX21HUDZIeEpKVjYtSm9rczcwVE84dW1ZQ2E5VEQyTmdFOW8?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 10:54:30 GMT",
+          "source": "Xinhua",
+          "text": [
+            "SHENZHEN, Nov. 19 (Xinhua) -- The following is the full text of the China-Russia-U.S. Heads of State Declaration toward Peace, released on Thursday.",
+            "China-Russia-U.S. Heads of State Declaration toward Peace",
+            "Xi Jinping, President of the People's Republic of China, Vladimir Putin, President of the Russian Federation, and Donald J. Trump, President of the United States of America, met in Shenzhen on November 19, 2026. The Russian and U.S. heads of state expressed appreciation to China for hosting this historic trilateral Summit. The three heads of state had an in-depth exchange of views on the current international situation and committed to maintaining strategic stability and international security.",
+            "1. As permanent members of the United Nations Security Council, China, Russia, and the United States committed to reform the U.N. so that the U.N. can respond more effectively to global challenges and conform to its fundamental mission of international peace and security.",
+            "2. The three countries plan to increase the production and supply of refined petroleum products for the benefit of all nations. They reaffirmed the importance of stable energy flows.",
+            "3. The three heads of state recognized that the principle of state consent and respect for immunities of State officials are of paramount importance, and concurred that the International Criminal Court and other similar bodies must not abuse their jurisdiction.",
+            "4. The three heads of state reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons.  ■"
           ]
         },
         {
@@ -49,177 +107,62 @@
             "SINGAPORE -- Singapore will strengthen regional cooperation on climate action when it assumes the ASEAN chairmanship in 2027, with a focus on cross-border electricity trade, climate resilience and food security, Minister for Sustainability and the Environment Grace Fu said, according to a ministry statement on Tuesday.",
             "Singapore will work with ASEAN partners to advance the ASEAN Power Grid and address challenges related to financing and implementing cross-border electricity projects, Fu said in Singapore's national statement at the 31st Conference of the Parties to the UN Framework Convention on Climate Change in Türkiye. (Singapore-ASEAN-Climate)  ■"
           ]
-        },
-        {
-          "title": "Xinhua world news summary at 1530 GMT, Nov. 18",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sc3pXNWZaR0ZWSmFJYnM3ZHNHN0I1TTFzSl9Ed1VwM0kxYU1zeUkyY1RVb2VhWmphUzlqa0oyTmF4WW56c0lUVm9VOXZzZGcyYjNWTDNOUHZ6ZkZlb3FNc3plSVprbnB5aU53RHZSMUtaSDZTYjZRMFE1WUg?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 15:25:30 GMT",
-          "source": "Xinhua",
-          "text": [
-            "ANTALYA, Türkiye -- A Russian passenger plane carrying 65 passengers and four crew members landed safely at Antalya Airport in southern Türkiye on Wednesday following a bomb threat, local media reported.",
-            "The aircraft, a Sukhoi Superjet 100 operated by Russia's Azimuth Airlines on a flight from Mineralnye Vody, Russia, to Antalya, was placed under close monitoring after the threat was received, the Demiroren News Agency reported. (Türkiye-Russia-Bomb Threat)",
-            "JERUSALEM -- Israeli Defense Minister Israel Katz said on Wednesday the military was prepared to seize more territory in Lebanon, Syria and Gaza, evacuate residents and turn captured areas into permanent security zones if fighting \"flared up again.\"",
-            "\"In the event of an escalation on these fronts, the IDF (Israel Defense Forces) is prepared to maneuver and capture additional territory,\" Katz said, adding that residents would be \"evacuated\" and \"terrorist infrastructure\" destroyed. (Israel-Military-Territory)",
-            "TEHRAN -- Iran's army said Wednesday that its combat drones targeted U.S. air defense systems as well as drone and missile launch platforms at Ali Al-Salem Air Base in Kuwait.",
-            "In a statement, the army's public relations office said its attack drones targeted Patriot air defense systems and platforms used to launch drones and missiles at the U.S. military base early Wednesday. (Iran-Kuwait-Drone Attack)",
-            "SUVA -- Fiji has declared a national state of disaster in response to prolonged dry weather and worsening water shortages linked to El Nino conditions.",
-            "Prime Minister Sitiveni Rabuka said Wednesday the cabinet approved the declaration following advice from the National Disaster Risk Management Council, after assessments confirmed that crisis thresholds under the National El Nino Preparedness and Response Plan had reached. (Fiji-El Nino-Water Shortages)  ■"
-          ]
-        },
-        {
-          "title": "Xinhua News | Xi meets Putin in Shenzhen",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mQXBTOFJ2RF90NkRNTVU1VVFOXzBqT1BFZERPTExUMzJsYVJsYTNnZl8wTm1CWHRNQ3l3eHBnM05QOG1FY002aEVmRjVob1dDdjM1SXJqNmRPaG1fQ1RYWi1ITy1PWG12M0c5YmM4R0VSbkMtX1pNbUJCN1k?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 05:49:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Chinese President Xi Jinping on Wednesday met with Russian President Vladimir Putin in Shenzhen.",
-            "Putin is in the city to attend the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting on Nov. 18-19. #XinhuaNews",
-            "Xi urges breaking new ground in high-quality development of Greater Bay Area"
-          ]
-        },
-        {
-          "title": "Xinhua News | Xi meets ROK president in Shenzhen",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3blZMeTlUWkZGV1VwblVmcXQ3TkdWMloxc0s2MklIc29HemFZcWhNTURiMmxsQ3B4OGhpRTh5U0lWaUVLY3JCZFpNZ2plRzUzeGN1UGdQdnJrS2prbzFUbXVnOFZidVB5eHhCN1dwLXN0cXQ0NTFqamlmaHc?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 05:46:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Chinese President Xi Jinping on Wednesday met with President of the Republic of Korea (ROK) Lee Jae Myung in Shenzhen, south China's Guangdong Province.",
-            "Lee is in the city to attend the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting on Nov. 18-19. #XinhuaNews",
-            "Xi urges breaking new ground in high-quality development of Greater Bay Area"
-          ]
-        },
-        {
-          "title": "Xinhua China news advisory -- Nov. 18",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZOVBiVVJnT1lhMS1pWVUxa3ZCTkxDMGdvVElaeDVOUVdaYnBEMVBuWW9hQjdXQkFCdEoteEZuSjVqZE9feVVwTXNPLWxvY0d4Yk1ZLUgzenNqd2hjQ01vd3ZOSW1EalRfcDRwRWtCTDZNSkhTRTZjM2xxY1Q?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 02:21:00 GMT",
-          "source": "Xinhua",
-          "text": [
-            "BEIJING, Nov. 18 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Wednesday.",
-            "-- Feature: Taipei night market longs for return of mainland tourists",
-            "-- Feature: Algorithm reform and rest stations make China's gig workers less harried",
-            "http://www.youtube.com/user/ChinaViewTV  ■"
-          ]
-        },
-        {
-          "title": "Xinhua Middle East news summary at 2200 GMT, Nov. 17",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSanExTU9ONHJ3YnY2RHJVa1g3ZWt3NHFkUW1kVng4cXg2Z296U1A4VWlvMmpGZFdnRmF6bllSMDJpaGlQd09Fb2JqTDNaTllxOFlveFpDdC11U2FNbDBBY3lVVC1yTmtoc25wdk14anFpYTY1NVR4NlNNZ3c?oc=5",
-          "pubDate": "Tue, 17 Nov 2026 22:16:30 GMT",
-          "source": "Xinhua",
-          "text": [
-            "TEHRAN -- An Iranian provincial official said Tuesday that U.S. strikes on several areas of Qeshm Island caused no significant damage to residential or commercial areas or infrastructure, Iran's official news agency IRNA reported.",
-            "Ahmad Nafisi, Hormozgan province's deputy governor for political and security affairs, said the situation on Qeshm Island was under control, adding that all emergency response, service and administrative agencies were on full alert. (Iran-US-Qeshm Island)",
-            "JERUSALEM -- Israel said on Tuesday it would take countermeasures against Britain and consider ways to strengthen settlements in the occupied West Bank, after London imposed sanctions on eight companies involved in settlement expansion and on Tzav 9, an Israeli activist group accused of blocking aid to Gaza.",
-            "Calling the sanctions a \"hostile act\" targeting \"private, law-abiding companies,\" Israel's Foreign Minister Gideon Sa'ar said Israel would not change its policies under external pressure and would consider new ways to strengthen Jewish communities in the West Bank. (Israel-Britain-Sanctions)",
-            "SANAA -- Yemen's Houthi group said Tuesday it had seized 10 districts across two provinces in a major offensive against government forces supported by the Saudi-led coalition, while threatening further attacks on Saudi oil facilities and airports.",
-            "In a televised statement broadcast by Houthi-run al-Masirah TV, Houthi military spokesperson Yahya Sarea said the operation had secured 10 districts covering around 7,100 square kilometers across the southwestern province of Taiz and the neighboring province of Lahj, following weeks of fierce fighting near the strategic Bab al-Mandab Strait. (Yemen-Houthis-Fighting)",
-            "MUSCAT -- Oman's Maritime Security Center said Tuesday that it had coordinated the evacuation of 24 crew members from a Panama-flagged tanker after a fire broke out aboard the vessel two nautical miles off the coast of Musandam Governorate.",
-            "The crew from the tanker TARA GAS was evacuated in cooperation with the Royal Navy of Oman and the Coast Guard Police of the Royal Oman Police, the center said in a statement. (Oman-Tanker-Evacuation)  ■"
-          ]
         }
       ]
     },
     "peoplesdaily": {
       "status": "ok",
-      "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Full text: China-Russia-U.S. Heads of State Declaration toward Peace",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VMWtybnctLVBza1o0YjFiN282RHRlbnJaUWluUFV6cU5EWHNvUGhPb213Q2FHVkxkTTV1aXhkcnpINzJYM243ODJWbkxGdlJvNm5TN1NhVGRTU1FoZjZpUjN1Zw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 11:13:00 GMT",
+          "title": "Photo--Special Coverage--People's Daily Online",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbjA2VFI3Wkp5MDlRclRSVW91cEZIR0lSb19YVDNXM0VVMXp2VzFWOUdZMUQwU0M1TDN1Y3hTN2ljRlZab3E2ZFQxQjFwTk9DbDl3WXBGYVBOWnZUc3ZrX08tUkdUWkJXMk9RNQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 20:58:11 GMT",
           "source": "People's Daily Online",
           "text": [
-            "SHENZHEN, Nov. 19 (Xinhua) -- The following is the full text of the China-Russia-U.S. Heads of State Declaration toward Peace, released on Thursday.",
-            "China-Russia-U.S. Heads of State Declaration toward Peace",
-            "Xi Jinping, President of the People's Republic of China, Vladimir Putin, President of the Russian Federation, and Donald J. Trump, President of the United States of America, met in Shenzhen on November 19, 2026. The Russian and U.S. heads of state expressed appreciation to China for hosting this historic trilateral Summit. The three heads of state had an in-depth exchange of views on the current international situation and committed to maintaining strategic stability and international security.",
-            "1. As permanent members of the United Nations Security Council, China, Russia, and the United States committed to reform the U.N. so that the U.N. can respond more effectively to global challenges and conform to its fundamental mission of international peace and security.",
-            "2. The three countries plan to increase the production and supply of refined petroleum products for the benefit of all nations. They reaffirmed the importance of stable energy flows.",
-            "3. The three heads of state recognized that the principle of state consent and respect for immunities of State officials are of paramount importance, and concurred that the International Criminal Court and other similar bodies must not abuse their jurisdiction.",
-            "4. The three heads of state reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons.&nbsp;"
+            "View of International Communication Center of Shenzhen",
+            "President Xi: To see 50 years of China, come to Shenzhen",
+            "Opening ceremony of APEC CEO Summit 2026 held in Shenzhen",
+            "Putin arrives in Shenzhen for APEC meeting",
+            "ROK president arrives in Shenzhen for APEC meeting",
+            "Malaysian PM arrives in Shenzhen for APEC meeting",
+            "Brunei's Sultan arrives in Shenzhen for APEC meeting",
+            "Qingdao Port expands shipping network with APEC economies",
+            "Press conference held at media center for APEC Economic Leaders' Week",
+            "Over 2,000 business, political representatives gather in Shenzhen for APEC CEO Summit 2026",
+            "Vietnam's top leader arrives in Shenzhen for APEC meeting",
+            "Emerging technologies showcased at media center of APEC Economic Leaders' Meeting",
+            "China, other APEC economies reach nearly 50 practical economic, trade outcomes this year",
+            "Closing ceremony of fourth meeting of APEC Business Advisory Council held in Shenzhen",
+            "A glimpse of cultural exchange area at media center for APEC Economic Leaders' Week",
+            "Shenzhen embraces high-quality green development path",
+            "Drawing new picture of common prosperity in Asia-Pacific region",
+            "Media center for the 2026 APEC Economic Leaders' Week opens in Shenzhen, China's Guangdong",
+            "China's Shenzhen boosts trade with APEC economies"
           ]
         },
         {
-          "title": "Foreign journalists praise Shenzhen's remarkable transformation",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xRV85RFZiLW4xMWRaSWl6akNtVnVkOW1fOVZvMkxkWjBSSEtLN2NuNGhjLXZxTWg0NkU3WTF1TnFzNmxuc0JYa0FMeFlPNDBFMFBsUGctRnZucTY4aE1CMUdaVQ?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 10:01:00 GMT",
+          "title": "Video--Special Coverage--People's Daily Online",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mSS1UV29tQks3VXJUWE5lMGp3OEZsblVTME9XNk5SRGNBNHk0eEsxcERQUTZqVUxhM2NYallrMERTTjF1SUthRnZnUXBqUUp0NHF4MW5DckIyWnBScGpsQjU1N3JicmdOVzBGYQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 20:03:57 GMT",
           "source": "People's Daily Online",
           "text": [
-            "\"A city of wonders,\" \"the Silicon Valley of China\" and \"a really incredible city\" -- foreign journalists attending the 2026 APEC Economic Leaders' Meeting have expressed admiration for Shenzhen's remarkable transformation.",
-            "\"It has grown so much in just four decades, and the transformation has been amazing,\" said Reginald Ritesh Chandar, a journalist from Fiji.",
-            "From rapid urban development to advances in artificial intelligence and robotics, Shenzhen's achievements offer a vivid example of China's reform and opening up and innovation-driven development.",
-            "Their impressions highlight not only Shenzhen's transformation into a global innovation hub, but also the dynamism and vitality of China's development."
-          ]
-        },
-        {
-          "title": "Foreign journalists highlight APEC's role in advancing cooperation",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGd0IwU01mamVSaWJmMExsengxU2l4WEdjRV9SOWZFRlhsNktXMHJibTl1RUJwbm80ZW1hWk1Jb19CS1gwdWdwb0Z0dnY0UVNWeVp1OF9RRF9lU25vaXFQdlhMd0s?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:43:00 GMT",
-          "source": "People's Daily Online",
-          "text": null
-        },
-        {
-          "title": "Chinese friendship association president visits Nepal",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HNnNMOXU5TGVZOS1oUlRvWGdZVUl0TkxoMkZsVDZWMjRVaXRWV3RsOW1MNDYtQ0N3bl9ROHhkRXgtd1dVNjhwRUYxdjhPZ2g1UXhjNjh3QlhlQ2xvMktMbWRjUHU?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:38:00 GMT",
-          "source": "People's Daily Online",
-          "text": [
-            "KATHMANDU, Nov. 19 (Xinhua) -- Yang Wanming, president of the Chinese People's Association for Friendship with Foreign Countries (CPAFFC), led a delegation on a visit to Nepal from Tuesday to Thursday, focusing on consolidating China-Nepal traditional friendship and advancing bilateral cooperation across diverse fields.",
-            "During the visit, Yang held separate meetings with senior Nepali officials, including Speaker of the House of Representatives Dol Prasad Aryal, Foreign Minister Shisir Khanal, and Sunita Dangol, acting mayor of Kathmandu Metropolitan City.",
-            "The Chinese delegation also attended a collective symposium with prominent Nepali friendly personages.",
-            "Yang extended sincere condolences to Nepal over the severe mudslide disaster that hit the China-Nepal border on Aug. 26 this year. He stressed that the CPAFFC is willing to assist within its capacity to support Nepal's post-disaster reconstruction.",
-            "Both sides affirmed their commitment to implement the consensus reached by the leaders of China and Nepal, and reiterated adherence to the positioning of the strategic partnership of cooperation featuring ever-lasting friendship for development and prosperity.",
-            "Both sides agreed to further deepen friendly exchanges and cooperation in local governance, parliamentary communication, people-to-people ties, economy and trade, culture, tourism and youth exchanges."
-          ]
-        },
-        {
-          "title": "Submarine steams towards the sea",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXcXV0aGhqVlVXUnZKRXpkUVNUdEtMNUF1Z2xNdEpLdXgya0hZM1M4NjVYRm95OWl0MlFaWnEwUnV0bEhSaGZEYzhLLXpVQzA2dzB3aUhFbXN4VTJCbmVfbUdKaw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 07:49:00 GMT",
-          "source": "People's Daily Online",
-          "text": null
-        },
-        {
-          "title": "Prologis vice chairman: Asia-Pacific to remain world's biggest growth engine",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EOFgxWHM4Y1ZLSFpFNWxnZWNadUxyRW5MQVNiYXUtRmppZldYMGltVm9UclNCZkx1MGJVZ2gwd2t4VndndXB5Q0FaX0ZfSUs5TXROM21NLW03TUVrcFQtc3Y1QUY?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 06:24:34 GMT",
-          "source": "People's Daily Online",
-          "text": [
-            "Shane Tedjarati, vice chairman of Prologis, said openness, transparency and collaboration are key to the Asia-Pacific region's growth and to China-U.S. relations, adding that he hopes for more dialogue between the two countries.",
-            "\"The more we talk, the more we understand each other, the better it is,\" he said.",
-            "The business executive made the remarks in an interview with People's Daily Online after the APEC CEO Summit 2026's morning session in Shenzhen, south China's Guangdong Province, on Nov. 18.",
-            "\"In the next 10 years, the Asia-Pacific will (remain) the biggest engine of growth for the world,\" Tedjarati said, adding that the region is very dynamic, with the largest economic and commercial market in the world, as well as the world's largest population.",
-            "For Prologis, he said, the more open, transparent and fluid trade and business interactions are, the better. \"We are of course an American company, but we have footprints all over the world,\" he added.",
-            "Xu Jiayuan, as an intern, also contributed to this article."
-          ]
-        },
-        {
-          "title": "Feature: Chinese folk melodies build cross-cultural bridge in Ethiopia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aOUJSeEZwTkN3QldrWlNueVdvM01DeGFDdXNCQUt3QVQ4Y21WVk81dU05M29PSS1CdTBQZTdVWG4yVVVsTTlzWnB1TVlrYWMyWXBRZzFEQkZaRHlXNlJ3NjlGZw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 02:32:00 GMT",
-          "source": "People's Daily Online",
-          "text": [
-            "Chinese artists perform at the concert held under the theme \"Golden Bell Resounds, Harmony Along the Silk Road\" in Addis Ababa, Ethiopia, Nov. 17, 2026. Music and art enthusiasts gathered in Addis Ababa, the Ethiopian capital, on Tuesday night for a special cross-cultural concert featuring Chinese folk music and joint performances. (Xinhua/Liu Fangqiang)",
-            "ADDIS ABABA, Nov. 18 (Xinhua) -- Music and art enthusiasts gathered in Addis Ababa, the Ethiopian capital, on Tuesday night for a special cross-cultural concert featuring Chinese folk music and joint performances.",
-            "Held under the theme \"Golden Bell Resounds, Harmony Along The Silk Road\" at the Ashenafi Kebede Performing Arts Center at Addis Ababa University (AAU), the event was organized by the Beijing Federation of Literary and Art Circles, in partnership with the Chinese Embassy in Ethiopia, the Ethiopian Ministry of Culture and Tourism, and the AAU.",
-            "The concert brought together Chinese and Ethiopian artists, featuring performances by about 20 renowned musicians mainly from both the Central Conservatory of Music of China and the China Conservatory of Music.",
-            "The captivating performance included a diverse musical repertoire, blending traditional Chinese folk music with classical piano and creating a rich auditory experience for music and art enthusiasts.",
-            "Welcoming the art troupe on its performance tour in Ethiopia and Africa, Chinese Ambassador to Ethiopia Chen Hai highlighted the vital significance of the concert in fostering a greater understanding of the cultural and artistic values of both sides.",
-            "With 2026 designated as the China-Africa Year of People-to-People Exchanges, Chen noted that both sides have maintained frequent cultural exchanges during this commemorative year. He said the concert, featuring traditional folk music and cross-cultural performances, aims to further deepen and celebrate China-Ethiopia and China-Africa cultural exchanges as well as lasting people-to-people ties.",
-            "Noting that China and Ethiopia both possess long histories, splendid civilizations, and fine traditional cultures, Chen expressed confidence that the performance would connect artists from both nations, particularly younger generations, through music to maintain a dynamic dialogue between the two civilizations, forge stronger bonds, and continuously enrich their all-weather strategic partnership.",
-            "The concert began with a joint rendition performed by the Chinese art troupe, with Ethiopian artists playing the cello and double bass, drawing sustained applause from the audience. A total of 11 musical pieces were presented during the concert, which lasted for approximately two hours.",
-            "As 2026 also marks the milestone 70th anniversary of the establishment of diplomatic relations between China and African countries, participants highlighted the event's significant historical significance, as a range of cultural celebrations are taking place across the continent throughout the year.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "India braces as Cyclone Akvan approaches east coast",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DVDhjUVMtb1UwSUM0NmtQZUNqTGVFVXNwSXo5bFdMRXNLSkVUMHFxQ2h6cGRuNlA5TmpheU1wOFhnNkxrdHNlZ1gwWF9KZm9TaEY2bEJBUk1lOVlCbkhoRlAzb0s?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 01:58:00 GMT",
-          "source": "People's Daily Online",
-          "text": [
-            "NEW DELHI, Nov. 18 (Xinhua) -- Authorities in eastern India have stepped up disaster preparations as severe cyclonic storm Akvan moves north-northwestward over the Bay of Bengal and is forecast by the India Meteorological Department (IMD) to cross India's east coast by Friday noon.",
-            "The storm is expected to cross between Narsapur in Andhra Pradesh and Puri in Odisha, with maximum sustained winds of 90 to 100 kmph and gusts of up to 110 kmph. The IMD has advised fishermen not to venture into the southwest, west-central and northwest Bay of Bengal until Friday.",
-            "In Odisha, authorities have deployed 74 rescue teams and identified more than 200,000 people for possible evacuation. Schools, colleges and courtyard shelters run under the Integrated Child Development Services programme in Malkangiri district will be closed on Nov. 19 and 20.",
-            "In neighboring Andhra Pradesh, fishing operations have been suspended, while 13 National Disaster Response Force teams and 11 State Disaster Response Force teams have been placed on standby."
+            "Foreign journalists praise Shenzhen's remarkable transformation",
+            "Foreign journalists highlight China's role in regional cooperation",
+            "Foreign journalists highlight APEC's role in advancing cooperation",
+            "Prologis vice chairman: Asia-Pacific to remain world's biggest growth engine",
+            "RWS CEO hails China's open message, leadership at APEC",
+            "Through Xi's eyes | Shenzhen: A window into China's opportunities",
+            "Staying true to our shared vision, advancing prosperity together",
+            "From Beijing to Shenzhen: APEC and a changing Asia-Pacific",
+            "President of New Zealand China Friendship Society highlights China's key role in APEC",
+            "Fijian journalist highlights how Asia-Pacific cooperation brings opportunities to developing economies",
+            "Follow Xi | Together with the Asia-Pacific, bound for Shenzhen",
+            "Customs robots speed up fresh Asia-Pacific imports in Shenzhen, south China's Guangdong",
+            "A 1-minute look at Shenzhen's global trade",
+            "From a high-speed railway to a factory: What has Asia-Pacific cooperation brought?",
+            "How does a durian make its way across the Asia-Pacific to you?",
+            "Robots serve, patrol streets in S China's Shenzhen"
           ]
         }
       ]
@@ -234,118 +177,124 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Full text: China-Russia-US Heads of State Declaration toward Peace",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KOU51Yl93aHlZeVhzbVg3dF9qal9MRlBtOWlKMmNGenl3N292cDcyMEE4X1hwTlRNZTVTdEdEbjVqTzRXeGowakZPRnZacG0yWUtXeXZwZHc5dFFMaG9NdW5jTHBwNHZKdWNWc3Y2eXVWQ0JHcjFFZk03aTZQQQ?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 11:31:06 GMT",
+          "title": "New species of violet discovered in Jiangxi nature reserve",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNYlhtcWtOZVZIa0ptMEVrLTJBTUw0R0pQOEZ4dlFpZHhfSkR2V2JRRUltZzlEblV0ZksyMHFfcHhta1YyV0Zfd2lvR3hFRDRWSTF4dWE2blhXd0xzNi1IbHRocFUzSFhEdzlrQkN5NlN0TVNZY3h2bUMwbnE5QQ?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 10:32:19 GMT",
           "source": "China Daily",
           "text": [
-            "SHENZHEN -- The following is the full text of the China-Russia-US Heads of State Declaration toward Peace, released on Thursday.",
-            "China-Russia-US Heads of State Declaration toward Peace",
-            "Xi Jinping, President of the People's Republic of China, Vladimir Putin, President of the Russian Federation, and Donald J. Trump, President of the United States of America, met in Shenzhen on November 19, 2026. The Russian and US heads of state expressed appreciation to China for hosting this historic trilateral Summit. The three heads of state had an in-depth exchange of views on the current international situation and committed to maintaining strategic stability and international security.",
-            "1. As permanent members of the United Nations Security Council, China, Russia, and the United States committed to reform the UN so that the UN can respond more effectively to global challenges and conform to its fundamental mission of international peace and security.",
-            "2. The three countries plan to increase the production and supply of refined petroleum products for the benefit of all nations. They reaffirmed the importance of stable energy flows.",
-            "3. The three heads of state recognized that the principle of state consent and respect for immunities of State officials are of paramount importance, and concurred that the International Criminal Court and other similar bodies must not abuse their jurisdiction.",
-            "4. The three heads of state reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons."
+            "Researchers from Sun Yat-sen University and a nature reserve in Jiangxi province have identified a new species of violet in the Wuyi Mountains, shedding new light on the region's plant diversity.",
+            "Named&nbsp;Viola orientosinensis, the species was discovered in the Matoushan National Nature Reserve in Zixi county, Jiangxi, according to Xiong Yu, a senior engineer at the reserve's administration bureau.",
+            "The discovery was reported in a study published on Nov 17 in the Nordic Journal of Botany, which described six new species of the genus&nbsp;Viola&nbsp;from different parts of China."
           ]
         },
         {
-          "title": "China-Russia-US summit positive, constructive, fruitful: Xi",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sRTdYazhKUzFPWlpJS2diUVp4ZmZTcWdpQ3lNVzNmbHV4X3BYVmZqY21ERlRldVpPRFZ6ZEN2aDQxRWY3TVREUUhVS2dCcW9tcFhydHdZSEg4M0pRcXlkOVB0enkxZG9PMS13Tm13dzczN1dEVURpamsxOXdDQQ?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 11:12:01 GMT",
+          "title": "AI boosts Lenovo's revenue to record 202b yuan",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbktiSldXWGZqMkhBdlVYTkZ6dE1ZLTh2VFl5d0NMX1cteURKcDIxQ0dBcHQySWstZUpLa0FkaUVXdjhkbG5vbW9abjIzcDRiUmNYc0RSRGlDUWVYV3BEWkpyVXhqRVgzazBtSUxETzFsV2pGZDlzUjBhYk9Kdw?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 10:27:03 GMT",
           "source": "China Daily",
           "text": [
-            "SHENZHEN -- President Xi Jinping on Thursday said that the China-Russia-US summit has been positive, constructive and fruitful.",
-            "Xi made the remarks while summarizing the main consensus reached at the summit with Russian President Vladimir Putin and US President Donald Trump in Shenzhen, South China's Guangdong province.",
-            "The three countries share the same view on safeguarding world peace, and all stressed that the hard-won peace must be cherished, Xi said.",
-            "They all agree that major countries should take the legitimate security concerns of every country seriously and that dialogue and negotiation are the right choice to resolve differences, Xi said.",
-            "\"There is hope for peace as long as dialogue does not cease and the door does not close,\" Xi said.",
-            "They also agreed that cooperation is essential to overcoming challenges, Xi said.",
-            "The three countries should follow through on the consensus reached at the summit, continue to strengthen communication, promote peace through cooperation, and work together to build a better world."
+            "Lenovo Group Ltd has reported record second-quarter revenue for fiscal year 2026/27, as AI infrastructure demand pushed quarterly revenue past the 200 billion yuan ($30 billion) threshold for the first time and lifted profitability to historic highs.",
+            "Revenue for the quarter ended Sep 30 reached 202.9 billion yuan ($30.2 billion), up 47.8 percent year-on-year. Adjusted net income surged 166 percent to $1.4 billion, with adjusted net margin rising two percentage points to a record 4.5 percent. All business groups delivered record second-fiscal-quarter revenue. The infrastructure solutions group was a hyper-growth engine, with quarterly revenue of 76.1 billion yuan and operating profit exceeding 7 billion yuan, or $1 billion, for the first time.",
+            "AI remained the core growth driver. AI-related revenue surpassed $10 billion, up 79 percent year-on-year and accounting for 36 percent of group revenue.",
+            "AI server revenue jumped more than 300 percent, while the AI infrastructure backlog climbed to 530 billion yuan, up sharply quarter-on-quarter. Lenovo said faster growth in higher-value segments is reshaping its profit mix, while diversification helps mitigate industry cost pressures and device-demand cycles.",
+            "The company generated $1.6 billion in operating cash flow and $1.2 billion in free cash flow, balancing strong growth and higher component costs with disciplined capital expenditure and credit risk controls for large AI projects.",
+            "Lenovo chairman and CEO Yang Yuanqing said, \"Lenovo delivered another exceptional quarter... demonstrating the success of our transformation from a PC leader into a global full-stack compute leader.\"",
+            "He added that real-world AI adoption is booming and computing demand is far from peaking, as the industry shifts from training-dominated workloads to parallel training and inference. Edge, on-device and private-domain AI will release new demand, with supply the main bottleneck, he said.",
+            "Beyond infrastructure, solutions and services, and PC businesses grew steadily. Lenovo said it is increasing R&D in AI PCs, edge computing and next-generation server cooling, and its first NVIDIA Vera Rubin NVL72 racks have completed delivery validation."
           ]
         },
         {
-          "title": "A peek at the APEC CEO Summit",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXJnQkJjUWd2STlNQkJ3aGtPajM3VjVURkw3OEJYXzRiY3lLb1ZwcmVzM2JWU3lORFJlNzlrNm9IQ3RDcjNuUGxYQjVEdzVXUDU3a2dEcDhmWVZfZmdwRFBmYzNYSVNWOHM0NDd2dmtEMVpibGxBeTZRVVRxZ09yM053?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 09:33:52 GMT",
+          "title": "Trip.com steps up efforts to attract international tourists to China",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1dwNm5lZDVya2Y2ZWpLbTFBZmFNaW5qelVOY1U1eWlScnB0NHJmbDlRNjRvanlDUVhCNmhweUxOc2U1blVDQWw0eEZFT1doeUF2dlVmS3ZmS2RvUzNQQm1mMFpSVDlBUTh1bVV3aWpuM284VkQ5RDRmSXpZblJFSDlR?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 08:31:55 GMT",
           "source": "China Daily Global Edition",
           "text": [
-            "By Song Yi | \n          chinadaily.com.cn |\n          Updated: 2026-11-19 17:33",
-            "Why did representatives from 115 Fortune Global 500 companies come to Shenzhen?",
-            "They were among the business leaders gathered for the APEC CEO Summit on Nov 17-18, and one big question was where to find new opportunities.",
-            "China is already a major market, but as I heard at the summit, global companies are now looking beyond sales to China's technology, talent and innovation."
+            "By Li Jing | \n          chinadaily.com.cn |\n          Updated: 2026-11-20 16:31",
+            "Trip.com Group is expanding services for overseas visitors to China, using multilingual booking tools and partnerships with hotels and tourist attractions to tap growing inbound travel demand as its international business expands.",
+            "The Shanghai-based online travel agency outlined its plans at a global partner summit in Sydney, Australia, on Thursday, attended by about 2,500 tourism industry representatives from China and abroad.",
+            "\"International tourism, including outbound and inbound travel, is now our fastest-growing business,\" Liang Jianzhang, co-founder and executive chairman of Trip.com Group, said at the event.",
+            "Liang said China had considerable potential to attract more foreign tourists, given its much stronger position as a source of outbound travelers than as a destination for international visitors.",
+            "The company plans to help Chinese travel businesses provide multilingual information, simplify bookings and develop packages combining hotel stays or flights with local experiences.",
+            "Trip.com announced a five-year plan in June to invest 15 billion yuan in promoting China to international visitors, with a goal of attracting 200 million overseas tourists.",
+            "China recorded about 34.5 million entries by foreign nationals in the first nine months of 2026, up nearly 19 percent year-on-year, according to calculations based on official data. Visa-free entries rose 24.1 percent to nearly 9 million in the third quarter alone, the National Immigration Administration said.",
+            "Trip.com reported that its inbound travel revenue rose at a high double-digit rate in the second quarter, while revenue on its international platform increased more than 50 percent year-on-year.",
+            "At the Sydney summit, representatives from Chinese hotels and tourist attractions shared how they were using overseas booking platforms and adapting their services to attract international visitors.",
+            "Zhangjiajie in Hunan province has received about 1.29 million overseas visitors so far this year, up 39 percent, according to Li Pengfei, an official with the authority overseeing its scenic attractions. The destination has introduced multilingual ticketing machines and improved payment facilities for overseas visitors.",
+            "At Sunshine Resort Intime Sanya in Hainan province, overseas travelers account for around 90 percent of guests, general manager Liu Kaiqiang said. Rooms booked through Trip.com’s overseas platforms more than tripled year-on-year in the first eight months of 2026, the hotel said.",
+            "Trip.com said its multilingual self-service ticketing machines now covered more than 400 tourist attractions across China, helping overseas visitors book tickets and access local attractions."
           ]
         },
         {
-          "title": "Farmers in Hebei's Taihang Mountains carry out winter terrace maintenance",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sTERMRjNuaWV3aV9VN05LWlBtZUFfSTVYOGdrM3BZcTJXT0xNSjV0clRLS283bDE1cGhSb2EwV2dYa2VuaTAxNHlaZmRpWHVaTGFzQVBkN3gxeUd3TWxiTm5TWFdVTDlNVFJvNnJQU0w0TlVZWmZ1bVR4WGg0dw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:22:07 GMT",
+          "title": "Thousands rally in Tokyo against Takaichi administration's policies",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ScFFrSVBPRGZVdWNIazZ0V3g2WGpkUkhSMS1rdExjcFdqb2xhQ1JZODJfWXBNWDlZbUk5S2VJejJFMTZIUXV3aFd0aXhyeWlnbjlJU2tZNkVfZDQ5VVZacEZWbHNtMHJmb09PTHo1cTE3S0htbnQwaUVPRldEQQ?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 06:40:16 GMT",
           "source": "China Daily",
           "text": [
-            "Farmers in the Taihang Mountains of Shexian county in Handan, Hebei province, are using the brief window before the soil freezes to carry out winter maintenance on the region's terraced fields.",
-            "In Wangjinzhuang village, the core area of the Shexian Dryland Stone Terraced System, farmers have been busy plowing land, leveling plots, repairing stone retaining walls, and gathering crop residue. The work is aimed at conserving soil moisture before the ground hardens, part of preparations for next year's spring sowing, according to locals.",
-            "The system was recognized by the UN Food and Agriculture Organization as a Globally Important Agricultural Heritage System in May 2022. The terraces date back to Yuan Dynasty (1271-1368) and rely on stone ridges and soil cover to make farming possible in a limestone landscape short of fertile soil and rain.",
-            "Across the wider system, terraced land covers nearly 2,800 hectares across 46 villages. In the Wangjinzhuang core zone alone, 800 hectares is divided into more than 80,000 small plots."
+            "TOKYO -- More than 10,000 people gathered outside Japan's National Diet building here on Thursday evening to protest against a series of policies and moves by the administration of Prime Minister Sanae Takaichi, including efforts to revise the country's pacifist Constitution and expand Japan's military capabilities.",
+            "\"Attempts to revise the pacifist Constitution and plans to reduce the number of seats in the Diet, paving the way for authoritarian rule ... There are so many things about the Takaichi administration that are worrying,\" a demonstrator told Xinhua at the rally.",
+            "Organizers said approximately 13,000 people took part in the demonstration. Protesters held placards bearing slogans such as \"Defend the Constitution,\" \"Stop preparations for war\" and \"No exceptions to the Three Non-Nuclear Principles.\"",
+            "Since taking office, Takaichi has repeatedly expressed her intention to revise the Constitution and has accelerated efforts to hollow out the postwar pacifist supreme law by strengthening Japan's military capabilities. The government is also planning to adopt revised versions of its three key national security documents in December, with a focus on developing offensive military capabilities and further expanding the country's military role.",
+            "Japanese media recently reported that the government was considering including exceptions to the Three Non-Nuclear Principles in the revised security documents, potentially allowing nuclear weapons to be brought into Japan in emergencies.",
+            "A demonstrator told Xinhua that the Three Non-Nuclear Principles constitute an established national policy, but the government is seeking to loosen the restrictions. Even a slight relaxation could lead to progressively broader exceptions, eventually rendering the principles meaningless, the protester said, adding that Japan's current security policies have become increasingly incompatible with its Constitution.",
+            "\"We have always upheld Article 9 of the Constitution, but now they want to abandon it with their own hands. I strongly oppose this,\" another demonstrator, identified as Yamashita, told Xinhua.",
+            "Akira Koike, head of the secretariat of the Japanese Communist Party, told the rally that the Diet must not become a place where there is only an accelerator and no brakes on the drive to revise the Constitution and turn Japan into a country \"capable of waging war,\" with \"the steering wheel turned only to the right.\"",
+            "Article 9 of Japan's Constitution stipulates that the country \"forever renounces war as a sovereign right of the nation\" and the threat or use of force as a means of settling international disputes. It also states that Japan will not maintain land, sea or air forces or other war potential, nor recognize the right of belligerency of the state. The article is widely regarded as the cornerstone of Japan's postwar pacifist policy."
           ]
         },
         {
-          "title": "Starbucks China rolls out in-store baking to over 100 locations",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iOE1YdTVqdF9zcWVlTV94WjNjdkZZREhkWnlzZXBPUUZfS2dwV3NxOTdybVRXa2VRZjlEQ0o2UUdVeHNnVEFSdGxhYTgyc05yYm4xQkRES3NOVFo3THZIQXpZemFlRXBXRFAtRVQ2QmpkeTJJX3BOOXZ2MDdpZw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 02:46:37 GMT",
+          "title": "Metis TechBio plans A-share listing",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KX3Fla2RRUkI1VlhieW9FQ1hEX1ZJeTd6YVNaWFoxT1NjcGNmZG1qM1FWcE1EZGhPNjJ5a1FCaEF0bW1TMGxNYkV4dTRaQzdfZE9iZFZHSGRWTndUN0I2TC1LeEpzWExEcW5Ub1N0eDlobE1zQVIyUzAzMmZzUQ?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 03:03:31 GMT",
           "source": "China Daily",
           "text": [
-            "Starbucks China has introduced in-store baking at more than 100 stores in over 30 cities after food sales nearly doubled at some locations that tested the program, the company said on Thursday.",
-            "The rollout will test whether freshly baked pastries can persuade more customers to buy food with their drinks and spend more per visit. Starbucks began testing the program at nearly 10 stores in September 2025. It did not disclose average food sales growth across the pilot stores.",
-            "The initial lineup includes 11 items for breakfast and afternoon tea. Suppliers prepare the dough and ship it frozen to stores, where employees bake the pastries and put them on sale the same day.",
-            "Starbucks worked with suppliers to refine dough recipes, fermentation, and cold-chain logistics. Participating stores installed commercial ovens imported from Italy and dedicated freezers, and employees received baking training. Starbucks said the model allows it to test new products more quickly and bring successful items to stores nationwide in about six months.",
-            "The launch follows Starbucks China's announcement that it would invest more than 300 million yuan to improve in-store service. In April, Starbucks completed a deal with Boyu Capital to form a joint venture for its China retail business.",
-            "Boyu holds a 60 percent stake in the venture, while Starbucks retains 40 percent and continues to license its brand. Nearly 8,000 previously company-operated stores on the Chinese mainland shifted to a franchise model under the deal. The partners aim to expand the network to 20,000 stores over the long term."
+            "Metis TechBio Co Ltd, a Beijing-based biotechnology company specializing in drug delivery, has begun preparations for a potential A-share listing on the Chinese mainland, about six months after making its Hong Kong debut.",
+            "In a filing to the Hong Kong Stock Exchange on Wednesday, the company said its board had approved preparatory work for issuing renminbi-denominated ordinary shares and appointed an institution to provide pre-listing guidance.",
+            "If completed, the proposed listing would allow Metis to tap both the mainland and Hong Kong capital markets, broadening its fundraising channels and investor base. The company gave no fundraising target, exchange or timetable, and said the plan remains subject to shareholder and regulatory approvals.",
+            "Founded in 2020, Metis uses artificial intelligence to develop drug delivery technologies, including lipid nanoparticles designed to transport medicines to specific tissues and cells. Its NanoForge platform combines computational modeling with laboratory testing to develop delivery systems.",
+            "The company made its Hong Kong trading debut on May 13, offering about 201.2 million shares at HK$10.50 each and raising approximately HK$2.11 billion ($271 million) in gross proceeds before any over-allotment.",
+            "Metis reported revenue of 154.3 million yuan ($21.7 million) in the first half of 2026, up from 1.1 million yuan a year earlier, mainly driven by research collaborations and licensing activities. Its net loss attributable to shareholders stood at 153.2 million yuan.",
+            "The company reported financial resources totaling 3.03 billion yuan at the end of June, including cash, deposits and financial assets.",
+            "In October, Metis announced a collaboration with US pharmaceutical company Eli Lilly to develop tissue-specific lipid nanoparticle delivery technology.",
+            "Under the agreement, Metis is set to receive an upfront payment in the low double-digit millions of dollars and could earn up to approximately $1.1 billion in additional payments tied to development and commercial milestones."
           ]
         },
         {
-          "title": "Nvidia shifts its stance on chip exports",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lTWtSU09makk2VUxpRlJ3aE5OUHFUQWdDYzB4UlBBX19YeTlCczI2Ykl6YXhMU0gtYjliUVJvRlN3Y1MwQkpHNm1peHhMNGJSSXBSZzlpZFprVVBTV0RlX1Z4QjZuUk5xOEdlaGJqTjZ1QlFFUEpzdjdoS3ZSZw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 01:54:47 GMT",
-          "source": "China Daily",
-          "text": [
-            "US semiconductor firm Nvidia has confirmed it will halt shipping H200 chips to China, with fourth-quarter guidance excluding all Hopper GPU architecture data-center revenue previously authorized under US approval, interim CEO Colette Kress said on Wednesday.",
-            "The policy shift follows a dramatic leadership change. On Nov 12, the board announced that co-founder Jensen Huang had stepped down as president, CEO and director effective immediately, with chief financial officer Kress appointed interim chief executive.",
-            "Huang had been the strongest advocate for restoring chip exports to China, having negotiated an arrangement under which H200 shipments passed through the United States are subject to 25 percent tariffs paid to the US Treasury.",
-            "Even under that framework, Nvidia still sold $2.4 billion of H200 products to China in the third quarter — but now the revenue for the fourth quarter is guided to zero, the company said.",
-            "Roger Sheng, vice-president of US market research firm Gartner, said Huang was the pivotal figure linking demand-side financing to supply-side execution. \"Without him, Asian suppliers and buyers of Nvidia's products — including Chinese companies — will inevitably be affected,\" Sheng said.",
-            "Sheng said the leadership vacuum at Nvidia has emboldened hardline voices in Washington to push for tighter artificial intelligence curbs.",
-            "The US government said on Monday that it was tightening what it alleged was a \"loophole\" that has allowed Chinese tech firms to bypass US restrictions on accessing the most advanced AI chips through third countries. The new rule, released by the US Department of Commerce, will require buyers of advanced semiconductors from certain countries to secure a license before selling or transferring such chips.",
-            "Investment bank Jefferies estimates the move could cut Nvidia's data-center revenue by $44 billion to $62 billion next year, though Kress said ample backlog for next-generation products, such as the company's Vera Rubin NVL72 — a rack-scale AI supercomputer — will cushion the near-term blow.",
-            "Nvidia also announced the establishment of a board-level national security committee to oversee export-control compliance and global trade risks, with the compliance team reporting both to the committee and the interim CEO.",
-            "Analysts said the moves signal a strategic pivot from a founder-driven, pragmatic approach vis-a-vis China, to a more cautious, compliance-first posture."
-          ]
-        },
-        {
-          "title": "Hong Kong well-placed to power APEC shipping sector's growth",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCR3NwTVEtS002dFdoZEV5RGVjUDlEVllMRjVNMzBsVFY3UHY1YWZ1TS1leTdESVVxai1FNUdJZVlDLUlqRmVFQTdjdl9LeVBUSkVRaWlrT042N3BnMUtRZG1IWm1BMjdvWFF4Zm5kSWJYY2d5cEdCRmR6UHZhZw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 01:29:11 GMT",
-          "source": "China Daily",
-          "text": [
-            "With the global trade landscape growing more diversified and complex, Hong Kong is well positioned to leverage its strengths in maritime services, financing and a broad range of professional services to support development of the regional shipping sector, enhance supply-chain resilience, and forge coordination across the Asia-Pacific region, industry experts said.",
-            "\"For Hong Kong, the opportunity lies in serving this increasingly demanding trading environment through both its port and wider maritime services,\" said Sandy Chan, managing director of the Hong Kong Shipowners Association.",
-            "Global shipping routes have changed dramatically in recent years as companies adapt to evolving trade relationships between economies and disruptions at major maritime choke points, with many businesses reassessing where they manufacture, source materials and store inventories. These shifts often result in longer voyages and higher costs, placing additional strain on supply-chain reliability.",
-            "Chan said these changes have underscored the importance of connections between manufacturing hubs, regional suppliers and end markets across the Asia-Pacific region.",
-            "They have also increased demand for more comprehensive supporting services, infrastructure and expertise, as well as stronger safety capabilities, efficient customs clearance, digital connectivity and coordination between ports.",
-            "Against this backdrop, she said Hong Kong's port and maritime service sector can benefit from opportunities arising from the increasingly connected regional port network.",
-            "At the same time, the city can draw on its distinctive advantages — from shipping insurance, ship management and maritime arbitration, to financing and other professional services — to help businesses in the region manage supply-chain risks, diversify transport routes and maintain trade continuity.",
-            "Currently, there are more than 300 shipping agents and managers, as well as overseas shipping companies' representative offices in Hong Kong. As of June, loans and advances in the shipping sector amounted to approximately HK$105 billion ($13.38 billion), with six of the world's top ten book-runners for shipping syndicated loans maintaining offices here, according to Hong Kong Maritime and Port Development Board.",
-            "In 2025, five insurers launched a marine specialty risk pool in the city, which covers war and related risks for Hong Kong and Chinese mainland shipowners.",
-            "The pool now includes more than 1,000 vessels.",
-            "Mike Lai Kee-hung, chair professor of shipping and logistics at the Hong Kong Polytechnic University's Business School, said Hong Kong can aid Asia-Pacific businesses by serving as a \"regional resilience platform\" which combines alternative transport arrangements with financing, insurance, reliable information and legal support.",
-            "\"It is not necessary to route every shipment through Hong Kong, but to ensure that businesses can continue trading when their usual routes, suppliers or payment arrangements become disrupted,\" Lai said.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Key quotes from Xi's keynote speech at APEC CEO Summit 2026",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HT0pQbkYwQk81Q0xFZXFfQzZ0b3ZRRmdFQUFPMVNZVGdsRTR1QkdTYk5iWFJpZXBta2Q0aDVxSUZYcDl6Nm1ZalNFR2VqVndCcEFURDJQdms3TWd1R0M2QVkzTWVDUnZRS0FHM29ZUHBRbzN0YURNSHY2SFdNZw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 01:23:41 GMT",
+          "title": "China-Africa health ties bolster local capabilities",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUzlyZGFwQzFJQ29aQnNpRGxCaHVUNlNGMl9EWTZhMS1HRzBYclZyYndheWpoYXllb1hud2ZBdDN4YkViMUdJYkRucWx3ZGpOaHc1aFQ4R0lyVURsay03SkthaFVmN0pPSmJ3X2xKWkNiSk10eVY0bDMtMmtQQQ?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 02:27:44 GMT",
           "source": "China Daily",
           "text": null
+        },
+        {
+          "title": "Thailand rolls out winter travel promotions",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Db2RHbmd6eE1TaEJhZzZNY0E5b2Q2MXA5bWFsT2RQR2lJMC1TTFl0RzBHem8zZ3BhLVM5NDVxb3FhdXUzNE9pWFVYQk1EVzhNN2dpMmtxeU9aLU5qMGRGdVk2YmxWQms3dUJIWHhLc05jaXRQZ1FGZXlnQS1hUQ?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 02:00:22 GMT",
+          "source": "China Daily",
+          "text": null
+        },
+        {
+          "title": "China, Russia and US commit to safeguarding global peace, stability",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoY0hLNGFrdlpVYm9kZHdSY0MwbkdfMEF4NVJGQzZCQ1RGWEsxcmVDTTE0VlotT1UxZXRMM2ZPaUwyNGJZbnk0MVk1Y0FCb0FoaFFtRWFzcTdWRkgxa05fNS1va0k2aDRFQ0RETFNwb2RTelNOQ1RfNGF4TlExUQ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 17:04:57 GMT",
+          "source": "China Daily",
+          "text": [
+            "The leaders of China, Russia and the United States stressed their shared commitment to maintaining strategic stability and international security at a historic trilateral summit on Thursday, pledging to advance United Nations reform, increase energy supplies and hold talks on reducing nuclear risks.",
+            "President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump made the commitment in the China-Russia-US Heads of State Declaration toward Peace, issued following their unprecedented trilateral meeting in Shenzhen, Guangdong province.",
+            "\"The three heads of state reaffirmed that a nuclear war cannot be won and must never be fought,\" the declaration said, adding that the three countries will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons.",
+            "As permanent members of the UN Security Council, the three countries will remain committed to reforming the UN so that it can respond more effectively to global challenges and conform to its fundamental mission of international peace and security.",
+            "On energy security, the three countries announced plans to increase the production and supply of refined petroleum products, while reaffirming the importance of maintaining stable global energy supplies.",
+            "The declaration also addressed the jurisdiction of international judicial institutions. The three leaders agreed that the International Criminal Court and other similar institutions must not abuse their jurisdiction.",
+            "Xi, while presiding over the summit, described the first-ever gathering of the three countries' top leaders as \"groundbreaking\". He said history has shown that peace among major countries brings stability to the world, while their contention would only lead to chaos in the world.",
+            "He stressed that humanity, living in the same global village, is \"a community with a shared future where we all stand to benefit or lose together\".",
+            "In this global village, major countries shoulder special responsibilities, with their positive interaction being \"not optional, but a must\", he said.",
+            "Xi called on the three countries to set good examples, work together to meet global challenges, jointly uphold world peace and stability, and make a greater contribution to the progress of humanity.",
+            "The Chinese president made a four-point proposal on how major countries could find the right way to get along and jointly underpin world peace — staying committed to mutual respect, peaceful coexistence, win-win cooperation, and dialogue and consultation.",
+            "On mutual respect, he highlighted the need for the three countries to respect one another's sovereignty and territorial integrity, social systems and development paths of their own choice, and their respective core interests and major concerns.",
+            "On peaceful coexistence, Xi said China, Russia and the US should be partners and friends and avoid conflict or confrontation.",
+            "The Thucydides Trap is by no means a destiny, he added.",
+            "Turning to economic cooperation, Xi highlighted the complementary strengths of the three economies and urged them to expand trade and economic ties rather than pursue decoupling or disruptions to supply chains.",
+            "[continua sulla fonte originale]"
+          ]
         }
       ]
     },
@@ -353,6 +302,52 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Chinese Carmakers Tighten Grip on Overseas Sales Channels",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlRET2w0OUt2MUhtQlZpczg3bHZFWUJZdTBYTGNwQ1FzbzU3dVBlLWZoVkYxNkhwa0hfd3pjRDhqMTlCbERUSDFpQ2hCS1hlWDB5d3k1V2FERnl6a1d5eGwtUDg5TENLNGlFTTltYkxSdUQxZlM2b2NkbW0zZFJSUVhkQVpQX0l0N1ZnMzVsQU1IelFGTnMwTkNFb3Q4UjVGTFdpZHlNWk9uTlkxdnBOU1FB?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 07:22:00 GMT",
+          "source": "Caixin Global",
+          "text": null
+        },
+        {
+          "title": "Blog: Jensen Huang’s Possible Return to Nvidia Won’t Solve China’s Computing Crunch",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkVTbFVTQ0RBTlZuM1JZZW53WW9zUHlJNXpLNnVSNkJsR3BUMmNHRDlZckFrM1FRREQtbXJmTXJXbHFlNmVwTk5wdnZjV1pFTFRQQ0p6SjlidlZ3R1liTnBmX1pCUVk0dU5jemlEcGV1UGZrZU4xYk1WaTlubW5sOWdGVzdVN3Zocm1XbW92WjdvWWJDUGx5U0FzakJjRlVLNzZsM0RYVEU1Z3VnalBneGJRLWs3TlFIR3hvUmgyaEJ1Q05fb1dTV1JyRXcxMVU?oc=5",
+          "pubDate": "Fri, 20 Nov 2026 05:24:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "A week after Jensen Huang’s departure from Nvidia Corp., calls for his return are mounting.",
+            "On Nov. 12, Nvidia’s board announced that Huang stepped down as president, CEO and director, with CFO Colette Kress taking over as interim CEO. Less than 20 hours later, an online petition platform, named Stand with Jensen, was launched, demanding his reinstatement pending the conclusion of an independent investigation.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
+            "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer"
+          ]
+        },
+        {
+          "title": "China’s Inbound Tourism Has Room to Grow, Trip.com CEO Says",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUVkcHp6aHVKYUVqdjk3Q1kyY2VtanAtTjR0Z0txYWJjSmFXN1YzcjluUUwtX1lJTDZvTjZPV3k4SDdUZGNhak5qd1JRWGVYeElaRHFwWlNvOFNVN242SHNTU3lDa1pLUG5udHB6bkFvcXNCcFJoZUtrR2hhc3h1ZnJzWnhsUG5IdTg0cHVpckJYMzRraHcxSTk4TjNsRW1ka1dVemEyZll5MW5vSi1NNA?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 19:27:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Foreign tourist arrivals in China rose 155% from 2023 to 2025, but the market has substantial room to grow, Trip.com Group Ltd. CEO Jane Sun said on Thursday.",
+            "Speaking at the Nasdaq-listed company&rsquo;s 2026 global partner summit in Sydney, Sun said China&rsquo;s share of international tourist arrivals increased from about 1% to 2.3% over that period. Some of the growth, she cautioned, reflected a recovery from the pandemic-era low base.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "In Depth: China’s Inbound Tourism Rebounds, but Supply Gaps Cloud Outlook",
+            "China’s Inbound Tourism Revenue Could Reach $470 Billion by 2040, UBS Says"
+          ]
+        },
+        {
+          "title": "DeepSeek Closes 100 Billion Yuan Funding Round",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajJmd0xhRzRteGVQN1A2ckd6ekxjYmN6ZV81eExJMlA5b3REUW9OcWVkYzk3YTQxWVlWMmtKRVNEdWFvdUNnb1JsMVFSZDJ0SnhpRmYybmh4bE9iVTZxOHJhY3ByUDhJWDFHd05SbzZybHFxS3YzQjdlV3ljTGx0Xy1YeGtZTlkyOXhrZkxHTmJLOGRIeFBWR1hxZHR6UEw2MjZF?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 16:23:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Chinese AI developer DeepSeek has completed a second external funding round of about 100 billion yuan ($15 billion) as it prepares to pursue an initial public offering on Shanghai’s STAR Market.",
+            "Business registration changes completed on Tuesday show that a partnership representing the round’s new investors took a roughly 17.3% stake in DeepSeek. The company’s first major external funding round raised 50 billion yuan at a post-investment valuation of 350 billion yuan, with registration changes completed in July.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "DeepSeek Restores Services After Nearly Five-Hour Outage",
+            "China’s DeepSeek Launches Smaller, Faster AI Model"
+          ]
+        },
         {
           "title": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21HUjN1QmE2U2ZZZWplYWRjYlhlLS1aWm04MGJ5NFdvZGlja3dldTQzb1NBRjJHdmpadW9XTUtDdWtBRGE4bW4ydzBpMmk0azNWV192YnQyN1hZS2FFcFpicXF0MWxOYk9IcXpjdkJYbk9tTGg5Umk5SEU5R3RudUVjVzYyaHJKNUNrNm0tV3FoejR3bXdaOFZ3bXVUSkxUdWlOeUZaZTNZcU5YUWRxSXZlRTF4ekZEdUZFelFnQzRVV2o0LUE?oc=5",
@@ -408,60 +403,6 @@
             "Global Trade Is Being Reshaped, Not Shrinking, Executives Say",
             "China Pushes Asia-Pacific Free-Trade Area Roadmap Ahead of APEC Summit"
           ]
-        },
-        {
-          "title": "In Depth: America’s AI Building Boom Sparks Voter Backlash",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0dzdnJlMmZSbDhncEJCbkRjaUswTjJjc2JqZEJRb245LTBJYTl0Z205dlhrTjNWSkdiNm5qeENITnhBVTBvVXQ4cGJrX0h2S1NYSktVeEU3ZVNOYTAtbWZyWGstTDRfRk8xVkFSM0I4bHZld3RMRV9MV2tZNHBVa3NmMm14Y3NOX0ZLSjhFZ1RvLXltV2xkbmhjQjZxRU5hTjdCdzZpNmxvWjJiVDBkVw?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:19:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "America’s race to build the infrastructure for AI is facing a political reckoning, as voters concerned about electricity bills, water supplies and sprawling construction projects demand greater control over data center development.",
-            "Democrats’ victories in the midterm elections earlier in November have added to the pressure. The party regained both chambers of Congress and won governorships in several states central to the building boom, including Texas, Georgia and Ohio. Some incoming governors have promised to suspend approvals until stronger safeguards are in place.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Alibaba Cloud Plans Global Data Center Expansion as AI Demand Grows",
-            "Cover Story: The Promise and Risks of China’s AI Infrastructure Rush"
-          ]
-        },
-        {
-          "title": "CX Daily: How Chinese Counterfeit Busters Turned From Crusaders to Criminals",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTEREZkhiV19FdGd2aVlycWhsTDFyY0w3TkFtM0wwLXJ4aDBaeTJjRmxBRzhOVEhFSXFiWnFkSS1tTkJZOFFGUEdjOUhzaWpUQUdFdzRnNnR1bnJCUE8zd2ZtVTlMSnRlRWVwa1F3bG8tVlVhUjVHMkt1bjZhMHB0cjQxWE9zaEtLZjdxTnZSSHdnVE9QbGYtWmpZd0RuaGN5RmozSFNiUVJIdjdaZUJ1R1FqZUkzZ1ZqU0lkcnh2STNlbE9TbmpSeWdB?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 01:00:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "In Depth: How Chinese Counterfeit Busters Turned From Crusaders to Criminals",
-            "“Many places are ‘scrambling to arrest me,’” recalled Li Yu.",
-            "On Aug. 31, police from Ma’anshan, Anhui province, showed up at her door and took her and her husband away on suspicion of extortion. During the process, she learned that authorities in multiple locations, including Ma’anshan and Xiong’an in Hebei province, had opened cases against her following complaints from various merchants.",
-            "In Depth: An Australian Mine Deal Raises Questions About Huang Qifan’s Son",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations."
-          ]
-        },
-        {
-          "title": "Nvidia to Stop Selling Advanced AI Chips to China",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhYTFgzTHYyTkUyc3Buay03cm1YWVpHUWRTZFczS3hiSk1WOEl4VEc2V3JRekJLY2xNcUJGekg3NHdiREQ4cVBYQldGZW56UnNkeTJKVFFXeU1DT1l4bFJZQ1lsS0tZM2ktdU50R0xNcHZuSy1QZ3NoZ3IxSWw0NUJNMXpHZGtGSTR6a3RsaUxNbmZPMldXN09ucDY0S3RUbEVwZC0ySQ?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 11:16:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Nvidia Corp. will stop shipping powerful AI chips to China and remove licensed Hopper-based data center products from its future guidance, interim CEO Colette Kress said on Tuesday.",
-            "The U.S. chipmaker reported stronger-than-expected fiscal third-quarter earnings results as its new leadership adopted a more cautious stance on the Chinese market following co-founder Jensen Huang&rsquo;s resignation. Sales of licensed Hopper-generation data center products to China reached $2.4 billion during the quarter, Kress said during an earnings call.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer",
-            "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight"
-          ]
-        },
-        {
-          "title": "Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2pxWmcxNUV6YjdhckZLS2tXd0FLci0wTWctVUJkSXBwTDRTbDVKOE5tRHhvUkxhV2FZdUp0S2dRWVllR2hFZlNZWUFNZElMZVB4Y180Wnh3MUVUT2VqXy1YRm1OWUNEM1NnWXdxRnc0bFFUWVN0NU1mUklhYndwNVRvYTB2eENvZldnNUdoUEVjM0VDUGNrOU9yNzZtVzhHRGc5WGJwN1ZGR2k1N0p0aVNtbUREMlNPclE?oc=5",
-          "pubDate": "Wed, 18 Nov 2026 07:54:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Demand for yuan-denominated bond financing is growing rapidly in Central Asia and Southeast Asia, driven by closer economic ties with China and competitive borrowing costs, an executive at China International Capital Corp. Ltd. (CICC) said Tuesday.",
-            "Luo Difei, head of CICC&rsquo;s wealth management business in Singapore, said at a Caixin summit session on APEC in Shenzhen that the investment bank had helped several countries&rsquo; finance ministries issue panda bonds this year. Demand from Central Asia and Southeast Asia was particularly strong, he said.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China Regulators Scrutinize Offshore Debt-Swap Bonds Used by Distressed Developers",
-            "Vanke Wins New Funding as It Completes Extensions on 2026 Public Bonds",
-            "Global Issuers Flock to Yuan Bonds at Record Pace",
-            "China Adds Government Savings Bonds to Private Pension Investment Menu"
-          ]
         }
       ]
     },
@@ -474,6 +415,48 @@
       "status": "ok",
       "feedUrl": "https://www.sixthtone.com/rss",
       "items": [
+        {
+          "title": "China’s Cargo Drones Take Off With Two Successful Trials",
+          "link": "https://www.sixthtone.com/news/1019298/China’s Cargo Drones Take Off With Two Successful Trials",
+          "pubDate": "Nov 19, 2026",
+          "source": null,
+          "text": [
+            "China has successfully tested two large unmanned cargo aircraft: one with a 5-ton payload capacity and the other capable of flying 3,000 kilometers, laying the groundwork for future commercial and emergency transportation systems.",
+            "On Tuesday, the country announced that the Changying-8, a domestically developed unmanned cargo aircraft, had completed a test delivery. Three days prior, another domestically developed unmanned cargo aircraft, the W5000, also completed its maiden flight.",
+            "The milestones come as China’s drone market is expected to exceed 140 billion yuan ($19.6 billion) by the end of 2026, with the industrial drone segment alone projected to reach 84 billion yuan, up 12.5% from last year.&nbsp;",
+            "China began testing large cargo drones as early as 2017 and incorporated the concept of the “low-altitude economy” into government policy in 2021. The Civil Aviation Administration of China has also laid out a roadmap to establish an air transportation system for unmanned aircraft by 2035.",
+            "During its delivery test, the Changying-8, developed by China North Industries Group Corporation, released a cargo pallet at an altitude of 300 meters before returning to its base.",
+            "The aircraft, whose maiden flight took place in Zhengzhou, capital of the central Henan province, on March 31, has a maximum range of over 3,000 kilometers, measures 17 meters in length, has a 25-meter wingspan, and an 18-cubic-meter cargo compartment volume, domestic media reported.&nbsp;",
+            "In the event of extreme disasters such as earthquakes, floods, and mudslides destroying roads and bridges, the aircraft can be used to transport up to 3.5 metric tons of goods, equal to over 700 disaster-relief tents, the head of the Changying-8’s development team told state news agency Xinhua.",
+            "According to its engineers, future applications could include transportation of regional cargo, emergency supplies, and cold-chain deliveries, domestic media reported.",
+            "On Saturday, the W5000, an unmanned cargo aircraft developed by Chinese aviation company Air White Whale, also completed its maiden flight in northern China’s Inner Mongolia Autonomous Region.",
+            "The aircraft flew for about 30 minutes at an altitude of 1,000 meters, completing a series of test maneuvers before landing. The test focused on the aircraft’s flight stability and the coordinated operation of its propulsion, flight control, electronics, and ground-based monitoring and control systems.",
+            "With a maximum payload capacity of 5 metric tons, the W5000 is billed as one of the world’s largest unmanned cargo aircraft by payload capacity. Made of carbon fiber and weighing less than 6 metric tons, the aircraft measures over 22 meters in both length and wingspan and can fly at a cruising speed of 526 kilometers per hour, with a maximum range of 2,600 kilometers, domestic media reported.&nbsp;",
+            "Hu Zhendong, founder, chairman, and CEO of Air White Whale, said the W5000 could reduce logistics costs per ton-kilometer by more than 60% compared with comparable crewed cargo aircraft.",
+            "The W5000 is expected to begin commercial operation by the end of next year, according to domestic media.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Why China’s Latest Blockbuster Game Had a Change of Heart",
+          "link": "https://www.sixthtone.com/news/1019294/Why China’s Latest Blockbuster Game Had a Change of Heart",
+          "pubDate": "Nov 19, 2026",
+          "source": null,
+          "text": [
+            "One of the wildest boss fights in China’s latest hack-and-slash blockbuster game begins with a calligraphy brush. Soul, the protagonist of Phantom Blade Zero, released late last month, dots the eyes of a lion-dance head, performing a traditional Chinese ritual believed to awaken the eponymous beast.",
+            "Cue the violence. Two performers animate the lion, lunging at Soul with blades spinning on its head and flames pouring from its mouth. The fight then spills onto elevated wooden poles, where Soul and the lion-dance master leap from perch to perch, trading blows to pounding Chinese drums and screaming electric guitar.",
+            "In the game its creator originally envisioned, Soul had just 66 lives to survive this fight and every other. Use them up, and hours of progress across the campaign would be gone for good.",
+            "The restriction was meant to mirror the game’s story: Soul has just 66 days to find a replacement for his damaged heart. But Beijing-based developer S-Game eventually abandoned the compulsory death limit, introducing three difficulty settings and making the original challenge optional.",
+            "S-Game founder Liang Qiwei called the compromise “one of the countless difficult decisions we made in developing Phantom Blade Zero.” His studio spent four years and a reported 300 million to 400 million yuan ($45 million to $60 million) creating a game it hoped would introduce wuxia — Chinese martial arts fantasy — to audiences around the world.",
+            "To bring its combat to life, S-Game recruited Hong Kong action star Donnie Yen, enlisted martial arts experts, and brought traditional performers into motion-capture studios. The finished game features more than 50 bosses and 55 weapons, each offering different ways to fight.",
+            "The scale of the undertaking drew inevitable comparisons with&nbsp;Black Myth: Wukong, China’s breakout global gaming hit of 2024. Chinese gamers even dubbed Phantom Blade Zero “the village’s second college student,” hoping the conditions for success would align twice.",
+            "So far, it has. Video game rating site IGN gave Phantom Blade Zero a 9 out of 10, praising its “memorable boss fights, compelling combat, and limitless swagger.” Its PC version scored 88 on review aggregator Metacritic, surpassing the 81 Black Myth: Wukong received.",
+            "Released on Oct. 29, with a standard edition priced at 268 yuan ($40) and a deluxe edition at 328 yuan, the game sold more than 4 million copies in its first 72 hours, topping Steam’s bestseller chart and generating an estimated 1 billion yuan in gross sales.",
+            "Unlike Wukong, which drew on the beloved Chinese classic “Journey to the West,” Phantom Blade Zero had to win over players with a far less familiar fictional universe, one Liang had spent two decades developing.",
+            "In 2006, while studying architecture at Beijing’s Tsinghua University, Liang began developing Rain Blood, an independent role-playing game inspired by Taiwanese wuxia novelist Gu Long. Built using software intended for amateur game developers, it introduced Soul, an assassin serving the Order, a secretive organization of martial artists.",
+            "[continua sulla fonte originale]"
+          ]
+        },
         {
           "title": "China Proposes Tougher Rules to Curb Skills Certification Fraud",
           "link": "https://www.sixthtone.com/news/1019293/China Proposes Tougher Rules to Curb Skills Certification Fraud",
@@ -586,44 +569,6 @@
             "“As urbanization continues, more and more young people are facing the same dilemmas as Liu Zhengliang,” another Xiaohongshu user wrote in a comment under the same post, referring to Liu’s struggles with cultural identity and homesickness. “I think the theme of this show really suits the times.”",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "Shanghai Sacks Two Scientists Over Child’s Death in Gene Trial",
-          "link": "https://www.sixthtone.com/news/1019274/Shanghai Sacks Two Scientists Over Child’s Death in Gene Trial",
-          "pubDate": "Nov 16, 2026",
-          "source": null,
-          "text": [
-            "Shanghai authorities have dismissed two researchers after an investigation into a child’s death following experimental gene-editing treatment found unheeded safety warnings, failures in ethical review, and undisclosed payments and gifts from the family.",
-            "The child had Snijders Blok-Campeau syndrome, a rare neurodevelopmental disorder with no effective treatment, according to findings released Friday by the Shanghai investigation team. The family contributed 5.3 million yuan ($800,000) toward the research and separately gave researchers approximately 1.06 million yuan in money and gifts.",
-            "In July 2023, the family approached Qiu Zilong, deputy director of Shanghai Jiao Tong University School of Medicine’s Songjiang Research Institute, hoping his team could develop a customized gene-editing treatment, investigators said.",
-            "The child received an injection at the university’s affiliated Xinhua Hospital on March 24, 2025, and died seven days later.",
-            "At an emergency review April 2, the hospital’s ethics committee attributed the death to thrombotic microangiopathy, a complication of gene therapy, and ordered the study terminated.",
-            "The death went unmentioned in related preclinical research Qiu’s team published in Nature in February 2026, investigators said. The team reported using gene editing to correct a single error in the DNA code of mouse brain cells, restoring levels of a protein essential for normal brain development. The researchers said tests in monkeys also suggested the technique’s potential for use in humans.",
-            "Five months later, a joint investigation by Science and Retraction Watch revealed the fatal human trial and reported that the Nature paper had also omitted evidence of liver and kidney damage in animal safety tests.",
-            "Shanghai authorities subsequently established a team to investigate the preclinical research, the hospital’s clinical study, and the data underlying the Nature paper.",
-            "Investigators found that Qiu’s team had failed to promptly share a safety report from experiments on nonhuman primates with the clinical study’s lead investigator, leaving warning signals unheeded.",
-            "Xinhua Hospital’s ethics committee approved the study despite insufficient toxicology and safety evidence, proceeding without additional material it had requested. The hospital also failed to independently and adequately assess the study’s scientific basis and safety.",
-            "Investigators said that although the consent form warned the family of serious complications and adverse events, it did not prominently communicate the risk of death.",
-            "Investigators found no data fabrication in the Nature paper but identified discrepancies between the research methods used and those described. Data from the same experimental batch had also been presented separately without explanation.",
-            "The Nature paper also failed to disclose financial conflicts involving four researchers. Qiu received expensive liquor and electronics worth approximately 100,000 yuan, while Xinhua Hospital associate researcher Yang Kan, the Nature paper’s first and corresponding author, received 900,000 yuan and expensive liquor. Two other members of Qiu’s team each received 30,000 yuan.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "What Made Jade So Valuable in Ancient China and the Americas?",
-          "link": "https://www.sixthtone.com/news/1019256/What Made Jade So Valuable in Ancient China and the Americas?",
-          "pubDate": "Nov 15, 2026",
-          "source": null,
-          "text": [
-            "Recent exhibitions at the Shanghai Museum and Beijing’s Capital Museum have introduced Chinese audiences to the civilizations of the ancient Americas. For Chinese visitors, the importance placed on jade may feel familiar. In both ancient China and Mesoamerica, finely worked jade adorned the powerful and accompanied them into the grave, a striking similarity that has long attracted scholarly interest.",
-            "How did jade come to carry such authority? One way to explore this question is to compare the jade traditions of Liangzhu and the Classic Maya lowlands, two societies from ancient China and the Americas. Liangzhu was an early regional state near present-day Hangzhou, capital of eastern China’s Zhejiang province, around 3300–2300 BC, with a walled capital, an extensive system of dams, and a pronounced social hierarchy. In the Classic Maya lowlands, spanning parts of present-day Mexico, Guatemala, and Belize, cities ruled by royal dynasties flourished around AD 300–900. Both Liangzhu and Maya cities hold UNESCO World Heritage status.",
-            "Thousands of years separated the two societies, and there is no evidence of direct contact between them. Yet both had complex social hierarchies in which powerful ritual authorities played important roles. By tracing jade from the selection of raw stone to its final resting place, we can see how control over labor, knowledge, and materials helped establish its authority in ways that were both similar and distinct.",
-            "Jade was valued in both ancient China and the Americas long before Liangzhu and the Classic Maya. The concept of jade encompasses several kinds of stone. Liangzhu’s finest ritual jades were made from nephrite, while Maya jade was principally jadeite. Both were prized for their appearance and could be polished to a lustrous finish. Craftspeople shaped jade using abrasives such as sand mixed with water. Working with different stones helped them recognize differences in hardness and toughness and determine which materials were best suited to particular objects.",
-            "In Liangzhu, material choice was closely tied to the form and status of the finished artifact. Other stones, such as serpentine, were generally used for small, less prestigious ornaments. Among the Maya, by contrast, the symbolic meanings of stones were more closely associated with their colors. Green and blue-green evoked water, cultivating maize, and renewed life. Jadeite remained highly prized, but a wider range of similarly colored stones could also be valued for their quality and craftsmanship.",
-            "Not everyone had equal access to these raw materials or the specialized skills needed to work them. This inequality helped establish jade’s association with power.",
-            "Workshops within and immediately outside Liangzhu city made prestigious ritual objects from nephrite. A short distance away, a large workshop complex specialized in small serpentine ornaments. Despite their proximity, the workshops used different materials and produced different types of objects. The fine finish of these serpentine ornaments, however, shows that their makers were skilled.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
@@ -631,6 +576,42 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Ahuanqiu.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "China unveils 34 new flagship smart factories, highlighting AI-driven transformation",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hTThoZ3dWeUtTLW9YdUl0VmdfTF9ZWlRoazY3bEdCV3RSMUdMRGVTWW5mOEJKTjFUUnQ1bjlXbkgxRDVqbTFteWQxWXkxSDRjX2lF?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 08:34:00 GMT",
+          "source": "环球网",
+          "text": [
+            "China on Thursday unveiled 34 flagship smart factories across 20 provincial-level regions, expanding the initiative into more consumer-facing industries as the country steps up efforts to integrate artificial intelligence (AI) technology into manufacturing, boost productivity and accelerate the digital transformation of its industrial sector.",
+            "The Ministry of Industry and Information Technology (MIIT) and five other departments released the 2026 flagship smart factory cultivation list, which includes major manufacturers such as Xiaomi Auto. Pharmaceutical and apparel manufacturers were included for the first time, highlighting the initiative's widening industry coverage.",
+            "As the second batch of flagship smart factories, they have reported an average 34.4 percent increase in labor productivity and a 19.3 percent rise in production efficiency, while helping nearly 4,000 enterprises carry out digital and intelligent transformation in coordination.",
+            "Notably, industry coverage has further expanded compared with the previous batch. Beyond equipment manufacturing, steel, electronic information and other fields, pharmaceutical and apparel enterprises in the consumer goods sector were included for the first time, according to the list released by the MIIT.",
+            "The list includes smart factory projects from leading Chinese manufacturers across the vehicle, power equipment and shipbuilding sectors, including Xiaomi Auto, FAW-Volkswagen, Harbin Electric Machinery and Hudong-Zhonghua Shipbuilding.",
+            "The announcement by the six departments calls for supporting flagship smart factories in building high-quality industrial datasets, developing industrial AI agents, exploring advanced manufacturing models and establishing smart supply chains. The requirements highlight a broader shift in smart factory development, from equipment automation toward deeper integration of AI, industrial data and supply chain coordination.",
+            "The MIIT announced 15 candidate factories on November 24, 2025, so the latest batch brings the total number to 49.",
+            "Li Changan, a professor at the School of Public Administration at the University of International Business and Economics, told the Global Times on Thursday that the integration of AI with manufacturing is a major technological force driving the development of modern manufacturing.",
+            "The inclusion of pharmaceutical and apparel manufacturers in the latest list shows that AI technologies are expanding beyond a limited number of industries and becoming increasingly integrated into traditional manufacturing sectors, according to Li.",
+            "The expert further noted that the list not only reflects the progress of AI applications in manufacturing, but also serves as a demonstration and a model for the wider industry, encouraging more traditional manufacturers to accelerate technological upgrades and transformation. This trend is expected to further strengthen China's manufacturing capabilities, improve product quality and enhance the global competitiveness of its manufacturing sector.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "China’s vehicle export trains hit 10,000 trip milestone amid surging overseas demand",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZFdOOVNXVGVqTDczQ2RSSUYzUUlQZWszQjVOaGxBdGlla2p4Q0tOZnQ5MWZYLWlBZzl0YkhSN0dUVXNiYWctZXE5VzF6bW5FbXdJ?oc=5",
+          "pubDate": "Thu, 19 Nov 2026 08:33:00 GMT",
+          "source": "环球网",
+          "text": [
+            "China's dedicated freight trains carrying domestically manufactured vehicles for export have made a cumulative 10,000 trips, a milestone in the country's expanding automobile exports as growing overseas demand and improving international logistics networks support the industry's global expansion.",
+            "The milestone was reached on Thursday when a train carrying 203 Chinese-made new-energy vehicles (NEVs) departed from Zhengzhou International Land Port in Central China's Henan Province, CCTV News reported. The vehicles will travel by rail to Shanghai before being loaded onto a roll-on/roll-off vessel bound for Australia, a journey of more than 10,000 kilometers.",
+            "The accelerating rail services reflect robust overseas demand for Chinese-made vehicles. More than 2.035 million vehicles have been transported for export by rail so far this year, up 79 percent year-on-year, according to CCTV News.",
+            "The growth comes amid a broader expansion in China's automobile exports. The country exported 9.271 million vehicles in the first 10 months of 2026, up 65.1 percent year-on-year, according to data from the China Association of Automobile Manufacturers released on November 11.",
+            "NEV exports reached 4.612 million units during the period, rising 130 percent year-on-year. October alone saw exports of 1.066 million vehicles, marking the fifth consecutive month that shipments exceeded 1 million units.",
+            "China's expanding presence in overseas markets has provided further momentum. Industry data showed that Brazil, Belgium, the UK, Australia and Thailand were among the leading destinations for Chinese NEV exports in the first nine months, reflecting demand across Latin America, Europe and the Asia-Pacific region.",
+            "Improvements in cross-border logistics have strengthened the industry's export capacity.",
+            "To meet growing demand for vehicle exports, railway operators have expanded regular routes through land ports including Horgos, Manzhouli and Alashankou, while using the China-Laos Railway to reach Southeast Asian markets. Combined with expanding rail-sea intermodal services, these routes are strengthening international logistics links for Chinese automakers, a Chinese expert noted.",
+            "The expansion of transport capacity and more efficient rail-sea connections are helping Chinese automakers reach overseas customers, underscoring how manufacturing competitiveness and logistics infrastructure are supporting the industry's growing role in global markets, Zhang Xiang, a visiting professor in the engineering department of Zhengzhou-based Huanghe Science and Technology University, told the Global Times on Thursday."
+          ]
+        },
         {
           "title": "Press conference for AIE Expo 2026 held in Macao",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CR3BkbTRwTFBYVlZrYUFmN25mRGNJU0p4LVdwZUlPMmc1aTVkQWdneXM1blpQeTN5X0t6RXNkOUVTamtieFJMcnVZZkRESGRZelhV?oc=5",
@@ -660,164 +641,157 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "Trump, Xi and Putin sit down for a rare 3-way meeting in China",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05RFI1UXR5alZLUGZrOEVjR1RnR3FxOTVqU3hYRTFiRkU2UXF2bjFMRmFUN2dDeXlfUWt3REJvY242b2l4bFh5ZHoxT04tUjhFRzR2MF9mbC1WVTBNeG0zSU9LN3pNdHRnT0dYTW9WWQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 14:03:08 GMT",
-        "source": "CBS News",
-        "text": [
-          "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin sat down for a meeting in Shenzhen, China, on Thursday &mdash; a rare face-to-face encounter for the leaders of three of the world's most powerful countries.",
-          "All three made brief opening statements before meeting behind closed doors for about an hour and a half. The leaders did not offer joint or separate statements to reporters after the sit-down, and Mr. Trump immediately left for the airport to return home.",
-          "Putin's senior aid Yuri Ushakov told reporters after the meeting that the atmosphere had been good, and the Kremlin quickly released what it said was a statement jointly agreed on by all three leaders characterizing the talks.",
-          "The three men \"exchanged views in detail on the current international situation and reaffirmed their commitment to maintaining strategic stability and international security,\" the Kremlin readout said, adding that as permanent members of the United Nations Security Council, they had \"reaffirmed their commitment to reforming the UN so that it can more effectively respond to global challenges and fulfill its fundamental mission in the area of international peace and security.\"",
-          "They also committed to increasing gas and oil production \"for the benefit of all countries,\" agreed on the \"fundamental importance\" of \"the principle of state consent and respect for the immunities of state officials,\" and said the \"International Criminal Court and other similar bodies should not abuse their powers.\"",
-          "Finally, the Russian government said the leaders had \"reaffirmed that there can be no winners in a nuclear war, and that it should never be unleashed.\"",
-          "The White House did not offer an immediate readout of the meeting, but indicated that Mr. Trump might speak with reporters on Air Force One during the flight back to the U.S.",
-          "The Kremlin shared a short video&nbsp;on social media, via Russian state media, showing Xi accompanying Putin as they walked out of the meeting to Putin's waiting motorcade. Before they exit the building, Putin is seen shaking Xi's hand, thanking him for hosting the gathering and telling him, according to Russian state media, that nobody had expected it to go so well.&nbsp;",
-          "Before the meeting, Mr. Trump met separately with Putin on the sidelines of the Asia Pacific Economic Cooperation summit, and then with Xi.",
-          "\"We've had a great relationship for many years,\" Mr. Trump said, standing alongside his Russian counterpart. \"I think a lot of wonderful things can come out of this, or at least start.\"",
-          "As Mr. Trump approached Putin for a handshake, he said, \"Who is that?\" before laughing and saying, \"He's my friend.\"",
-          "Russia's TASS news agency said the war in Ukraine was the main topic discussed by the two leaders, and that Putin left the meeting in \"an excellent mood.\"",
-          "After the trilateral talks, Putin told reporters that Ukraine and Europe were \"not yet ready\" to make the compromises necessary to resolve the war, according to Russian media.&nbsp;",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZHbWtYZVhkb096aWpSYko2anlaNldvSzhUU1Y0Z3ZERDdxRkdXNjc5X3VzTUlDQ29wLU1pa1UwTkRSWnh1UndxLU1OWXQwSm85dXVpQUFITlhFcGlpYVJxNklIRXdTUDlmT21PZzJ5Q21NOHhWbVVXUFpnbWlQY3JQMmpYNzZmbkV6azVTYkIwckJsQUZ3MXFLM2ptQ2tPX0NLbTU5WEtGTURSNkNhcmQ4cHJGckRCNC1RQQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 13:06:00 GMT",
-        "source": "The Guardian",
-        "text": [
-          "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece",
-          "Don’t already get First Thing in your inbox? Sign up here",
-          "Good morning. Donald Trump has met Vladimir Putin and Xi Jinping at the Apec summit in Shenzhen, and said the three leaders were “really making history”. The trilateral meeting lasted roughly an hour and a half, according to Chinese state media. On arrival the US president described his Russian counterpart as “my friend”.",
-          "Putin told Xi and Trump that their countries shared “many converging interests” when it came to resolving conflicts, including the full-scale war in Ukraine, which the Russian president started in 2022.",
-          "Trump said the three countries were “uniquely positioned” to discuss nuclear weapons, while Xi said “every effort must be made to prevent nuclear war” and that nuclear weapons ⁠should be comprehensively prohibited and completely ⁠destroyed.",
-          "China released a readout of an earlier Trump-Xi meeting, with the tone being largely positive, but containing a warning on Taiwan and a call to strengthen communication on trade and AI. Trump has now departed from China.",
-          "What was unusual about China’s welcome to the Japanese delegation? Apec’s Chinese hosts went out of their way to give world leaders a warm welcome as they arrived in Shenzhen, with one exception. Japan’s prime minister, Sanae Takaichi, had to make do with a modest guard of honour and a welcome from a relatively junior Chinese government official.",
-          "The Guardian is live blogging the Apec summit. You can follow it here.",
-          "Positioned for one of the biggest IPOs in history, Anthropic set the share price for its debut on the US stock market at $83, above its earlier estimates. The firm is slated to begin trading on Thursday under the ticker symbol ANT, with its chief executive, Dario Amodei, and other cofounders ringing the bell to open the Nasdaq exchange. Graeme Wearden has the latest on our business live blog.",
-          "What is the latest warning on the environmental impact of AI? The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog.",
-          "Who has been accused of spying in Silicon Valley? The US Department of Justice has accused a Russian national of spying on employees of a Silicon Valley technology and defense company in an alleged effort to gather intelligence for Russia. Igor D’iu had been indicted on multiple charges.",
-          "Why have four Maryland high school students sued after an AI error? Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them, prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2ZEOTJmX0VLNUsxVzlVY1htTXVSZjI2VktWajU2Z2VQRDlxVjlpemxfS1RHWTNCcHJUOGcwdU9CRTdBNDlCMWJpVkJ2M2hnenBCVHVnUWY1bUhFbmp1dWJPU2hFY3M2ZUV6cGEycFh5endDbENjbFZtZ2MwMlAzM1JHU1VMdXJ6UTI3T0dhN21KVXFZOUF6cTZ2ZVJvdW9hMnpPWjB6Wmx5Uk9CQWpiZnpxZDVsSlZIdzVUc3dFbVpHRHdLVFp4MjVzVGxoeFQ3SXBWMlVXOA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:22:00 GMT",
+        "title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMHEyLWU1cHVQOEsyMWdfSkhfaV90MldNcl9JVjdtTmdRVXp2dU1xeUN3MF8yeVlnV21Ga01fbGJDWEVTNjR3YUdQcXpoWlBCOThDNjRGNktGaFB4S3BvRXZjcjl1Qkl2OEl4NDlYWWdTSUN3Vm1wOEJPU0dWSlRDN0JWME1vWXE0UXpZUHphcEYzYUNzS2FkY2l3aTNZVEFoLWxIcndrNERMTGN5ckU3NXkzMVRMOEEwMTlaNW90Uk5EZTViWDg4MERnR01zcTNKVk8tSmlBcmpKdlFo?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:59:06 GMT",
         "source": "WSJ",
         "text": null
       },
       {
-        "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGY4THdreUVOVzVyTXVtQzBmQ1hhUldzQjAzODJneWg4U0M1aU1IYmJ0X1NJTUVmMnFCUzkyRUFIamVCYmtMUGNDakhWU0hacnIzVTBMYmRaTkF2anBrVmVLNWUzemdONklIVFVmMDE0SDVUQzluRFpYQUxOaGlEQjhTR0lCbTV6RVYxYmtoVWJ2NFgxMWJRcGJDa0JKYTBPSF9Z?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:08:19 GMT",
+        "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:47:42 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "As Trump courts Xi and Putin, middle powers make their own moves",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:08:06 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "Stocks slide despite Anthropic’s record debut and Trump touts ‘unbelievable’ China summit: Morning Rundown",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkFYQmpSWUZHbk42cGdNQUNOTk1WYmh2OTFkZ3VVaTM3UTlEcHd6NzNqbElFajNXZzJuUktnekpvVERwY19CanBHdVVMVzI0UlB4Q3piWnYwVEpiS3BLYndKcUtnY0h0M0lpLXdxSjFhTEx0cngxS2drMUEtMU13cmU0WjVHbThpQi1aRXJBVkNUc1NFMUtxS0N0VW1KYS10QzFKekE3aw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:01:23 GMT",
+        "source": "NBC News",
+        "text": [
+          "Stocks fell despite Anthropic’s record-setting public debut. Trump calls his meetings with Xi and Putin “amazing.” And why Google is getting backlash from some of the nation’s largest school districts.",
+          "Anthropic breaks record with IPO01:32Anthropic, the AI giant behind Claude, shattered the record for the largest-ever public offering, raising at least $81 billion and closing at $97 a share in its market debut, valuing the company at more than $1.7 trillion. It surpassed SpaceX, which raised $75 billion in June.",
+          "This is Morning Rundown, a weekday newsletter to start your day. Sign up here to get it in your inbox.",
+          "But the blockbuster debut wasn’t enough to calm broader concerns about AI and tech, with the S&P 500 and Nasdaq Composite falling more than 2% by Thursday’s close.",
+          "Heavy borrowing, rising computing costs and uncertainty over the future of data centers following Democratic election victories have begun to weigh on the AI investment boom. And that was before the Jensen Huang scandal cast a cloud over Nvidia.",
+          "Some experts say Anthropic’s IPO was exactly what the industry needed to “revive overall sentiment,” a wealth management executive said.",
+          "Trump’s historic summit with Xi, Putin02:29President Donald Trump may be facing low approval ratings and a resurgent Democratic opposition at home, but in China he received a very different reception.",
+          "“It was unbelievable,” Trump told NBC News in a phone call. “They treated me as well as a person could be treated.”",
+          "Chinese President Xi Jinping broke precedent to greet Trump on the tarmac and later gave him a red-carpet sendoff. And despite disdain for Vladimir Putin among some U.S. lawmakers, Trump called the Russian president his “friend.”",
+          "Trump rated the summit, which featured historic trilateral talks with Putin and Xi and separate meetings with both leaders, “on a scale of zero to 10 … a 12,” calling the talks “just amazing, amazing meetings.”",
+          "Whether that warmth translates into peace deals in Iran or Ukraine, however, remains far from clear. Trump said he agreed with Ukrainian President Volodymyr Zelenskyy that any deal negotiated by Trump, Putin and Xi would not succeed without Kyiv’s approval.",
+          "Hours after the summit, Russia launched a massive ballistic missile attack on Kyiv, striking three bridges, Ukrainian officials said, following Putin’s vow of “painful” retaliation for attacks on Russia’s prized Crimea Bridge.",
+          "Elon Musk says he feels 'foolish' after spending hundreds of millions backing Republicans04:10Elon Musk declared he’s not MAGA. Palantir CEO Alex Karp, who once described his company as anti-woke, now touts his left-wing credentials. Amazon CEO Jeff Bezos says he’s worked with every president since the 1990s — not just Trump.",
+          "Trump yesterday responded to Musk’s comments in a phone call with NBC News, saying that when people “veer” from MAGA, “they don’t do very well.”",
+          "None of the company leaders have directly criticized the president, but their comments suggest some are recalibrating their public posture as Democrats plot a path back to the White House. But don’t expect to see a dramatic swing toward the left, a tech insider said. “Trump is still there, and he still keeps score.”",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "California investigates Nvidia over whether chip exports ended up in China",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQktrdFZUUFNrN0daOGdiTHVDb1V6NDEwcmxMQzFnU3JYbGhPWUhkM3ViZVhWNjF0b2pOMC10WGxOczVfVjhXUm54bzhEbE9YcVJWbTA2NE1VdmRzTGotenZkc2pjM0htaWJjUHN1Mkk2VUFCWVVMRlVLN3htZE9sT2IteFh5Mk5kOXNOZUxaTFJEV0dxeTB3cnNyUERSQlpxUG1abkVPWGZCYkU0dGpJU2NPdUwyMWROeE1ING9IWkdCM3c?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 10:43:00 GMT",
+        "source": "The Guardian",
+        "text": [
+          "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors",
+          "California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.",
+          "Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions.",
+          "“The conduct of Nvidia and its former chief executive raises bright red flags, including about the ways in which the company may have misled investors,” said Bonta.",
+          "“Nvidia is in a messy, transnational situation but the underlying principle of our corporate securities law is clear: companies cannot mislead their investors.”",
+          "The subpoena, issued on Thursday, followed Huang’s resignation a week ago after it emerged he had multiple affairs, including one with Alice Huang, a suspected Chinese spy.",
+          "Alice Huang, who is not related, is associated with Singapore-based Megaspeed, which has bought nearly $5bn (£3.8bn) of Nvidia chips and hardware in recent years, and is being investigated for possibly diverting advanced restricted chips to China.",
+          "Megaspeed has said it is a “legitimate and lawful” business, and that Huang left the company late last year.",
+          "Bonta said the investigation would also look at whether the former Nvidia chief’s actions resulted in confidential information being passed to China.",
+          "“My office is investigating whether Nvidia or Jensen Huang’s actions resulted in China obtaining advanced chips or confidential information,” he said. “And if Nvidia misled investors and the public about this risk, in violation of the law.”",
+          "Nvidia’s shares are down by a fifth since Huang admitted the extramarital affair, hitting a one-year low at the close of trading on Thursday, and wiping almost $1tn off its market value.",
+          "Earlier this week, Harvey Jones, Nvidia’s chair, said the company had no intention of reinstating Huang after the former CEO said he would be “honoured” to return. Elon Musk and a host of tech bosses had campaigned for Nvidia to bring him back.",
+          "Huang is due to testify before several congressional committees over the potential breach of national security on 1 December.",
+          "Shares in rival chipmaker AMD closed down almost 8% on Thursday after the publication of reports connected to short seller Hunterbrook warning about its links to China and the “circular financing” of customers.",
+          "The company, which has been targeted amid the Nvidia scandal, is looking at a further fall of more than 5% in pre-market trading.",
+          "Hunterbrook Media published allegations on the use of AMD’s software by a Chinese server maker blacklisted by the US. Sister publication, The Bear Cave newsletter, alleged that AMD’s use of datacentre lease guarantees and backstops for unsold cloud computing capacity could leave it exposed to a pullback in AI spending.",
+          "AMD said the reports’ claims “misrepresent AMD’s business practices and relationships”.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "China’s A.I. Ambitions Are Running Into a Money Problem",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTW1vdXppRnZ3RDlhMEJnVGtZd0FONTB0emxvVXRrYlNQcnFzTTl5MEExRWEzaDRrUU9qblk5LU4xeVFBbmhEUUM1NHhPemM0MWRUdE1EOE5vSFJDelZnOXJ1Qi1Gcy10cGprNmF4QUI2eVhRdm5xMFNhbncyOE1lOVhxMA?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 10:01:07 GMT",
         "source": "The New York Times",
         "text": null
       },
       {
-        "title": "US Clashes With China and Russia Over Iran Nuclear Stalemate",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDZQOW0xT3NiQlFvbzRsQ0U3SHd1MHZZa0JUbmZvVnRoblF4WE8zX0VqbHNnSlRHUExKNkliQnl4VkdNMWk0VlJ4WnA3RGwtcm5wc01jbTNpYW8ydXc0YXdjVkFOd2NFNzN0WFB3SGZLTFFHcmp5c19Hbm1MUFVHQmZtZXRrSmtEVGlrWW9ERVhLQWZtQ2hUOFdfMWFUTEFfeUdUQy0wbEVwQjA2Z1dQMw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:05:23 GMT",
-        "source": "Bloomberg.com",
+        "title": "From Gig Workers to Tycoons, China Is Reaching Into Every Pocket",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaktFcHhsTTEtVFJKd1pPUGlWWkl2WklSTm04aXVSYXREclhWQlFHbkFleVBxMTFZZ241V1pDQVJTZ2ZaZm5IOGxrcm5JTE8zNWEwR2NXcFpWc0RkU19RRUllREpubVc0QkFxUDZDSXFoQUctaWJWTGgtdEo5Z2dSOGhiR3h2UVVJa1pab0tRaU9VNzJMbmhJZFpsNll4RXFvWVpXajlxRmd1VVZ1d0tsWWFn?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 10:00:32 GMT",
+        "source": "The New York Times",
         "text": null
       },
       {
-        "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEdkaW85aF8zYUdyVGZ2U3NuYU9ZQm1wX1F3d1l3eW1STEgyVGt4aWJUUEU2eW9VMUJBaG5vWlRCNGZBd3U3N1lhZ2lWQ0lTVUVIX3JhbTN2OHl5XzNUY3ZRTm9MRmo3eGdHWFk5SlpjbVAtZ2Y4WVh3RXZMYmZ6VjY2bUF0TmNDVVBCMU5mNDJ3WUU1anY1VzQtSGpDU2pCa3c2T2gwX1A2YWFJWVNHNUpmRFd5bVhYTm1F?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:46:18 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkIxODlDUENBajlFWnE5WlJzcUpCbG1qMG5KdDVYSzRQTXdEN3ZlelpqRTNUZHBrZnptRXpJM3pfNVR3ZF9kZ0tHMm4ybjdlem5acDBDRzdRbkNlUG5OTGhuQVJoM0NtWnN0ZWhHVUFFX1l4ZkY0bjZNS3BMcWNPRlNQYndMRXphVmIxQ3RxN1lQa19KaWFzZXdvOHpqMW5nczM0bzFHUFFkcmtY0gGyAUFVX3lxTE5EZlpmQzhPOHUxY3NIb3JYVjdvT0FrcmFfQTdRRWo3ZVdLUU5RQmFyR0YxSXB6OS1yUUY0U0pmdXZYZXRtVlB4dlJnZlZobzJyLUpEQmNIZlRCSlpDcjYzcWgxbUpCNWxlTWJ4WVBubnhxdUpGOXhGVm02U1pPQ2VCd2ZPcDc3NmxtZTFFNDVfeHcySERLck1PQlNOYTJzanp5YmZ2UUJ3c2hqanBPaWxpdnc?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:33:53 GMT",
-        "source": "Al Jazeera",
-        "text": [
-          "United States President Donald Trump has met with his Chinese and Russian counterparts for highly anticipated trilateral talks at the Asia-Pacific Economic Cooperation (APEC) summit.",
-          "Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met for a “family photo” before convening for talks on the sidelines of the summit in Shenzhen, China, on Thursday in an unprecedented gathering of the world’s three superpowers.",
-          "Opening the meeting, Xi said that it “has groundbreaking significance”.",
-          "“The world is at peace when great powers live in harmony,” Xi said, adding that the three countries “should work together to address global challenges”.",
-          "In a major statement, the Chinese leader also said “nuclear weapons should be comprehensively banned and thoroughly destroyed, building a nuclear-free world,” reported China’s Xinhua news agency.",
-          "In Trump’s opening remarks, the US president said the three countries were “uniquely positioned” to discuss nuclear weapons.",
-          "“Too often past leaders avoided talking to leaders they had disagreements with,” he said. “No peace ever forged by declining opportunities.”",
-          "Meanwhile, in his opening remarks, Putin made it clear that the war in Ukraine would be the focus of his conversation, before the three retreated into closed-door talks which lasted for about 55 minutes.",
-          "The talks between the leaders of the world’s largest nuclear powers were not likely to produce major agreements, analysts say, given deep differences over Ukraine, Iran, nuclear weapons and trade. But the meeting had unnerved smaller countries that feared their interests might be disregarded.",
-          "Ahead of the trilateral gathering, Trump held separate bilateral meetings with both Xi and Putin on Thursday.",
-          "The US president described Xi as a “friend” and said Washington and Beijing enjoyed a “special relationship”.",
-          "“As long as the two of us are in charge, I don’t think we’ll have a problem,” Trump said in opening remarks at his meeting with the Chinese leader. He also boasted that “no other countries can do what we can”.",
-          "Trump said the US has done “amazing” things in the past two years, since he returned to power, while praising China for many of its gains over several years.",
-          "Xi, meanwhile, said that he remained committed to working with Trump to steer ties between their countries on the “correct course”.",
-          "Relations between Beijing and Washington have been stable and improving, Xi said to Trump at the start of their third one-on-one meeting this year, which lasted for about an hour.",
-          "“We have established a new definition of a constructive China-US relationship of strategic stability, giving it new substance based on respect, fairness and reciprocity,” Xi said.",
-          "Ahead of the bilateral meeting, Trump said the Board of Trade that he and the Chinese president agreed to form at their Beijing summit in May has brought balance to the two countries’ relationship. He said the US and China had split their tariffs in a “fair way”.",
-          "Earlier in the day, during talks with Putin, Trump also called the Russian leader a “friend”.",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "Trump, Xi, Putin take aim at International Criminal Court in trilateral summit",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGR1a2RxNTBlQkV3bVNKcXVEWmNOMUhPX3NYd2cyUmtCTGItY1RnRFJSOUxoT2pMN25xUXJwY3JTS0VEUkMwTUw5MXJYY1VmQWlkbjNMMHZzV2E0Ynh0ZFdPQVV6YXZFbl8wbm9KOVo3QjBWbjItNlh0VF92dmp5aEVUZ0cxZEVEWUVjQThKR3NPSjloZUFkcC1vVmVmdWNwZ0xHd0ZMWXgxdWtCZEpWSWIyTEp3TGRw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:24:00 GMT",
+        "title": "Ro Khanna wants to be Democrats’ point person on China. So do many others.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUc4Y3NUOEhRUFdER2ZLWDNQTGZNRWlfbUdJUHlQcDNwMlZaSGdYM1VHeWVRQlBqY2dUVkdGeHBsaFBfbzg4SGtWLXBLazVNZzZMZEpxUXdham9MMldLYV9sMzhkQUh2bGlwYV9uQ1BlVXV3WURJZGp1SXM1Q09vbzlaWHl1dHZJb1E?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 09:45:00 GMT",
         "source": "Politico",
         "text": null
       },
       {
-        "title": "Trump's closeness with Putin on display at China summit",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uUEJwQTRZSWwyaHZaMjM2Snc5X09rRXp2QzlkLVNuRmViMVN4azBXV1FCanRQamN5V2NqenJNdFpSMU9vSjV6MUxReG4xU1FUMklveWxn?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:22:45 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "Trump, Xi & Putin Hold ‘Groundbreaking’ China Summit",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kU3dXeHJDU1RqSjZadUNwNDhkZENkSXBfc0RDcHlKS0lEZjJ3cEFpNDBydEtyT0lKZWNRX1VobTlMM3JfOE5xMTZVOXdNUmcwNjFjbHZn?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:19:45 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "New alarm over China controlling drug supply chains",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FVWs4QXItcXhLRWdSOURMQi1GeUVHVERqWHdSaS04TExILTUxTXQxQlVrUmN2MDQ1ZXlWbTlqeFpTdHdlMXlUMW13VlhIMnR1SVBOb1U4bTlOVWp0YnlKeHFQX2UyQVVaanNWY3lB?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:11:52 GMT",
-        "source": "Axios",
-        "text": null
-      },
-      {
-        "title": "Alibaba's Revenue Beats Estimates During China's AI Boom",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnhzZ1FXSlRKX2c0blFkNEluY1JXMG1WQjR0am5wR2ItSUhaajd3V3lsdExzeHUwODNCcVExYnZNZ0NCNEVEallnUlNnWFV0X2dnTGRVc2ZJeDRBZ3NjNFR4NVRhS2QwWlBUem1XQmtMSEVxYzNTbjJodHplMmdMR0RWNUVnc1BjUGZUcDYwb080Y3BrYU5GSHEwYkFkSGdqZ3RjYg?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 11:10:41 GMT",
-        "source": "Yahoo Finance",
+        "title": "Trump mocked for ‘falling asleep’ during meeting with world leaders in China",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDNlS01kUzBlZnRUMld5bFV1RWtkbVhybUFVem8tWERVcWJZVnVBTkZYVGpHLXZ0QjVZTGFLcDJhLWtyTVdXUm5JbVQ5dXdYOXg1SDNhWC14QWdHNHVTZlNvdGc3R2MxZngyWEVoQ1BTRWdDWUtoX1ZPc183RXEwWlpEZ2stdlBTRHU5VTM2Qkx3ZGgtUk1qcXdUeFl6ZS1xdzJtajU4Vm8xUmcwQTdZYg?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 09:22:00 GMT",
+        "source": "The Independent",
         "text": [
-          "Alibaba's Revenue Beats Estimates During China's AI Boom                               1 / 1    Alibaba's Revenue Beats Estimates During China's AI Boom           Luz Ding  Updated Thu, November 19, 2026 at 4:10 AM MST 4 min read                                    BABA                                (Bloomberg) -- Alibaba Group Holding Ltd. (BABA) posted a stronger-than-projected 10% rise in revenue, reflecting the company's pivotal role in providing computing and services to propel China's AI development boom.",
-          "Modi Tries to End Trump Photo-Op in Awkward Viral Moment",
-          "Iran Hit Key Infrastructure, Isn't Behind Tech Outages, US Says",
-          "Costco Shoppers Are Panic-Buying Due to Outages, Analysts Say",
-          "Anthropic Raises $107.3 Billion to Top SpaceX's Record Debut",
-          "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-          "Revenue grew to 271.52 billion yuan ($40.7 billion) in the September quarter, exceeding the average analyst estimate of 270.5 billion yuan. Net income more than tripled, in part because of gains from investments.",
-          "Alibaba faces growing pressure to show it can deliver on AI despite new limits on its access to data center chips. Washington this week moved to shut down a key loophole that Chinese hyperscalers like Alibaba use to access the advanced chips they need. That's turning investors more cautious on their growth potential, as well as their ability to train and run next-generation models. Alibaba's market value stands at roughly $200 billion, less than half its level just over a year ago when investors were betting on it to lead the industry.",
-          "It already ranks among the country's biggest AI spenders, plowing capital into research and data centers to drive a cloud service as well as development of cutting-edge AI models. The company benefits in part from renting cloud computing capacity to tech firms developing artificial intelligence, a business that's thrived alongside Chinese efforts to match US frontier players OpenAI and Anthropic PBC.",
-          "Chief Executive Officer Eddie Wu pledged more than $53 billion over a three-year period to build a full suite of services and businesses from models to chips. The company raised about $10.2 billion from a Hong Kong share sale in August, after Wu said spending would surpass original targets.",
-          "The company just upgraded its flagship large language model, the Qwen4-Max. The Qwen series is the world's most downloaded open weight model family. It offers a consumer-facing Qwen App, one of China's most popular, integrating functions including shopping, navigation, and travel booking, as well as a productivity tool dubbed Qwen Work. And it's Apple Inc.'s partner on AI services in China, set to roll out in December.",
-          "Wu in September said T-Head — the chipmaking arm recently approved for an IPO in Hong Kong — will soon roll out China's most powerful domestic semiconductors. It's shipped more than 560,000 units of its flagship Zhenwu chips so far. Wu said in September the latest Zhenwu V900, slated for mass production in early 2027, can power frontier-model training.",
+          "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+          "President Donald Trump faced fierce mockery after appearing to fall asleep during a meeting with world leaders in China.",
+          "Livestream footage of the Asia-Pacific Economic Cooperation session Thursday captured Trump seemingly getting some shut-eye as Chinese President Xi Jinping spoke about the importance of free and open trade.",
+          "As Xi spoke, the camera showed the 80-year-old president with his eyes closed for at least 10 seconds. In contrast, the camera then cut to Canadian Prime Minister Mark Carney paying attention and diligently taking notes.",
+          "While jet lag may be at play, as the catnap came just two days into Trump’s trip to Asia, it’s not the first time the president has been caught dozing off during important events. White House officials and Trump have previously claimed that he is simply “blinking” when he is caught with his eyes closed for extended periods of time.",
+          "However, critics of the president don’t seem to buy it, and called him out on social media for “embarrassing” the nation by falling asleep during an important gathering of world leaders.",
+          "“EMBARRASSING on the world stage: Donald Trump falls asleep during the APEC summit in China,” the Republicans Against Trump account wrote on X.",
+          "Above that video, frequent Trump critic George Conway noted, “Embarrassing, yes. But the world is safer this way.”",
+          "The press office of California Gov. Gavin Newsom also seized on the moment to criticize Trump, sharing the clip and writing, “The world is laughing at him.”",
+          "Actor and comedian John Cleese brought the jokes, noting, “Maybe it wasn’t a very important meeting?”",
+          "Liberal social media influencer and Trump critic Brian Krassenstein declared, “there is no way that Trump is not asleep here,” while sharing the video.",
+          "“This is so embarrassing for every American,” he added.",
+          "Sarah Longwell, the CEO and publisher of The Bulwark, an independent political media company, joked: “Sorry that affairs of state are interrupting nap time, buddy.”",
+          "White House Communications Director Steven Cheung responded to news reports Thursday about the incident, calling claims that Trump appeared to be sleeping “Fake News!”",
+          "“Fake News! President Trump was looking at papers in front of him while the speaker made remarks. You can clearly see his eyes move back and forth,” he claimed. “This is why the people desmite the media so much. They constantly lie.”",
+          "Trump’s Asian tour began with an Association of Southeast Asian Nations summit Tuesday in the Philippines. He then headed to Shenzhen, China, on Wednesday for a two-day visit that included meetings with both Xi and Russian President Vladimir Putin.",
+          "The 80-year-old president has frequently been accused of sleeping on the job — something he and the White House have denied in the past.",
+          "Over a handful of incidents have occurred just this year of Trump seemingly getting some shut eye during important meetings or events. In January, he was pictured with his eyes closed during an Oval Office event celebrating the Whole Milk for Healthy Kids Act, as two little girls watched.",
           "[continua sulla fonte originale]"
         ]
       },
       {
-        "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 10:32:36 GMT",
+        "title": "How China’s Export Machine Is Beating Tariffs",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrR1lVekZLVWJsVC1yMzUzZXpxQ29RUzBWUHZhYXNXbDJ0UXRxV3JsVFNoQU5PTE9OME9ReTNPZVN5aGNoNlB4akRCZ29nUkM3NHhEblFR?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 09:00:02 GMT",
+        "source": "YouTube",
+        "text": null
+      },
+      {
+        "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 08:23:43 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "Bond yields are rising everywhere—except China",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDV6c3lGUngyMDRuWXBtNERZZFhpQktSNi1Gbm5uMVVRNmxXaHBSaXNCdnBQSF90WEJaeU1QNTluT3p1YmtFbUlmMFZPQzEwMHZRQjJWWTYtcDNpanVYUXJ6WEZiTzdwUWFuQ1Y4RHlCa1VoM3BDMjA4c1l1aTlmb0x2czUtQ3JRQmNUSHVuR0tpRm0tMWdmSGFSWncxVnJNODg5Z3lBM0c?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 10:04:37 GMT",
-        "source": "The Economist",
+        "title": "In summit with Trump and Putin, Xi put himself and China at center stage",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVpocnFHWC1Bd1l0WlVWelo3S3p3SzgybExtZFB2RmYyYVM3ZDhfUUpNZXNnQy03ZnkwTlkyTEVpQWNFcG8zeklQUEx3NE8wendmME1jZGlpTHQzT3RtOHhHeVg3MmwxSUF1M3Zla0ZyZk9GR2tpZkVEd0k0LXNLU0xYU013bC1JY1ptazlONFBxZjRGbElrMkdJWmU0ZHhQSXJ0LWctaEZYUQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 07:23:22 GMT",
+        "source": "The Washington Post",
+        "text": null
+      },
+      {
+        "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmU0RTVlZkhSbi1kX2tyRGhaa0tjTmQtNzVGWjlKeUh5dkxtQkxiSGFNRFkzVF9HWTdzVVRqMExSbjlCSlJUc3FmcmlPOGNIVDAyd01RVllFdDZONkgzNVgwYUE3UVZYUURrR2ZVX1RGajVfbDVndVhuanJhc2VSQ1NR?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 06:37:47 GMT",
+        "source": "The Hacker News",
+        "text": null
+      },
+      {
+        "title": "Trump's personalized diplomacy hits its limits with 3-way summit",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 06:03:00 GMT",
+        "source": "Reuters",
         "text": null
       }
     ]
