@@ -1,125 +1,112 @@
 {
-  "generatedAt": "2026-11-23T15:47:48.709Z",
+  "generatedAt": "2026-11-24T15:39:04.433Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Xinhua China news advisory -- Nov. 23",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPMjNfV0ctRkNBRnlzdXlXaU9fTVZBU2p6MEl4TVI3UUJSWS1VMDRsbHN6TVVfbkhmS2FGVkVTcUdqRl9fVG1CZXlpV2NJU2RmLWtDa3dfOFpfbEg5eXN0MjdlMzRZbVNhcllBaEh5T0FnTGd5bUtrQkJzMng?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 03:51:00 GMT",
+          "title": "Xinhua world news summary at 1530 GMT, Nov. 24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wLTBSNV9XbmxGMmhubE1xcE9hSk1XbmFaS2EwUEsycWNuYi1FR3RWNlducVRpTVNVdnFuVkhROWY0c1NNekIwQzJsOVRBbjhaelpSbzJlcGZBdWVnQ3NubmRKRnVKMTdDM2JZT2hyWDdtbFBteHRnMHh3WW0?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 15:26:31 GMT",
           "source": "Xinhua",
           "text": [
-            "BEIJING, Nov. 23 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Monday.",
-            "-- Xinhua Headlines: Decoding Shenzhen: the city that wowed APEC leaders",
-            "-- Economic Watch: China's sector-specific plans map out path to high-quality development",
+            "BOGOTA -- The number of people injured in an explosive attack on the government headquarters of the Meta department in central Colombia on Monday has risen to 23, local media reported Tuesday.",
+            "The injured, who sustained injuries of varying severity, were taken to several medical facilities in Villavicencio, the capital of the Meta department. No fatalities have been reported, the report cited health authorities as saying. (Colombia-Attack)",
+            "GAZA -- Hamas internal security head and at least six other Palestinians were killed Tuesday by Israeli fire in the Gaza Strip, according to Palestinian security and medical sources.",
+            "Local sources said that Naim Abu Nahal, head of the Hamas-run internal security service, was killed after an Israeli drone fired a missile at a tent west of Gaza City, causing a large explosion in an area crowded with tents housing displaced people. (Gaza-Israeli Fire-Hamas)",
+            "PYONGYANG -- A senior official of the Democratic People's Republic of Korea (DPRK) said Tuesday she would advise the Foreign Ministry to consider closing the Swiss diplomatic office in Pyongyang, condemning Switzerland for imposing sanctions on a children's camp in her country, the official Korean Central News Agency (KCNA) reported.",
+            "Kim Yo Jong, department director of the Central Committee of the Workers' Party of Korea, said in a press statement that the Swiss authorities put the Songdowon International Children's Camp of the DPRK on its sanctions list just a few days after a Swiss delegation visited Pyongyang to discuss the development of bilateral ties and pledged to pursue dialogue and cooperation. (DPRK-Switzerland-Ties)",
+            "NEW YORK -- The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Monday imposed sanctions on over two dozen Iranian exchange houses, front companies and key personnel in an effort to sever Iran's global shadow banking networks.",
+            "The action, part of Operation Economic Outcast, targets the financial infrastructure that underpins much of Iran's remaining foreign trade, disrupting the exchange houses, front companies, and facilitators that move billions of dollars through the international financial system to provide Iran with access to foreign currency despite comprehensive sanctions, the U.S. Treasury Department said in a press release. (US-Iran-Sanctions)  ■"
+          ]
+        },
+        {
+          "title": "Xinhua News | China ranks among global leaders in 6G patent applications",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50cnNXbTdIRDU2aWMyUlEyM0M0WkY3VUdZWnR0Q3hRLVhXUnc2N0pDUXBGZzQ3aFFkZDJpTFgxZ3YzOU5uckl1SWYzOUpCS19DclRmOGhhbGFXTUdGNVpPWU1MaGVXdG5QRVEtZnpWbHpjU2hDXzJWbGZVTFE?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 13:51:16 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua China news advisory -- Nov. 24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rYlduYUJHUVowN1NtLVdDLWIyUTkyUlNtbXRlZy1IcEFUcVVZVUJXR3A1S2hRa0xVRkt5ME9ySXZBbWlTenFUV1pJN3NYQlprc3ZNcmN2V1BUV0VLQ091cGtuYUd0V05qczQ3WTVaeHBnWkRfSHhvcEZrWXU?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 02:49:16 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BEIJING, Nov. 24 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Tuesday.",
+            "-- Economic Watch: Centuries-old classics enjoy new vibrancy at China's inaugural heritage industries expo",
+            "-- China Focus: Serious games seek footing in reality",
             "http://www.youtube.com/user/ChinaViewTV  ■"
           ]
         },
         {
-          "title": "China announces measures to steady stock market",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRYUc2Xzk2dHZ1YjdVYUV4TENWanB1Q2MyUjNud01fTUNDeE5iNDRJNnEzSU1UMy1mZGJGMUtjSnJSNWdpRkwwSXIySmtXRzBsdU1LNV9TRmRVREpEcEsxYjJvMG5aX2NTd0QwU1FRYkY1NkpBc0hpbVhEY1Y?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 16:23:00 GMT",
+          "title": "Xinhua News | Xi extends congratulations on Int'l Day of Solidarity with Palestinian People",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVjFPcnJicGdKOVZkdHVvU3pNWWFiNHBsZFBLM1hkVU5OYXllWUlIczlScVdQQ29oay1vaVVyaTdnSzhURjI1TW5KRjVkTFM5RkljR0Noa0NWbndCQ0pZOEZpei0tV3RuOVJHNGJtNi04T0NuaXNQY0hNU1g?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:19:15 GMT",
           "source": "Xinhua",
           "text": [
-            "BEIJING, Nov. 22 (Xinhua) -- China will roll out a slew of measures to steady the stock market, including lowering the minimum margin requirement for leveraged stock purchases to generate incremental funds, the country's securities regulator said Sunday.",
-            "With approval from the China Securities Regulatory Commission (CSRC), the Shanghai, Shenzhen and Beijing stock exchanges will lower the minimum margin ratio from 100 percent to 80 percent, effective from Nov. 30, according to the CSRC.",
-            "The adjustment is estimated to theoretically bring in nearly 400 billion yuan (about 59.58 billion U.S. dollars) in incremental funds.",
-            "Adjustments to the ratio are seen as one of the key tools for conducting counter-cyclical regulation on China's stock market. Previous downward adjustments in history have increased margin balances and trading activity, playing a notable role in supporting the market, experts said.",
-            "The Shanghai and Shenzhen stock exchanges also introduced a new batch of fee reduction measures, including waiving the participant business unit usage fee, according to the CSRC. The measures waiving listing fees for listed companies and bond transaction handling fees, which were already implemented earlier this year, will be extended for two years to 2028.",
-            "The Shenzhen Stock Exchange on the same day began soliciting public opinion on the market-making rules for stocks on the ChiNext board, China's Nasdaq-style board of growth enterprises.",
-            "The introduction of the market-maker system for the board is an important institutional arrangement to bolster market-support forces, strengthen market resilience and improve the quality of operations, according to the exchange.",
-            "The measures came after China's major stock indices moved lower in recent days, while U.S. stocks plunged on Friday, unsettling investors.",
-            "Earlier this month, China's central bank stepped up monetary policy support for the capital market, conducting the third operation of the Securities, Funds and Insurance companies Swap Facility to help financial institutions secure funding and boost their capacity to buy stocks, and reducing the interest rate of a relending facility for share buybacks and shareholding increases.  ■"
+            "Chinese President Xi Jinping extended congratulations to a UN meeting held on Monday to commemorate the International Day of Solidarity with the Palestinian People. #XinhuaNews",
+            "Xi chairs groundbreaking China-Russia-U.S. summit with Putin, Trump"
           ]
         },
         {
-          "title": "China Focus: China's second homegrown large cruise ship begins maiden commercial voyage",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OSHV0M0lveEJiYzhweHZvT3E0MER5S0ZzLWtaSWlEN3RULVF2MzZoNFRVc0xPSS1ZUTJ0US1jb1RaZkRBSGFtb2hDMHBHUkNqRnRlaEJ4S0pzS3ltTU5VWEZiNHhqdnNNSFJyV3ZESlY1dlN0cFZTQzlvUU8?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 08:14:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "A tourist interacts with a robot on Adora Flora City, China's second domestically built large cruise ship, on Nov. 22, 2026. Adora Flora City embarked on its maiden voyage on Sunday, marking a new step in the country's efforts to expand cruise tourism and boost consumption.(Xinhua)",
-            "GUANGZHOU, Nov. 22 (Xinhua) -- China's second domestically built large cruise ship, Adora Flora City, embarked on its maiden voyage on Sunday, marking a new step in the country's efforts to expand cruise tourism and boost consumption.",
-            "Carrying more than 3,800 passengers, the ship departed from Guangzhou in south China's Guangdong Province on a six-day, five-night journey to Hong Kong and Hue, Vietnam.",
-            "Measuring 341 meters in length and with a gross tonnage of 141,900, the vessel has 2,130 cabins and can accommodate up to 5,232 passengers.",
-            "Construction of Adora Flora City began in August 2022. Operated by Adora Cruises under China Tourism Group, the ship was delivered in Shanghai, east China, on Nov. 6 and embarked on its first trial voyage on Nov. 9.",
-            "Shi Dai, chairperson of China Tourism Group, said the company is using cruise operations to drive the development of integrated cultural tourism products and travel experiences, aiming to set a new benchmark for vacations at sea.",
-            "Adora Flora City is larger and features a more streamlined design than its sister ship, Adora Magic City, China's first domestically built large cruise ship. Adora Magic City began commercial operations in January 2024 and has since completed about 250 voyages.",
-            "Hu Zhenyu, deputy director of the Qianhai branch of the China Development Institute, said the entry into service of two domestically built large cruise ships marks a new phase for China's cruise industry.",
-            "The development will not only expand the range of high-quality marine tourism products but also create new drivers of consumption in coastal areas, Hu said.",
-            "In 2027, Adora Flora City is scheduled to undertake over 50 international voyages from its home port in Guangzhou, offering both short getaways and longer itineraries to destinations including Vietnam, Malaysia and Brunei.",
-            "The ship will also offer voyages with no scheduled port calls, allowing passengers to enjoy the cruise ship as a destination in itself.",
-            "The vessel departed from the Guangzhou Nansha International Cruise Home Port, one of China's largest integrated cruise port complexes. A duty-free store at the terminal also opened on Sunday, adding a fresh shopping option for cruise passengers.",
-            "Wu Qingsong, deputy director of Guangzhou's culture, radio, television and tourism bureau, said the maiden voyage presents an opportunity for the city to better integrate its cruise port, shipping industry and tourism resources.",
-            "Guo Jia, assistant vice president of product and guest experience at Adora Cruises, said the company plans to expand year-round operations across multiple home ports in east and north China, and the Guangdong-Hong Kong-Macao Greater Bay Area, offering passengers more high-quality cruise experiences.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "News Analysis: As Chinese universities use AI detectors to screen theses, questions arise over accuracy",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40ckpXeEx1N2JEWW5aZ0k1MlpONkdUR21jR0xldm14RW9hVVlJeGRBZUJkT3A5MTF4Y2hhdWN0bGVVM0tFVUhIaDBvT0E0VEtVWDlxTVBHeHZUMVF0UnlSNTNMemYwb1R3QmpacDRTSllDZVVZczA5dFh5RQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 08:14:00 GMT",
-          "source": "Xinhua",
-          "text": [
-            "BEIJING, Nov. 22 (Xinhua) -- After five rounds of revisions, one student still had a thesis flagged as 30 percent AI-generated by an artificial intelligence (AI) detector. Such results have become a source of anxiety for many graduating students in China.",
-            "As AI detection tools become more widely used in thesis reviews, some universities have made the \"AI rate\" a formal requirement alongside conventional plagiarism checks. A paper that passes the plagiarism check can still be barred from thesis defense if its AI rate exceeds the permitted threshold.",
-            "But the reliability of this technology is increasingly in question. Some detection platforms have flagged passages from classic Chinese literary works, including Zhu Ziqing's \"Moonlight over the Lotus Pond\" and writings by Lu Xun, as more than 80 percent AI-generated.",
-            "These cases highlight a problem facing universities as they try to regulate generative AI: a single percentage says little about how much intellectual work a student has actually done. Four scholars in the fields of law, communication and education, speaking to Xinhua, said the AI rate should not serve as a decisive standard.",
-            "Commercial AI detectors use AI to identify AI-generated writing, said Zhang Linghan, head of the institute of AI law at China University of Political Science and Law. They analyze statistical features such as perplexity and burstiness, assuming that machine-generated prose is unusually fluent and standardized while human writing varies in rhythm. Given the probabilistic method, no tool is fully accurate, she said, and a percentage alone \"cannot serve as reliable evidence of academic misconduct.\"",
-            "Wang Feng, dean of the School of Communication at East China Normal University, said AI detection differs fundamentally from plagiarism screening. Plagiarism checks compare papers against existing texts and identify sources of overlap. AI detectors, by contrast, rely on algorithmic rules rather than traceable source texts. Results can vary across platforms using different data and algorithms, and can even differ when the same paper is submitted to the same platform at different times, he said.",
-            "Classic works can be flagged because the stylistic conventions detectors treat as markers of AI writing largely derive from classic literature, Wang added.",
-            "Xiong Bingqi, head of the 21st Century Education Research Institute in Shenzhen, south China, noted that plagiarism checks, introduced in China more than 20 years ago, had never resolved questions of originality: students could evade them by rewording or rearranging borrowed text. AI detectors, he said, similarly cannot determine whether a paper is original or innovative.",
-            "The limits of detection matter because students may use AI to search academic literature, polish language, draft an outline or generate an entire paper -- activities with very different academic implications that current detection tools cannot distinguish.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Xinhua News | 9 people injured in shooting during private concert in California",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96NkNnR0dPQWM4OGFsNmZieHRZMWw0Z2RsNG5tX0J1dC1iRGNMTGI4NWNoVnRacmlnYWZ4OENvTWtRNjNObTI4RU9VSHBxLWRhZ1AtTjFyTDc0Rms5aGI1U0FoaEJXSUFnakt5Sk9GeXZDRnU1Z21iTlZyOF8?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 08:09:15 GMT",
+          "title": "Xinhua News | China to launch Shenzhou-24 crewed spaceship on Nov. 25",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tWUhWY1F3M1NaY2EtRFY1U3BzYm8tYkIxY2ZZdkZ5NE5QMkZNQUlMc3p0cDhGd2pTLXI0QVkzbXZTM1hveUxjZDNxbVBidGNFdHFGY0RITG9LUl9xRUJFUzhKYm5Jb2N3cHRsaEFiUm05MC0waTFIdlhwbHY?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:09:18 GMT",
           "source": "Xinhua",
           "text": null
         },
         {
-          "title": "Xinhua Asia-Pacific news summary at 1600 GMT, Nov. 21",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PUUw4RVEyWklhTzlxOFViajROckQxc0RKRlVXaTE0UXU0UVJhUXFWT3lpVUdhdGM3blh0VW82M2haUl9RLTdrdi01MkdCenhQTUtjSnc1TWNKN3FmRWZ6T1dNbjlaRjd2X0JMb0tjNVFIbHM1S0xfaVlGeVU?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 16:01:45 GMT",
+          "title": "Xinhua world news summary at 0030 GMT, Nov. 24",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcDJaenJHMUVmc3VGZ0YxSnltRUNwbklzT3JSRWJIX3VQZDlWUDdZeE5CWlBMYUZfUUFYcy16aG5kanlGRlhXTHF0LWtpVFMxQWFKZk1GampFWGI2R09aTHJfU2VXREkyYUtxZUpsMk1EdXQzVS04Uk55clg?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 00:23:00 GMT",
           "source": "Xinhua",
           "text": [
-            "PHNOM PENH -- Retail fuel prices in Cambodia fell again on Saturday following a decline in international fuel prices, according to the Ministry of Commerce.",
-            "Regular gasoline dropped 6.5 percent to 1.00 U.S. dollar per liter, down from 1.07 dollars 10 days ago. Diesel fell 6.9 percent to 1.21 dollars per liter, down from 1.30 dollars. (Cambodia-Fuel Prices)",
-            "BANGKOK -- Thailand hopes to strengthen cooperation with China in high-tech sectors, including electric vehicles (EVs), batteries, energy storage and optoelectronics, and jointly explore third-country markets, Thai Industry Minister Varawut Silpa-archa said.",
-            "Chinese investment in Thailand's high-tech industries has continued to grow in recent years, Varawut told Xinhua in an interview. He called for closer technological exchanges and talent development to strengthen local supply chains and support industrial upgrading. (Thailand-China-Cooperation, INTERVIEW)",
-            "SINGAPORE -- There is an explosion of cultural confidence in Asian societies in the 21st century, according to Singaporean scholar Kishore Mahbubani, who identifies Asia's rapid economic growth as a key factor behind this resurgence.",
-            "\"The fact that many Asian societies have done so well in the last few decades means that people have more time and countries have more resources to devote to cultural growth and renaissance,\" said Mahbubani, a distinguished fellow at the Asia Research Institute of the National University of Singapore and a former permanent representative of Singapore to the United Nations, in an interview with Xinhua ahead of his trip to Beijing for the Orchid Awards. (Singapore-Orchid Awards-Kishore Mahbubani, INTERVIEW)",
-            "TOKYO -- Japanese civic groups on Friday submitted a petition bearing 47,000 signatures to the Defense Ministry, opposing Japan's acquisition of nuclear-powered submarines and calling on the government to abandon the plan.",
-            "The joint petition was launched by several civil society organizations, including the Citizens' Nuclear Information Center, and collected the signatures in about one month, according to the organizers. (Japan-Nuclear Submarine-Opposition)  ■"
+            "SANAA -- The death toll from airstrikes on telecommunications facilities in Yemen's Red Sea port city of Hodeidah early Monday has risen to 17, with 11 others injured, Houthi-run al-Masirah TV reported, citing the Houthi telecommunications department.",
+            "The department said the airstrikes, which it blamed on Saudi warplanes, killed 17 workers and wounded 11 others, revising an earlier reported toll of four dead and 18 injured. (Yemen-Hodeidah-Casualties)",
+            "SANAA -- At least six travelers were killed and dozens of others injured on Monday when civilian vehicles came under attack on a major road in Yemen's southern Lahj province, a local official said, as the country's warring parties traded accusations over responsibility for the incident.",
+            "A local official told Xinhua that heavy shelling struck several civilian vehicles, including passenger buses and cargo trucks, as they traveled along a main road in the Ma'baq area of Al-Maqatirah district in Lahj province, about 337 km southeast of Sanaa. (Yemen-Shelling-Casualties)",
+            "SAO PAULO -- At least five people were killed, 265 injured and nearly 20,000 displaced after a severe storm struck Tupancireta in Brazil's southern state of Rio Grande do Sul on Friday, according to a state civil defense update released Monday.",
+            "The storm brought wind gusts of up to 114 kilometers per hour, damaging around 8,000 homes in the Tupancireta municipality, according to official data. (Brazil-Rio Grande do Sul-Storm)",
+            "KINSHASA -- The military of the Democratic Republic of the Congo (DRC) said Monday that it had lost contact with a military cargo aircraft, with the whereabouts of the plane and its crew still unknown, amid claims by rebels that they had shot down a government fighter jet in the country's conflict-hit east.",
+            "Military Spokesperson Sylvain Ekenge said in a statement that the air force had lost contact with a Cessna 208 light cargo aircraft flying between Beni in North Kivu Province and Kalemie in Tanganyika Province. (DRC-Cargo aircraft-Missing)  ■"
           ]
         },
         {
-          "title": "Xinhua world news summary at 1530 GMT, Nov. 21",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RR19FbVgtZWFHeURtdzNIOHRnQm52ZDJHRjFzdU5SalU5bWhRVWxFQ3ZhM1lOaVdiTVRlaFZBQ0pWQ3hnUzlKR2l1OHVLTmVidmt1MlVhZkRMYWp6VE5ncVlDZmNFMkdhcHZqekJ6cGRFOUJDTm1TQWNld3k?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 15:13:15 GMT",
+          "title": "Xinhua Middle East news summary at 2200 GMT, Nov. 23",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81ZE9ndGs5M2xIX21kWmE1SGs4VHc0bVFDUUxSbnRGdVNwZ3ROYlRLa2FKZ2dLZTZXS1hQRXpUQlVDdnFUZGt5N1hHN0M1enVvS0o4dHZuWVp6aGhpanhPdS16Z2tTQkZNb2VJNU1vTHJuamdXQ1dPcjRjRGk?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 22:02:30 GMT",
           "source": "Xinhua",
           "text": [
-            "WASHINGTON -- The U.S. Federal Bureau of Investigation (FBI) is probing a breach of its nationwide criminal information database, CNN reported Friday night, citing two people briefed on the matter.",
-            "The intrusion of the National Crime Information Center by apparent hackers is the second such breach in recent months, the report said, noting that the database \"serves as a lifeline\" between federal, state and local law enforcement. (US-FBI-Cyberattack)",
-            "NEW DELHI -- At least 11 people were killed and 181 others hospitalized in the past 48 hours after consuming spurious liquor in India's northeastern state of Manipur, officials said Friday.",
-            "The incident took place in the Chakpikarong area of Chandel district in Manipur. (India-Liquor Deaths)",
-            "TEHRAN -- Iran is willing to end the current state of \"neither war nor peace\" through negotiations with the United States, and its proposed two-day plan to reopen the Strait of Hormuz remains on the table, Iranian Foreign Minister Seyed Abbas Araghchi has said.",
-            "In a recent interview with Iranian media, Araghchi said that Tehran seeks a lasting agreement through diplomacy that would safeguard its national interests and prevent another war, on condition that the United States clearly expresses its willingness to reach an agreement and takes necessary confidence-building measures. (Iran-US-Negotiation)",
-            "BAGHDAD -- Four people were killed and 35 others injured in a fire at the al-Hartha thermal power station in Iraq's southern Basra province on Saturday, according to a preliminary assessment by the Security Media Cell, affiliated with the Iraqi Joint Operations Command.",
-            "Most of the injured are residents of informal housing, with varying degrees of burns and smoke inhalation, and were taken for first aid and medical care, the cell said in a statement. (Iraq-Power Station-Fire)  ■"
+            "TRIPOLI -- Libyan authorities on Monday condemned Ukrainian attacks on vessels at the eastern city of Benghazi and its coastal waters, calling for accountability and measures to safeguard national sovereignty.",
+            "In a statement, Presidential Council Chairman Mohamed al-Menfi said the developments threatened Libya's sovereignty and stability, as well as security in the Mediterranean, maritime trade routes and energy supplies. (Libya-Ukraine-Attacks)",
+            "SANAA -- The death toll from airstrikes on telecommunications facilities in Yemen's Red Sea port city of Hodeidah early Monday has risen to 17, with 11 others injured, Houthi-run al-Masirah TV reported, citing the Houthi telecommunications department.",
+            "The department said the airstrikes, which it blamed on Saudi warplanes, killed 17 workers and wounded 11 others, revising an earlier reported toll of four dead and 18 injured. (Yemen-Hodeidah-Casualties)",
+            "SANAA -- At least six travelers were killed and dozens of others injured on Monday when civilian vehicles came under attack on a major road in Yemen's southern Lahj province, a local official said, as the country's warring parties traded accusations over responsibility for the incident.",
+            "A local official told Xinhua that heavy shelling struck several civilian vehicles, including passenger buses and cargo trucks, as they traveled along a main road in the Ma'baq area of Al-Maqatirah district in Lahj province, about 337 km southeast of Sanaa. (Yemen-Shelling-Casualties)",
+            "TEHRAN -- Iran's Intelligence Ministry announced on Monday that its forces had smashed four operational armed cells affiliated with \"separatist terrorist\" groups in the northwestern province of West Azarbaijan, arresting all 27 members.",
+            "The cells' members were preparing to carry out \"terrorist\" operations and cause insecurity in Iran, said the ministry in a statement. (Iran-Armed Cells-Smashed)  ■"
           ]
         },
         {
-          "title": "Xinhua News | COP31 closing session concludes, outcome document expected over weekend",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92VnExZXFCUmwya0ZtVHBHWmMteDhSRU1sZnowYnJMNnItLWJWOUI3YlBQQmNGR1RXb2otUFBSOUpuQzI1Y3J1WjZFdnJaX3pudTlRUkd4UkV1SWQ2T19DQm5tb3ZuZExDVUV1dkQwVjFmQ05tcWlNVVFkTXQ?oc=5",
-          "pubDate": "Sat, 21 Nov 2026 13:52:16 GMT",
+          "title": "News Analysis: Belgium's education reforms fuel social discontent over austerity",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd004MVcyck5ZaEs3Z3oySU5wcVFrdEtQekVzN1doaU12YXFlakxaVFc5TFNYc19iWjVWWDVuWnMyZ25JNWdsZy1MZm1KYlpaTUNsVllrb3dfZk9Za19PTHl3TldJRV9aQ0NQeFJodDF1X0ZNN2VoTWVZUmx1eXA5OWNmMjN3dw?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 17:30:30 GMT",
           "source": "Xinhua",
-          "text": null
+          "text": [
+            "BRUSSELS, Nov. 23 (Xinhua) -- About 50,000 people marched through Brussels on Monday in a national demonstration called by Belgium's three main trade unions against the federal government's austerity measures and declining purchasing power. Youth and civil society groups also joined the protest, reflecting growing discontent with the government's economic and social policies.",
+            "The demonstration came amid a series of student protests over education reforms, which have broadened opposition to the government's policies beyond workers and pensioners to include younger generations.",
+            "On International Students' Day on Nov. 17, about 3,200 people marched through Brussels to protest rising higher education costs and cuts to education spending. Organized by the French-speaking Students' Federation (FEF), the march brought together secondary school and university students, alongside members of the Flemish Union of Students. Belgium's two largest trade unions, the General Labor Federation of Belgium (FGTB) and the Confederation of Christian Trade Unions, also voiced support.",
+            "The march was initially peaceful but turned violent after some protesters blocked roads in the city center and clashed with police. Officers responded with water cannon and tear gas and made several arrests.",
+            "At the heart of student opposition is growing concern over the affordability of higher education. In French-speaking Belgium, changes to university tuition fees have raised fears that studying could become increasingly difficult for students from middle- and lower-income families. Although reductions and exemptions remain available to those from lower-income households, student organizations warn that higher fees could undermine equal access to education.",
+            "Low tuition fees have long been considered an important means of ensuring broad access to higher education in Belgium. The recent changes have therefore reignited debate over how education should be funded and who should bear the financial burden.",
+            "The pressure extends well beyond tuition. Housing, food, transport and study materials are also weighing heavily on student budgets. Lenaik Dumont, president of the FEF, told Xinhua in a written interview that the combined cost of education and daily living has placed increasing strain on students and their families.",
+            "\"How can one claim to guarantee equal opportunities if access to studies depends more and more on one's financial means?\" she said.",
+            "Concerns are also growing in Dutch-speaking Flanders, where cuts to higher education funding and changes to the student grant system have prompted criticism. Tighter eligibility requirements for financial assistance have raised fears that some students could find it harder to obtain the support they need. Although the measures differ between Belgium's language communities, both have fueled concerns about the affordability and accessibility of higher education.",
+            "Opposition to austerity has increasingly brought different social groups together.",
+            "[continua sulla fonte originale]"
+          ]
         }
       ]
     },
@@ -178,6 +165,106 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "China extends US dual-use export control suspension to 2027",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iWTdva2VMSFE0R0Q2ak56SWQ4Y3RVOEhoaW9IU2s3TjdqU3JHVndaemt2MjcyYzVEN0Q5czEyc0pKek5YZEpDTWpHN2JsOW12QlI0LTBBcHFWRGp4ZE5WeE5tRllRTjhqZ3VvNHJVZ3dKTUdIdFF1RHVJYU1mUQ?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 10:40:45 GMT",
+          "source": "China Daily",
+          "text": [
+            "China will extend the suspension of certain export controls on dual-use items bound for the United States from Nov 28 to Jan 27, 2027, the Ministry of Commerce said on Tuesday.",
+            "Introduced in December 2024, the measures stipulate that exports of dual-use items (goods, technologies, and services that can be used for both civilian and military purposes) related to gallium, germanium, antimony, and superhard materials to the US are \"not permitted in principle\".",
+            "They also require \"stricter end-user and end-use reviews\" for exports of dual-use graphite items to the US.",
+            "The ministry first suspended the measures on Nov 9 last year, with the suspension previously set to expire on Nov 27."
+          ]
+        },
+        {
+          "title": "Why does China matter to Malaysia Airlines?",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmX0lIXzRZd3pnT3BMRGt5bmJweTlRWndPOHVWSlpHZURzZnRaZ0hkQVFYUTlSMll4d29CeF9fam05bnJSbHJ6SlAtZFp1anEtMlpPVlprZU9YdUFQR2pRNUdOSmlNdmtsM0NxTi1ZYUxHdThTMllQcE5HeUUyZw?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 07:41:27 GMT",
+          "source": "China Daily",
+          "text": null
+        },
+        {
+          "title": "Intl development experts discuss urban priorities in Shanghai",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcVlZN0FxNy1DNlpfYlNxYXF0enh4QjNZZFVNc3dYd3hFZ1Vtb1RKSXNUWFhCX09nQ1d5VWNudTlvZDJhMkpwZGdWa0ZNcHNleTRmOGlfZnJQRGp0N1ZvUERMY0F5Y3Y5RGpuRlFDT0JrcFlMdUU0YW85WGdZWENFZVVR?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 06:54:45 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "By Zheng Zheng in Shanghai | \n          chinadaily.com.cn |\n          Updated: 2026-11-24 14:54",
+            "More than 100 government representatives, technical experts and development partners from China and 10 other countries convened in Shanghai on Monday for RISE Week 2026, a platform aimed at turning urban resilience priorities into actionable, bankable projects.",
+            "Jointly hosted by the United Nations Development Programme and Tongji University, the event brings together delegates from nations including Cambodia, Indonesia, Kenya, Malaysia, the Maldives and Sri Lanka, alongside international organizations and financial institutions, to address escalating climate and disaster risks facing cities worldwide and seek to deepen South-South cooperation by linking local urban needs with technical expertise and financing channels.",
+            "\"Good technical solutions cannot stand alone,\" said Xu Haoliang, UN undersecretary general and UNDP associate administrator. \"To make a difference on the ground, they need to fit into national and city plans and be backed by finance. South-South and triangular cooperation can help close that gap by sharing knowledge, building catalytic partnerships and mobilizing innovative financing, so that technically sound solutions become country-led, bankable investments.\"",
+            "Zheng Qinghua, Party secretary of Tongji University and member of the Chinese Academy of Engineering, said that jointly building resilient cities of the future embodies humanity's aspirations for a better life and a shared desire for safer, more trustworthy and more reliable places to live. This requires bringing together global expertise, breaking down disciplinary barriers, strengthening research on the use of artificial intelligence in building resilient cities, and improving the quality and efficiency of urban development."
+          ]
+        },
+        {
+          "title": "ASEAN-China Week 2026 begins in Chongqing",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOW5GMnFOTWRjZzVLVmRyVW9RQUlVSERjNkJMemQ2UnVpNk84MFhham1fRThYc1FaSGpaMVJ4ak5ZbTZGV2lCSzRYem1RMlU4Nm94dGVLak1ESTkzOEVVVlNUWURMTTJwbmxVdTRhb191dzZlN2ZDeHFYRXZqaHd4MURR?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:12:27 GMT",
+          "source": "China Daily Global Edition",
+          "text": [
+            "By Deng Rui and Tan Yingzi in Chongqing | \n          chinadaily.com.cn |\n          Updated: 2026-11-24 09:12",
+            "Three cooperative agreements between China and Association of Southeast Asian Nations members in artificial intelligence and cultural exchange were announced at the opening ceremony of ASEAN-China Week 2026 on Monday in Chongqing.",
+            "This year marks the 35th anniversary of dialogue relations and the fifth anniversary of the comprehensive strategic partnership between China and ASEAN members. Chongqing, a city with robust ties to ASEAN countries, hosts consulates from four of those countries and maintains sister-city relationships with 15 altogether.",
+            "The New International Land-Sea Trade Corridor connects Chongqing with 10 ASEAN countries, marking the bloc a key source of tourism and trade for the city, local authorities said.",
+            "\"ASEAN has long been Chongqing's largest trading partner,\" said Mayor Chen Xinwu. \"Products such as automobiles and parts, laptops, mobile phones and machine tools are particularly popular among ASEAN consumers.\"",
+            "In October, Chongqing's foreign trade volume with ASEAN reached 127.2 billion yuan ($19.09 billion), a 16.7 percent increase from the previous year."
+          ]
+        },
+        {
+          "title": "Pakistani astronaut set to become first foreign crew member aboard Tiangong",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94YmpZT1ZEZU9kLVpmRFJrQjJaY2xyTGRiZUJ4YnZaa1pJS09lSlZzLXhlM0VjZGpiaThrTVQ1aGdJYmNFSTJlRXpHR0ZXZkxERFFWeHBJRVlrMy1tYW1keUgzT3cwaF9JdGVhaEhTaFhDYm1NUXNLdEMxc3V4Zw?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:06:47 GMT",
+          "source": "China Daily",
+          "text": [
+            "China's Tiangong space station is poised to welcome its first foreign astronaut — Pakistani astronaut Muhammad Zeeshan Ali, who will also become the first citizen of his country to travel beyond Earth's atmosphere.",
+            "The wing commander in the Pakistan Air Force is set to fly to the orbital outpost with two Chinese astronauts — Major General Tang Hongbo, commander of the Shenzhou XXIV mission, and Colonel Wu Yi, the crew's spaceflight engineer. Their spacecraft is scheduled to lift off aboard a Long March 2F rocket at 8:18 am on Wednesday from the Jiuquan Satellite Launch Center in northwestern China, Zhang Jingbo, a senior engineer and spokesman for the China Manned Space Agency, said.",
+            "At a news conference on Tuesday morning at the Jiuquan spaceport, Zhang told reporters that the rocket's propellant injection was scheduled to begin at its service tower later that day and that other prelaunch preparations were proceeding in an orderly manner.",
+            "\"After the Shenzhou XXIV spacecraft enters its preset orbital position, it will activate the rapid autonomous rendezvous-docking mode and use about three and a half hours to approach and connect with the front port on the Tianhe core module,\" he said."
+          ]
+        },
+        {
+          "title": "Margin finance shift fuels market surge",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54UEFqMzBmb1paMWtKVjlRTndHdk11a0s5WENCcmxscXROX21haDVyM0tLV2dyZ2FFZlNDcGNtY3Vac0d3eEstV2pzbFVKdDJvanVoYWxvQnVJX3ZTSjRUXzRGSFpvSjBCeTZaMFhPQzQyMTd3T0NXbl9QMDJrUQ?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:00:50 GMT",
+          "source": "China Daily",
+          "text": [
+            "The latest move by China's securities regulator to ease margin financing rules will help improve stock market liquidity and bolster investor confidence, underscoring policymakers' readiness to respond in a timely and targeted fashion, as a sharp sell-off in overseas equities fuels renewed volatility across global markets.",
+            "With the approval of the China Securities Regulatory Commission, bourses in Shanghai, Shenzhen and Beijing announced on Sunday that the minimum margin requirement on securities bought with borrowed funds will be lowered from 100 percent to 80 percent, effective Nov 30. At 80 percent, 1 million yuan ($150,000) of collateral supports up to 1.25 million yuan of borrowing, raising the leverage ceiling from one-fold to 1.25-fold.",
+            "The Shanghai and Shenzhen exchanges announced a new round of fee cuts worth 2.76 billion yuan and extended earlier waivers through 2028, bringing their relief for 2026 to more than 4.6 billion yuan. The Shenzhen bourse also sought public comment on draft market-making rules for the tech-heavy ChiNext, requiring continuous two-way quotes from market makers, which it said would add liquidity and improve pricing efficiency.",
+            "Dong Ximiao, chief researcher at Merchants Union Consumer Finance, said the package carries a clear signal.",
+            "The margin adjustment fits the pattern of countercyclical moves in recent years and should help the market create stable expectations that leverage tools are positioned in a normal, adjustable range, Dong said, adding that market making on the ChiNext shifts the focus of market support from external backstops toward trading infrastructure, which could improve how longer-term investors view the board's trading climate.",
+            "Dong said the effect on liquidity would build up gradually, while fee relief extended through 2028 provides participants with more cost outlook transparency, adding that he expects the capital market to maintain stable development over the long term.",
+            "The measures were met with a firm market response on Monday. The Shanghai Composite Index opened 0.86 percent lower but closed up 0.15 percent at 3,538.95 points, while the Shenzhen Component Index gained 1.93 percent and the ChiNext climbed 3.08 percent to 2,280.20. The Beijing Stock Exchange 50 index added 4.67 percent. Turnover across the three bourses reached 1.56 trillion yuan, up 132.9 billion yuan from Friday, with 4,655 shares advancing and 151 closing at the daily limit. Robot makers, film and media companies, and medical services were among the top performers.",
+            "Yang Delong, chief economist at First Seafront Fund Management, described the weekend measures as timely. Early pressure came from overseas markets, where the Nasdaq Composite fell 5.28 percent and the Philadelphia Semiconductor Index nearly 11 percent on Friday, a slide he said was within expectations after years of gains had pushed valuations to historic highs.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Surgeon saves overseas worker's severed thumb, 40 hours after accident",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QTjRXS0s4eXJSVEpfNnBrMVFKa1J5cV9FOUV2ZzRVZ1RnaXJ3V04zdTFWVWdDT1B2bV9XMU5aTVcxcUFqS1RrQm8tUV90RG9vNGpnZmtieDdpTHM1RlZDOFF1VkVNQjBuUDhXSzdySTR6YzYxU2tpQ2kwWjlqQQ?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 00:55:22 GMT",
+          "source": "China Daily",
+          "text": [
+            "With nearly 1,000 finger reattachment surgeries under his belt, surgeon Wei Qingyu had never doubted the chances of success in the operating theater — until he was presented with a thumb that had been severed for 40 hours.",
+            "The case involved a worker surnamed Wang, who got injured at a construction site in Libya on Sept 7, when a steel wire rope suddenly sprang up and severed his left thumb.",
+            "Local medical institutions could not perform the replantation, so he had to return to China for treatment.",
+            "He first flew to Turkiye, then to Shanghai and from there caught another flight to Chengdu, capital of Sichuan province. At around 3 am on Sept 9, Wang finally arrived at No 1 Orthopedics Hospital of Chengdu.",
+            "\"The patient's left thumb was severed at the base, with only a small amount of skin still attached. The blood vessels were completely ruptured, and the bone was fractured in two places,\" said Wei at the hospital's repair and reconstruction surgery department.",
+            "\"The golden period for replantation is only six to eight hours. The longer the delay, the exponentially higher the risk of necrosis in blood vessels, nerves and muscles,\" he said, adding that a 40-hour post-detachment period presented challenges.",
+            "Such a lengthy period is rare in replantation cases both at home and abroad. According to Wei, the longest case the hospital had previously handled was under 30 hours.",
+            "Despite nearly nine years of experience in replantation surgery, handling more than 100 cases a year, Wei admitted he could not guarantee success in Wang's case.",
+            "\"In fact, the patient also had little confidence in replantation himself,\" Wei said. \"He told us that he came to the hospital prepared for thumb reconstruction.\"",
+            "Thumb reconstruction refers to building a new thumb using materials from elsewhere on the body, such as skin, nail and joints from a toe.",
+            "\"The original thumb is always the best. So after discussing it with the patient, we decided to try replantation first, and turn to reconstruction if it failed,\" Wei said.",
+            "Upon Wang's admission, the hospital immediately opened a green channel for emergency treatment. The medical team from the repair and reconstruction surgery department sprinted into action, while the anesthesia and operating center units simultaneously made preparations, ensuring a seamless treatment process.",
+            "\"Even beyond the golden period for replantation, as long as there is a glimmer of hope, we will not easily give up,\" said Zhou Mengsen, director of the department.",
+            "Replantation requires surgeons to work under a microscope, reattaching blood vessels and nerves so fine that some are thinner than a strand of human hair, along with tendons and bone. Wang's case was even more challenging, as the prolonged detachment had caused severe necrosis in the severed thumb's blood vessels, according to the medical team.",
+            "The operation, which lasted nearly three hours, was a success.",
+            "\"Normally, once the artery is reconnected, the thumb would regain color within two or three seconds. In this case, it took about half a minute before blood flow gradually resumed,\" Wei said.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
           "title": "Zelensky says Ukraine sank Russian corvette off Libyan coast",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMmlobkhwYnA3Z3lQTFBxVWFka25FdVZ3UGNfT2liNUFyOWgzSEFraE9TWC0wSU10SkgxeWFXRno4bi0zTEJPUndyLXlkdkI3TElyVDR0Yl9pQkJhOFltVW4wSGMtcEVuQ3dpTno2QzZzNXFLVVozU2NnZ1JLdw?oc=5",
           "pubDate": "Mon, 23 Nov 2026 07:37:30 GMT",
@@ -188,147 +275,114 @@
             "He said the operation, which involved seven Ukrainian-made naval drones, also destroyed a Ka-27 combat helicopter and hit dry cargo vessel MV ANGARA used by Russia to transport weapons.",
             "The Security Service of Ukraine conducted the mission in coordination with the country's Defense Forces, according to Zelensky."
           ]
-        },
-        {
-          "title": "Song-Dynasty Jiangnan comes alive at Shanghai's Jinshan Museum",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUldmdkNQUzhyUTl0RFlRUFRTOGVuMmRzdXN1SmNtU2RZV25lc2QtZ1FqRjBrZ3lKSW02TThlT240Tjd4OE94emxBVTRUcFMwWDAtZUZRMjEzSHNzQTNOcTRjazZGMUR4aEpnUG5sdUNGMzZuVWFQOEJiRzM2MXNmUUx3?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 03:29:47 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By ZHANG KUN | \n          chinadaily.com.cn |\n          Updated: 2026-11-23 11:29",
-            "Opening on Saturday, the new exhibition at Jinshan Museum in Shanghai's suburban Jinshan district, Jiangnan in Song Paintings, is the latest stop on the national tour of A Comprehensive Collection of Ancient Chinese Paintings.",
-            "The project behind it, launched in 2005, has grown into a national undertaking spanning more than two decades. Three worldwide image-gathering campaigns brought together 12,405 Chinese paintings (sets) from 263 institutions at home and abroad; the results were published in 257 books across 68 volumes — the most extensive illustrated archive of its kind.",
-            "The Jinshan stop, the 103rd on the tour, brings together 306 exhibits (sets) and runs through Feb 21, 2027.",
-            "The Song Dynasty (960–1279) was a golden age for Chinese painting. Jinshan — on the north shore of Hangzhou Bay and part of Xiuzhou during the Song period — was a land of crisscrossing waterways and reclaimed fields, of fishing, salt-making and mulberry cultivation: the very world the painters recorded.&nbsp;",
-            "Dong Yuan's Xiaoxiang Landscape&nbsp;and Xia Gui's Pure and Remote View of Streams and Mountains&nbsp;capture the region's soft, expansive hills; Li Song's The Peddler&nbsp;packs roughly 300 wares onto a village peddler's load, while an anonymous Song-dynasty Sericulture and Weaving scroll supplies the bustling human detail.",
-            "The exhibition opens with an immersive light-and-shadow prologue featuring 101 Song paintings, then unfolds across two halls and four sections."
-          ]
-        },
-        {
-          "title": "Free noodles stir debate in Nanjing",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iUXZQeFhETHNlTF9zSDJDTzhXOGRiNjRxdjBUZ1VDdlJwWnJfT1A0WXNKOThwRnJDVFFhNzZDLVB1aWEwd1RaekwyU015Z1RmaEpGZ0FNSUc3X2FFdzJqSzV3al9xOHdob2xUYUdOd096UzJuTDBZT3dhOEVOZw?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 00:58:34 GMT",
-          "source": "China Daily",
-          "text": [
-            "A free vegetarian noodle shop in Nanjing, Jiangsu province, available to the elderly and gig workers, has sparked debate over individual charity and its impact on nearby businesses, with some restaurants reporting a loss of customers and others considering moving out.",
-            "The topic of the Zero-Yuan Noodle Shop drew at least 12 million views on Sina Weibo, a Chinese social media platform, as of Sunday.",
-            "The Zero-Yuan Noodle Shop, which opened its doors in October, serves vegetarian noodles free of charge to those in need, the Yangtse Evening Post reported in early November.",
-            "From the onset, the shop permitted everyone, with no restrictions on age or income, with the elderly and those working in the informal sector making up a large part of their customer base.",
-            "A customer surnamed Pan, who is job-hunting and has no fixed address, visited the shop twice, saying the noodles brought him immediate relief.",
-            "However, since Nov 14, after complaints from neighboring businesses, free meals are now only available to people aged 60 and above, people with disabilities, sanitation workers, couriers and food-delivery riders, the Yangtse Evening Post reported.",
-            "The owner, surnamed Zhang, told local media that he wanted to do some good with the shop. The shop's two outlets together serve about 3,000 bowls a day, Zhang said.",
-            "For nearby noodle restaurants, however, the free meals have affected business.",
-            "Huang Haoming, dean of the Hainan-based Asia Academy of Philanthropy, said individual charitable acts are not prohibited under China's Charity Law, although he acknowledged that free services could affect businesses depending on the circumstances.",
-            "Beijing News reported that a noodle shop about 100 meters from one of the outlets saw its daily turnover fall by about 200 yuan ($30) to 300 yuan after the Zero-Yuan Noodle Shop opened. Its owner, whose lease expires in March, plans to relocate, citing the free shop's presence nearby.",
-            "Another noodle shop about 800 meters away reported being less affected. Its owner said the free shop mainly attracted customers who would normally buy low-priced noodles, as well as elderly people who had time to wait in line.",
-            "Even so, the owner said he plans to relocate when his lease expires, as nearby noodle shops may lower their prices to survive, drawing them into a price war.",
-            "In contrast, another nearby noodle shop owner said turnover was still rising, crediting a stable base of regular patrons.",
-            "Zhang told the Yangtse Evening Post that the shop's single-item menu set it apart from nearby restaurants, which cater to a wider range of tastes and budgets. He said his shops could not start charging customers because the name had already ruled out that possibility. He added that no profit model had been designed so far.",
-            "Huang said helping people in need, including seniors who have no one at home to cook for them, was \"definitely a charitable act\".",
-            "\"No law says that his charitable act is wrong, nor does the law prohibit him from doing it,\" he said.",
-            "\"Doing charity is a citizen's right. It is something that should be encouraged, and the central government does encourage it.\"",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "From Yijing to Taoism, an enduring search for life's deeper meaning",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12dS1QSkh0dmdRV2NWcl9BbW9JTHZMNXZ5MlVNT2dsWGNkT011SzZCbFdOQ3NJckxtV0MyLXFYaUcycW1sVjJMNmpoWmRhdW1WRFJTRjFRbTVCRjhIRVVEcnc1TjUyUnJFRTIzdzNEQVRhcXBmWklrU1kwYnJyUQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 23:32:58 GMT",
-          "source": "China Daily",
-          "text": [
-            "In the autumn of 1969, 27-year-old Guy Alitto arrived in Taipei to continue his study of Chinese. He immediately noticed a cultural difference.",
-            "\"I was overwhelmed by the way people would respond when you asked them for the location of a place. In the West, they would always give you the address, which is something absolute. But the Chinese would only describe it in relation to something else,\" recalls Alitto, an acclaimed China scholar and visiting professor at Beijing Language and Culture University.",
-            "\"The more I thought about it, and the more I learned, I could see the fundamental difference was that Chinese thought was always relational, whereas there's almost nothing like that in Western thinking.\"",
-            "Alitto often recounted this story to his students at the University of Chicago, hoping to help them \"appreciate how life could make sense to someone without the assumptions and values that the students carried around\". The central ideas of those lectures have now found their way into his book The Uniqueness of Chinese Civilization in World History. In tracing the roots of relational thinking, Alitto turns to the Yijing, or Book of Changes, an ancient Chinese classic that he sees as the distillation of collective wisdom accumulated over several centuries leading up to the early Zhou period, around the 11th century BC.",
-            "At the heart of the Yijing is the interplay of yin and yang, opposing yet interdependent forces that define, complement and give rise to one another. Neither exists in isolation; each acquires meaning through its relationship with the other. Rather than viewing the world as a collection of fixed, self-contained entities, the Yijing presents it as an interconnected process of continual change. Its vision of the relationship between Heaven, Earth and humanity places human existence within a larger cosmic order, in which the meaning of things is shaped not only by their inherent qualities, but also by their relationships with the world around them.",
-            "Yet Alitto is equally struck by another feature of the Yijing: its reliance on symbols and images to convey meaning. Its 64 hexagrams, formed by different arrangements of broken and unbroken lines representing yin and yang, express a wide range of relationships and changing circumstances through a remarkably simple visual system. The text thus suggests that understanding the nature of things requires more than simply naming or describing them; it calls for an appreciation of the underlying patterns.",
-            "\"Written words and even speech itself are static. We have to have an agreement about what my words mean before I say something to you. And that makes for a static relationship,\" Alitto says. \"What the Yijing is trying to capture is the endless flow of things — a reality that changes every nanosecond.\"",
-            "This concern with the limits of language also has echoes in ancient Greek philosophy. Heraclitus saw the world as being in perpetual flux, yet shaped by an order that gives coherence to change; Plato questioned how stable knowledge could be attained in a world of constant change, while Aristotle distinguished words from the realities they represent.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "From fading mining town to Xinjiang ski destination",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mdXZuSXE3NWdjTkgyN3B3aU5GNkRjRFMtOEJLWTZEMnVoX19NSVJLUTRfd2ZTM0ZXS1hmREpPUEVJdUNOSEU1UC1aT1ZsQmx5b2JsT3d5OGZTT2YtTEVxNUF0dmtvRkpMRHBUUGJfVEdkcGlYMV9JTjVUd1pBUQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 22:22:32 GMT",
-          "source": "China Daily",
-          "text": [
-            "When 13-year-old Qadir Hali arrived in Koktokay in the Xinjiang Uygur autonomous region in 1942, he could scarcely have imagined that the mining town would one day become a destination for skiers from across China and beyond.",
-            "More than eight decades later, his son Kumash Qadir, now 63, has witnessed that transformation firsthand.",
-            "Once a major mining center, Koktokay, in Xinjiang's Altay prefecture, is now home to one of China's earliest-opening ski resorts. Since launching its 2026-27 season on Oct 20, the resort has welcomed nearly 25,000 visitors, including more than 22,000 skiers, in the first two weeks.",
-            "Koktokay, meaning \"green forest\" in Kazakh, sits in the mineral-rich Altay Mountains. After mines were discovered in 1935, Koktokay earned a reputation as a major industrial center.",
-            "But declining reserves and changing market demand brought economic hardship from the mid-to-late 1980s. The town's population fell from a peak of 50,000 to 60,000 to just over 10,000.",
-            "Kumash, who was born in Koktokay, followed his father into the mining industry and worked there for 20 years. He recalled a thriving town where sporting events were regularly held.",
-            "In 1999, as the mining industry declined, he lost his job.",
-            "\"As a local who grew up here, I felt quite lonely at the time and had little certainty about the future. Some people urged me to move away, but I had grown up here and felt attached to my hometown, so I wanted to stay,\" he said.",
-            "To make a living, Kumash bought a car and began driving passengers between Koktokay and Urumqi, the regional capital. \"Later the ski resort was built, and things slowly began to change,\" he recalled.",
-            "The Koktokay International Ski Resort opened in 2020, providing Kumash with a new job on its operations team.",
-            "His working day begins before dawn, when he drives his pickup truck to deliver safety nets to the slopes and anti-slip mats to the ski hall. In his spare time, he even helps care for a husky left with him by a skier.",
-            "\"Now I have a job, and the basics of life are taken care of,\" he said. \"In the past, herders had little to do in winter, and the villages and town were quiet. Now there is winter work. Some people work at the resort, some serve tourists, and some rent out their houses for extra income.\"",
-            "The tourism boom has also created opportunities for younger residents.",
-            "Ardak Salinbek, 28, works at a ski equipment shop at an altitude of 2,200 meters, serving nearly 100 customers a day in winter.",
-            "Born in Kairti Village, 15 kilometers from the resort, to a herder father and a farmer mother, she initially worked at a township hospital after graduating from medical school, earning less than 3,000 yuan ($425) a month.",
-            "\"The pay wasn't high, and the work was rather dull. I felt the ski-gear business suited me better. I get to meet friends from all over the country and learn something new every day,\" she said.",
-            "Her parents initially questioned the career change but were convinced when she brought home her first monthly paycheck of 16,000 yuan. \"As skiing in Koktokay became better known across the country, my parents realized it was a new opportunity for young people. They told me to 'go for it',\" Salinbek recalled.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "COP31 ends without agreement on climate deal",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15c0t5VFIyR0ozLUJkbFRWdVRGaFB0SUNyRU5nWjZtNnh6RWFDZFlLWHBrTDNibWxGRTgwY3ZLR0lHOTNDYlBrSi1FR3Mtd3pMbVNTT1VyQ3dFbWExRTFfQ2pzZjk3cDI4aDVvYjFrSW5RcHdHYTJpMXptMjAtUQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 16:44:36 GMT",
-          "source": "China Daily",
-          "text": [
-            "The 31st session of the Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP31, failed to reach consensus on the Antalya Pact on Sunday in Antalya, Turkiye.",
-            "After more than two weeks of negotiations that spilled two days into overtime, COP31 President Murat Kurum said at the closing plenary that he could see there was no agreement, confirmed he would not advance any new text, and later left the stage in the midst of speeches being delivered by country representatives.",
-            "\"There is nothing to do, we did all that we could. Since there are 196 countries, they will make the decision and we will respect their ‌decision,\" he said.",
-            "The last time UN climate talks failed to get a deal adopted by all was in Copenhagen in 2009.",
-            "While a blow to efforts to ratchet up international action, the failure to agree on a political declaration in Antalya does not erase the obligations agreed upon by previous summits or remove the technical and legal ‌frameworks governing multilateral action against climate change.",
-            "Many delegates from developing countries arrived in Antalya hoping that COP31 would deliver stronger support for mitigation and adaptation. However, as the negotiations dragged on, those hopes increasingly gave way to frustration.",
-            "The mood was already visible at Friday night's plenary session, which began after 9 pm, more than an hour late. Shortly after the session opened, a protester interrupted Kurum.",
-            "Standing on a chair with a red noose around his neck and wearing a shirt that read \"You are killing the future\", the protester shouted: \"There's no money. The Global South cannot wait,\" and \"You are doing nothing, nothing at all.\"",
-            "The protester was escorted from the hall by security officers. The scene reflected the deep divisions among the participating countries over fossil fuels, climate finance and the direction of global energy transition.",
-            "Some NGOs warned that the conference was at risk of becoming one of the most disappointing COPs in recent years.",
-            "In an open letter to Kurum and Chris Bowen, COP31 president of negotiations, dozens of nongovernmental organizations around the world said: \"The Global South is being abandoned.\" They accused developed countries of blocking progress and coming to the conference without new financial commitments.",
-            "\"Without finance, communities on every front line will be sacrificed,\" they said.",
-            "Finance remained one of the most difficult issues. An earlier draft included language on tripling adaptation finance to at least $120 billion a year by 2035. But the second draft removed the explicit target, while the last proposal failed to provide a clear baseline or detailed delivery pathway for adaptation finance.",
-            "Developing countries had demanded greater clarity on how much money would be provided, by whom and on what terms.",
-            "The last draft also showed how the presidency sought to avoid a direct confrontation over fossil fuels. It retained a proposal to raise electricity's share of global final energy consumption to 35 percent by 2035.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "What's really behind the global sell-off?",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYXF4ODN5ZmtPcVNMMEcwcHA3VFRnc0ZsNmFyNE9KdW9ONzVVUENjY2RQWEtoMEhIaFlBUVdtdmJXY3AxMVd0LVZSYmtvR3RJU2xFeGV0aTNrM0FfcDRyVjU3SWtkTUZLRHJmTUFEU0JZam1UTWhjeW1BbE1mVHNlaA?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 06:53:55 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "By Zhou Lanxu, Zhuang Qiange and Wang Yubo | \n          chinadaily.com.cn |\n          Updated: 2026-11-22 14:53",
-            "The Nasdaq, Nikkei and Kospi each fell more than 5 percent on Friday. Even gold slid. Beyond Nvidia's shake-up and Anthropic's record IPO, what really spooked investors? This episode of Talking Business examines what drove the sell-off and what potential opportunities could be simmering in this turmoil."
-          ]
-        },
-        {
-          "title": "Where does the APEC venue get its power?",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oeWpwd0R2aTBIcXUwMmVMamFZckFEVE13TVIxbWVrVmZOVHFyNkxNcDdxajhoOVFMSmF1Q1VXcnFBNEU5UV9QSGUxRThPUGhqVGo4WTNPUXZ2RTBoZXpVN1lBMDA1dy1ZVlFleklCZi1MQUluVFVKS29pQUpsQQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 03:20:50 GMT",
-          "source": "China Daily",
-          "text": null
         }
       ]
     },
     "caixin": {
       "status": "ok",
-      "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixin.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Caixin, 19/11/2026 - 财新网",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYXd2bEJBLUo1ajhXeXhOQmphVmYxb2lGZE9EMjMtMW93Z1YwLVZHV2Y4ZDcyZ1JlMTd3THZNSUpYOVpZUjA4Vi1hN1pfbFQtcUZmYlR0bXNKSXRu?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 03:16:38 GMT",
-          "source": "财新",
+          "title": "Shanghai Party Chief Chen Jining Under Investigation",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcHpwN2ZzczM0eFMzNV9uaGtHMjFKOEtJeTJ5ZlN3dU5TSnVLd18tQWFRazlLRlBrbEx6bWg2Y3F0ZFd3WmlEYUVGZ3owaWg3TmNrWmxTcUNfcG9UdlNiUkJwLU0xSTJzNkEwUm1neTlad3VsVzJDMkhseE5LWFNfYm9WZXlFVTdmM2J4TVJROUp5eHhONHo1anlSMGlFTzhyb1hxMGsxbHpIZ00?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 15:08:00 GMT",
+          "source": "Caixin Global",
           "text": [
-            "【财新网】人工智能正成为推动产业变革和经济转型的重要力量，如何通过技术应用提高生产率、创造经济收益，是各经济体面临的共同课题。",
-            "11月18日，在2026年亚太经合组织（APEC）工商领导人峰会上，澳大利亚、韩国、泰国、越南四国领导人分别阐述了各自对人工智能发展的判断。他们共同认为，要充分释放人工智能蕴含的巨大经济潜力，离不开跨国合作、产业应用、基础设施建设和有效治理。",
-            "澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）援引该国生产力委员会的估算称，未来十年，人工智能有望使澳大利亚多要素生产率至少提高2.3%，为国内生产总值带来1160亿澳元的增量。他认为，任何一个经济体都无法独自实现人工智能的全部效益，各方必须加强合作，共同把握机遇、管控风险。"
+            "Shanghai Communist Party chief Chen Jining, a member of China’s Politburo, is under investigation for suspected serious violations of party discipline and the law, the official Xinhua News Agency reported Tuesday.",
+            "The investigation is being conducted by the Central Commission for Discipline Inspection and the National Commission of Supervision, China’s top party disciplinary and state supervisory bodies. Xinhua’s brief announcement gave no details of the alleged violations.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Shanghai Vice Mayor Chen Yujian Placed Under Investigation",
+            "ICBC Audit Official Surrenders in Corruption Probe"
+          ]
+        },
+        {
+          "title": "Nearly 30% of Chinese Seniors Who Need Care Don’t Get Enough Help",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0VPM3hwd24xcnZrNnBNVWJsZzRMbDdFMG9qc1RFWmRNaGVvMDBmSFZEMHViSmdmX2VhZkVVd1RSbXdZTE1OLW5ybml1aEJXMnppMzRIRUc2bVpHZTUzNGlsMHZiaUFlZkhvQmliTGRYUDh3ajhjcmtvYjBuUDZ2eF9qd1U3cEEtVGNxNE9mUjU2Vm8tTGxQUXc2MnBXdS15djBXdXhiQkd6RC1OblAyVWQ5ZDhCRTdLdmc?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 11:03:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "About one in five older Chinese people need help with daily tasks, and nearly 30% of those needing care lack assistance with at least one task, according to a national survey that highlights gaps in an elder care system heavily dependent on families.",
+            "The need for help rises sharply with age. About 46% of respondents aged 80 and older needed assistance, compared with 21% of those ages 70 to 79 and 11% of those ages 60 to 69. Relatives provided care to about 94% of older respondents who needed and received help.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "China Leans on Younger Seniors to Solve Rural Elder-Care Crisis",
+            "In Depth: How a Ponzi Scheme Fleeced China’s Elderly"
+          ]
+        },
+        {
+          "title": "Former Local Party Chief Indicted on Bribery Charges",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejlJNVd6WTFJY2ZrcGRWS3RmWVZISXF4endudEo4SUhCa2M4dWpsendNaUQ3X2NMUUhpOTM3dWpuN084RktZQmc1eVY4WllhNFpwYXc5aUR1aE9NejNmY0tHSUlkT1pLNHprcHNmM3ByR1E0RXBxM0tqcGVKXzhFMGpobW43OTluMzFPaWczX1Z0c1JHRTlPcFJ5ZzRadk5jMklid1B5MW5IQkU?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 10:36:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Former Xi&rsquo;an Communist Party chief Fang Hongwei has been indicted on bribery charges in a case spanning roughly 23 years of his career in the auto industry and government, Chinese prosecutors said Tuesday.",
+            "Prosecutors allege Fang used senior positions at state-owned automakers and in the Shaanxi provincial government to secure benefits for others and illegally take money and property as bribes. They described the amount as &ldquo;particularly large,&rdquo; but did not disclose a figure.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Former Zhejiang Vice Governor Gets Suspended Death Sentence for Bribery",
+            "Former Hainan Security Chief Xiao Jie Indicted in Bribery Case",
+            "Ex-Security Chief of Jiangxi Province Indicted over 19-Year Bribery Scheme"
+          ]
+        },
+        {
+          "title": "Trump Praises Nvidia Chief’s Return",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUhDUV8wMHZKY1RuR1haZW9OUDMxWTBmZ3BXWEp0ZGtEelZDdkRxSFBnc3plam1TMGJyREpfcEpmMEx2N1RjUTJnRkRSWlN5QkpiaGlDdnpaY0ZwZHA1UDU1R25WSHhBbEJNNk5LaXJhUjBHYzZjRzkyRlNQLXMzc2tFUUZyTXlmMElPcllYVG5TR1k?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 04:39:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "U.S. President Donald Trump welcomed Jensen Huang’s return as Nvidia Corp. CEO, saying that the government has no evidence that Huang has acted unlawfully to harm national security.",
+            "Nvidia announced on Friday Huang’s reinstatement as CEO, president and a member of the board, effective immediately, noting that the board consulted senior U.S. government officials and, based on their advice, is confident that his return will pose no national security risk.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Cover Story: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
+            "Blog: Jensen Huang’s Possible Return to Nvidia Won’t Solve China’s Computing Crunch"
+          ]
+        },
+        {
+          "title": "CX Daily: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjY3emRjb1FlNUFOWDM2Y1lGSHk5dkFiSzV5MGRGQ1ktUWZpZm9Tb3FEdVhxdjJLal9lbVBHVElZT1FXUDdGcEVSRk8zMkR2eEZ3M2MxQmg4ZWFRQklIU1lJMUg3RXU3bXpnU3pYY0trTmxPajBsZW5fdlY0YTJoaklvWHhtcGhFZktYZjItMEFycm5VNEdXVmd0NFpuR2N2ZWdib0VTMk5EdjU5ZGlZdg?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 01:00:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Cover Story: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
+            "Jensen Huang spent 33 years building Nvidia up into the engine of the artificial intelligence boom. Four days after publicly apologizing for an extramarital affair, he resigned as president, chief executive and director.",
+            "In Depth: How Forged Stanford Ties Drew Chinese Investors Into a University Deal",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations."
+          ]
+        },
+        {
+          "title": "In Depth: Shooting Coach’s Appeal Asks if China’s Gun Controls Go Too Far",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekVhSU9JVFAyT0ZqQVRCY25wSU1GWUN5OTFQWVR5QWJCVXczaGhjbnY2RTdETksxelp2SnRvU0dUNld4a2dBMmNkZ2M5T3czaG84d3BnbXhJajhHYjAxZjlaYWxoRW44Z2RQUnM1U3dhREdGVnNFYTU3aEJUMDQxc3Nqbmt3TGxKUGRRamNTZE5kbmc0dktJNmFTQW14QTNrNDBsc0p5ay1lX1dPTkE5X2pCd1JEajQyRHRVV2NEbFhqQjQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 10:25:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "A Chinese shooting coach sentenced to 10 years in prison for smuggling gun parts has asked an appeals court to overturn her conviction, arguing that she supplied essential equipment to sports shooting teams struggling with shortages — not weapons intended for criminals.",
+            "The appeal by Tian Hong and her son, Fu Yihan, heard Nov. 12 at the Beijing High People’s Court, revolves around the issue of whether importing components such as air cylinders for competition firearms should constitute weapons smuggling. Their lawyers challenged both the procurement restrictions governing China’s shooting teams and a legal formula that sees every 30 individual gun parts as the equivalent of a complete firearm.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Arms Smuggling Prosecutions Spark Debate Over What Constitutes a Gun Part"
+          ]
+        },
+        {
+          "title": "Germany, Austria Propose Putting TikTok Under European Ownership",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWpkZ2JXZzdPeWlEc0FFazJEZUJhS1dZaktCTlN2UFhYSHk5bUdleFd0N2lObkFoRVFLV184SGRQUzdwSjNfUF9BdG5QMlZNakVCM25UUldOTFB1ZEx5NE9OUzVpS2ctLTVGRnNRUHdpeHlDWDJ0Mk5KSS1hWTZIWUN5MWY0clJTaElaRGRIRFhRVVkwOEJLYlplUWpQNmRjbjJ2Vnp2MWdEbXF3QnlwczB0TE5lMFJjOVE?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 09:13:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Germany and Austria have proposed putting TikTok under European control to safeguard personal data and boost sovereignty, as the EU tightens oversight of the Chinese-owned social media platform.",
+            "Germany’s media minister Wolfram Weimer told an EU ministerial meeting in Brussels on Friday that he wanted European investors to buy 75% or 80% of TikTok’s European business. He said that several parties had expressed strong interest and that he expected to raise 25 billion euros ($27 billion) to 30 billion euros for the stake acquisition.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Spain Pushes for TikTok Suspension Over Child Abuse Content",
+            "EU Finds Violation in TikTok Recommendation System"
+          ]
+        },
+        {
+          "title": "Dutch Court Rules in Favor of Jaguar Land Rover in Design Dispute With BYD",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXVVdXdWUGd5cmtXQi15dlJvSWdzaVA3N1VycFIzbWxKS1dWZmI1cVYzWk5tMlR0dS1ieWs1YWtGTWdRQmx2bTRzVU5zY0QxYlpZUUl0OUVrV1NETXpwZWN5NnlPWmwtYUhtY2dVaHJvamVpWjNIbU1HbjAtdExQNzRXQ0JNMTlZaEhWcjJaaVgtUVRINDhCY1NIWFNFUVVmcmFjWTlWUTQwMHM5SkhWdWV1N29IZ0wwTXJRbE5TM0NjSlJocElWa0JWSUg1QQ?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 07:58:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "A Dutch court has issued a temporary injunction against EU sales of Chinese electric vehicle giant BYD Co. Ltd.’s Ti 7 SUV after a preliminary finding that its design infringed on the exterior design of a Jaguar Land Rover Automotive PLC model.",
+            "The order, issued by the District Court of The Hague on Friday, prohibits BYD from producing, selling, storing or delivering the Ti 7 within the EU, where the model is not currently sold. In that case, the measure is primarily intended to prevent it from entering the market.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Dutch Court Orders Destruction of Materials Seized From BYD in Jaguar Land Rover Dispute",
+            "BYD Apologizes for Wheel Rim Mix-Up on Some Datang SUVs"
           ]
         }
       ]
@@ -342,6 +396,42 @@
       "status": "ok",
       "feedUrl": "https://www.sixthtone.com/rss",
       "items": [
+        {
+          "title": "A Simple Question About Leftovers Divides China’s Internet",
+          "link": "https://www.sixthtone.com/news/1019309/A Simple Question About Leftovers Divides China’s Internet",
+          "pubDate": "Nov 24, 2026",
+          "source": null,
+          "text": [
+            "“Xiao Ming and his mom and dad are eating out at a restaurant. After they finish eating, his mom wants to take home the leftovers, but his dad thinks it’s unbecoming. What would you do and say if you were Xiao Ming?” poses a Chinese exam question.",
+            "“If I were Xiao Ming, I would tell my mom not to pack the leftovers because we have plenty of money, and it would be embarrassing if people saw us doing so,” one student responds.",
+            "This answer to a primary school Chinese language exam question has sparked online debate over how schools should balance encouraging children to express their opinions with promoting moral values, with a related hashtag attracting over 46 million views on microblogging platform Weibo as of Tuesday.",
+            "The controversy began when the parent of a third-grader in Hangzhou, capital of the eastern Zhejiang province, shared a photo of the assignment alongside their child’s answer in a WeChat parent group, which was later leaked, according to domestic media. The child’s teacher marked the answer incorrect, deducting all four potential points. Above, a large red check mark adorns a revised answer written by the student that states: “1) I would pack the leftovers with my family. 2) I would tell my dad that all food is grown through the hard work of farmers, and we shouldn’t waste it just because we’re afraid of losing face.”",
+            "Many social media users pointed out the apparent conflict between nurturing critical thinking and penalizing it. “It’s unreasonable to punish students for such answers in a Chinese language exam,” one user wrote. “While it may appear to promote ‘the right values,’ deducting scores as a means of enforcement only teaches children to lie to get what they want.”",
+            "Others agreed with the teacher, saying that schools also have a responsibility to help children develop sound values and moral judgment. “(Children) should be encouraged to think outside the box, but their ideas must be grounded in the correct values,” wrote another user.&nbsp;",
+            "In recent years, China has sought to curb food waste, enacting the Anti-Food Waste Law in 2021 to cut waste across the food supply chain. In 2020, the Ministry of Education also urged schools to teach frugality and the importance of reducing leftovers. Authorities have also cracked down in recent years on banquets, discouraging excessive food ordering as a display of wealth and generosity.&nbsp;",
+            "Zhao Tongwei, a senior teacher and principal of Shanghai-based Shengqiao Central Primary School, told local media that the student’s response reflected a tension between attitudes absorbed from everyday life and the values schools seek to promote.",
+            "“Chinese language education is about more than teaching practical skills; it also has a humanistic and educational role. Upholding sound values is a principle that must not be compromised,” he said.",
+            "The aim, Zhao said, should be to help students think for themselves. Simply deducting marks could discourage children from expressing what they genuinely believe, he warned, and instead advocate reflection through writing exercises, one-on-one conversations, or whole-class discussions on the topic.",
+            "(Header image: Visuals from VCG, reedited by Sixth Tone)"
+          ]
+        },
+        {
+          "title": "Singled Out: What’s Behind the Mismatch on China’s Marriage Market?",
+          "link": "https://www.sixthtone.com/news/1019315/Singled Out: What’s Behind the Mismatch on China’s Marriage Market?",
+          "pubDate": "Nov 24, 2026",
+          "source": null,
+          "text": [
+            "Almost 30 years ago, Carrie Bradshaw opened the TV phenomenon “Sex and the City” with a question: “Why are there so many great unmarried women, and no great unmarried men?” Later, she backs up her assertion with data, declaring that “there are 1.3 million single men in New York, (and) 1.8 million single women.”&nbsp;",
+            "Carrie was speaking about turn-of-the-millennium New York, but women in major Chinese cities such as Beijing and Shanghai will have little problem understanding her plight. Marriage rates have declined across the board in recent years, but the drop has been felt most keenly by two very different groups: urban women and rural men.",
+            "To get an idea of the problem, take a map of China and color each prefecture-level city red if men there are more likely to be single than women, and blue if the reverse is true. The result is striking. Less developed inland provinces such as Yunnan, Guizhou, and Gansu turn deep red. The country’s richest urban clusters — the Yangtze River Delta, the Pearl River Delta, and the Beijing-Tianjin-Hebei region — turn deep blue. The line between them follows, almost exactly, the line between China’s poorer and wealthier regions.&nbsp;",
+            "In other words, China’s cities are full of highly educated single women. In less developed areas, singles are disproportionately men with little education.",
+            "China’s skewed sex ratio can explain why there are more single men than single women overall. Yet it cannot fully explain the geographic distribution of single men and women. For its part, media coverage tends to oversimplify the phenomenon as a problem of willingness, with young Chinese rejecting the concept of marriage altogether.",
+            "But is that true? Our research, based on two decades of data from national population censuses and the comprehensive China Family Panel Studies (CFPS) surveys, paints a more complete — and complex — picture of how demographic transformation in educational attainment, regional imbalances in skills and industries, and cultural norms have contributed to China’s unbalanced marriage market.",
+            "Let’s start with education. Over the past several decades, Chinese women have quietly but quickly caught up with men in educational attainment. Among Chinese born between 1960 and 1995, the education gap between men and women steadily narrowed. For the cohort born around 1985, women college graduates outnumber their male counterparts. And for Chinese born in the mid-1990s or later, the gap in women’s favor is large and continues to widen, especially at the postgraduate level.&nbsp;",
+            "This shift coincided with a decisive transformation in China’s economic structure. The services sector, which is disproportionately concentrated in major cities, has grown, drawing women, especially those with degrees, out of agriculture and manufacturing. In 2000, college-educated women were 17 percentage points less likely than college-educated men to work in the services sector; by 2015, they were 21 points more likely to hold such positions.&nbsp;",
+            "[continua sulla fonte originale]"
+          ]
+        },
         {
           "title": "Chinese Archaeologists Announce Findings From Four Key Sites",
           "link": "https://www.sixthtone.com/news/1019305/Chinese Archaeologists Announce Findings From Four Key Sites",
@@ -379,67 +469,6 @@
             "Specialty beans from Zou’s estate were selected in 2021, with Starbucks offering 48 yuan per kilogram. At the time, her farm was selling to the open market for more than 60 yuan per kilogram. “We earned less, but working with a big brand was good publicity for us, so it was still a net gain,” she says. The following year, many new buyers approached Zou to purchase the same beans.",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "China’s Cargo Drones Take Off With Two Successful Trials",
-          "link": "https://www.sixthtone.com/news/1019298/China’s Cargo Drones Take Off With Two Successful Trials",
-          "pubDate": "Nov 19, 2026",
-          "source": null,
-          "text": [
-            "China has successfully tested two large unmanned cargo aircraft: one with a 5-ton payload capacity and the other capable of flying 3,000 kilometers, laying the groundwork for future commercial and emergency transportation systems.",
-            "On Tuesday, the country announced that the Changying-8, a domestically developed unmanned cargo aircraft, had completed a test delivery. Three days prior, another domestically developed unmanned cargo aircraft, the W5000, also completed its maiden flight.",
-            "The milestones come as China’s drone market is expected to exceed 140 billion yuan ($19.6 billion) by the end of 2026, with the industrial drone segment alone projected to reach 84 billion yuan, up 12.5% from last year.&nbsp;",
-            "China began testing large cargo drones as early as 2017 and incorporated the concept of the “low-altitude economy” into government policy in 2021. The Civil Aviation Administration of China has also laid out a roadmap to establish an air transportation system for unmanned aircraft by 2035.",
-            "During its delivery test, the Changying-8, developed by China North Industries Group Corporation, released a cargo pallet at an altitude of 300 meters before returning to its base.",
-            "The aircraft, whose maiden flight took place in Zhengzhou, capital of the central Henan province, on March 31, has a maximum range of over 3,000 kilometers, measures 17 meters in length, has a 25-meter wingspan, and an 18-cubic-meter cargo compartment volume, domestic media reported.&nbsp;",
-            "In the event of extreme disasters such as earthquakes, floods, and mudslides destroying roads and bridges, the aircraft can be used to transport up to 3.5 metric tons of goods, equal to over 700 disaster-relief tents, the head of the Changying-8’s development team told state news agency Xinhua.",
-            "According to its engineers, future applications could include transportation of regional cargo, emergency supplies, and cold-chain deliveries, domestic media reported.",
-            "On Saturday, the W5000, an unmanned cargo aircraft developed by Chinese aviation company Air White Whale, also completed its maiden flight in northern China’s Inner Mongolia Autonomous Region.",
-            "The aircraft flew for about 30 minutes at an altitude of 1,000 meters, completing a series of test maneuvers before landing. The test focused on the aircraft’s flight stability and the coordinated operation of its propulsion, flight control, electronics, and ground-based monitoring and control systems.",
-            "With a maximum payload capacity of 5 metric tons, the W5000 is billed as one of the world’s largest unmanned cargo aircraft by payload capacity. Made of carbon fiber and weighing less than 6 metric tons, the aircraft measures over 22 meters in both length and wingspan and can fly at a cruising speed of 526 kilometers per hour, with a maximum range of 2,600 kilometers, domestic media reported.&nbsp;",
-            "Hu Zhendong, founder, chairman, and CEO of Air White Whale, said the W5000 could reduce logistics costs per ton-kilometer by more than 60% compared with comparable crewed cargo aircraft.",
-            "The W5000 is expected to begin commercial operation by the end of next year, according to domestic media.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Why China’s Latest Blockbuster Game Had a Change of Heart",
-          "link": "https://www.sixthtone.com/news/1019294/Why China’s Latest Blockbuster Game Had a Change of Heart",
-          "pubDate": "Nov 19, 2026",
-          "source": null,
-          "text": [
-            "One of the wildest boss fights in China’s latest hack-and-slash blockbuster game begins with a calligraphy brush. Soul, the protagonist of Phantom Blade Zero, released late last month, dots the eyes of a lion-dance head, performing a traditional Chinese ritual believed to awaken the eponymous beast.",
-            "Cue the violence. Two performers animate the lion, lunging at Soul with blades spinning on its head and flames pouring from its mouth. The fight then spills onto elevated wooden poles, where Soul and the lion-dance master leap from perch to perch, trading blows to pounding Chinese drums and screaming electric guitar.",
-            "In the game its creator originally envisioned, Soul had just 66 lives to survive this fight and every other. Use them up, and hours of progress across the campaign would be gone for good.",
-            "The restriction was meant to mirror the game’s story: Soul has just 66 days to find a replacement for his damaged heart. But Beijing-based developer S-Game eventually abandoned the compulsory death limit, introducing three difficulty settings and making the original challenge optional.",
-            "S-Game founder Liang Qiwei called the compromise “one of the countless difficult decisions we made in developing Phantom Blade Zero.” His studio spent four years and a reported 300 million to 400 million yuan ($45 million to $60 million) creating a game it hoped would introduce wuxia — Chinese martial arts fantasy — to audiences around the world.",
-            "To bring its combat to life, S-Game recruited Hong Kong action star Donnie Yen, enlisted martial arts experts, and brought traditional performers into motion-capture studios. The finished game features more than 50 bosses and 55 weapons, each offering different ways to fight.",
-            "The scale of the undertaking drew inevitable comparisons with&nbsp;Black Myth: Wukong, China’s breakout global gaming hit of 2024. Chinese gamers even dubbed Phantom Blade Zero “the village’s second college student,” hoping the conditions for success would align twice.",
-            "So far, it has. Video game rating site IGN gave Phantom Blade Zero a 9 out of 10, praising its “memorable boss fights, compelling combat, and limitless swagger.” Its PC version scored 88 on review aggregator Metacritic, surpassing the 81 Black Myth: Wukong received.",
-            "Released on Oct. 29, with a standard edition priced at 268 yuan ($40) and a deluxe edition at 328 yuan, the game sold more than 4 million copies in its first 72 hours, topping Steam’s bestseller chart and generating an estimated 1 billion yuan in gross sales.",
-            "Unlike Wukong, which drew on the beloved Chinese classic “Journey to the West,” Phantom Blade Zero had to win over players with a far less familiar fictional universe, one Liang had spent two decades developing.",
-            "In 2006, while studying architecture at Beijing’s Tsinghua University, Liang began developing Rain Blood, an independent role-playing game inspired by Taiwanese wuxia novelist Gu Long. Built using software intended for amateur game developers, it introduced Soul, an assassin serving the Order, a secretive organization of martial artists.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "China Proposes Tougher Rules to Curb Skills Certification Fraud",
-          "link": "https://www.sixthtone.com/news/1019293/China Proposes Tougher Rules to Curb Skills Certification Fraud",
-          "pubDate": "Nov 19, 2026",
-          "source": null,
-          "text": [
-            "China has proposed its first regulation on vocational skills certifications, cracking down on fraudulent credentials and tightening oversight of certification bodies.",
-            "The Ministry of Human Resources and Social Security released the draft regulation on Nov. 12, with public feedback open until Dec. 12. No date has been set for when the rules will take effect.",
-            "China now has more than 220 million skilled workers — including electricians, AI trainers, and elderly-care workers — accounting for about 30% of its workforce, according to the ministry. Vocational skills certificates can bring benefits such as cash subsidies, children’s school enrollment, and fast-tracked residency applications.",
-            "Fraudulent vocational skills certificates have proliferated online in recent years, prompting a nationwide crackdown on bogus credentials in 2022.",
-            "The proposed regulation would tighten oversight of certification bodies, barring them from making misleading claims or leaking exam questions. In addition, certificates can be issued only to candidates who pass the required assessments, rather than those who simply pay to obtain them.",
-            "The draft also outlines that organizations responsible for vocational qualification assessments would be barred from offering related training. Institutions that issue certificates without first registering with the government, as well as those that forge, alter, or trade certificates, may face suspension, confiscation of illegal earnings, and fines of 10,000 to 100,000 yuan ($1,500 to $15,000).",
-            "The rules also outline penalties for examiners who engage in misconduct, candidates who cheat, and officials who fail to perform their duties properly. Employers will be encouraged to use workers’ certified skill levels as a key factor in determining pay.",
-            "Previously, workers obtained vocational qualifications through government-organized exams. Starting in 2020, however, China phased out most government-issued vocational qualifications, shifting responsibility to registered and supervised third-party organizations. By the end of 2025, 32,000 such organizations were in operation nationwide.",
-            "Cheng Xiezhong, a law professor at the China University of Political Science and Law, told domestic media that the shift had “helped expand the pool of skilled workers” but had also led to uneven standards among certification bodies and a widespread increase in bogus certificates.",
-            "An investigation by domestic media this June found vocational certificates openly advertised on multiple Chinese e-commerce platforms. In one case, a reporter paid just 300 yuan for a mechanical equipment installer certificate showing passing scores on tests they had never taken.&nbsp;",
-            "Previous reports also found that some training providers issued course completion certificates rather than recognized vocational credentials. Others lured young jobseekers into “training loan” scams, persuading them to borrow thousands of yuan for courses."
-          ]
         }
       ]
     },
@@ -465,42 +494,6 @@
             "These included difficulties in milling long unsupported sections of casing, the risk of tools becoming stuck when working along the edge of the casing, and the time-consuming process of cutting and retrieving damaged pipes at greater depths.",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "China unveils 34 new flagship smart factories, highlighting AI-driven transformation",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hTThoZ3dWeUtTLW9YdUl0VmdfTF9ZWlRoazY3bEdCV3RSMUdMRGVTWW5mOEJKTjFUUnQ1bjlXbkgxRDVqbTFteWQxWXkxSDRjX2lF?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:34:00 GMT",
-          "source": "环球网",
-          "text": [
-            "China on Thursday unveiled 34 flagship smart factories across 20 provincial-level regions, expanding the initiative into more consumer-facing industries as the country steps up efforts to integrate artificial intelligence (AI) technology into manufacturing, boost productivity and accelerate the digital transformation of its industrial sector.",
-            "The Ministry of Industry and Information Technology (MIIT) and five other departments released the 2026 flagship smart factory cultivation list, which includes major manufacturers such as Xiaomi Auto. Pharmaceutical and apparel manufacturers were included for the first time, highlighting the initiative's widening industry coverage.",
-            "As the second batch of flagship smart factories, they have reported an average 34.4 percent increase in labor productivity and a 19.3 percent rise in production efficiency, while helping nearly 4,000 enterprises carry out digital and intelligent transformation in coordination.",
-            "Notably, industry coverage has further expanded compared with the previous batch. Beyond equipment manufacturing, steel, electronic information and other fields, pharmaceutical and apparel enterprises in the consumer goods sector were included for the first time, according to the list released by the MIIT.",
-            "The list includes smart factory projects from leading Chinese manufacturers across the vehicle, power equipment and shipbuilding sectors, including Xiaomi Auto, FAW-Volkswagen, Harbin Electric Machinery and Hudong-Zhonghua Shipbuilding.",
-            "The announcement by the six departments calls for supporting flagship smart factories in building high-quality industrial datasets, developing industrial AI agents, exploring advanced manufacturing models and establishing smart supply chains. The requirements highlight a broader shift in smart factory development, from equipment automation toward deeper integration of AI, industrial data and supply chain coordination.",
-            "The MIIT announced 15 candidate factories on November 24, 2025, so the latest batch brings the total number to 49.",
-            "Li Changan, a professor at the School of Public Administration at the University of International Business and Economics, told the Global Times on Thursday that the integration of AI with manufacturing is a major technological force driving the development of modern manufacturing.",
-            "The inclusion of pharmaceutical and apparel manufacturers in the latest list shows that AI technologies are expanding beyond a limited number of industries and becoming increasingly integrated into traditional manufacturing sectors, according to Li.",
-            "The expert further noted that the list not only reflects the progress of AI applications in manufacturing, but also serves as a demonstration and a model for the wider industry, encouraging more traditional manufacturers to accelerate technological upgrades and transformation. This trend is expected to further strengthen China's manufacturing capabilities, improve product quality and enhance the global competitiveness of its manufacturing sector.",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "China’s vehicle export trains hit 10,000 trip milestone amid surging overseas demand",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZFdOOVNXVGVqTDczQ2RSSUYzUUlQZWszQjVOaGxBdGlla2p4Q0tOZnQ5MWZYLWlBZzl0YkhSN0dUVXNiYWctZXE5VzF6bW5FbXdJ?oc=5",
-          "pubDate": "Thu, 19 Nov 2026 08:33:00 GMT",
-          "source": "环球网",
-          "text": [
-            "China's dedicated freight trains carrying domestically manufactured vehicles for export have made a cumulative 10,000 trips, a milestone in the country's expanding automobile exports as growing overseas demand and improving international logistics networks support the industry's global expansion.",
-            "The milestone was reached on Thursday when a train carrying 203 Chinese-made new-energy vehicles (NEVs) departed from Zhengzhou International Land Port in Central China's Henan Province, CCTV News reported. The vehicles will travel by rail to Shanghai before being loaded onto a roll-on/roll-off vessel bound for Australia, a journey of more than 10,000 kilometers.",
-            "The accelerating rail services reflect robust overseas demand for Chinese-made vehicles. More than 2.035 million vehicles have been transported for export by rail so far this year, up 79 percent year-on-year, according to CCTV News.",
-            "The growth comes amid a broader expansion in China's automobile exports. The country exported 9.271 million vehicles in the first 10 months of 2026, up 65.1 percent year-on-year, according to data from the China Association of Automobile Manufacturers released on November 11.",
-            "NEV exports reached 4.612 million units during the period, rising 130 percent year-on-year. October alone saw exports of 1.066 million vehicles, marking the fifth consecutive month that shipments exceeded 1 million units.",
-            "China's expanding presence in overseas markets has provided further momentum. Industry data showed that Brazil, Belgium, the UK, Australia and Thailand were among the leading destinations for Chinese NEV exports in the first nine months, reflecting demand across Latin America, Europe and the Asia-Pacific region.",
-            "Improvements in cross-border logistics have strengthened the industry's export capacity.",
-            "To meet growing demand for vehicle exports, railway operators have expanded regular routes through land ports including Horgos, Manzhouli and Alashankou, while using the China-Laos Railway to reach Southeast Asian markets. Combined with expanding rail-sea intermodal services, these routes are strengthening international logistics links for Chinese automakers, a Chinese expert noted.",
-            "The expansion of transport capacity and more efficient rail-sea connections are helping Chinese automakers reach overseas customers, underscoring how manufacturing competitiveness and logistics infrastructure are supporting the industry's growing role in global markets, Zhang Xiang, a visiting professor in the engineering department of Zhengzhou-based Huanghe Science and Technology University, told the Global Times on Thursday."
-          ]
         }
       ]
     }
@@ -510,124 +503,137 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 15:31:46 GMT",
-        "source": "WSJ",
-        "text": null
-      },
-      {
-        "title": "Jensen Huang went to war with Washington — and won a path to China",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ01rTDUyQUlHbDdURmstWlM2VWZFTkk3OTBNWWdOUWpfM3BKeE5yMXpEbUlzNGxLZUx2b0pOZWZZUm53WDFSUjhCMjJDTHdfbGJ3SmVGVG1wNzhRV1YwVnVYNkFtRG42LTVSVUNjZUw4UU5LdXRaZktCUzF6ZndpUFdFM2lZdmh5OTFVcG9BYkRZUEdyMC02T0RvNTJQcnJGUjZxMHgxaERRT0t1NFRIYk91OVZBdVU?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 14:45:11 GMT",
-        "source": "The Washington Post",
-        "text": null
-      },
-      {
-        "title": "What Nvidia tells us about America and China",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0MyYWtvRFpjanNTanhORWRKTDZmM2pfVExuQ3dQeDhhRlJKN3FzdVV1eDlKQWNGMkRCeWJUMlJKOGdGb0FFbVZpR0ZYTG1HclhFQ3RxODdsTHhtLXN4NGV2SjVtTEo3Z29RYVV5TmpWTkVXYXRydTJ3d2JITFp5LWlQXy0?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 14:00:03 GMT",
-        "source": "Financial Times",
-        "text": null
-      },
-      {
-        "title": "Audi to incur $550 million loss at China site, says Handelsblatt",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORC1oRmxoREkzRS1ZT0I3cFBBc1M1R0xUdGNJRXVTemE2Y1JMb3RuOWtUcWdteVlfemlVMkNIUEt5SUdXY1lIUHlQM2NYV1JLNXBxUmxNVXR4WVdaZEVRYk5BeGNxMlcwdnNJaVRxNWlZcW45WENYdllUalNNSGtoempHNVp5dmJVam5jYjBzdWxnNHFzbTFOTmw4SjVQcmxwRmdibzJGMmtwNW8?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 13:05:59 GMT",
+        "title": "EU sets limits on hybrid vehicle imports from China and other countries",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckRyU2g2M08tN1IyMGlVTkhPcnYxVkpQRjR6Ymw3ck5sWW03ZVpEcmxsT1E5YTczaWZvRS1Ea09HWVB5cTFFMEI3TXZQOFlGaFpVd0ZRa0NmV2w5T2otX1NpSzFrT0xRQ3hLQmEzdzA4dERMbm8wazRjbHZXY2t0N1VkcTAwNHc4X3R3ZTlndFE4NHBrRW1qV1RNa1J6RmVaMGJZQmhaWmVVNXc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 14:52:50 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "Chinese official sentenced to death for leaking secrets to foreign country",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZG54YjhhX2FQNmVuZUY4X2NucHN4MGQ5ek5jOVo0eXlKUHVHblFBdVo3dnZjcFBKUmM5OFlPUTdNbWxEUlFia2VOdEpLSi1yR3ZMVWpTR20xaVZjZHhraWpHajV2WXQ1RElUa205Q1czM0lEVG5LRGJOeVk3ZkJfbUw3Mmp4blNyeXRFUkg1bHNSVlpMdGh2RXg0dDgyZm9FSjdnUy0tQ1JRX1ViSGR6YmZqWmFOVWpf?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 12:32:08 GMT",
-        "source": "Reuters",
+        "title": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xoU1dSSzBEeGVMMi1fVTdHRUticVJQR2Rod2F4aTNfYldpVkQ0XzA1SkNja0d2V1VENGlDM3h2Wnl1UnJzU3JKczMxY0xtNVdYR3VETDV3Z1FyQWpLMnhlVnExa0t0SWpTWkNXZnMyX19nV0hUUjNEWlEyc2hPY3NmXzZuMzVfenM5RWtNeUZSYjBsS2JUZWpaSV9GSFAtWTN1Z0dDaHhqUGkyQ01YdQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 14:51:17 GMT",
+        "source": "Bloomberg",
         "text": null
       },
       {
-        "title": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 11:50:53 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFNUV09SVEdIUDhEX25NakRwVEYzVHRHbHVpZnlNSXNzS1VTUGtNejlkaFh1cm91WmFibTR4UkxCRm4zMzJWaWF5MXhjTENaYUoybHBtVnZpS2hneF9nVzlFa0RCd1ZYOGxtWHFkOWtmcXcyWmQtZnJpa3hQeDRjVjdhRGREaFhZLTBxdVg0SndzSHY5bHQzMkhmTjlkVGFqbE9ycGlqUVRIVTBHVDItMTF5SE5MN3oxZDhnU2xINGxpSEdS?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 11:15:28 GMT",
-        "source": "Reuters",
-        "text": null
-      },
-      {
-        "title": "EU plans quotas on hybrid imports from China, UK, Turkey, other exporters",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0pIWXdRWFJRUG8xUUN3RWZlSU5Cd3ZCYnVkUmFzVy1mQjNGdE1pQ21sSGQ1djF6b0lVMTc5RVZIZG9KdDZ4dUYwbEhQMjdCYkpYLUJKbl83U3FEOFlHWFc0WHV6TXp5d29HTEg0RWtsVDhXcjhuMEEzYWY5el85R2Q0ck5zQzF3dkFyVlRjcWtseEZXY0NPS0c4LUo?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 11:14:00 GMT",
-        "source": "Automotive News",
-        "text": null
-      },
-      {
-        "title": "Democrats split over who should lead China oversight",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1VBb0JPeXp1V1ViZ1FYaTZJLThuWXJWTzJQaFVsV0ZWaE52X2VwU1NWVXFkazVHdi1EdUtRb3R2enNUWFA2aVhraXlQQWl6LTNPT3lZblFkanF2Y1FUT29lVV9IVXdXNjNUSlBGVDkzV3RXSXlRZnA5dEJKeUhfd2JKVlZYY3Zlc3ow?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 11:00:00 GMT",
-        "source": "The Hill",
+        "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1R5Tm5OLXZqMWFfZXF0aS1QbHdrRThCalFxektGNWk3RHcwd3dWdE53MHlFM1ppeWxJMWxoTzhVY3FHZG1nSVpjRTZIQTEtck1zS095Y3dNVXdCNUNrcE9NSW03RkJiSnM3OVVKVVlKUU9OMkxEelpxXzZCY19URDZ0UUwtUQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 14:18:00 GMT",
+        "source": "The Guardian",
         "text": [
-          "The House Select Committee on China may be coming to an end with Democrats taking over the House majority in January.",
-          "Rep. Hakeem Jeffries (D-N.Y.), who is poised to be the next Speaker of the House, is ultimately responsible for whether the committee continues or is disbanded.",
-          "He says discussions about its fate won&rsquo;t happen in earnest until after Democrats choose their leadership team.",
-          "Rep. Gregory Meeks (D-N.Y.), the likely incoming chair of the House Foreign Affairs panel, told The Hill that his committee is capable of taking over the select panel&rsquo;s responsibilities.&nbsp;",
-          "&ldquo;We have the ability to do it. We&rsquo;re ready to do it. We&rsquo;ll do it. But I&rsquo;ll follow the leader,&rdquo; he told The Hill.&nbsp;",
-          "Supporters of the select committee, formally known as the Select Committee on Strategic Competition between the United States and the Chinese Communist Party, say the panel established by the GOP House in 2023 is the best venue for bipartisan cooperation on confronting Beijing.",
-          "But Democrats on the Foreign Affairs Committee are itching to take the lead on investigations and legislation that the select committee has overseen. They are particularly interested in focusing on President Trump&rsquo;s dealings with China, including the fallout from allegations that former Nvidia CEO Jensen Huang &mdash; a close adviser to Trump &mdash; had a romantic relationship with a suspected Chinese spy and tech business partner.",
-          "Democrats are also probing whether the administration prized profits over national security and allowed China in the process to illegally access advanced U.S. technology.",
-          "&ldquo;We&rsquo;ve got great talent on our committee,&rdquo; Meeks told The Hill. &ldquo;First we&rsquo;ve got to see what the next Speaker is going to say. Once he makes his decision then we&rsquo;ll plan accordingly.&rdquo;",
-          "The Foreign Affairs panel has two subcommittees focused on Asia: one on East Asia and the Pacific and one on South and Central Asia. Meeks said he&rsquo;s likely to overhaul the panel&rsquo;s subcommittees in the new Congress.&nbsp;",
-          "&ldquo;All of those committees, I&rsquo;ve got to decide what I&rsquo;m going to do &ndash; those committees were set up by the Republicans. They might not be the same committees once I make my determination,&rdquo; he said.",
-          "Rep. Brad Sherman (D-Calif.), a member of the House Foreign Affairs Committee, sees that committee as &ldquo;well-positioned to conduct oversight of the administration&rsquo;s China policy.&rdquo;",
-          "Rep. Raja Krishnamoorthi (D-Ill.), a member of the Select Committee on China and its initial ranking member, told The Hill the panel is &ldquo;absolutely&rdquo; essential to combat escalating challenges from Beijing.&nbsp;",
-          "&ldquo;Now, in the face of the CCP [Chinese Communist Party] relentlessly kind of promulgating aggression toward us, whether it&rsquo;s technologically, militarily, or economically &mdash; as we just saw with Jensen Huang and Nvidia &mdash; I feel like we need to stand firm on a bipartisan basis, and bicameral basis in holding the CCP at bay,&rdquo; he said.&nbsp;",
+          "Lawmakers from both parties outraged over Nvidia CEO’s reinstatement and the administration’s handling of national security risks",
+          "Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political corruption and rot at the heart of the Trump administration’s big tech and AI policy”, Chris Van Hollen, the Maryland Democrat vying to become the next Senate majority leader, told reporters Monday.",
+          "Van Hollen said he intends to focus on Huang’s “efforts to increase and accelerate the export of high-end chips to China, how he’s been accomplishing that, how he’s been getting his way with the administration” when the reinstalled Nvidia CEO appears before the Senate banking committee on 3 December.",
+          "It will be one of several appearances on Capitol Hill next week where skeptical lawmakers from both parties will grill Huang over his ties to a woman that some in the intelligence community have said was a spy for China. Huang will also sit for transcribed interviews with the House foreign affairs committee, as well as the select committee on the Chinese Communist party and the House intelligence committee.",
+          "“It’s completely hypocritical for the Trump administration, on the one hand, to say the reason we have to take all the brakes off AI development here at home is because China will leap ahead if we don’t,” Van Hollen said. “When in fact, it’s the Trump administration that’s helping China leap ahead.”",
+          "Nvidia’s board reinstated Huang after Donald Trump intervened on the executive’s behalf, assuring company leadership that he did not pose a national security risk despite questions surrounding his relationship with Alice Huang, a tech executive of no relation who has been accused of acting as a Chinese asset and routing advanced chips to Beijing via her data center company, Megaspeed.",
+          "In an interview with CNBC on Monday, the US president defended his involvement in Huang’s reinstatement, arguing it would be a “bigger threat” for Nvidia to lose Huang’s “brain power” in the AI race. Trump also confirmed that he had provided the board with assurances regarding any national security concerns.",
+          "“I spoke to them, let me put it that way. And I convinced them,” Trump said.",
+          "Van Hollen pointed to a series of ties between Huang and Trumpworld as evidence of the executive’s influence over administration policy on advanced chips, including Nvidia’s $25m donation to Trump’s White House ballroom project, his personal holdings of Nvidia stock, Huang’s contribution to Trump’s inauguration fund and his attendance at a $1m-a-plate dinner at Mar-a-Lago.",
+          "The outrage spread on Capitol Hill on Monday. Gregory Meeks, a Democrat congressman from New York and the ranking member on the foreign affairs committee, called the decision “yet another example” of how “the wealthy and well connected are held to a different standard”.",
           "[continua sulla fonte originale]"
         ]
       },
       {
-        "title": "[FULL] Ministers speak at JCBC as S'pore and China reach 29 deals",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XbVJ2Zk0wRmZibm9nZVpwU3VfRWRLOXVFb3JMY2dzMlhkbldrdXB0RlFoMXFVVV9XdG43T3NjZjZFa19QWjdVaUljbDljaU1qclYtdWFB?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 10:20:36 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 10:00:20 GMT",
-        "source": "Bloomberg.com",
+        "title": "Key Chinese Communist Party figure placed under corruption probe as Xi’s purge escalates",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGZmTXhsMjFadnhBTHRxSzl2NGFCbXZDSXJ6aXc5cE1aUG9aNDVkTTVrbThyX1B1LXJLMUl0UFpOVEhRakhJa3JGYzhjUzBfUUZhRm1oaGk4ZmdkOHJUM0tQSXJDaENnUE1wNm5Makw1aUxfMEx1TmdJSDQtNC15dlhyY2VxcFFDY2c?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 13:36:43 GMT",
+        "source": "CNN",
         "text": [
-          "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory.",
-          "The shift began in January — the same month Vice Premier He Lifeng made that vow in front of a crowd at Davos — as the value and volume of bullion imports more than doubled from the month before. Non-monetary gold purchases continued climbing in the 10 months through October, reaching a historical high that’s equivalent to nearly 8% of overall imports in the period, the latest data showed Friday."
+          "Chen Jining, Secretary of the Shanghai Municipal Committee, attends the plenary session of the Shanghai delegation to the National People's Congress in Beijing, China, on March 6.\n    \n  \n          The Asahi Shimbun/Getty Images\n        \n      \n    \n    \n\n\n          \n        \n          \n\n        \n          \n                    \n        \n        \n            \n                \n                \n                     \n\n                \n            \n                \n                    \n\n  \n\n    \n        \n                  \n    Africa\n    \n        \n        \n    \n\n\n        \n        \n          \n            See all topics \n\n          \n    \n\n\n                \n                \n                      \n\n\n    \n            \n                     \n\n                    Facebook\n            \n            \n                     \n\n                    Tweet\n            \n            \n                     \n\n                    Email\n            \n            \n                     \n\n                    Link\n            \n                \n                         \n\n                        Threads\n                \n        \n             \n\n            Link Copied!\n        \n    \n    \n         \n\n    \n    \n         \n\n    \n\n\n                \n        \n        \n                \n                         \n\n                        Follow\n                \n                \n                         \n\n                \n        \n    \n\n              \n                  \n                \n    \n            The Communist Party chief of Shanghai, considered one of the potential heirs to Chinese leader Xi Jinping, has suddenly been placed under investigation –– marking an escalation of an anti-corruption purge that’s already ensnared a large swath of the country’s top talent.",
+          "Chen Jining, 62, who has run China’s largest city and financial center since October 2022, is facing a corruption charge and is suspected of “serious violations of discipline,” state media Xinhua said on Tuesday evening.",
+          "It is a stunning downfall for Chen, who was seen as a rising political star and even being mentioned among potential successors to longtime leader Xi by China watchers.",
+          "Xi, who is all but certain to assume a precedent-breaking fourth term in office next year, has executed an unrelenting anti-corruption drive for well over a decade that has brought down senior political, military and judiciary figures once thought untouchable. The speed and scale that effort has reached unseen levels in recent months.",
+          "Chen becomes the fourth of the 24 member politburo –– the top-echelon of power in China –– to fall since the last party congress in 2022.",
+          "The investigation is being conducted by China’s main anti-corruption body, the Central Commission for Discipline Inspection.",
+          "Chen’s last public appearance appears to be Thursday, November 19, when he inspected the headquarters of a Chinese shipping conglomerate.",
+          "Unsurprisingly, government platforms in Shanghai have quickly taken down posts mentioning Chen.",
+          "[continua sulla fonte originale]"
         ]
       },
       {
-        "title": "Trump Is ‘Selling Out The US’ To China And Putin’s ‘Pathetic’ Russia | Tom Tugendhat",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Q3VXSVEweHBLVG9JdE9FcERkaXVVQkZnNnhvR3ZNaGdUTmJuZldjOXYwd256SzZHSEdCcExsMk1ldWNrZmYwZWwxZmNCNEg3X2p2OHl3?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 09:35:37 GMT",
-        "source": "YouTube",
+        "title": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 13:08:00 GMT",
+        "source": "WSJ",
         "text": null
       },
       {
-        "title": "What a Town of Vibecoders Says About the Chinese Economy | Odd Lots",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CNm1sYmtaVnZoMFBKQ1Q4cUlXYmtkV2VzREo4dmN5SlZUWlo1ZFFfQ3loZ0dHVHg2VmNRY2Zxb3czMGxzaDhnNUg5NkpDb2NrTjI5STVR?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 09:11:21 GMT",
-        "source": "YouTube",
+        "title": "China probes Shanghai party boss, Politburo's Chen Jining",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 13:05:43 GMT",
+        "source": "Reuters",
         "text": null
       },
       {
-        "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 08:24:36 GMT",
-        "source": "Bloomberg.com",
+        "title": "Shanghai’s Party Leader Is Put Under Investigation as Xi’s Purges Expand",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYW54RTU4RmlWNmc0clVnbHFOQU5xWU1tTTV0a3gxVFFXV016clVSWkMzd3duSGx3YnZFRHh1aUQtU01OODBGZFJPWlBZMm9ZYzNkZkNvMDVnRktFUTlXTnlhU1FkOFpXUmpvQk1IdFlNLWh3MnNrX09Ha0ZDRHVYNTBHdnhZOE1GTTdIM1J3NU91elFxVGREZjJVcw?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 13:02:31 GMT",
+        "source": "The New York Times",
+        "text": null
+      },
+      {
+        "title": "China Halts Critical Minerals Ban to Maintain Truce With US",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 12:41:10 GMT",
+        "source": "Bloomberg",
+        "text": null
+      },
+      {
+        "title": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 12:34:18 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "India seizes Nepal flood crisis to rebuild influence as China gains ground",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnU2a1FSRUdHcUdRWFJ2anlnZU85a2paRkpEM29oZTdRbTlNWF8zc1R6cjlWYTBUU3BTTzVDRGczVl9IMjFFamdvRUVlVWpMNHBTTnBoc1VRLVcwb0ptTW5ZcUVqSWttZV9hYzBQMEVnN21USHp4MC1IVHZRSk9rV2ZocXZyUjJNZkstbDBxQm1CenRBYk5QTlJTbEF1WFpBZjlGOVF3NEJJckJlaEkzdTFPa2l1Z2c?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 12:21:42 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "China sentences official to death for spying for foreign country",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkxSd09pOGZpSW1LZGp6RHhmNlFldmh0STRwVjl3RE1LUjdpSFBPbC0wM0RQN2NvUElxUzc1Yi1ZdlBnNlphVk1qZDVVZjR3VnRyNXJDcnY3R01lcTllTUNzRlUyejMwQl9BelhYU2ViLW5vMmR6dkNqRHpMTHFBRnpYQWpWM0NyVWZtTV9IQnNDbXBaTm45T1BrLTUtbU1yM2xrcWh3MFl5Zmo0SDlF?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 12:00:00 GMT",
+        "source": "The Guardian",
         "text": [
-          "A selloff in Asian stocks eased after authorities rolled out support measures and US markets showed signs of stabilizing.",
-          "South Korea’s benchmark Kospi Index pared an intraday decline of 5.8% to close 3.3% lower. Mainland Chinese shares reversed losses to end a touch higher, while Hong Kong’s Hang Seng Index finished the day slightly down."
+          "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says",
+          "A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.",
+          "Gold Wall Press, a publishing company associated with China’s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad.",
+          "Chinese courts typically do not publish information about state security cases, but in recent years the powerful ministry of state security and Gold Wall Press have increasingly publicised arrests, as well as using social media, movies and comics to promote warnings about espionage.",
+          "The statement on Monday said Ma had signed a cooperation agreement containing clauses on “confidentiality” and “loyalty” and received fixed monthly payments. In total, it said, he provided 35 pieces of information that were classified as national secrets and received payments worth more than 1m yuan ($150,000).",
+          "An intelligence operative identified as Kailin “frequently arranged to meet with Ma, hoping to engage with him more”, citing an interest in learning Chinese, the statement said. Kailin later introduced him to a colleague who threatened to report his earlier disclosures to Chinese authorities if he refused to cooperate.",
+          "After returning to China, Ma continued to gather intelligence for the foreign agency, which provided him with a laptop, the statement said. He used his position to collect material from classified documents during the day and transmitted it overseas at night via an espionage website.",
+          "The statement did not identify the countries involved, or say when or where he was sentenced or whether he had already been executed.",
+          "The case comes as US intelligence has been publicising its own efforts to recruit sources in China. The five most-viewed videos on the CIA’s YouTube channel are recruiting advertisements in Mandarin.",
+          "“This shocking case serves as yet another wake-up call,” the Gold Wall Press said, warning that foreign intelligence agencies were “cunning” and used emotional ties, financial interests and threats to recruit people in key positions.",
+          "The statement also urged officials to remain vigilant, strengthen their loyalty to the Communist party, protect state secrets and guard against foreign recruitment.",
+          "In 2023 Beijing broadened its anti-espionage law, expanding the definition of espionage and strengthening the investigative powers of state security authorities. The following year it revised its state secrets law to extend restrictions on sensitive information to so-called “work secrets”."
         ]
+      },
+      {
+        "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzdWMk9TWnMyWklvX2M4R1N2cGFPREFaOExDMmhRUFRYSTVodmhkVm5YS0xaTk1iemlRV0ZNSXllMVYwMWY2akVaNUdPal9FTXIwM1R0ZEF3bTVHMVJ4SFhMMlIzRGtQRmJQNEdyMnltN0JCT191R3BkalBFSTdsckN3?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 11:55:30 GMT",
+        "source": "The New York Times",
+        "text": null
+      },
+      {
+        "title": "The Gap Between China’s Military Spectacle and Battlefield Reality",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDN4d1ZQZ3BaZzhDMzFUN0xBa2dqbU14SFltZGdfWmR5eTFRSjRHanJoY1NETTNKWkFkVjBYNTlVLVVFcktuWllBSkdoZnJYblRuMEhVMXdvVHM3M3ZsLXV3TTVONVJjMDg4RVRVcm9kZEN2akJVQklxcXA1a1NDM1ZoeGM4ZGxKb2xZWkI1SHp4Y29zNUF5azdwNF9yNjBwZm1kQlRtT1R0QQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 11:55:00 GMT",
+        "source": "WSJ",
+        "text": null
+      },
+      {
+        "title": "China Southern Airlines unit to buy 50 Boeing 737-8 aircraft at $7.4 billion list price",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeko4UlRESEhUV2xFR2JHbnFic04yTlZiMkpaU2FVS2w0TzV3djlxNHVicmFNUXpDV2FfamtPWlh2NW5HOUdfOXpDWEpmWlY3dUlhSFVwb2FocWtVR1Rjd3Nramp0VVJhSTB1dzJBS0UzWmx5VVptamdRbkhtcDNfSVZwN3dFOENnOFRnUmJILTVvRXM5YlZyMzQ0ckNFQUczX1RRd0pNZXkxUUhCbklaeFRR?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 11:42:58 GMT",
+        "source": "Reuters",
+        "text": null
       }
     ]
   }
