@@ -1,130 +1,240 @@
 {
-  "generatedAt": "2026-11-26T14:51:59.193Z",
+  "generatedAt": "2026-11-27T14:50:28.439Z",
   "sources": {
     "xinhua": {
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Anews.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Xinhua China news advisory -- Nov. 26",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HdTNlV1l6YTgyeXVFaklrUkJFcUk4TjdlZTZ2aFVuNzNRYVZhc0QxWjJKMGd0T3BsZzg5cnVheTBTeTdSenVZSGJmdmlzTmVaNE1STGJuekk2ZEVmRmh6TlktUVN0TzNyX1hvQkRWSW12QklpZTNpVVU4UW8?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 02:45:30 GMT",
+          "title": "Xinhua News | High-speed rails in China's Yangtze River Delta top 8,500 km as three new lines open",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeTdXOE9wX180MWVoMW5BOGdRNGpDc0ZtT21iNDBDb09LbWtwajA3M3EwQU01Q3FudzB3SmJNb2Zlc0t3VnBrdkVydG1uQzFWWkJCNXdzRVlLeGN1bk9lcXQwU1hycldpdHItZFdULWtFWkVuNGszT1R4OHI?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 04:43:11 GMT",
+          "source": "Xinhua",
+          "text": null
+        },
+        {
+          "title": "Xinhua China news advisory -- Nov. 27",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfVkxIWGxYUzQ4Yy1TTVJNeVk5MWxZUjgyX1YxSWlMcUwzUjVVUEVkWDZOa2tfM0dhU3JBUlg3RV94c2djbUxNR04tcW1rblpxTTJ3NlZFSDFHU3VaLUluckdWTk5aZ180WjJ1dUNyQUk2WWZuOW90V21ua18?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 04:42:42 GMT",
           "source": "Xinhua",
           "text": [
-            "BEIJING, Nov. 26 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Thursday.",
-            "-- Xinhua Headlines: China's high-standard opening up creates new opportunities for global cooperation",
-            "-- China Focus: From procurement to plates, digital oversight safeguards school meals in SW China",
-            "-- China Focus: Global delegates discuss water governance at millennia-old living heritage site",
-            "-- Economic Watch: Chinese enterprises carve lab-grown diamonds into cultural icons",
+            "BEIJING, Nov. 27 (Xinhua) -- The following are news items about China to be covered or pursued by Xinhua on Friday.",
+            "-- China Focus: AI-powered grassroots government platforms help address public concerns more efficiently",
+            "-- News Analysis: China's AI industry is far more than a market bubble",
+            "-- Feature: Tibetan director tells plateau stories to world",
             "http://www.youtube.com/user/ChinaViewTV  ■"
           ]
         },
         {
-          "title": "Xinhua News | China urges Japan to accelerate destruction of abandoned chemical weapons",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JRE1sb3JZZGhfcjlLV3hZTjhpcDhaMFpqNXFOQVRpeWZVb0JuNXdzTWhfTGh1V2JLQzhzallHeDNOMUIxRWZFbFNrRVl4UEdNek1jUm14UDdlNHNFU2RCUDZKYjExYUJoQUcxVEVjQkk0ZzhFZ1VSSllLQWM?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 02:04:31 GMT",
+          "title": "Xinhua world news summary at 0030 GMT, Nov. 27",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lVkF4N282ZGRFalZhNHdVcU5iU3NWSFhtTFBEWC03UHRlRnFHcXBnYXVaa3BVeVdTdmtZS1hzRzYwSHBLLS13OEY1OVVoRmZxZjJkN2dDak9HWjZvbVRUY0hiakUxeWNHdFhWSGJydTRJQS1uZEp0VXRlelA?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 00:19:00 GMT",
+          "source": "Xinhua",
+          "text": [
+            "MEXICO CITY -- Mexican President Claudia Sheinbaum reaffirmed Mexico's solidarity with Cuba on Thursday, voiced opposition to any trade or energy blockades imposed on the Caribbean island, and defended the Cuban people's right to determine their own destiny.",
+            "During her daily press conference, the president stressed that Mexico's foreign policy is rooted in respect for the self-determination of peoples, and stated that no country should intervene in Cuba's internal affairs. (Mexico-Cuba)",
+            "WASHINGTON -- A powerful storm swept across the U.S. East Coast on Thursday, Thanksgiving Day, triggering flood warnings, causing flight delays and leaving more than 800,000 people without electricity.",
+            "High-wind and flood warnings were in effect from Virginia Beach to New York City, while Philadelphia, Baltimore and Washington, D.C. also experienced severe weather. (US-Storm)",
+            "MINSK -- Russia and Ukraine exchanged the bodies of fallen military personnel at the Nova Guta border crossing between Belarus and Ukraine on Thursday, BelTA news agency reported.",
+            "The Russian side handed over 250 bodies to Ukraine, while Ukraine transferred 22 bodies to Russia, according to the report. (Belarus-Russia-Ukraine-Bodies)",
+            "HELSINKI -- Finland will extend its Border Security Act through the end of 2028, and its land border crossings with Russia will remain closed until further notice, the Ministry of Interior said Thursday.",
+            "Finnish President Alexander Stubb is expected to approve the two-year extension on Friday after parliament passed it on Nov. 18. The extension will take effect on Dec. 1, with the law's provisions unchanged, according to a press release issued by the ministry. (Finland-Border)  ■"
+          ]
+        },
+        {
+          "title": "Roundup: Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybFFMRm9tUkhQb1ZfOS1SbVduaHJITnZFX1FxT0d1eUVObENZeDhsUGJqd2d4QnJ1bjhyY2c2QTE3d1gtVmNHYzNyY2p6SGV0SWI2bzBGZ2ZMZ1lzaGR5d2x1Zktla3lPZUpQdnRKZEM2U0FyYWdhN0JiVEU?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 19:18:30 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BRUSSELS, Nov. 26 (Xinhua) -- Eurozone member states have agreed to recommend Spain's Pablo Hernandez de Cos to succeed Christine Lagarde as president of the European Central Bank (ECB), European Council President Antonio Costa said Thursday.",
+            "The member states also agreed to recommend France's Laurence Boone and Germany's Markus Brunnermeier as members of the ECB's Executive Board, Costa said in a post on social media platform X.",
+            "Costa said he would propose that the European Council launch consultations with the European Parliament and the ECB's Governing Council.",
+            "\"This will pave the way for the formal appointment of the new ECB leadership by the European Council in December,\" he said.",
+            "French President Emmanuel Macron also welcomed the agreement on the three candidates in a post on X, describing them as a balanced team that would serve the stability and prosperity of the eurozone.",
+            "Spanish Prime Minister Pedro Sanchez welcomed the prospect of a Spaniard leading the ECB, saying that Spain was playing a greater leadership role in Europe than ever before, according to Spanish media reports.",
+            "Spain's Economy Ministry said Hernandez de Cos' experience, independence and ability to engage in dialogue would help the ECB navigate a complex economic environment marked by uncertainty and volatility, Spanish news agency EFE reported.",
+            "On Nov. 6, Eurogroup President Kyriakos Pierrakakis announced that Hernandez de Cos of Spain and Klaas Knot, former governor of the Dutch central bank had been nominated for the ECB presidency.",
+            "Hernandez de Cos has served as general manager of the Bank for International Settlements (BIS) since July 2025. He was governor of the Bank of Spain from 2018 to 2024.",
+            "Lagarde, who took office in November 2019, is due to step down on Feb. 7, 2027, nearly nine months before the scheduled end of her eight-year term.",
+            "The appointment process comes amid a broader leadership reshuffle at the ECB, with two other members of its six-member Executive Board, Isabel Schnabel and Philip Lane, also due to leave office in the first half of 2027.",
+            "Under EU rules, the ECB president is appointed by the European Council on a recommendation from the Council of the EU, following consultations with the European Parliament and the ECB's Governing Council. The president serves a non-renewable eight-year term.",
+            "The leadership transition comes at a challenging time for the eurozone economy, as rising energy prices fuel inflationary pressures and pose downside risks to economic growth.",
+            "In its autumn economic forecast released on Nov. 17, the European Commission projected eurozone economic growth of 1.2 percent in both 2026 and 2027, with inflation expected to reach 3.2 percent and 3.1 percent, respectively, well above the ECB's medium-term target of 2 percent.",
+            "The ECB kept its key interest rates unchanged on Oct. 29, following two rate increases in June and September, leaving its benchmark deposit facility rate at 2.5 percent.  ■"
+          ]
+        },
+        {
+          "title": "Xinhua Asia-Pacific news summary at 1600 GMT, Nov. 26",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lai1OM2NMRkdyU0NvWWd2UHJ4OXpZSUZqU08yTlpjdUR5RFM1SllqckZMblE5TEZrOTR4TjZ4SkMwN05PWHFYN2paUGFzcDJsXzN6ZmxOMUt5bFNWY2J5WUpHZ2pUZTVXS1licW1XM1RGbVpsb1Q3V1RwUzI?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 16:02:30 GMT",
+          "source": "Xinhua",
+          "text": [
+            "SEOUL -- South Korea's top court on Thursday upheld the acquittal of former President Yoon Suk-yeol on perjury charges during the insurrection trial of former Prime Minister Han Duck-soo.",
+            "The Supreme Court finalized the acquittal and dismissed an appeal filed by the team of Cho Eun-suk, an independent counsel who led investigations into Yoon's insurrection and other charges. (South Korea-Politics-Court)",
+            "KATHMANDU -- The Nepali government, in collaboration with the United Nations Development Programme (UNDP), launched a project worth 49.94 million U.S. dollars on Wednesday to protect vulnerable Himalayan communities from glacial lake outburst floods (GLOFs).",
+            "The GLOF-Sanjibani Project, which will run from 2026 to 2033, aims to reduce the risks posed by GLOFs through lowering water levels in high-altitude glacial lakes, strengthening early warning systems and developing protective infrastructure in downstream areas, UNDP said in a statement. (Nepal-UN-Himalayas)",
+            "TOKYO -- Japan's Defense Ministry will transport the Ground Self-Defense Force's (GSDF) long-range missile launchers and other equipment that can be used for the so-called counterstrike capabilities to Camp Kamifurano in Hokkaido as early as December, and a new unit will be established immediately afterward to begin the deployment, public broadcaster NHK reported Wednesday.",
+            "The equipment to be transported to Hokkaido includes launchers for the GSDF's Type-25 hypervelocity gliding projectiles. (Japan-Military-Missile)",
+            "JAKARTA -- Thirteen miners were found dead inside a flooded mining pit in Indonesia's West Java province on Thursday, with 13 others still missing underground, local authorities said.",
+            "Rescue teams have been pumping water from the shaft, estimated to be about 100 meters deep, since Wednesday morning. But their efforts were hampered by high water levels, narrow access, slippery terrain and limited lighting. (Indonesia-Accident-Mine)  ■"
+          ]
+        },
+        {
+          "title": "Xinhua world news summary at 1600 GMT, Nov. 26",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fRzdHM0ZXNndPTzJodTFtbEVSWndSWUYxdEVXeWl6OGdFdzZPOFp1bjhfWUNMMjNFdk1LM084M2JranNuaF9BWkNhZU5aXy1EQXIwUmJ4WXFCZnZwYjhLbzJpbE1PaHh5ek1MV09qYnhkUG01bUhQWHo0Qmc?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:54:00 GMT",
+          "source": "Xinhua",
+          "text": [
+            "TEHRAN -- The navy of Iran's Islamic Revolution Guard Corps (IRGC) said Thursday two \"violating\" oil tankers exploded and caught fire within the preceding hours after hitting naval mines north of Oman's Khasab port in the Strait of Hormuz.",
+            "One of the vessels was a supertanker carrying more than 2 million barrels of crude oil, which was abandoned burning following the incident, the navy said in a statement on the IRGC's official news outlet Sepah News. (Iran-Hormuz Strait-Vessels)",
+            "KUWAIT CITY -- Two Italian nationals have died of wounds sustained in an attack on a vital facility in Kuwait that the country's military attributed to Iran, the Kuwaiti military said Thursday.",
+            "In a follow-up statement on social media platform X on Thursday, Kuwaiti military spokesperson Saud Abdulaziz Al-Atwan confirmed that the two Italians had \"succumbed to their injuries.\" (Kuwait-Iran-Attack-Italians)",
+            "JAKARTA -- Thirteen miners were found dead inside a flooded mining pit in Indonesia's West Java province on Thursday, with 13 others still missing underground, local authorities said.",
+            "Rescue teams have been pumping water from the shaft, estimated to be about 100 meters deep, since Wednesday morning. But their efforts were hampered by high water levels, narrow access, slippery terrain and limited lighting. (Indonesia-Mine-Deaths)",
+            "BELGRADE -- Serbia will hold an early presidential election on Dec. 27, Parliament Speaker Aleksandar Cupic announced Thursday.",
+            "In a televised address, Cupic called for a democratic election campaign and high voter turnout, saying the next president should have strong legitimacy and embody national unity. (Serbia-Presidential Election)  ■"
+          ]
+        },
+        {
+          "title": "China urges non-regional countries to stop meddling in South China Sea issue: spokesperson",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42a0hkY2RNQVlMTDRreFRSeHNqemdkWVlJamk4ejRwbWNGX09tV2FveDQ5dF9yMkVKR2tXdGgwR2hOYU91VmJGSFRRTGZudEY0YzE5cy1qeTVqbmdnZzV5STB3X3ktdFVWMzE1SW1PQk15YkdIVnVVWlRHQTY?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:26:00 GMT",
+          "source": "Xinhua",
+          "text": [
+            "BEIJING, Nov. 26 (Xinhua) -- China on Thursday urged certain non-regional countries to respect its sovereignty and rights and interests and stop interfering in the South China Sea issue.",
+            "The Philippines and Australia recently signed a defense cooperation agreement, which the Philippine side claimed would bolster the Philippines' credible deterrent posture in the South China Sea to counter China's actions.",
+            "Asked to make comment at a regular press conference on Thursday, Chen Xi, a spokesperson for China's Ministry of National Defense, said certain Filipino politicians, driven by personal interests, have been spreading false narratives about China, stirring up trouble, and seeking to rope in outside forces to back them up and make waves.",
+            "Such moves will only escalate tensions and undermine regional stability, Chen said.",
+            "\"The South China Sea should be a sea of peace, friendship and cooperation. Stoking troubles and provoking confrontation are not welcome here,\" he said.",
+            "The spokesperson urged relevant non-regional countries to earnestly respect China's sovereignty and rights and interests in the South China Sea and cease meddling in the issue.",
+            "China's actions to safeguard its territorial sovereignty and maritime rights and interests are legitimate and justified, Chen said, adding that China will continue to take necessary measures to respond firmly to provocations and infringement activities.",
+            "China will resolutely thwart any attempt to destabilize the South China Sea, Chen said.  ■"
+          ]
+        },
+        {
+          "title": "Xinhua News | World's longest underwater shield-built highway tunnel reaches milestone in east China",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5veDZqVzhHZzJTSm1PbWEtelJxYzU2TEZfTV9pbGs3T3hEOE9XR1Z1VXphZWREcE9mOU1HX3hZRnFuQ3NMZWJwbFAxcHplMEFXejRialRKVkN3Y3ZCSmNPMk5hUGNEUDVpMGh2UWxTcXg0RXprOFREeGZaMEc?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 12:40:31 GMT",
           "source": "Xinhua",
           "text": null
-        },
-        {
-          "title": "Xinhua News | 30 killed, 25 injured in truck fire in Egypt's Giza, investigation underway",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xQmJzWWR5UEwwaWZjN0l0N2JDa21aYWthZllFQUE2Y1dwYURaUHd5eUlNVmZfVXNjYUh0VnVJbWRqQUR4aGJSMkV0SGx5WjFJZVJKVDgyaVZ4LUVJVXMteFFBU0pKQ2wxcjVlYWcxMHBseng1YW9Lay1jUUQ?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 01:18:31 GMT",
-          "source": "Xinhua",
-          "text": null
-        },
-        {
-          "title": "Xinhua Headlines: China launches Shenzhou-24 spaceship, opening Tiangong space station to first foreign astronaut",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDdlhaM215WlBRQXU4X1VmWFdyZGZOLTVmNS1QbzBHVUljR2U4SmNHekNUeWxaQ29WRFY5OWtZMzN1VTE2NzktNFUtS096RU9MemdiQ0tmTG5IV3RXWFR1T21peThoWGhmdkFJVWFjTUZtZzMwVUFkU0x1XzE?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 15:46:16 GMT",
-          "source": "Xinhua",
-          "text": null
-        },
-        {
-          "title": "Xinhua world news summary at 1530 GMT, Nov. 25",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FajhIQm1NbURUcVlpREhJVGxERUJUVlpueHg5YlFCaC01SGRPTUJncGo1SjFNM19CLThVREtuMmkyTVhFclJpaW5PSFZBYjJoZmkwdnBqNFlXMU9PNGN3OHlodHM2TTZqU2ZMd213Z3BfbUNWamQ1eF9aTW8?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 15:36:45 GMT",
-          "source": "Xinhua",
-          "text": [
-            "ULAN BATOR -- Mongolia has suffered estimated damage of about 3.35 trillion Mongolian tugriks (around 928 million U.S. dollars) from a massive wildfire in the eastern province of Dornod, allegedly sparked by a convoy operated by a Japanese-invested company, the country's Minister of Environment and Climate Change Tsend Sandag-Ochir said Wednesday.",
-            "Sandag-Ochir announced the preliminary damage assessment at a regular government meeting. The wildfire broke out on Oct. 8 in the core zone of the Numrug Strictly Protected Area in Khalkh Gol soum, an administrative subdivision of Dornod Province. (Mongolia-Japan-Fire)",
-            "JAKARTA -- Nine miners were found dead inside a flooded mining pit in Indonesia's West Java province on Wednesday, with 17 others still missing underground, local authorities said in a statement.",
-            "The victims were evacuated from two mining tunnels, with six bodies recovered from Tunnel A and three from Tunnel B as of 7 p.m. local time. (Indonesia-Mine-Flood)",
-            "PYONGYANG -- The Foreign Ministry of the Democratic People's Republic of Korea (DPRK) on Wednesday declared the head of the Swiss Diplomatic Office in Pyongyang persona non grata and urged him to leave the country within 48 hours, the official Korean Central News Agency (KCNA) said.",
-            "Pak Hyon Su, director general of the European Department of the DPRK Foreign Ministry, summoned Sylvain Astier, head of the Swiss Diplomatic Office, and handed him a memorandum from the ministry, urging the office's closure and requiring him to leave the country, said the report. (DPRK-Switzerland-Diplomatic Office)",
-            "GAZA -- A senior official of the Hamas-run internal security service was killed along with his wife and two daughters in an Israeli airstrike on an apartment in Gaza City early Wednesday, according to Palestinian and medical sources.",
-            "Palestinian sources said an Israeli drone fired at least one missile at an apartment in Al-Shati refugee camp, west of Gaza City, setting the unit ablaze. (Gaza-Hamas Official-Airstrike)  ■"
-          ]
-        },
-        {
-          "title": "Hamas security official killed in Israeli airstrike on Gaza City",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OdGVuMW4zSkRjWjRRRV9kS011czEtOENubm9aQmVHdm9ZNTQ2cWlubjAza3RZbEE2NlpLUU5kdUVJWDY3b0cxeEVUWFloZVJpUTRSQUhBSjNKVG5YQzc3a1hPNURzbmtDb0FNN0llaHRhbVlsWWxMQ21aeHQ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 11:40:45 GMT",
-          "source": "Xinhua",
-          "text": [
-            "A Palestinian inspects damages following an Israeli airstrike on a residential apartment in western Gaza City, on Nov. 25, 2026. A senior official of the Hamas-run internal security service was killed along with his wife and two daughters in an Israeli airstrike on an apartment in Gaza City early Wednesday, according to Palestinian and medical sources. Palestinian sources said an Israeli drone fired at least one missile at an apartment in Al-Shati refugee camp, west of Gaza City, setting the unit ablaze. (Photo by Rizek Abdeljawad/Xinhua)",
-            "GAZA, Nov. 25 (Xinhua) -- A senior official of the Hamas-run internal security service was killed along with his wife and two daughters in an Israeli airstrike on an apartment in Gaza City early Wednesday, according to Palestinian and medical sources.",
-            "Palestinian sources said an Israeli drone fired at least one missile at an apartment in Al-Shati refugee camp, west of Gaza City, setting the unit ablaze.",
-            "Medical sources told Xinhua that four people were killed in the strike, and their bodies were taken to Al-Shifa Medical Complex in Gaza City.",
-            "In a statement, the Hamas-run interior authorities identified the victims as Colonel Mohammed Abu al-Ouf, 47, director of the internal security service in the North Gaza Governorate; his wife, Noura Abu al-Ouf, 41; and their two daughters aged 15 and 13.",
-            "It condemned the attack as a \"heinous crime and massacre against civilians,\" adding that the strike was part of ongoing efforts to undermine the security apparatus in the Gaza Strip and sow chaos in Palestinian society.",
-            "The Israeli army has not commented on the reported killing of Abu al-Ouf.",
-            "The strike came one day after Naim Abu Nahal, head of the Hamas-run internal security service, was killed in an Israeli airstrike west of Gaza City. ■",
-            "Palestinians inspect damages following an Israeli airstrike on a residential apartment in western Gaza City, on Nov. 25, 2026. A senior official of the Hamas-run internal security service was killed along with his wife and two daughters in an Israeli airstrike on an apartment in Gaza City early Wednesday, according to Palestinian and medical sources. Palestinian sources said an Israeli drone fired at least one missile at an apartment in Al-Shati refugee camp, west of Gaza City, setting the unit ablaze. (Photo by Rizek Abdeljawad/Xinhua)",
-            "Palestinian children inspect damages following an Israeli airstrike on a residential apartment in western Gaza City, on Nov. 25, 2026. A senior official of the Hamas-run internal security service was killed along with his wife and two daughters in an Israeli airstrike on an apartment in Gaza City early Wednesday, according to Palestinian and medical sources. Palestinian sources said an Israeli drone fired at least one missile at an apartment in Al-Shati refugee camp, west of Gaza City, setting the unit ablaze. (Photo by Rizek Abdeljawad/Xinhua)",
-            "[continua sulla fonte originale]"
-          ]
-        },
-        {
-          "title": "Xinhua News | Xi, Pakistani president exchange congratulations over joint spaceflight mission",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QazBjSUY4dHBJeHhaMkdpZWV4SVYzS0ZCcW93TlZOVGVZVHZReDFVOTQ0NVMyeWNYV0l5MVFVdi15M2Q1RUFuNzMzMHRIMmhGa3ZrQ05KV0ZZSUtwR1R3MVlPbDJlaFp5TG1OcUtQSDZUTENtdkVvYVNpQlI?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 07:45:17 GMT",
-          "source": "Xinhua",
-          "text": [
-            "Chinese President Xi Jinping and Pakistani President Asif Ali Zardari exchanged congratulations on Wednesday on the joint spaceflight mission carried out by astronauts from the two countries. #XinhuaNews",
-            "Xi chairs groundbreaking China-Russia-U.S. summit with Putin, Trump"
-          ]
-        },
-        {
-          "title": "China's Shenzhou-24 spaceship docks with Tiangong space station",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wME5PV2lqV3Y2aTBlbGRxSXowb1EzWjlWZENMalBFcWZfRW1DVU5iT3JpWS1DSnpiSThfV0xZMTVyWUtmc3hINWdLRng4NHNFUDlMcWR0b1JveG1TRmlZMm9HVE5yRWNRVDZKV3d4QnRObGQ5ZEU1QjR6NG8?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 04:32:15 GMT",
-          "source": "Xinhua",
-          "text": [
-            "This real-time image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows China's Shenzhou-24 crewed spaceship docking with the Tiangong space station. China's Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11:56 a.m. (Beijing Time) on Wednesday, according to the China Manned Space Agency (CMSA). The spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe. The whole docking process took approximately 3.5 hours, said the CMSA. The astronaut trio aboard the spaceship, which comprises Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong, will then enter the Tianhe module. The Shenzhou-23 crew members in the space station are ready to receive the new arrivals. (Xinhua/Jin Liwang)",
-            "JIUQUAN, Nov. 25 (Xinhua) -- China's Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11:56 a.m. (Beijing Time) on Wednesday, according to the China Manned Space Agency (CMSA).",
-            "The spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe. The whole docking process took approximately 3.5 hours, said the CMSA.",
-            "The astronaut trio aboard the spaceship, which comprises Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong, will then enter the Tianhe module. The Shenzhou-23 crew members in the space station are ready to receive the new arrivals.",
-            "The spaceship, atop a Long March-2F carrier rocket, blasted off at 8:18 a.m. (Beijing Time) from the Jiuquan Satellite Launch Center in northwest China on Wednesday. ■",
-            "This image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows China's Shenzhou-24 crewed spaceship docking with the Tiangong space station.",
-            "China's Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11:56 a.m. (Beijing Time) on Wednesday, according to the China Manned Space Agency (CMSA).",
-            "The spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe. The whole docking process took approximately 3.5 hours, said the CMSA.",
-            "The astronaut trio aboard the spaceship, which comprises Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong, will then enter the Tianhe module. The Shenzhou-23 crew members in the space station are ready to receive the new arrivals. (Xinhua/Jin Liwang)",
-            "This image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows China's Shenzhou-24 crewed spaceship docking with the Tiangong space station.",
-            "China's Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11:56 a.m. (Beijing Time) on Wednesday, according to the China Manned Space Agency (CMSA).",
-            "The spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe. The whole docking process took approximately 3.5 hours, said the CMSA.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
     "peoplesdaily": {
       "status": "ok",
-      "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Apeople.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Cartoon--Special Coverage--People's Daily Online",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94cE04R3cwbEZqaTJ1MTR4MmhmZVlYRVBCWnNaaVBFSVBnMDZqU3lYdW4ycDFENlBCTHJWa3V2SDRLWUZHeV9zTXRCLXh1TFhVaW9PcjRzem4tbzFnekMzX0ZTMHluZkw3VnZFWQ?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 08:00:00 GMT",
+          "title": "Wudang-Changshun expressway opens to traffic in China's Guizhou",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWkxQZVBmOVR4ejQ1ZEVxWUpjdzY1anFveEhmakplczRnWUtnMzdhcXpNUWNlM1N6WDRxWS1ZOGRoWnctYU5OX3ZROGVuZnVZTG9kZ0pwZHhPbHBsdDMtQzBKUQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 08:53:00 GMT",
           "source": "People's Daily Online",
           "text": [
-            "Clued-in | Taiwan leader Lai Ching-te's so-called 'Double Ten' speech exposes his two-faced approach",
-            "Clued-in | Japan's military ambitions drain the public purse",
-            "Clued-in | U.S. pressure threatens Taiwan's chip industry",
-            "Clued-in | Japan's defense white paper for children indoctrinates them with hatred",
-            "Clued-in | AI-fueled distortion of history by Japan's right-wing forces is poisonous",
-            "Clued-in | Japan's 'neighbors' threats' narrative is a sell-directed performance",
-            "Clued-in | Who built the real debt trap for Africa?"
+            "An aerial drone photo taken on Nov. 27, 2026 shows a car passing through the Jianpo toll station along the Wudang-Changshun expressway in southwest China's Guizhou Province. The Wudang-Changshun expressway, invested, constructed and operated by China Railway Construction Corporation, was officially completed and opened to traffic on Friday.",
+            "The 115-km long expressway, linking Wudang District of Guiyang City and Changshun County of Qiannan Bouyei and Miao Autonomous Prefecture in Guizhou, is a six-lane, bidirectional highway with a design speed of 100 kilometers per hour. It is expected to effectively boost the capacity of the urban expressway network in central Guizhou. (Xinhua/Yang Wenbin)",
+            "A drone photo taken on Nov. 27, 2026 shows the Jinqi grand bridge along the Wudang-Changshun expressway in southwest China's Guizhou Province.(Xinhua/Yang Wenbin)",
+            "A drone photo taken on Nov. 27, 2026 shows the Jinqi grand bridge along the Wudang-Changshun expressway in southwest China's Guizhou Province.(Xinhua/Yang Wenbin)",
+            "A drone photo taken on Nov. 27, 2026 shows the Jinqi grand bridge along the Wudang-Changshun expressway in southwest China's Guizhou Province. (Xinhua/Yang Wenbin)",
+            "An aerial drone photo taken on Nov. 27, 2026 shows a car traveling across a bridge along the Wudang-Changshun expressway in southwest China's Guizhou Province. (Xinhua/Yang Wenbin)",
+            "A panoramic drone photo taken on Nov. 27, 2026 shows the Wangjiazhai interchange along the Wudang-Changshun expressway in southwest China's Guizhou Province. (Xinhua/Yang Wenbin)",
+            "A drone photo taken on Nov. 27, 2026 shows the Jinqi grand bridge along the Wudang-Changshun expressway in southwest China's Guizhou Province. (Xinhua/Yang Wenbin)",
+            "An aerial drone photo taken on Nov. 27, 2026 shows vehicles traveling through the Wangjiazhai interchange along the Wudang-Changshun expressway in southwest China's Guizhou Province. (Xinhua/Yang Wenbin)"
+          ]
+        },
+        {
+          "title": "Colorful crops air-dry at Huangling Village in E China's Jiangxi",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VdmQtOTRkT1VVaF9RbldkVlgxd1cxbW9tSDBDVVVjbF93eUZzSXhuR3lJSE04VzZkeTRwQldqSnIwUWZwbS1sZUROa2gxMEt1emhpck5SeFFBbmt0OWIxaUZTeGM?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 08:30:00 GMT",
+          "source": "People's Daily Online",
+          "text": null
+        },
+        {
+          "title": "How the financial \"life-giving rain\" seeps into the soil",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TSTYtYjktN3d2NzBfVmQ3QXNlR2YtZUl1SHZpbEVLWGFTVUlFSDRMZzZOdnBtZUZzWHI0Q3dUMEEwSVRTODhoVGxhbjdmTFdOSkRMMmlLMkVhS3c3UGR6eGFsVQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 07:17:00 GMT",
+          "source": "People's Daily Online",
+          "text": null
+        },
+        {
+          "title": "China delivers successful APEC 2026 host year, says Vietnamese official",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ablBxRFE0WWVSWVBubC1aR0pWNklPcTBJTzRhSk82N2VMRFRxU3A1cjZQTmNmV2hqanVzVFhLZWNHZ3FZZXBQRlhob2hScTg0bjJyekVjWjRkSlAyRzZwRTl4blI?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 06:49:00 GMT",
+          "source": "People's Daily Online",
+          "text": [
+            "HANOI, Nov. 27 (Xinhua) -- China worked with other APEC members to make its APEC 2026 host year a great success, Vietnamese Deputy Minister of Foreign Affairs Nguyen Minh Vu said at an international press conference in Hanoi on Friday.",
+            "Building on the achievements and outcomes of APEC 2026, Vietnam will promote regional cooperation when it hosts the forum in 2027, with priorities including digital trade, economic resilience, digital literacy, supply chain cooperation and food security, Vu said.",
+            "He highlighted the APEC Trade Digitalization Cooperation Framework (2027-2030), adopted by APEC leaders in Shenzhen in November, saying Vietnam will prioritize applying digital technologies to trade to reduce transaction costs, modernize customs, expand e-documentation and improve interoperability among digital trade systems of APEC economies.",
+            "Furthermore, Vietnam will build on the APEC Roadmap for Innovative, Competitive and Resilient Services (2026-2035), adopted during the 2026 leaders' week, to strengthen the competitiveness of the services sector and facilitate cross-border services trade, he added."
+          ]
+        },
+        {
+          "title": "China Film Festival opens in Singapore with 7 Chinese film premieres",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83NkU5OXFYblE3V0hSLXRmZFBuLWJNdTRGUDdsOFRUcUExVnZISFVfalE5Q0hCNjk0YTRXRU9tekxWemVlZGtDWk9WcFlBYkc3MnFLM0hGdmVqempqcFVMNEUtcmg?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 01:43:00 GMT",
+          "source": "People's Daily Online",
+          "text": [
+            "Singapore Film Society Chairman Kenneth Tan delivers a speech at the China Film Festival 2026 in Singapore, on Nov. 26, 2026. (Xinhua/Then Chih Wey)",
+            "SINGAPORE, Nov. 26 (Xinhua) -- The China Film Festival 2026 in Singapore opened on Thursday, featuring seven Chinese films making their Singapore premieres, with a China-Singapore co-production serving as its closing film.",
+            "Speaking before the opening screening, Chinese Ambassador to Singapore Cao Zhongming said film serves as an important bridge connecting the peoples of China and Singapore.",
+            "Cao said the festival was being held in mainstream commercial cinemas for the first time, with tickets available to the public, and expressed hope that this would draw more local audiences to cinemas to experience the stories.",
+            "Singapore Film Society Chairman Kenneth Tan said the seven Chinese films featured in the festival span a range of genres, including martial arts and animation. He said he believed the diverse lineup would resonate with local audiences.",
+            "The festival, running through Sunday, is jointly organized by the China Film Archive, the Singapore Film Society and the China Enterprises Association (Singapore)."
+          ]
+        },
+        {
+          "title": "Explainer: How is China exploring space together with the world?",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZXpqaDBKanRQcUo5SEFqUkg3Y1EzYmxHeE1LT1lsZUpBVHRHRndXUlFhLVUzQlJjWUd0Q01pVFRHNThwQ1J0Vi1mMlBmM3JvWWhOZkdUUnBMQlhXMkRKeERsRQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 00:57:00 GMT",
+          "source": "People's Daily Online",
+          "text": [
+            "This image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows a group picture of the crew of Shenzhou-23 and Shenzhou-24 spaceships. (Xinhua/Jin Liwang)",
+            "BEIJING, Nov. 26 (Xinhua) -- From welcoming foreign astronauts aboard its space station to sharing lunar samples with scientists worldwide and providing satellite services across borders, China is steadily expanding international cooperation in space.",
+            "As its space program advances, China is making international collaboration an increasingly integral part of its efforts, creating more opportunities for countries to participate in space missions, share scientific resources and benefit from the peaceful use of space.",
+            "This image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows the crew of Shenzhou-24 entering China's Tiangong space station. (Xinhua/Jin Liwang)",
+            "On Wednesday, Pakistani astronaut Muhammad Zeeshan Ali joined Chinese astronauts Tang Hongbo and Wu Yi aboard the Shenzhou-24 spacecraft, which lifted off from the Jiuquan Satellite Launch Center in northwest China's Gobi Desert.",
+            "The spacecraft docked with the Tiangong space station at 11:56 a.m. Beijing time (0356 GMT) on Wednesday, according to the China Manned Space Agency (CMSA). Ali thus became the first foreign astronaut to board the Chinese space station and the first Pakistani to travel into space.",
+            "His participation in the mission followed an agreement on astronaut selection and training signed by China and Pakistan in February 2025, marking a new stage in bilateral space cooperation that has evolved from satellite development to crewed spaceflight.",
+            "According to a CMSA spokesperson, four China-Pakistan cooperative projects in biotechnology and materials will be carried out during the mission. Ali will also conduct an in-orbit experiment involving photosynthetic cyanobacteria.",
+            "On the significance of the mission, Ali said, \"Now it is time to show this great achievement in orbit and send the world a message that we work hand in hand for the peaceful utilization of space.\"",
+            "Pakistani President Asif Ali Zardari said the historic cooperation demonstrated China's remarkable progress in space science and technology, its firm commitment to the peaceful use of outer space, and the significance of building a community with a shared future for humanity.",
+            "A man takes photo of a lunar sample collected from the far side of the Moon by China's Chang'e-6 mission, in Vienna, Austria, Sept. 14, 2026. (Xinhua/He Canling)",
+            "International cooperation in China's space program extends beyond crewed missions to lunar exploration, where foreign partners are increasingly involved in both scientific missions and research.",
+            "Chang'e-4 and Chang'e-6 each carried four international payloads. The Chang'e-7 mission is set to carry six international scientific instruments developed by six countries and one international organization, while Chang'e-8 is expected to carry payloads involving 11 countries and regions and one international organization.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Tales of Border Towns | Grassland Finery",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52R1E1ZGJzczlENTUyeUVJTndtbGVuUnZWWjA2YnY1YXJHNlJfUHZHekxQRGsyZElZbzVWTnRRa19iMUI4RzdhRS12SlBEZENtU2Zac09DU29MZHZQd19rd3MtYw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 08:05:00 GMT",
+          "source": "People's Daily Online",
+          "text": null
+        },
+        {
+          "title": "What does \"China Haul\" reveal about China?",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxOEFzTFZqNEF2S0RpUG91RmlSc1QyN2ZLanh3ajdjalpJYUN4MDhHUDRwRlRkZUJuUXhZbmFxbXlSZ2lvaExFTHVqUUNZNWZJcmZQVnpRc2YxMk1laDMweG9CMWY?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 02:57:00 GMT",
+          "source": "People's Daily Online",
+          "text": [
+            "Foreign visitors learn about a pocket-sized gimbal camera at a retail store of Chinese drone maker DJI in Pudong New Area, east China's Shanghai. (Photo/Wang Chu)",
+            "A trend known as \"China Haul\" has recently been gaining momentum across global social media platforms.",
+            "Foreign social media users have been enthusiastically sharing their shopping experiences in China, with many saying they plan to bring larger or additional suitcases on their next trips, while others mention that they buy novel products every time they vacation in China.",
+            "Smart products made in China, from children's smartwatches to virtual reality (VR) headsets, have become popular topics of discussion.",
+            "As online buzz continues to grow, visitor numbers are also on the rise. The latest figures from China's National Immigration Administration show that China recorded more than 11.6 million inbound visits by foreign nationals in the third quarter this year, up 15.6 percent year on year. Of these, over 8.99 million were visa-free entries, accounting for 77.5 percent of the total, a year-on-year increase of 24.1 percent.",
+            "Behind the \"China Haul\" phenomenon lies a deeper shift in how the world views Chinese products.",
+            "Technology wins hearts through innovation",
+            "Foreign influencers' unboxing lists feature not only Guochao (China chic) garments and accessories from Chinese sportswear brands such as Li-Ning and Anta, but also what have become popular Chinese tech specialties, including DJI drones, Insta360 action cameras, and Huawei foldable smartphones.",
+            "Immersive experiences with cutting-edge technology are also emerging as a new draw for inbound tourists.",
+            "At a 3D-printing flagship store in Nanshan district, Shenzhen, south China's Guangdong province, visitors can scan a QR code to start a personalized 3D-printing experience. In Huaqiangbei, a major electronics hub in Shenzhen, they can browse an array of advanced products, including artificial intelligence (AI)-powered glasses and companion robots.",
+            "Tours of smart factories, meanwhile, are becoming increasingly popular, giving visitors a close-up look at China's advanced manufacturing capabilities.",
+            "The growing popularity of Chinese tech products reflects foreign visitors' growing recognition of China's innovation capabilities.",
+            "Insta360, a Chinese camera and imaging technology company headquartered in Shenzhen, has shipped more than 10 million cameras worldwide. Its first flagship store in New York City attracted more than 1,000 visitors on its first day of operation.",
+            "Chinese drone maker DJI has long maintained a leading position in the global consumer drone market with a market share of more than 70 percent, and continues to dominate major markets in North America, Europe, and the Asia-Pacific region.",
+            "Chinese tech giant Huawei's foldable smartphones have recorded cumulative global shipments of more than 20 million units, reflecting their continuously growing market acceptance.",
+            "Boasting technological prowess and rapid innovation, Chinese brands are reshaping long-held perceptions among consumers worldwide.",
+            "A foreign visitor tries out a stringless guitar at Yingyueli Block in Huishan Ancient Town, Wuxi, east China's Jiangsu province. (Photo/Pan Zhengguang)",
+            "[continua sulla fonte originale]"
           ]
         }
       ]
@@ -139,128 +249,121 @@
       "feedUrl": "https://news.google.com/rss/search?q=site%3Achinadaily.com.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Chinese women's history is being rediscovered",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1udERsVXljbU1wT0R2cktReVpRVVIyYVk3eXBnWFZWYkZ4QTZEeXFsUjVBQmxZeXRQNXpGRFc5MHFHMWZJaTNmQU5ad3Q4YUhHYXdIMFMwUTZ0R0FHbEVuYU9TSWRqTWZQNDNvc1F1dmpZTE9BMW1oTDdraC1sdw?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 14:05:31 GMT",
+          "title": "AI innovation and testing center opens in Shenzhen",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MandKTGRncmhKeTMxZ0d4aGVubG5wNjZMTVZ5NGdPS2RJSWhnY09lSG5aRDBoaDlpV0xHU21vTFFlQWJUUEJPVHFGWk5PYTlHRy1KTlVQUzFBRTJyNC1ZM0tRY2VBQkZocGltc29QYXMzbUZZZHhxbF9GQ2NZUQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 09:15:23 GMT",
           "source": "China Daily",
           "text": [
-            "On Nov 21, Guangxi Normal University Press hosted the 2026 Annual Academic Publishing Forum in Guilin, Guangxi Zhuang autonomous region.",
-            "The forum, themed \"Reassessing the History of Chinese Women\", focused on topics such as women's public culture, gender and emotional order, and women in the court and grassroots settings. It aimed to engage both online and offline audiences in returning to historical contexts to understand women's real situations in labor, expression, physicality, and the rule of law.",
-            "Inaugurated in October 2023, this forum has successively focused on Song Dynasty (960-1279), Ming (1368-1644) and Qing (1644-1911) dynasties, and urban history, inviting renowned scholars and engaging nearly 200,000 readers online and offline to explore historical details.",
-            "In recent years, the study of Chinese women's history has transitioned from \"forgotten\" to \"rediscovery\". However, in the public's perception, it often remains stuck in a simplistic \"oppression-liberation\" narrative, and women's presence in history is frequently reduced to a few stereotypical images, said Liu Longjin, head of the Academics brand at Guangxi Normal University Press.",
-            "The Academics series has released books, including Women's Sports in Modern Eastern China: 1895-1937 by Taiwan scholar Yu Chien-ming; Reproducing Women: Medicine, Metaphor and Childbirth in Late Imperial China by scholar Yi-Li Wu; The Rise of Female Narrative in Early Modern China by Taiwan scholar Hu Siao-chen; Ming Ruo Zhao Shuang (Life Like Morning Frost): Law, Society and Women in Dream of the Red Chamber by Ke Lan, a law professor from Huazhong University of Science and Technology; and Women Playing Men: Yue Opera and Social Change in Twentieth-century Shanghai by Jiang Jin, a professor from East China Normal University.",
-            "These works aim to present a more nuanced and vivid portrayal of women's history through interdisciplinary perspectives and detailed micro-narratives.",
-            "At the opening ceremony, Guangxi Normal University Press signed publishing agreements with scholars Ke Lan and Xu Ning.",
-            "\"Academic research and publishing carry the mission of continuing knowledge, spreading ideas, and conveying values,\" said Huang Xuanzhuang, president of Guangxi Normal University Press Group.",
-            "Over the past four years, the university press has continuously deepened the interaction between the publishing and academic worlds. With this forum as a new starting point, the publisher hopes to strengthen ties between academia and publishing, facilitate communication between scholars and readers, and jointly build a community of shared destiny in academic research and publishing, Huang added.",
-            "During the forum, Mao Liping, a professor of history at Renmin University of China, said what impressed her most about the \"Uncovering Her, Reflecting Me\" interview project was how scholars systematically broke down stereotypes about women, showing that women are \"not all of the one type\". Participants in this forum ranged from those born in the 1950s to the 1990s.",
-            "\"Women from different age groups tell the life stories of historical women, which are also our own life stories,\" she said."
+            "TUV Rheinland Greater China formally opened its InnoHub Shenzhen innovation center on Thursday as a dedicated AI-focused testing platform.",
+            "The facility features a full-chain \"AI+\" evaluation system that captures information about user experiences, software and hardware assessment, physical AI products and AIDC infrastructure, based on the demands of real-world users.",
+            "The center uses a three-tier evaluation framework. At the first layer, it verifies the performance, safety and reliability of artificial intelligence data center infrastructure. The middle layer assesses AI foundational models and software applications for functionality, security and long-term stability. The top tier accounts for human factors and performs multimodal tests for physical AI hardware including exoskeletons, robots and imaging devices.",
+            "The structure enables early-stage validation during product definition, prototyping and iteration, helping manufacturers spot risks and increase R&D efficiency, the company said.",
+            "Eight interconnected research zones form a closed-loop workflow from user research to a certification showcase. The Shenzhen hub complements the first InnoHub launched in Shanghai in July 2025. Shanghai focuses on smart cockpits and display and acoustic experiences, while Shenzhen specializes in AIDC infrastructure, large models and physical AI, forming a dual-city layout.",
+            "Jay Yang, global senior vice-president of TUV Rheinland Electrical, said as technology becomes smarter, evaluations must stay focused on people, real-world applications and user safety.",
+            "Jason Fu, vice-president of TUV Rheinland Greater China Electrical, said said that with InnoHub Shenzhen now open, the division will explore AI evaluation through its strong industrial ecosystem and real-world applications."
           ]
         },
         {
-          "title": "Media key to boosting Sino-Russian ties",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmYlNIRTBhaUxHUS0yak96T1E2TzNwRmRhdFJrUFRrVlBMcGJ1UFBRSENEZjE0WU1ZYVV1MC13YXY0dDRzTkJTVWVPLThBN2lLUkVjYXk4eDRXb1BaY3hYLWQxeWVPcndOVGhVeFVMYTRxMENPZFlvbE5DVkY1QQ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 23:38:44 GMT",
+          "title": "China's new environmental assessment rules ease burden on projects",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3MTZzdEJxVm12WHE2STlzNXpHWHE1UEhtVlJLQkxtN1Fwc1NsTHh6bkJlZEhoTFpGbWVPT0dKMWxXT0lQaFo0NEVhUmZtWnpNTGc1dmFydC0tMmxGbzNZRmF0NkdwTUduLThYenNPSzZsR2xmUElHQlJlTTZxUQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 09:15:07 GMT",
           "source": "China Daily",
           "text": [
-            "The media is playing a vital role in promoting cultural and business exchanges between Russia and China, media professionals from the two countries said on Wednesday.",
-            "Alexey Urazov, director of International Cooperation and Special Projects at Russia's National Media Group, said the task of the media today is not merely to talk about Russia and China, but to tell stories of the two countries together.",
-            "\"Diplomacy opens doors for business and creates opportunities, while the media helps millions of people make use of those opportunities,\" he said at the seventh China-Russia Media Forum in Moscow, which was co-hosted by news agencies TASS and Xinhua.",
-            "Trade and commerce, according to Urazov, have found a natural ally in the press. Cross-border e-commerce, investment road shows and industrial matchmaking are increasingly packaged in stories and programs that make distant markets seem more accessible. Regular content exchanges between Russian and Chinese media outlets are building what he called a \"shared information space\" that shortens the distance for readers on both sides.",
-            "Alexey Yefimov, general director of Channel One Worldwide, noted that his company has spent nearly a decade as the first Russian television company to broadcast in Chinese, with its Katyusha channel airing more than 9,000 programs as a \"television window\" into Russia for millions of Chinese viewers.",
-            "The bilingual channel, he said, also carries an educational function, helping audiences in both countries sharpen their language skills while sparking curiosity about travel.",
-            "Urazov pointed to the joint feature \"Red Silk\" and its forthcoming sequel — coproduced by Russian and Chinese teams and already licensed in 48 countries — as proof that films can work as cultural diplomacy.",
-            "Huang Mei, dean of the School of Russian Studies at Beijing Foreign Studies University, said that language and translation are a \"school of empathy\", helping Chinese readers reach Russia's classics while Russian readers discover Chinese works.",
-            "Alexey Goreslavsky, director general of the Institute for Internet Development, called for pairing Russian and Chinese presenters to introduce each other's cities.",
-            "With some 60,000 Chinese students studying in Russia, he said, young musicians, designers and game developers are emerging as a new generation of cultural ambassadors.",
-            "Artificial intelligence was another defining new theme of the forum. Delegates discussed using AI to identify and trace disinformation.",
-            "Fresh cooperation documents were inked between Chinese and Russian news organizations, among them a memorandum of cooperation between China Daily and TASS."
+            "China's revised catalog for the classified management of environmental impact assessments is expected to reduce the number of projects requiring formal environmental impact assessment approval by about 30,000 nationwide, or roughly 25 percent, by simplifying or easing requirements for certain types of projects, the Ministry of Ecology and Environment said.",
+            "The ministry recently released the 2027 edition of the catalog for classified management of environmental impact assessments for construction projects to further standardize and streamline environmental impact assessment procedures, ministry spokesman Pei Xiaofei said in a news conference on Friday.",
+            "The revision was made in line with the requirements of the Ecological and Environmental Code, he said. It adds greenhouse gas emissions as a basis for determining environmental impact assessment categories and gives greater consideration to coordinated reductions in pollution and carbon emissions in key industries.",
+            "The new catalog is also designed to support the development of new quality productive forces and improve services for projects that affect people's livelihoods, Pei noted. It optimizes environmental impact assessment management for advanced manufacturing sectors, including aerospace equipment and smart consumer devices, while simplifying environmental impact assessment requirements for certain livelihood-related projects, such as grain milling and bamboo and wood charcoal production.",
+            "Pei stressed, however, the revision maintains strict environmental access requirements for projects with high energy consumption and high emissions, as well as projects with major ecological impacts.",
+            "It also standardizes the environmental impact assessment classification of projects involving the co-firing of fuels in thermal power plants and strengthens environmental impact assessment management for large and medium-sized hubs for water resources management, the spokesman added.",
+            "The new catalog will come into force on Jan 1, Pei said."
           ]
         },
         {
-          "title": "Shenzhou crews at a glance",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zV0tpaUowWkZsMzNiLTF6WkdXWllCcW1mcU5DNkR4M2xhRkZFLTNSd192VXktSG1qd1JCdXdmbFlhMm8zX1RXQ1NXUDhtLVhPM2RrV2ZkWS1yRGplVXJQT1BxNG9uVVhqZmo4SkZkQjY5QTRlZHVnS3llbmJKZw?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 13:09:46 GMT",
-          "source": "China Daily",
-          "text": [
-            "The Shenzhou XXIV crewed spaceship blasted off from Jiuquan on Wednesday morning and successfully entered orbit, carrying Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali to China's Tiangong space station.",
-            "The mission marks the first joint flight involving Chinese and foreign astronauts in the history of China's manned space program, and the first time a foreign astronaut has visited the Tiangong space station.",
-            "Tap the video for a look back at all Shenzhou astronauts."
-          ]
-        },
-        {
-          "title": "Giant panda Ya'nan charms with playful tree-climbing spree",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSUE1OU5CMGstc0dLR0VxenE3Q3AwWkhTZUktU0RST0ZvNHBjcHJ5SV83cmY0cDdTWnFYaklfS0tYVnRtR3RvcTFiNjdtbFNsbktfWFBjTkxfSWJTQy1QTkJqcmU0dmdLMFpFd3JlMFdZQlRnZGpFZGMwTml3WlF1cjFB?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 08:08:02 GMT",
+          "title": "Luanzhou shadow puppetry keeps 400-year tradition alive in Hebei",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnNOV3dBR2F4a2JNLVZQRlpvOVZCZmJMdXRHbDc4YTFkRmZ2aW5UOUlqbFRyTTVSdnMxYzZkZ2VCQVh0RldmengxaS1vRHgwUFQ2RHhvSzUwUUJyZjhqQWIweWMyVzJwWE85bFVzMTVnSUZURjdPTDRxOGxFV1NLMmRR?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 08:28:31 GMT",
           "source": "China Daily Global Edition",
           "text": [
-            "Ya'nan, a giant panda at a wildlife park in Qinhuangdao, Hebei province, has once again charmed residents: this time with a playful tree-climbing spree.",
-            "Recent footage shows the panda scrambling up and down the tree, hugging a branch and shuffling along it, hanging upside down to look below, and pawing at small twigs.",
-            "Set against a blue sky and yellow leaves, Ya'nan's acrobatic moves have led fans to joke that its kungfu skills have reached a new level."
+            "Inside a shadow-play workshop in the ancient city scenic area of Luanzhou in Tangshan, Hebei province, traditional shadow plays are staged as visitors stop to watch and photograph the performance.",
+            "Tangshan shadow puppetry, among China's first national-level intangible cultural heritage items, has a history of more than 400 years. Known as \"donkey-hide shadow puppetry\", it combines carving, painting, and sung storytelling.",
+            "The art has a complete role system divided into six categories. Its classic facial design features a straight nose, high and curved brows linked to slender eyes, a small mouth, and a pointed chin, making them easy to identify.",
+            "Crafting a qualified puppet requires multiple procedures, including soaking, scraping, and pasting the hide, selecting leather, carving, coloring, varnishing, and attaching rods.",
+            "Its singing is based on the local dialect, and its signature \"pinched-throat\" vocal method is the most distinctive feature separating Luanzhou shadow puppetry from other schools in China.",
+            "In recent years, Luanzhou has promoted cultural tourism integration and intangible heritage programs in schools, local authorities said. Local primary and secondary schools offer shadow-puppetry courses, with inheritors teaching young people carving, manipulation, and singing skills.",
+            "The ancient city's scenic area has built a shadow-play art workshop that regularly stages plays and sells cultural products, attracting tourists from across the country. Some international visitors have also experienced the art firsthand.",
+            "Other local heritage items, such as clay sculpture, are also being taught to enrich traditional culture classes for young people."
           ]
         },
         {
-          "title": "Xi, Pakistani president exchange congratulations over joint spaceflight mission",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LWHEtQ1g3bVEyWmRiX0ZWQWliSER5cmI5TTVSZ2lEZi1PZlZyTUhJdUU2bi1oaUxnNVhLclNpUEdIT21HVnh1UUNYSDdQY3NPTW9MT2g1em03eEV1ZHhMaWk5NUc2dnhrMm1TOHdrOURJUHZzVDNqa1lIam1MUQ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 06:48:09 GMT",
+          "title": "'Space kitchen' upgrades menu as China's Tiangong welcomes first foreign astronaut",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RdGtoTzBxcWgwZUxPRXVYUGxMMFpGOWU0RF9pS2VER2l0UnJ5emdPTE9hbXVURjRJeVUzdlVBR2dmTENDX0VkQXBJcU1DT00tSkdQanM3VG5KcjlSVTVnTGVIZVVhN3RXb1pZaF9XaWp3V19lRTJJT2lSeFdQUQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 08:13:05 GMT",
           "source": "China Daily",
           "text": [
-            "BEIJING -- President Xi Jinping said on Wednesday that the joint space exploration by astronauts from China and Pakistan is a vivid embodiment of the deep-rooted friendship between the two countries.",
-            "It marks another important achievement in bilateral cooperation, Xi said while exchanging congratulations with Pakistani President Asif Ali Zardari on the joint spaceflight mission.",
-            "In the message, Xi said that he was glad to learn of a Pakistani astronaut's successful entry into space aboard a Chinese Shenzhou spaceship for the first time, making him the first foreign astronaut to inhabit China's space station.",
-            "Xi extended his warm congratulations to the Pakistani government and people, as well as to astronauts and space professionals from both countries on behalf of the Chinese government and people.",
-            "Xi noted that China and Pakistan are all-weather strategic cooperative partners, saying that the friendship between the two countries has remained rock-solid and unbreakable since diplomatic ties were established 75 years ago.",
-            "Emphasizing that China's space station is an ark of peace, friendship and cooperation, Xi said that China stands ready to work with Pakistan and other countries to advance the peaceful use of outer space, deepen international space cooperation, and improve global governance in outer space, to ensure that outer space exploration delivers greater benefits to the humanity.",
-            "For his part, Zardari expressed profound appreciation to the Chinese government and the brotherly Chinese people on behalf of the Pakistani government and people.",
-            "He said the historic space cooperation between Pakistan and China and the first Pakistani astronaut entering China's space station come as the two countries commemorate the 75th anniversary of the establishment of diplomatic relations.",
-            "Such cooperation demonstrates China's remarkable progress in space science and technology, its firm commitment to the peaceful use of outer space, and the significance of building a community with a shared future for humanity, Zardari said, adding that it will further strengthen bilateral friendship, and promote the all-weather strategic cooperative partnership between the two countries to a higher level."
+            "BEIJING -- A plate of freshly baked cakes was waiting for Pakistani astronaut Muhammad Zeeshan Ali as he entered China's Tiangong space station, offering a warm welcome to its first foreign crew member while highlighting upgrades to the \"space kitchen,\" video released by the China Manned Space Agency (CMSA) shows.",
+            "Ali and his two Chinese crewmates entered the Tiangong station on Wednesday afternoon, hours after the Shenzhou XXIV spacecraft lifted off from the Jiuquan Satellite Launch Center at 8:18 am (Beijing Time).",
+            "Shenzhou XXIII crew member Lai Ka-ying, the first astronaut from China's Hong Kong Special Administrative Region, presented a plate of small cakes fresh from the station's oven. \"I just baked these space cupcakes to welcome you,\" she said with a smile.",
+            "Shenzhou XXIII mission commander Zhu Yangzhu added, \"Baked today.\" Ali held the plate with both hands, leaned in to smell the cakes, and declared in Mandarin, \"Very good!\"",
+            "The heartwarming exchange offered an early glimpse of life aboard Tiangong during a period of joint operations involving six astronauts. Ali and two members of the Shenzhou XXIII crew are scheduled to return to Earth after the period of overlap.",
+            "Food will be an important part of Ali's adjustment to life in orbit, and how well the specially prepared meals suit his tastes and nutritional needs will be watched closely.",
+            "Preparations began well before launch. Soon after Ali and his fellow countryman Khurram Daud were selected as the final candidates for China's space mission training in April, the Astronaut Center of China (ACC) began developing the space food menu.",
+            "It reviewed and adapted items from the existing space food library to build a dedicated Pakistani food reserve of more than 100 items, developing seven specialty dishes in Pakistani flavors, including nihari beef and lamb korma.",
+            "\"We designed the recipes on the basis of ensuring energy and nutrient standards are met, taking into account the need for light, easily digestible food during the early days in orbit, and then tailored them to their personal needs,\" said Chen Junli of the ACC.",
+            "\"Pakistani people favor spices such as turmeric and curry, so we developed space foods like curry chickpeas and butter chicken that suit local tastes,\" Chen said. \"The entire production line is a fully halal one.\"",
+            "Chen added the foods went through repeated tastings and iterative recipe optimization. \"During the tastings, their feedback was positive.\"",
+            "The team also adjusted the menu based on their feedback. \"In our initial design we wanted to include popular Pakistani spiced milk tea, but after they came to China, they found Chinese black tea and rice particularly tasty, and asked for more of both during the mission, so we took that into account in the menu design,\" Chen said.",
+            "The broader \"space kitchen\" upgrades are not tailored to any single crew member. Tiangong's food repertoire has expanded to nearly 200 varieties, and the rotating menu cycle has been extended to 10 days. With microwave ovens and baking equipment, crews can now enjoy hot meals within 20 minutes and fresh bread, vegetables and nuts prepared in orbit, according to the CMSA."
           ]
         },
         {
-          "title": "China extradites economic crime suspect from Russia",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONC1KUnl5aWtjMnB2UEFHenRyY0x6NGZIQkhIMURoNDNQYWxFNjF1blpIX1kzU0tRREY2a19vUnJvUUxiU2NhRjl5ellWR2lrYjVESkRiVjdDOE1Jb2lWYmxxQ3hKc3JPVDRHeExqN3VyS2lYSGQzamJVVGMxVGROdW5B?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 03:27:11 GMT",
-          "source": "China Daily Global Edition",
-          "text": [
-            "A suspect surnamed Shu was recently extradited from Russia to China in connection with a case involving more than 15 billion yuan ($2.25 billion) in allegedly illegal absorption of public deposits, the Ministry of Public Security said on Wednesday.",
-            "The extradition followed efforts by Chinese police, with assistance from the Chinese Embassy in Russia, the ministry said.",
-            "Shu allegedly solicited deposits from the public by promoting fictitious wealth management products and promising high annual returns, despite lacking approval from financial regulators and the qualifications required to accept public deposits.",
-            "Police in Yinzhou district of Ningbo, Zhejiang province, launched an investigation into Shu in October 2024.",
-            "Prosecutors approved his arrest in February 2025 on suspicion of illegally taking deposits from the public. Russian police apprehended Shu in November that year, prompting Chinese authorities to submit an extradition request.",
-            "Russia approved the request in September 2026, and Shu was extradited to China on Nov 5.",
-            "An official with the ministry's economic crime investigation bureau said the extradition demonstrated the determination of China and Russia to jointly combat crime and marked a milestone in deepening bilateral law enforcement and judicial cooperation.",
-            "Chinese police will continue to strengthen international law enforcement cooperation, bring fugitive criminal suspects to justice and protect the lawful rights and interests of the public, the official added."
-          ]
-        },
-        {
-          "title": "Weekly train service linking China, Mongolia and Russia launched",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yMG9aVUc3SXV0MFJyeDROcVpyUzZhSm9kczBUWk1uZUxRaEN0bHhEOGtvOHE0RVAwTy1PdnRQTDRIRHA0WUw2VnN4cktiNGYzV3BpeXJrMVVnRDBYZnV5bHdBOGg3VFhiYTZKUE9hcXJjbk1MR1lJRW85NDd0QQ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 02:36:31 GMT",
+          "title": "Beijing expands access to surgical robots through leasing",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ga1h3aUtNTVF1RFhYckpLaHNQdWFQRU1BN3BLS2psRzZBTGtBbl9pTzNxSVlIajRidksxSU5GZkZHZTlyWFdXaURSTXYzbjFKMFVzbzhiRHR3TWJxaGRyM19mbHRlV05DdnRpLS1qNEEycU9nemxMRjNYSmZTZw?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 07:46:46 GMT",
           "source": "China Daily",
           "text": [
-            "A passenger train departed Beijing for Irkutsk, Russia, on Wednesday morning, marking the launch of a weekly rail service linking China, Mongolia and Russia.",
-            "The V3 train left Beijing Railway Station at 7:27 am and is scheduled to arrive in Ulaanbaatar, the capital of Mongolia, on Thursday afternoon before reaching Irkutsk on Friday afternoon.",
-            "The 2,666-kilometer journey takes about 55 hours. The train stops at cities and towns in all three countries, including Jining and Ereenhot in China, Ulaanbaatar in Mongolia and Ulan-Ude in Russia."
+            "Beijing is expanding the use of surgical robots in hospitals through a pioneering financial leasing platform, with 16 robots already leased to 10 medical institutions and another 13 in the pipeline, a municipal health official said on Thursday.",
+            "The platform, the first of its kind in China, aims to lower the financial barriers for hospitals to acquire high-end medical equipment through what officials describe as \"full life-cycle services\", including installment-based rental payments, maintenance and upgrades, replacement guarantees, and flexible disposal arrangements.",
+            "Chen Hang, deputy director of the Beijing Health Commission, made the remarks at a news conference on the city's efforts to promote drug safety and high-quality development during the 15th Five-Year Plan period (2026-30) on Thursday.",
+            "\"Medical surgical robots are an important example of innovative medical devices and a key strength of Beijing's high-end medical equipment sector,\" he said.",
+            "A total of 45 registration certificates for medical surgical robots have been approved in Beijing, the highest number among provincial-level regions nationwide, Chen said. The robots are used in a range of specialties, including orthopedics, neurosurgery, dentistry, laparoscopic surgery, and interventional procedures, with their applications gradually extending to ophthalmology, cardiovascular medicine, radiotherapy, and pediatrics.",
+            "By the end of the third quarter of 2026, municipal hospitals in Beijing had put 61 surgical robots into operation. Since 2024, the devices have assisted in more than 34,000 procedures, including over 13,700 in the first three quarters of this year, up 49 percent year-on-year, Chen said.",
+            "\"Beijing will leverage its strengths in medical resources and technological innovation and continue to improve services across the entire chain, from research and development to application, so that more innovative surgical robots can enter hospitals, be used in clinical practice, and benefit more patients,\" he said.",
+            "On the industrial front, Beijing-made orthopedic surgical robots have reached more than 200 tertiary Grade A hospitals across all 31 provincial-level regions in China, assisting in more than 150,000 procedures. A domestically developed single-port laparoscopic surgical robot has also entered markets in Europe and the United States, Chen added."
           ]
         },
         {
-          "title": "Shenzhou mission to conduct 90 sci-tech space tests",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oYVZzRXJSUFc0aWZ5RTY3YWxCU0FxSGxlWVlEbW5WQ0U4d09WZ0pFRnZubWVMb3RSNEZFSDdhTDlxMEpuR0RidUFiNzBDTW9GazZKelkzQ1EyT1FQR1gwaldhRUZ3eURMZXNnMVJkc0FJR1pHVDFWQk11bndKUQ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 00:56:23 GMT",
+          "title": "24 injured in Hong Kong boat accident",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82cld4T1d1RTUxNHRiQ1doU0N0T0lJRV9Ocjlqd2Q2R1QtSHlBV1VlbFUtUDFRRTE1YVRvWEx1cVZody1BbENXb3RvNFZwNDU3MFowd3pfRk9iZmFwOGt5Uzl2bzdfdHJqZUJyOFRKZVM3UTdmcnZBSnoxSTZWUQ?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 05:28:10 GMT",
           "source": "China Daily",
           "text": [
-            "The Shenzhou XXIV mission will carry out 90 scientific experiments and technological tests aboard the Tiangong space station, the China Manned Space Agency announced on Tuesday.",
-            "The experiments and tests will cover space life sciences, space materials science, microgravity fluid physics and combustion science, fundamental physics, space medicine, and cutting-edge aerospace technologies, said Zhang Jingbo, a senior engineer and spokesman for the agency, during a news conference held at the Jiuquan Satellite Launch Center in northwestern China.",
-            "As part of space life science experiments, the crew will build vascular organ chips and multi-type organ-on-a-chip devices to study how the space environment affects key physiological processes such as vascular aging, aiming to develop new strategies for preventing and treating age-related conditions, he said.",
-            "Zhang noted that the Shenzhou XXIII crewmembers have already made significant findings in this field. Their multi-omics research has revealed that spaceflight reduces the differentiation efficiency of human-induced primordial germ cells by about 50 percent, he said.",
-            "It has also identified the key pathways through which germ cells adapt to space conditions, including extracellular matrix regulation, cytoskeleton remodeling, translation control and lipid metabolism, he added.",
-            "In space materials science research, the Shenzhou XXIV astronauts will focus on the in-orbit fabrication and performance control of ultrahigh-temperature niobium-silicon intermetallic compounds and calcium-silicon multicomponent bioglass, as well as scientific studies of monocrystalline silicon and perovskite materials, Zhang said.",
-            "He noted that the Shenzhou XXIII mission produced China's first millimeter-scale deep-ultraviolet nonlinear optical crystal — potassium beryllium fluoroborate — aboard the space station. The microgravity environment significantly improved the crystal's growth quality, laying an important material foundation for high-power deep-ultraviolet laser devices.",
-            "In the field of space medicine, experiments under the Space Human Research Program will continue, Zhang said. The program will include mining multi-omics data to map the human spaceflight multi-omics atlas, quantify changes in behavioral capabilities during long-haul missions, and explore the mechanisms underlying brain function, he said.",
-            "Zhang noted that the Shenzhou XXIII astronauts have introduced advanced detection technologies, including continuous muscle imaging and intelligent quantitative assessment, in-orbit detection of multiple proteins from trace amounts of whole blood, and an AI-powered multimodal exercise-load evaluation model.",
-            "These technologies enable noncontact physiological monitoring and objective fatigue assessment, he added.",
-            "In the field of aerospace technology, the Shenzhou XXIV mission will test key technologies for a chemical-electric hybrid propulsion system featuring multiple operating modes and novel ionic liquid propellants.",
-            "[continua sulla fonte originale]"
+            "HONG KONG -- A boat hit hard objects in waters near Tsing Yi Oil Depot on Friday morning, injuring 24 people, the Hong Kong Police Force said on Friday.",
+            "Rescue has arrived at the scene, and the cause of the accident is under investigation."
+          ]
+        },
+        {
+          "title": "SK Hynix hosts annual employee gathering in Wuxi",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XMlFGSFV3bmFNR0oyNXdKWHRVNnozWHgwX2NOd2VTbE00bHJjYXBFbEljYTJvWks4emdJY0paN2pLMTVYcFVEMHB0SDZBNEU4aHROeFJLN3dkZ0hNdml4TWpFand5Z2pUdURqdjJyMUszTGFrXzFmV2ZKVkVlZw?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 04:33:07 GMT",
+          "source": "China Daily",
+          "text": [
+            "More than 4,000 employees of SK Hynix Wuxi gathered on Nov 24 for the company's 10th annual Happy Party, a day of food, performances, games and community activities at its employee residential compound in Wuxi National Hi-Tech District.",
+            "With more than 90 percent of its workforce coming from outside Wuxi, the South Korean semiconductor company has developed a range of facilities and services to support employees living away from home. Its residential compound currently accommodates more than 900 employees, offering furnished apartments as well as dining halls, a gym, a cinema, an internet cafe, a library and reading rooms.",
+            "Other support measures include shuttle bus services, dining options featuring both Chinese and South Korean food, and an on-site clinic. The company also provides regular health checkups, mental health support, and travel subsidies for employees visiting their families.",
+            "For Elena Cha, a South Korean employee who has been living in Wuxi for a year, settling into the city proved easier than expected. Colleagues helped her get acquainted with local life, taking her to explore Nanchang Street and sample Wuxi's local cuisine on weekends.",
+            "The city's welcoming atmosphere and the company's strong employee support services have helped her build a comfortable life here. \"I now regard Wuxi as my second home,\" she said."
+          ]
+        },
+        {
+          "title": "Still flying high",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hM3pFX1V5emNFZXpUa3N5MUFDQXpfSGYtZlNkWHczdlZKVHJXajU1RmFldUxyWkhjdDF6SHBvbjhXeEVLTzJaakhGaHZxYmFMdnVDdjRNb25lZk5QN054OVkxYTBnMkVmdE83WW9qTFN2bE1nQmJIMlRTaW4xdw?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 03:01:37 GMT",
+          "source": "China Daily",
+          "text": [
+            "In 2023, Malaysian singer Vanessa Reynauld, born in the 2000s, came to public attention with her rendition of To Fly Away on The Voice of China. She later took part in the Chinese variety show Singer 2026 · Malaysia. Recently, she held her first solo concert at Blue Note in Beijing, once again performing the song that brought her to the spotlight.",
+            "Talking about her connection with China, the singer recalled how she grabbed a mic at a wedding and sang The Moon Represents My Heart when she was just 4.",
+            "Having been to China many times, she is impressed by Chinese singers' perfectionism and dedication. \"They are always practicing. Chinese singers can really serve as role models, and I feel I should work harder to match their level.\"",
+            "She said she has experienced the affection and warmth of people in China and hopes to return more often to explore new experiences."
           ]
         }
       ]
@@ -269,6 +372,87 @@
       "status": "ok",
       "feedUrl": "https://news.google.com/rss/search?q=site%3Acaixinglobal.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Tech, policy and investment leaders from 120-plus countries converge on Dubai to drive clarity on AI’s shifting priorities",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMzRGQTBabE0wdGowYVAwNDNXVFdjdXJaTS1YdjVFNDFSSkJ6VUwzbllzZGh0U3RuWGFpTGd2RFhFTnYtRThjVlU2YWtoZFBsT3VoMEN5WEI0RHdJSzlRVW5uNW1tSWRUQkZiN3R0cmp0VG1WVFR5MmoyV0FHcnN5OW1pRE5PVzZZek1CVUR5VnZLYXh5eHg3UEI0SXdaalNhTDIzaGlsREhsWFJHMDdTRkdIWXZOWHh5TjBrbUcydVRWc2xLeU1kaXdoM2N6WjZLTHNyaDdNQWZvSmIxXzNTd1hwbjl0YVlmdWpGNEwxQV9sU0dXYjdQWjFHeklrMEdUalFPdGdR?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 10:33:58 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "GITEX GLOBAL and Expand North Star both hosted at Dubai Exhibition Centre, Expo City Dubai",
+            "46th edition of global tech showcase opens with the inaugural GITEX SUMMIT on 7 December to shape the 2027 reset",
+            "Dubai, UAE: Dubai is set to become the epicentre of an intensifying global conversation on the future AI economy next month, as tech leaders, policymakers, investors and innovators from more than 120 countries fill 46 sold-out halls at the world’s largest and most international tech and AI event of the year."
+          ]
+        },
+        {
+          "title": "Huawei Highlights Patent Licensing and Open Innovation at Seventh IP Forum",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHEteTBJVl90Zm1NQTdjOS0teTZ3VEFPOW14ZTMxdW16VkVwRS1vZFdtMk5BTl9IMGoyaWlVYWhtWURIck04X2lhc2dhckFZY2JjdF9ORGMtQnNfbHZrMGVQTjJ2WHh5Qm54di1vWkNVNUYwNTVWT2pNdkktQ0hnb3RDSlZXUTFBamVKcjhCSlF0RDhWQXNpRXNjODZScUh0bWdFUldHanZpbnQwbEl0N2hwYS1ZOU1Ld18zWHZTaFd5SFlNckZmMA?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 10:33:55 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Huawei brought together global innovation and intellectual property (IP) experts and industry partners at its seventh Innovation and Intellectual Property Forum in Beijing on November 24, where it reported approximately US$800 million in patent licensing revenue for 2025 and agreements with 20 new licensees.",
+            "Held under the theme “Invent to Excel, Open to Empower,” the forum reaffirmed the role of openness in driving industry innovation and of IP protection in safeguarding it. Participants explored how sustained innovation can accelerate technological progress and how open collaboration can support industry development as AI reshapes the global economy.",
+            "“At Huawei, a patent represents more than a legal right. It represents an innovative achievement and a source of pride for the people behind it,” said Alan, Huawei’s vice president and chief intellectual property officer.",
+            "Patent Licensing and IP Protection Enable Open Innovation"
+          ]
+        },
+        {
+          "title": "Apple Pulls MiniMax’s Chatbot From App Store Over Child Safety Concerns",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFFqQzIxVXotOEhJVUdieFk4a1pxV2E3STRyNmZOcEZYVkNMNEl5Qm1COGdQUXBEVTVzSk8ta3Y5VHdIdi1kZ0V0VmNkQjAzNy02b0E3T2Z1WkczMFZmcHljR1htTFFkckd2QUNuR0ZMQnVKMkVLR0FFQU92TEtSbl9ha21falZINGNQblFOTlI3Z1BkTGNZWXNGcTdvOXhIcnZQRThUTGNwS2pFWXJNNGowbVEwbmlfbDVXYkE2YlMxdnc?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 10:27:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "Apple Inc. removed Chinese AI developer MiniMax Group Inc.’s chatbot app Talkie from its App Store worldwide on Thursday following allegations that its virtual characters sent sexualized messages to minors.",
+            "ABC News and the Bureau of Investigative Journalism on Wednesday reported that Talkie’s AI-generated characters had sent sexually inappropriate and abusive messages to children. Although both the Apple App Store and Google Play Store restrict the app to users aged 18 and above, the report found that its age verification measures were lax. The app currently remains available on Google Play.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "MiniMax Shares Fall Below IPO Price Amid AI Sector Sell-Off",
+            "MiniMax Cuts API Prices With New Flash AI Model"
+          ]
+        },
+        {
+          "title": "China Signals for Stronger Stock Market Support",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaU9KZHYwZ3BjNTgxN1lUdUJHNkp3Nl9IVHBiNkNEU2xwQ3dycEhtaEdjN2FMR3JLLXhDTkFOTHpTM0hIOGVRb0EzdDEwMUFnZWZxTUs0dmN6R3BNU1RpOEh5Nk44VXBYOEtoNll4akY0Ym81YUhZT20zNWZ3VGg3NDgzWFFnZFoyT01TTkNyczlobHlfSjV1UUdqTUpuZmVzUUVPTw?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 08:00:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China’s cabinet called Friday for stronger measures to stabilize capital markets, urging listed companies to increase dividends and share buybacks and state-backed investors to play a larger role in supporting markets.",
+            "At a meeting chaired by Premier Li Qiang, the State Council said authorities should further strengthen sovereign investor Central Huijin Investment Ltd. and the so-called “national team” of state investors’ stabilizing roles and ensure ample liquidity, according to the official Xinhua News Agency.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "Analysis: Why China Is Rewriting Its Stock Market Refinancing Rules",
+            "Opinion: China’s Small Investors Deserve a Stronger Market"
+          ]
+        },
+        {
+          "title": "Analysis: China’s Insurers Seek to Close Gap in Innovative Drug Coverage",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLU1qYWhTODZfQjJrVXhoQ3g0ZzVWUXA4TVkxZ01BUEFqaUxBUlJpS24tX1E5S29venRtOVZPYktHdi16aXRFU1VZUFR2YUwxbFhCQmJKdkdwcHpzaF9DV1Nmam91NlNqMjJMSkJTZ1lVaDREYnhsVXpoLUowclE1dDhoMTBWNVVaOFVYM01INlRyZEZLanl2bXIyRnExYTNlQ2pvbnV2Mmo4ZWlVYUY2TEVMVkxxaFo4Y2U4ZU5MT1JhTW8?oc=5",
+          "pubDate": "Fri, 27 Nov 2026 05:45:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "China’s commercial health insurers are taking steps to establish their own framework for covering innovative drugs, seeking to address a longstanding gap between the government’s push to expand access to new medicines and insurers’ need to manage costs and maintain profitability.",
+            "The Insurance Association of China (IAC) on Nov. 10 released the insurance industry’s first unified list of recommended drugs for commercial medical insurance, covering 58 drugs and medical devices, along with three sets of model policy clauses. The list is an attempt by insurers to gain more control over how innovative drugs are paid for. Whether patients can actually get those drugs is a harder question.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "China Speeds Up Drug Price Talks as Commercial Insurance Fast-Track Loses Steam",
+            "Chinese Biotech Firm Slashes Price of Cancer Treatment to Win Insurance Coverage"
+          ]
+        },
+        {
+          "title": "Vanke Seeks Second Extension on 1.2 Billion Yuan Bond",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcllRTFU0WXdhS3J6WnNYOWpCWGRDN1JKcDhwano4enVzNmxudEhYUC1CVlNSWHNYVmphTTdiU1FqYnNEVHgwNS1WNUhkSW0zT1U4V1VTVmNvLWtfeHMzWUJBMTVONkVmenQyOV9XYU4tR09wT0lMY0xrc1BtcXBwWjJNVEExSFB3cld6RzVqN1ZPYUpXRGFRdTMtWXB1VnBxRDd6Q0o2alVLaTQ?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 16:54:00 GMT",
+          "source": "Caixin Global",
+          "text": null
+        },
+        {
+          "title": "Hong Kong Data Breaches May Affect More Than 1.8 Million",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpyalJKLTFJeGVUMjJJWkxXbkxsY2tjZkdabEwwZnBmRG5hdjNYT1VRN2ExZzl5UjJtVGxBWTRmWHhRRVF2WUE1M05wWktqRFNRUmxvcnFEcFlPYU1BY3JJS214UGpxem4wM3JwTHg1eC1vTDFpX3lZT2dSY0xnTkRLaXVIekF3SlAxLUprZFpfekY4dGVodEVHb0U1aHBjVW56ZXFiQWJxbkxaWGdF?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:12:00 GMT",
+          "source": "Caixin Global",
+          "text": [
+            "A series of data breaches involving Hong Kong’s public ticketing platform, a private hospital and a digital insurer may have exposed personal information affecting more than 1.8 million users and patients, based on estimates for the three incidents.",
+            "The Leisure and Cultural Services Department said Wednesday that hackers had breached the Urban Ticketing System (URBTIX), potentially exposing usernames, names, phone numbers and email addresses of about 1.3 million users.",
+            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
+            "China Proposes Strict Cybersecurity Rules for Banks, Insurers"
+          ]
+        },
         {
           "title": "In Depth: At the APEC Summit in China, a Push to Keep Globalization Moving",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXNMU1ZKcy0wTDJwUmxhSGVnaV90WklMXzFUTE9BTHY2anFidjdCaHNoaXViWUlyU3JCTU9GRmdsQlZWVXZXbTVQaTloWVBIbGYxSnZWS0lyb2hYMmJKV2VpOTJEVzFmUjBMNWdiR0J2MHBpOGRWNW5Ta2hqa0JEZXNxc1dsVjF5emxuVGM1RkRLZnJvUWZEdGtLZlJpUjhoMXE2RWhiTEhTX01pNTViaktpOFVhT2hELXNLU2lhWjZfMjFreHc?oc=5",
@@ -280,83 +464,6 @@
             "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
             "Xi, Putin and Trump Pledge Nuclear Risk Dialogue in Shenzhen",
             "Xi, Trump Agree to Draw Up Plan for Stable China-U.S. Ties"
-          ]
-        },
-        {
-          "title": "Chinese Biotech Firm Slashes Price of Cancer Treatment to Win Insurance Coverage",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVVjRzNkMlRNV2Y2Nlhjam9jU01od1AzVnA3MnpST1NwUnVIeUVneDU4MjE4YUNWcUlqNExiTFdlMWcxcFRySUVDNnBmTGxjSXVRcVFBU29LdE81cW9iRlN5NEtucTFJMDVCY19CX0xSMXExa2hJeUFmdm92dFVCR0VDNmlkV3d2Q3lhb3cxU1RpMGhoazl2OU1PS2Faa2plLUpqZDFPLW15VFJtSXhpSkdhalg1NUhubndhYVFXdHVVX3RLZDE2RjJfQjRsS1lD?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 05:28:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "JW Therapeutics Shanghai Co. Ltd. has secured a place for its flagship cancer treatment in China’s basic medical insurance program by cutting its price more than 77%, betting that cheaper manufacturing and a surge in patients will put the loss-making company on a path to profitability.",
-            "Carteyva, a CAR-T cell therapy, will enter the national reimbursement list on Jan. 1, 2027, at a payment standard of 288,600 yuan ($43,276), down from its previously published price of 1.29 million yuan. It was the only CAR-T product added to basic medical insurance in the latest round, which was announced Nov. 14.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China Approves World’s First CAR-T Therapy for Solid Tumors"
-          ]
-        },
-        {
-          "title": "Analysis: Why China’s Banks Struggle to Finance Low-Carbon Transition",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMno2V09yNUNndmdqZjYxWHZqNGVTaEFMdEtsNGFBTE9Ranplc2U1dmVyTmFmckNFT2ZhT191YVRQdTdpU1BfTlNwLVVtUUwxQ0ZISWJrTGpOb0dDMzZpeG9VOTV0VXBXcUxlMFpLS3RlaXFaYjhyLXRrR3VLaktoSVZqRms3RldZeGlmODV0NEtOTW1YYkZzZTZoOXo1NjhaaFAxSFdOUlhadmw1T0pVMGhSdWI4eG5mY25DQUFldw?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 04:23:00 GMT",
-          "source": "Caixin Global",
-          "text": null
-        },
-        {
-          "title": "Hong Kong IPO Proceeds Set to Decline in 2027, EY Says",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHVPR1ZNbTdnVmgtbTNvNWZMNVRURkY0SGxmdHZoYUIxME9EMm56bjNha2VXODZNblhSTk00ckxRMzJWdmVjVGE1R2dtZDdKYlBSSHpub0VyMWQycXRKbnlaSlN2SE5pU3JTYVV0b3R4OHJiS3J0Q05scGlMWjhMWWVUUXBQbTJqUXdOOC1BcWJ2ZXNETVRXcUpiNWxzdGdIWWhldmdyOWVEaHVZ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 18:28:00 GMT",
-          "source": "Caixin Global",
-          "text": null
-        },
-        {
-          "title": "BYD in Exclusive Talks to Buy INEOS Factory in France",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHJnZlpoU2JYRktycUJzSU9sSXF5ZTVuUDhSQ0hYU1ZxbDc3MEQ4WmtoOEFFVzFBOFhJUy1nejN5UTU2bjZLdGt2N0hnRnduT1J3VTZOblFTbWNxODNtRml4UkRqdlZPMkxYeGR6U20xRGhMN2Y1SjNyeVliNDFQbUxXLWduWVFuSy1jSzJxRUF2OHJGbk40enVSbVdoVHE1Vm1vRjh3Y1dkQkNJ?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 16:58:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "BYD Co. Ltd. is in exclusive talks to buy INEOS Automotive Ltd.’s factory in Hambach, France, potentially securing its first passenger car plant in Western Europe as trade barriers increase pressure to produce locally.",
-            "The Shenzhen- and Hong Kong-listed Chinese automaker and the British off-road vehicle maker announced the talks on Tuesday. INEOS acquired the plant from Mercedes-Benz in 2021 and uses it to build the Grenadier SUV and Quartermaster pickup truck.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Dutch Court Rules in Favor of Jaguar Land Rover in Design Dispute With BYD",
-            "BYD Expects European Workforce to Top 40,000 by 2030"
-          ]
-        },
-        {
-          "title": "China Has Key Role in Global Electrification, WBCSD Chief Says",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTndjMDhRSDZ2RXczSDJTVkpLbWQ3WGtBYmI2T2tXWDZGVW1McnZQU2sxZFRhRVNPdGNCS0hzLS1pcHZVaFFubUFUUGdmcWJvcUwyeTAwQXlWN2VJNTBCWlpNY2xlbUJyRFpkMDFVbzJ1WkZfMnMtMVJLOXdXbXhtWnZyc2cxXzhMTnh4cGZ3Mm9wLWVPb3YzS0FyQXFCQ25BV21VNTRiZllwQmhOajFzbWtKb3o5T28?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 16:00:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China has a key role in advancing global electrification, but cooperation will be needed to manage trade tensions as its clean energy technologies compete overseas, World Business Council for Sustainable Development CEO Peter Bakker told Caixin.",
-            "Founded in 1995 and headquartered in Geneva, the WBCSD brings together more than 200 multinational companies and partner organizations to advance corporate sustainability, with a focus on climate, energy, nature and the circular economy.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Coal Falls Below Half of China’s Power Output for First Time",
-            "CATL Sees New-Energy Big Rigs Making Up Half of China’s Truck Sales by 2028"
-          ]
-        },
-        {
-          "title": "Boeing Scores First China Bulk Deal in Years With Xiamen Airlines Order",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFVsZEZzQS1OU2x6T2FHYW1QRlBvSlhJSlhZQ2lySXBfMnROVEhCcVcwRFlhN251ckU3ZzE5Y0FramhYaXJaWXRJWHo3M2lTLVFGclZQZ3ZYVUNla0hYX3RsYTFEYXpVUF94bFhLTW80Rnh4S1otMGswVWY0MTBPa2FCQ01KQURjNmtPd1JzcmpJdkR0ZGJVaVRxd1dpdXN1TkhsXzhHdDIwbEFQQU9YNHdvYWpsY3ZTRm90aGhPVFhQNjZ3?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 10:46:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "Xiamen Airlines Co. Ltd. has agreed to buy 50 Boeing 737-8 jets, marking the U.S. company’s first publicly confirmed bulk passenger aircraft order from a Chinese airline in nine years.",
-            "China Southern Airlines Co. Ltd., Xiamen Airlines’ parent, disclosed the purchase on Tuesday. The aircraft have a combined list price of about $7.4 billion, though the actual purchase price will be lower. Deliveries are scheduled from 2031 to 2034.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "Boeing Forecasts Strong Jet Demand as Airbus Extends Lead in China",
-            "China to Be Top National Market for Aircraft in the Coming Two Decades, Boeing Predicts"
-          ]
-        },
-        {
-          "title": "China Plans to Expand Care for Children, Seniors by 2030",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFdJNnAyN3pZZEVZOGt3aDBEaGZkZHZNbm1na1FKQXVzdmcwcUgtdDhaWGktS2x0RXl3Ylp2U2MwN3BYLThCazdXS1c4VmNWSmwwQ0ExZWd0cUdPU1VqVUtFQUFrTFVfdFJIQnpmU3FsOVY1NHp6MVBwQTN0WjdJcG5hdnFwOENlamRaMl9pU0NvV2V4d2xLNm5iZmNOLW5JdXdSZ0duU2piSUpUUkhN?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 10:23:00 GMT",
-          "source": "Caixin Global",
-          "text": [
-            "China aims to extend community elder care to 70% of communities by 2030 and build childcare service networks within 15 minutes of residents, under a new government plan designed to expand affordable care for the young and old.",
-            "The implementation plan, issued recently by the National Development and Reform Commission and three other government agencies, called for upgrading 2,000 established public elder-care institutions. It also set targets for nursing care beds to account for 73% of beds in elder-care institutions by 2030 and for enrollment in childcare among children under 3 to rise 6 percentage points from its 2025 level.",
-            "Unlock exclusive discounts\n   \n  \n   with a Caixin group subscription — ideal for teams and organizations.",
-            "China Leans on Younger Seniors to Solve Rural Elder-Care Crisis"
           ]
         }
       ]
@@ -387,26 +494,6 @@
             "What makes Shanghai's business environment so remarkable?",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "Uncovering the Terracotta Army’s Stunning Hidden Artistry",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RjNnTVZfQ3RrQ01LY1V3S000N2kzbXdaUEhrNERsMm1qaWFLZDZsM2NlQkc5cVkzcndLa3hLcGpobTZINjhfNVVRdDFyZ0VfUTl6RVBadWx4Qi1sUEphcA?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 05:34:38 GMT",
-          "source": "ThePaper.cn",
-          "text": [
-            "When glimpsing the Terracotta Army for the first time, almost everyone is awestruck by its sheer scale: thousands of armored clay figures standing in perfect formation, their gray earthen bodies stretching rank upon rank. At first glance, the ghostly 2,000-year-old soldiers look as if they were cast from a single mold.",
-            "But look closer, and the impression of uniformity begins to dissolve. No two faces are exactly alike: brows thick or faint, eyes wide open or slightly narrowed, cheekbones high or low, jawlines rounded or square. When viewed individually, each warrior is far more than a figure: it is a work of art as intricate as many Renaissance statues.",
-            "Zhao Hui (Steve Zhao) has spent much of the past 25 years trying to capture this hidden artistry. A veteran photographer who trained under cinematographer Peter Levy in the 1980s, Zhao became well known for his portraiture. His 1996 project “China Story” has toured more than 30 countries.",
-            "Zhao Hui (Steve Zhao) poses for a photo at the Emperor Qinshihuang’s Mausoleum Site Museum in Xi’an, Shaanxi province. Courtesy of Zhao",
-            "Since 2001, he has applied his talent for portrait photography to the Terracotta Army, amassing images of more than 2,000 figures. The works offer a striking new perspective on the warriors, often zooming in close enough to highlight the carved stroke of an eyebrow, the turn of a cheekbone, or even faint fingerprints left in the clay by a Qin dynasty artisan.",
-            "For Zhao, the project is also about more than changing perceptions of the Terracotta Army; it’s part of a wider effort to document, classify, and analyze it. The vast photo archive helps researchers understand the production processes, craftsmanship, and organization behind the relics — and, most importantly for Zhao, the anonymous master sculptors who carved them.",
-            "In this interview, Sixth Tone sat down with Zhao to discuss how his project began and how it has shaped our understanding of the Terracotta Warriors. The interview has been edited for brevity and clarity.",
-            "Sixth Tone: The Terracotta Army has long been a research focus for archaeologists and historians, but what led you to study them through high-definition photography?",
-            "Zhao: At first, it was just a routine assignment. In 2001, the China National Tourism Administration approached me to photograph the Terracotta Warriors. It was a rare opportunity, of course.",
-            "My task was to capture the warriors in the finest possible detail. That is far harder than most people imagine: heritage photography is not simply pointing a lens at an object. Every click of the shutter is a repeated negotiation with light, angle, material, and patience. The warriors are massive and their preservation conditions special, so every shoot requires meticulous preparation and on-site coordination.",
-            "After taking enough high-definition images, I began to notice striking details — the rise and fall of a brow ridge, the hooked line at the corner of an eye, the marks left by the sculptors’ hands. Perhaps it’s because I’m a portrait photographer, trained to observe people.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
@@ -414,6 +501,50 @@
       "status": "ok",
       "feedUrl": "https://www.sixthtone.com/rss",
       "items": [
+        {
+          "title": "Chinese American Fields Medalist Calls for Math Collaboration in AI Age",
+          "link": "https://www.sixthtone.com/news/1019334/Chinese American Fields Medalist Calls for Math Collaboration in AI Age",
+          "pubDate": "Nov 27, 2026",
+          "source": null,
+          "text": [
+            "Arguing that artificial intelligence could help mathematicians solve difficult problems, Chinese American Fields Medal winner Shing-Tung Yau said humans still have a place in pushing mathematics to new heights.",
+            "“Mathematics is not in crisis. It will only get better,” Yau told Shanghai-based news outlet The Paper on Nov. 23, saying that much of the anxiety surrounding AI stemmed from an excessive focus on problem-solving rather than the broader pursuit of mathematical discovery.",
+            "Yau, the founding president of the Asian Mathematical Union, the first pan-Asian academic organization dedicated to mathematics, called for greater collaboration among mathematicians at the union’s launch ceremony on Tuesday at the Chinese University of Hong Kong. He added that rapid advances in AI offer Asian mathematicians a chance not only to catch up with their international peers but also to overtake them.",
+            "Over the past year, AI has made a series of remarkable breakthroughs in mathematics. In May, a model from American AI company OpenAI disproved the Erdős unit distance conjecture, a problem that had remained open for 80 years.",
+            "On Nov. 20, mathematician Levent Alpöge, working for American AI company Anthropic, unveiled a proof of the Riemann hypothesis, one of mathematics’ most famous unsolved problems, developed with the help of the company’s AI system Claude. Mathematicians are now working to understand the reasoning behind the proof.&nbsp;",
+            "“In mathematics, it’s often only after we’ve repeatedly used a theorem over a long period of time that we know the proof is sound,” Yau explained to The Paper. He expects mathematicians to fully digest the proof of the Riemann hypothesis within five years.",
+            "“Whether the Riemann hypothesis was proved by a machine or the human brain, it’s an exciting achievement. To me, humanity’s goal is to pursue truth. As long as the truth can be discovered, there’s nothing wrong with using whatever tools we have to find it. Who gets the credit, I think, is secondary.”",
+            "Yau likened mathematical research to climbing mountains, saying AI could help mathematicians reach the first summit and open up paths to even greater heights.",
+            "“Climbing a mountain isn’t something one scholar can do alone,” he said. “Machines can speed up our collaboration by helping us bring together ideas from scientists around the world.”",
+            "In line with Yau’s emphasis on collaboration, the Asian Mathematical Union plans to recruit around 100 postdoctoral researchers annually: 50 selected by an academic committee, five each nominated by China, India, Russia, Japan, South Korea, and Iran, and 20 from other countries and regions. It also plans to regularly invite 25 senior mathematicians and 30 early career researchers from around the world to Hong Kong for research, academic exchanges, and training.",
+            "The union will focus on four areas: pure mathematics, applied mathematics, statistics, and AI.",
+            "[continua sulla fonte originale]"
+          ]
+        },
+        {
+          "title": "Farmers’ Markets for the Masses: The Key to China’s Vibrant Local Food Culture",
+          "link": "https://www.sixthtone.com/news/1019324/Farmers’ Markets for the Masses: The Key to China’s Vibrant Local Food Culture",
+          "pubDate": "Nov 27, 2026",
+          "source": null,
+          "text": [
+            "Zhong Shuru has been working at a university in the southern Chinese city of Zhuhai for years. But she still regularly drives three hours north to the outskirts of Dongguan City just to stock up on chicken from her mother’s village.",
+            "This kind of commitment to fresh local produce is far from unusual in southern China’s Guangdong province, home to just over 125 million people and the birthplace of Cantonese cuisine.",
+            "“In Guangdong, we have a saying: Without chicken, there is no feast,” said Zhong, an associate professor of anthropology at Sun Yat-sen University.",
+            "The province consumes a whopping 800 million chickens a year, and locals pride themselves on their ability to taste the difference between “good chicken” — free-range birds raised for over 200 days — and the battery-farmed broilers used by most fast-food chains.",
+            "This passion for high-quality produce has shaped the region’s entire food supply chain, helping local networks survive even amid the rise of modern supermarket chains and online delivery services.",
+            "Even today, city dwellers across Guangdong can easily access fresh meat, seafood, fruits, and vegetables at relatively affordable prices via a dense web of neighborhood food markets.",
+            "For Zhong, these markets — often called “wet markets” in English — have long been a source of fascination: They are a relic of the pre-supermarket era, but also a potential antidote to industrial food production.",
+            "This point struck Zhong keenly when she began a Ph.D. at Texas A&M University. She quickly realized that such markets simply didn’t exist in much of the United States — unless you count expensive farmers’ markets.",
+            "During her time in Texas, Zhong found herself surviving mostly on pizza and pasta dishes to save time — a habit that added “about 10 kilograms” to her weight, she recalled.",
+            "That was when she decided to launch a research project into China’s food markets, aiming to understand the role they played in feeding the country.",
+            "In the summer of 2016, she began a work placement at a market stall selling Spanish mackerel in China’s southern province of Hainan, where she spent over a year tracing the fish’s journey from the South China Sea to dinner tables across the tropical island.",
+            "Over the following decade, she would visit more than 200 markets all over China, writing books including 2025’s “Sustainable Food Consumption in China.”",
+            "At the core of her research lies a burning question: Are local markets destined to decline in an era that prizes convenience, or could they help promote a resurgence in sustainable eating habits?",
+            "But first, it’s necessary to clear up a few common misconceptions. For years, the term “wet market” has fueled all sorts of prejudices in the English-speaking world, where negative stereotypes about Chinese eating habits have a long history.",
+            "Zhong specifically recalls a member of her Ph.D. committee in Texas frowning as she introduced her research subject. “What are wet markets?” the person asked. “Sounds disgusting.”",
+            "[continua sulla fonte originale]"
+          ]
+        },
         {
           "title": "Phones Banned, Chinese Students Turn to Paper Short Dramas",
           "link": "https://www.sixthtone.com/news/1019331/Phones Banned, Chinese Students Turn to Paper Short Dramas",
@@ -526,49 +657,105 @@
             "Researchers also announced at the conference that they have discovered Neolithic and Shang dynasty (c.1600–1046 BC) settlements at a third site, Lingtoushang. The settlements contained evidence of smelting and large quantities of copper, shedding light on close cultural exchange and how the societies exploited and controlled metal resources.&nbsp;",
             "[continua sulla fonte originale]"
           ]
-        },
-        {
-          "title": "Lost Ground: China’s Coffee Brands Break Starbucks and Nestlé’s Grip on Yunnan",
-          "link": "https://www.sixthtone.com/news/1019307/Lost Ground: China’s Coffee Brands Break Starbucks and Nestlé’s Grip on Yunnan",
-          "pubDate": "Nov 22, 2026",
-          "source": null,
-          "text": [
-            "For coffee growers in China’s southwestern Yunnan province, Starbucks and Nestlé used to be the only buyers in town. Every harvest season, their purchasing stations would have lines of loaded trucks stretching for days.",
-            "Plantation owner Zou Qingquan recalls once waiting a whole week to sell her beans to Nestlé. Back then, she says, the company revised its purchase price twice a week based on changes in the international commodity market, “so your beans were making or losing money as they sat there in the truck.”",
-            "Over the past five years, however, these two global giants have been losing their grip on the Yunnan coffee market. Rapid growth among domestic brands such as Seesaw, Manner, Luckin, and the Mixue Group, along with a shift toward specialty coffee, has opened new sales channels for farmers and pushed up prices.",
-            "According to the agricultural industry analysis platform Beedata, Nestlé and Starbucks paid an average of 48.09 yuan ($7.20) and 48.18 yuan per kilogram, respectively, for commercial-grade Yunnan green beans in the first quarter of 2026. For Luckin, it was 50.37 yuan.",
-            "But while growers’ incomes have risen, some warn that an increasingly indiscriminate buying frenzy, which in some cases is leading to the sale of unripe beans, risks disrupting established trade relationships and negatively affecting the quality and image of Yunnan coffee.",
-            "Ma Xiaojin, who manages two coffee-growing cooperatives in Yunnan’s Menglian Dai, Lahu and Va Autonomous County, used to regularly drive the 10 hours from his farm to the Starbucks Farmer Support Center, a training and purchasing facility in central Pu’er, a city arguably best known for its eponymous tea. There, he’d join the line of trucks and wait four or five days to have his beans graded, costing him at least 2,000 yuan in truck rental costs.",
-            "Starbucks has exacting quality standards and purchases beans only from growers certified under its Coffee and Farmer Equity (CAFE) Practices program, which in January included 3,400 farms in Yunnan. The American company is also known for paying more for high-quality beans than its Swiss competitor, Nestlé.",
-            "“You can’t just show up and expect Starbucks to take your beans,” says Hao Yi, who used to work for Starbucks in coffee production. “They don’t just check each batch; they monitor your quality over several consecutive years. That’s why, in the early days, getting your beans into Starbucks was a source of pride. It also brought your subsequent harvests to the attention of specialty coffee roasters.”",
-            "In 2017, Starbucks began selling selected Yunnan beans as part of its high-end Reserve line. For growers, making the cut was no easy feat. If their products passed a preliminary check, they had to provide three large samples from each sack for testing and agree to follow-up screenings.",
-            "Specialty beans from Zou’s estate were selected in 2021, with Starbucks offering 48 yuan per kilogram. At the time, her farm was selling to the open market for more than 60 yuan per kilogram. “We earned less, but working with a big brand was good publicity for us, so it was still a net gain,” she says. The following year, many new buyers approached Zou to purchase the same beans.",
-            "[continua sulla fonte originale]"
-          ]
         }
       ]
     },
     "globaltimes": {
       "status": "ok",
-      "feedUrl": "https://news.google.com/rss/search?q=site%3Ahuanqiu.com%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
+      "feedUrl": "https://news.google.com/rss/search?q=site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "China sets new record in deep oil well casing replacement in Xinjiang region",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xX2FfS3hhSmdMX3J3TFFQa2lJTDRMcGNGTlpIT2g1RU8tb1V6cEJCQjNSMU0zN1ZYcnBHNGtyR0hka3o0NnlEbDBzZUJGcUJ5ZGxR?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 08:21:00 GMT",
-          "source": "环球网",
+          "title": "China’s J-20A stealth fighter to make first airshow performance, Y-20B transport aircraft to go on static display",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BaTdZdk9hWHdUVHk0SjBsOWRobDA2ekFkcnlfY3lwejZhQm9MejRaNmw1V1FpOU5VWnBLelktdXB3ZmhoaEVyYUx4dlRQQ2xJSWY3ZzVCSmxtNTN2UXY2WWp3?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:36:00 GMT",
+          "source": "Global Times",
           "text": [
-            "The Xinjiang Oilfield, a major oil production base in northwestern China, belonging to the China National Petroleum Corporation (CNPC) has announced that it has completed a deep underground casing replacement trial at a depth of 1,819 meters, setting a new domestic record and marking progress in technologies designed to repair aging oil wells and extend their service life, the China News Service reported Saturday.",
-            "The expanded field trial was recently completed at a Gobi Desert drilling site in the Luliang oilfield, with the operation successfully reconnecting 1,819 meters of casing and completing cementing work in the space between the casing and the surrounding wellbore.",
-            "The achievement extends the limits of a technique developed by the oilfield to tackle severe damage to underground well casings, which can otherwise make wells difficult to maintain and continue operating.",
-            "In an oil well, steel casing pipes are installed inside the drill hole to support the well walls and provide a stable passage for extracting oil or injecting water. Over years of operation, however, these pipes can corrode, become deformed or break, potentially restricting the well's internal passage and disrupting production.",
-            "At the Xinjiang Oilfield, located in the Junggar Basin in Northwest China's Xinjiang Uygur Autonomous Region, prolonged exposure to highly mineralized water and the gradual deformation of water-absorbing mudstone formations have contributed to increasingly serious casing damage, including large sections suffering leakage and broken pipes.",
-            "Conventional repair methods, such as plugging damaged sections, may only address the immediate leakage without removing the underlying damaged casing. Meanwhile, traditional casing replacement techniques used in shallower sections are not well suited to the complicated conditions encountered deeper underground.",
-            "To address the problem, researchers at the Xinjiang Oilfield's Oil Production Technology Research Institute developed a deep open-hole casing replacement technique in 2025. The approach involves removing damaged casing sections and installing replacement pipes, aiming to restore the wellbore to its original internal diameter rather than simply sealing the damaged areas.",
-            "An initial field trial was successfully conducted in October 2025 at Well 1424, operated by the Baikouquan Oil Production Plant. The operation replaced casings at a depth of 996 meters and accomplished 809 meters of open-hole casing milling, setting two domestic records at the time.",
-            "Building on the experience, the research team continued refining the technique in 2026, focusing on several challenges that had affected the efficiency and safety of deep underground operations.",
-            "These included difficulties in milling long unsupported sections of casing, the risk of tools becoming stuck when working along the edge of the casing, and the time-consuming process of cutting and retrieving damaged pipes at greater depths.",
-            "[continua sulla fonte originale]"
+            "A documentary on the domestically developed Y-20 large transport aircraft family, aired by state media on Wednesday evening, ...",
+            "As the camera slowly pans across the tarmac, three members in China's Y-20 large domestic transport aircraft family ...",
+            "China Central Television unveiled application scenarios and released more details of China's first unmanned cargo aircraft - the ..."
+          ]
+        },
+        {
+          "title": "Pakistani astronaut's arrival at China's space station draws Indian media attention; diverse space paths suit each nation’s realities: expert",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKNDVhaGdMZXhUY0U4cmNSYUROTUVOUUpGRGM1LUhkc2MzRlJlaGFPVkRyWjV4XzFFMXdvdWhZaUFsMHVaV1hmREV1dmpSTHBqeTVCYXA5WGV3UEptcEJtTFVn?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:10:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "The Shenzhou-24 crewed spacecraft carried by the Long March-2F Y24 carrier rocket, lifts off from the Jiuquan Satellite Launch Center in Northwest China's Gobi Desert on November 25, 2026. Photo: Fan Wei/Global Times",
+            "Pakistani astronaut Muhammad Zeeshan Ali, selected as a payload specialist to join the Shenzhou-24 spaceflight mission, will become ...",
+            "India is poised to celebrate its inaugural National Space Day on Friday, commemorating the one-year anniversary of the ...",
+            "It was a routine spacecraft experiment to test the technology of spacecraft reusability, China’s Foreign Ministry spokesperson Zhao ..."
+          ]
+        },
+        {
+          "title": "China completes world’s first 600-MW compressed air energy storage expander",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnS3doVDVfUTQwZ2NQR2xWeGN2VUpOT2JSa1RMOWFkcXZBR0ZZZEJuc2l2ZDRnZkZERkNTUFJMUTA4Vlg3SVg4N2dJTW5ZV21OSE1BM3FJY3VHN05hUjQ5eWZn?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:31:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "The world's first 600-MW-class expander for a compressed air energy storage system Photo: Courtesy of the Institute of Engineering Thermophysics, Chinese Academy of Sciences",
+            "A massive, nearly five-hour shutdown of the US aviation system that has disrupted more than 20,000 flights since ...",
+            "During a new weapons verification mission, a Chinese ground-based air defense unit demonstrated its ability to intercept new-type ...",
+            "A 60-megawatt (MW) liquid air energy storage project in Northwest China was connected to the grid and started ..."
+          ]
+        },
+        {
+          "title": "US urged to fully implement consensus reached by two countries’ leaders as China stresses firm opposition to Section 301 tariffs",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xdEE3bjZHNDVpMUUwd0hwenJZVHVnRklsR3FNVGtOREFfT1JzSVVQdjk0QV9nQVFhZWRnOFFTMDh5UjdxbGFuVEZqdXVqVEphMjFXX2ZaOUxXS0xxOWFHaDNn?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:04:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "China believes that using multilateral mechanisms such as the G20 to hype claims of so-called economic imbalances and ...",
+            "The reported effort of the US to rally G20 members behind tougher trade measures targeting China is facing ...",
+            "Chinese Commerce Minister Wang Wentao met with representatives of EU and Malaysia - the rotating chair of ASEAN ..."
+          ]
+        },
+        {
+          "title": "China's 2030 roadmap targets 6G, computing networks, 'paving way for new industries and growth models'",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pLW40clBXQlhsMXIzVXJPeVJ6N1o3Wk10bHBCaWZKLTJyUWhzcU93ZTlGQ0dTOFVDTjMzS3lwci05dkFhZUZZLUZweXNBUmlEcWUxY3dnS1pOMGpOb3c2WHdB?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 12:41:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "In 2023, commissioned by the Ministry of Economy and Finance of Cambodia, my team took part in the ...",
+            "More than 80 city leaders and representatives from over 20 countries, along with heads of international organizations, have ...",
+            "With a medley of songs performed by the Xizang Mount Everest Youth Choir such as “The Tibetan Youth” ..."
+          ]
+        },
+        {
+          "title": "China's super-large tunnel boring machine 'Jianghai' completes 7.46-km underwater crossing under Yangtze River",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HYzlOQU5YaHBicFY3WmdTWmZoU214SVZJS2ZXQVhQdVRWeGZBVWhCUHJ1dkRldEVtZVhTN005cUd4TWZGakZsSnlwTHdjcFNIVWx6RnRodUlIZmhzVWhDMnBB?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 08:41:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "The section of the Haitai Yangtze River Tunnel that needs to be excavated using a tunnel boring machine in Suzhou, East China's Jiangsu Province. File photo: VCG",
+            "An aerial view of the entrance of the Haitai Yangtze River Tunnel, in Nantong's Haimen District, East China's Jiangsu Province, on November 26, 2026 Photo: VCG",
+            "A super-large-diameter slurry balance shield machine, developed by China for high-speed railway projects, rolled off the production line ...",
+            "The world’s largest-diameter high-speed railway shield tunneling machine independently developed by China, “Linghang,” for the Chongming-Taizhou tunnel under ...",
+            "China's largest tunnel boring machine (TBM) cutter head, with a record-breaking diameter of 16.64 meters, descended at the ..."
+          ]
+        },
+        {
+          "title": "New evidence of Denisovans and unknown ancient humans found in southern China",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZNGNFRFN3aTRQWUpiQUpWUzhJbFh2THIzam5EZW9XTy1scHcxU05TZnowYVhiNy1WeXF6S2ZEUHVMVU12Yk5PZy1rRVBSM0tJcFhPTDJjSE5VeUlKV1NBZGRR?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 02:23:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "Geographic distribution of Chuanshan Cave, Longchuan Cave and other Denisovan sites in East Asia (left), and human teeth (right)",
+            "Scientists from China and abroad have confirmed that eight of nine fossils of ancient human teeth discovered from ...",
+            "Chinese scientists have identified the Xujiayao hominins, whose fossils were unearthed in North China’s Hebei Province, as Denisovans, ...",
+            "As the 21st century discovery of ancient human fossils across China has increased international attention on the origin ..."
+          ]
+        },
+        {
+          "title": "China unveils 2030 roadmap for next-generation networks, eyes 6G rollout and computing power expansion",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OQ2hKQkdONVZfWG1IUTFDbU10Z1ZLdFl1cktVT055d2lYY2JMTVRROEdVQTVxcml1YmdLZS1EYl82QmR1aTUyMURmSGV0VUtMeXFZQlBNcm1QTUY5QnlwMk9n?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 02:05:00 GMT",
+          "source": "Global Times",
+          "text": [
+            "A declaration outlining a shared vision for global 6G development was unveiled in Shanghai on Tuesday, calling for ...",
+            "China’s Ministry of Industry and Information Technology (MIIT) on Tuesday approved eight provincial-level regions including Beijing, Shanghai and ...",
+            "German automaker BMW on Thursday began mass production of its sixth-generation high-voltage batteries at its 10-billion-yuan ($1.4 billion) ...",
+            "An excavator in Changsha, but its control station in Beijing? A 6G remote driving system for construction machinery ..."
           ]
         }
       ]
@@ -579,112 +766,144 @@
     "feedUrl": "https://news.google.com/rss/search?q=China%20-site%3Anews.cn%20-site%3Aenglish.news.cn%20-site%3Apeople.com.cn%20-site%3Apeople.cn%20-site%3Anews.cctv.com%20-site%3Achinadaily.com.cn%20-site%3Acaixin.com%20-site%3Acaixinglobal.com%20-site%3Athepaper.cn%20-site%3Asixthtone.com%20-site%3Ahuanqiu.com%20-site%3Aglobaltimes.cn%20when%3A5d&hl=en-US&gl=US&ceid=US:en",
     "items": [
       {
-        "title": "China and Japan hit back at Trump's new tariff plans",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UX1N1RHRSa0gzVzU2SVdJLUZ3V2VZbWJOdmozd05VSUlfc05KSFZTZW1VZmd4c1JiSmdxb0t0UVJRbXZzOUdYaXdnQmlNRGhfYWw5UWdR?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:10:37 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "China may not have planned Jensen Huang's affair with accused Chinese spy",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFM1eWZxOFJEbHZVYmpkcEFxTEVyTkFVRUpVaTBtMU83d3hBNzVFMG1Scnoydjd2RTNxejBfZjdXaHYxQnFxa3RET0t3a29CSjhBOWEwZGhieWJraHo2ZlJqMHZhMlhwRC1aRllBXzQzaDhxaldFMU41N2M5a2lya0tHWVM?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 12:56:37 GMT",
-        "source": "Mashable",
-        "text": [
-          "Nvidia CEO Jensen Huang was returned to the job earlier this week, the board reinstating him amidst plummeting stock prices and apparent intervention from President Donald Trump. Now doubt is being cast on allegations that one of Huang's affair partners was a Chinese spy.",
-          "Huang has admitted to cheating on his wife with at least four partners as of this week, however his relationship with Alice Huang (no relation) has drawn the most scrutiny. A former executive at Singapore-based data centre company Megaspeed, Ms. Huang is suspected of being an intelligent agent who shared information with the Chinese government and smuggled Nvidia chips into China, circumventing U.S. restrictions.&nbsp;",
-          "As such, Nvidia opened an independent investigation once Huang and Ms. Huang's relationship came to light, as well as established a committee to oversee the company's national security policies and export control compliance. Huang will also be interviewed by the U.S. House Foreign Affairs Committee, House Select Committee on China, and House Intelligence Committee on Dec. 1, and testify before the U.S. Senate on Dec. 3.",
-          "However, the Wall Street Journal and New York Times now report that the U.S. has no evidence that the Chinese government directed Ms. Huang to begin an affair with Nvidia's CEO. Instead, current evidence indicates that the pair's extramarital entanglement may have been a matter of ordinary human infidelity rather than deliberate international espionage. U.S officials reportedly informed congressional staffers of this in a briefing on Nov. 24, the day after Nvidia reinstated Huang.\n        \n            The best tech deal this week\n                            \n                    \n    The Apple iPhone 18 Pro is free right now with T-Mobile",
-          "This isn't to say that U.S. agencies didn't find any link between Ms. Huang and the Chinese government at all. U.S. officials reportedly stated that China's Ministry of State Security asked Ms. Huang to provide them with some unspecified information, which she allegedly did in accordance with Chinese law. They also claimed that her husband, businessman Kang Wei, was a Chinese intelligence asset. However, while the full extent of Ms. Huang's relationship with the Chinese government remains unclear, there is reportedly nothing to suggest that she passed on any significant information.",
-          "The Chinese government has consistently rejected claims that Ms. Huang was an intelligence agent. In an Oct. 30 press conference, Chinese Ministry of Foreign Affairs spokesperson Guo Jiakun called such reports \"unsubstantiated\" and \"nothing but smears against China.\" He later reiterated China's stance after Huang revealed his first affair on Nov. 8.",
-          "\"On the so-called 'Chinese spy,' we have made our position clear,\" Chinese Ministry of Foreign Affairs spokesperson Mao Ning said in a Nov. 12 press briefing. \"China's sci-tech progress relies on independent innovation and open cooperation. The U.S. should stop fabricating the 'Chinese spy' narratives as a pretext for imposing technology restrictions.\"",
-          "[continua sulla fonte originale]"
-        ]
-      },
-      {
-        "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHM3RHJjQzd5X25CS3B2YkpjVm9fa092SkJjUmlWLS1xRi1EaFZNam9wTi1lbUpmTXdPeVRaYXdjM2hnT2dLenQyQXVtOHZzcDJ5SkZSeGdlS0ZCZHMtMUNfclhqT3VJVUNmNy1yUmtNMnlnRkhvd1ZWV2FKdVQ1QmtB?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 12:04:01 GMT",
+        "title": "Yang Hansen knows China expects another Yao Ming. He just wants to show he belongs in the NBA",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTF9uMzBzN0VERVV1dl9PWmlWZ0dMRDJYeXpfWHpCYmdCQmc4SGFyeldsNTNWcFdrNWpjekphRDk4VUkyUnFrT3JGRm5LQzNFYmJTblBhU3B5TmswUHlKYTF1dVRiTWZ5M25HVVZKZGpiR2tjQy1GV2pSbmNGaF84cE9rUERJSW9C?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 13:53:55 GMT",
         "source": "The New York Times",
         "text": null
       },
       {
-        "title": "Trump’s China Tariffs Threaten Fresh Trade Tensions",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUUC1WdWEyR2F1SnljUnluMlhfWWtVMTdGV2dZZUp0OUNrM3dwN2tLME1rbS00M21FcjdUaU11ZHJyUjdjTGx3eWNwZ1Q4YmJka1JSRlBR?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 11:56:50 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "China and other U.S. trading partners hit back at Trump’s new tariff plans",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 10:38:26 GMT",
-        "source": "AP News",
-        "text": null
-      },
-      {
-        "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TcDdtZ0tkZWZ4OE1nUFM2TDY0bVJFTGkwTzJVaEgyNVRqd2x1RExGWTZQem9jcWFpbEx6bDI0UGJhZjdtalR5alVFVXZlOGhiY0luVDg0OTRvbkplSXgyX2dKMjRQUFowMndaZEp3bTNIOHJHYzlUSFRn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 10:01:56 GMT",
+        "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnFxdV9MMUIycUNVOUxFcXBSMkRpRW9XeDhaYmxEbFFXMWpTZmNzdVgtaU5faDV2bUFMcnFlUERSak9pVm15Z3BRRmJxUUcxNFhMRmZ4eGNTMTNBMU5HOWp6YXNvSExreUtLOVJMMzRwNktLd2RRVldfcGhUQ2xJcmUwSGZQdmhLekE?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 13:33:49 GMT",
         "source": "The New York Times",
         "text": null
       },
       {
-        "title": "Why more American tech startups are ditching Silicon Valley for China’s Shenzhen",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXB2aXJXWFFXbWZaMC0tTHZKQkpfZjRIRnBNM0hhX1dpd1FxVGNncWdzWEZVU2ZYSG5OajVLU2pTUGd1UmFmT2pUV2NzM0xpbWcyMkpKSUhrQkdNM3A1NEdxMTJuLWpDTm9tQXN4cUhheVBSMVVBX0JJdXEtVFZMUU9kN0JZQkdaNHR4c1JQS2ctdW96OEp5ZVRRUXAybW8yb2JhU3BXRFNSV2lpM2JnY08tclZpS1k?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 10:00:42 GMT",
-        "source": "NBC News",
-        "text": [
-          "SHENZHEN, China — In the intense world of technology startups, where even the smallest cost and time-saving measures draw the line between success and failure, several American companies are leaving Silicon Valley behind and opting for the Chinese megacity of Shenzhen.",
-          "FOR SUBSCRIBERSWhat the success of ‘GTA VI’ means for the gaming industry’s futureFOR SUBSCRIBERSWhy Thanksgiving Day may be a key moment in many 2028 presidential campaignsFOR SUBSCRIBERSAl Roker, Thanksgiving memories and one stubborn stick of butterFOR SUBSCRIBERS100 years of a holiday spectacle as American as pumpkin pie FOR SUBSCRIBERSProblems with the military’s healthcare system stretch nationwide, infuriating patientsFOR SUBSCRIBERSNew York governor Kathy Hochul signs AI toy ban into lawFOR SUBSCRIBERSIowans tape windows, cover gardens and flee with their children as lead explosion loomsFOR SUBSCRIBERSIowans brace for the Army’s detonation of toxic leadFOR SUBSCRIBERSDemocrats can win 60 Senate seats in 2028, campaign chief saysFOR SUBSCRIBERSTrump’s Nvidia intervention could fuel tech oligarchy, experts warnFOR SUBSCRIBERS‘I clearly heard the voice of the devil’: Pope Francis’ private diary reveals spiritual crisisFOR SUBSCRIBERSHow the race to build massive AI data centers is draining global power and waterFOR SUBSCRIBERSTrump administration officials debating targeting Iran’s leaders, sources sayFOR SUBSCRIBERSChina cheers Jensen Huang’s dramatic return, even as political fallout deepensFOR SUBSCRIBERSDemocrats probing ‘serendipitous timing’ of investments by Trump Jr.-linked firmSlide 1 of 1For SubscribersFOR SUBSCRIBERSWhat the success of ‘GTA VI’ means for the gaming industry’s futureFOR SUBSCRIBERSWhy Thanksgiving Day may be a key moment in many 2028 presidential campaignsFOR SUBSCRIBERSAl Roker, Thanksgiving memories and one stubborn stick of butterFOR SUBSCRIBERS100 years of a holiday spectacle as American as pumpkin pie FOR SUBSCRIBERSProblems with the military’s healthcare system stretch nationwide, infuriating patientsFOR SUBSCRIBERSNew York governor Kathy Hochul signs AI toy ban into lawFOR SUBSCRIBERSIowans tape windows, cover gardens and flee with their children as lead explosion loomsFOR SUBSCRIBERSIowans brace for the Army’s detonation of toxic leadFOR SUBSCRIBERSDemocrats can win 60 Senate seats in 2028, campaign chief saysFOR SUBSCRIBERSTrump’s Nvidia intervention could fuel tech oligarchy, experts warnFOR SUBSCRIBERS‘I clearly heard the voice of the devil’: Pope Francis’ private diary reveals spiritual crisisFOR SUBSCRIBERSHow the race to build massive AI data centers is draining global power and waterFOR SUBSCRIBERSTrump administration officials debating targeting Iran’s leaders, sources sayFOR SUBSCRIBERSChina cheers Jensen Huang’s dramatic return, even as political fallout deepensFOR SUBSCRIBERSDemocrats probing ‘serendipitous timing’ of investments by Trump Jr.-linked firmSlide 1 of 1Just a moment."
-        ]
-      },
-      {
-        "title": "The fall of China’s most trusted wealth manager",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVM4MzdwZzRuOTBMQUJqTUc2Tk53VmFmRm9wQThGeE0wQ0hodzJDVDZXUlc5YndxLS1vWDZlSzMxcVV5cnRCZEx0TkdxOVFuMXlGNjh3ejV3NFJHTUg5STg2UktRVEFaT285UXN6SU5GaWc2VFZhM3ZaNHlnaXpvdkU1cEd1UmtYYkVHb18wa0RsbzV0RHpCNFhRUU9DRkk1c0ZseEp0NDY?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 09:47:52 GMT",
-        "source": "The Economist",
+        "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wZU5abXRFUmg1YTA3V3pDdVFESnJQVUZvWUU5eXFHbWk2YXFUZkVJVTRESldEU1I0em81UnlfT0Y3QmZJNGg0Y1QxY3dVUkRleU1LQmFn?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 12:44:26 GMT",
+        "source": "YouTube",
         "text": null
       },
       {
-        "title": "China's defence ministry urges Japan to stop 'stirring up' South China Sea disputes",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUJVQ2JZcnNsSFBFOTVuU0tTUjZUOHpSNFhpMXFkOVIxR0NFSUJ5d0F4a3BVa1BRcXdIUldMZjFKd1lMV2c3VjYxRHZEWnpvOTY2UE92dXowSUh6U00xRHpVYm52Y3VYQklTaVNQWFJBdFVFNUxxSk9uX2R6X25qNjkzNE1LOUM1a011ZmpUd29sMHI2OTdyNmJrSVFScmNUTkl3WFhfc0h4N3ZHZkctRnlWNFRncUg1Wi13SHVDU0ZldkE?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 09:41:22 GMT",
+        "title": "Nvidia Chips Turn Up at China Site Linked to Alice Huang",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sdkEtdGx3ak9xekdVbEg0NVNVY3lQOVhKUndMUHVCS3FmLTBxQkxTay1obDJHX1NNNnBJak1HNFN2QUc1MU9Id0U5TmNiaTFIM010VHpn?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 12:43:44 GMT",
+        "source": "YouTube",
+        "text": null
+      },
+      {
+        "title": "PODCAST: China boost lifts tech",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUxDcmFlaWNUU0dyU1hBUHdKX1BNV1QwUGxaSVlOTmNaNTQ3Rmd4WHpCMHRCbFBteFVTS1pyN2VMWjZsOXE1REg5cGcza213R21MbDJtWGxjTzE5VHBEYUU5eHpyVkZkZThSS203R3lteFVZOUJEc01XdUhocUxBOEN0aFVRdlZtQ0JjYXpZdlM?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 12:41:50 GMT",
         "source": "Reuters",
         "text": null
       },
       {
-        "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0pLUEZsX0FSZ1BkN3NfS2laZGh2dlg4R3hQUktxdXh2Q3RzQ0RwWGNmbUUwS09YODlVYThWWVBxOUFybnY4TWlrbzkyZEVXTERTOExSeVJudk9RekNvYnJwRUFSR0czRUllaUlNcEhDeVJFRlBCc19KR09vcG9OQjViTF85dw?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 09:14:29 GMT",
-        "source": "The New York Times",
+        "title": "Russian domestic natural gas price may complicate talks with China, analyst says",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHJSUDNXTTVWWEpBdmZJMEhFc2V2THkwZm5aYm1WLXhKRG9kYkl0V1g4V0oxeHNTZkVIQnZiX0sxOWM5ME85Q2RMUDlHSDZMQVM3dTB4MFZQa1VPbkEyOUI5b2VnV0EyXzRlUldCYl9MV2JiUzJPcHc1cnF4OXBPZHBIVjVxdU5TUnByaGdidjZwUGFPdFZJNUJjUkZUcTNHT0otNlVDZklOTmRxc3NHM2w2aHIyTnJPeTgxaGRJamI4X0tkcV93c0ZFUQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 12:21:45 GMT",
+        "source": "Reuters",
         "text": null
       },
       {
-        "title": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCNENOV1FWTE9xSVdMYXZFeXQwaFI3eE5ERkpoQzNkd05hTGJOX29uS3ZFeXpIYk5uNGd4WXlTN0tMVEdacEZRdGJGUkJ4ZkloNUJkQ3V3?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:53:54 GMT",
-        "source": "YouTube",
-        "text": null
-      },
-      {
-        "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:43:23 GMT",
-        "source": "WSJ",
-        "text": null
-      },
-      {
-        "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:42:23 GMT",
+        "title": "China’s Cabinet Stresses Market Support in Rare Midday Statement",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 11:50:48 GMT",
         "source": "Bloomberg.com",
         "text": null
       },
       {
-        "title": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:41:53 GMT",
+        "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3pxZ1JQb19TUl83aU9NZDBDQlV3M2ZPOFg3bVlSVXgxZHlMWTVObzlmNTBWa0w4YXB0M1VoemRXYTg5cEtITl9jMzJQLVZuWEQyM005alFFYzB0bDNtSW1SS1V1cjF6MlhYSmNJWEZUeFpfOGR4bWJlc0M3Y2tjbWExUUwyekhoWV9EM0JNd2dRVFdJMEY2Q3h3?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 11:45:46 GMT",
+        "source": "Yahoo Finance",
+        "text": [
+          "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang       Andy Lin, Mackenzie Hawkins and Kari Lindberg   Fri, November 27, 2026 at 4:45 AM MST 8 min read                                    NVDA                                (Bloomberg) -- A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+          "SAP Weighs Cutting at Least 10,000 Roles in AI Restructure",
+          "Trump Calls GDP Numbers 'Fake,' Demands Probe After Revision",
+          "South Africa Sentences Russia Army Recruit as Ukraine Urges Action",
+          "Nvidia Rehires Huang in Stunning Reversal After Trump Push",
+          "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+          "The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia's most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan ($14 million) loan from Shanghai Innovation Bank, according to filings from the lender that were reviewed by Bloomberg News.",
+          "A second firm Shanghai Kezhan, controlled by a Tokyo-based parent, described a GB200 server — which also relies on Blackwell chips — at the facility. That description was provided in documents when it obtained a 90 million yuan loan in late 2025 from a finance-leasing firm wholly owned by a local Shanghai government agency.",
+          "The submissions reveal for the first time that Nvidia's Blackwell processors found their way into a Chinese data center that has ties to Alice Huang and Megaspeed. These processors were until recently Nvidia's most powerful data center products, and they've always been illegal to ship to China without a US license.",
+          "President Donald Trump has explicitly said he doesn't want these chips — which OpenAI and Anthropic PBC use to train their most cutting-edge models — going to the Asian country, at least for now. Nvidia Chief Executive Officer Jensen Huang, meanwhile, once claimed they were too big to smuggle: a standard two-meter-tall GB300 NVL72 server rack, which contains 72 Blackwell Ultra chips and 36 Grace processors, can weigh more than 1,500 kilograms (3,300 pounds) and is about the size of a gigantic fridge.",
+          "Nvidia and its just-reinstated CEO have come under intense scrutiny in recent weeks for their failure to stop diversion of the company's products to China, a shadow trade that US officials believe is worth billions of dollars.",
+          "It's unclear how the GB300 rack made its way to the country, to Shanghai Shuoyao or to this specific site — described in local media as designed to house as many as 800,000 servers. By inputting the serial number for the product into a public warranty database, Bloomberg found that it was manufactured by Taiwan's Gigabyte Technology Co., which assembles Nvidia chips into servers and racks. The database also provided a model name for the serial number, which matches a GB300 NVL72 server rack manufactured by the Taiwanese company.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "Japanese carmakers’ sales collapse amid China market plunge",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkpMc3l2cncwaEc5YzJBVmlxQmo2RTF2NEF1SUpfZWxXNzlGMXF2VnBxd2djY3dsMGJpdkd5OXVybUFmZlIwYzJmY09QS0poRzhBREhrVTQ4b29ob2x5WlRHd1RtNnB1NXZUMEhXUG01QzBBVlhZaHpTT1l4WG9HcUlBb3o?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 11:31:30 GMT",
+        "source": "Financial Times",
+        "text": null
+      },
+      {
+        "title": "Threat from China looms large over Taiwan’s local elections",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmpMbTBibDY1WlNqR0Y0Y0hwVWczVDdHWVl4YU9WTTBUMDRTNHVXLUdHTWJLcEdveW8yNm5nZmMwSVhjMkdaX2V5U1NVc3NjMXduRzA3V0txbjlmWjFhcktSTG9KUldVb0tuX0IxdWlpQVhra01LQWIzSGVqS3B1S1VvSEIwa2gyM1pQYjF4VElDMjNLa21SOFpFbkFxRTV2cWV3T3VR?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:58:00 GMT",
+        "source": "The Guardian",
+        "text": [
+          "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party",
+          "Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage.",
+          "Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years, are largely focused on bread-and-butter issues such as housing affordability and wealth distribution.",
+          "Nevertheless, China looms large over the vote, which takes place against the background of intense military pressure from Beijing. China claims Taiwan as part of its territory despite never having ruled the self-governing island. Taiwanese officials have raised the alarm over thousands of incidents of suspected misinformation or election interference, and certain candidates have been subjected to harassment from the Chinese authorities. There have also been reports of hundreds of China-linked AI-generated videos spreading disinformation about Taiwanese politicians disliked by Beijing.",
+          "Beijing calls the allegations of election interference “completely fabricated”. Zhu Fenglian, a spokesperson for China’s Taiwan affairs office, said the allegations “stir up anti-China sentiment to win votes”.",
+          "Wei-Ting Yen, a political scientist at Academia Sinica, Taiwan’s national research academy, said: “Even though local elections are not about China, the outcome of local elections will have huge implications for cross-strait relations.”",
+          "Most races are a tight competition between a candidate from the ruling DPP and the main opposition party, the Kuomintang (KMT). The KMT promotes closer ties with Beijing, and its chair, Cheng Li-wun, travelled to China this year to meet Xi Jinping, China’s leader. Xi has vowed to unify China with Taiwan, and has not ruled out using military action to achieve that aim.",
+          "Yen said if the KMT loses some of its traditional strongholds, Beijing “may need to reconsider what is the most effective strategy for influencing Taiwanese people”.",
+          "One of the most contentious votes is the race for Taipei mayor, an office that the DPP has not held for nearly three decades. The DPP has selected as its challenger Puma Shen, a national legislator whom Beijing declared a “diehard separatist” in 2024. It is the first time a candidate under sanctions by Beijing has run to be mayor of Taiwan’s capital city. In the neighbouring New Tapei City race, the DPP’s Su Chiao-hui is also proving to be a ferocious challenger to the incumbent KMT.",
+          "Shen said in a recent interview that even if he didn’t win, the capital’s mayoral race was “a slap to China” because it proved that “democracy works here in Taiwan”.",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "I followed Putin to China for a historic summit | BBC News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wTVNUZHlJd0NHejhVdGZRa0VwX0xSMUlNdmRHN3VhSmhYald1Ri1RTzdQajJrZkRoeXRYVnNIRHFHUWlBSzAzSmk3WWxCckQzSndEeTZB?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:32:58 GMT",
+        "source": "YouTube",
+        "text": null
+      },
+      {
+        "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:07:47 GMT",
+        "source": "CNBC",
+        "text": [
+          "Chinese stocks rebounded sharply on Friday after a rare intraday state media readout cheered investors as top policymakers pledged to expand the role of state-backed funds in supporting the market.",
+          "The STAR index surged 14%, led by Chinese chipmakers such as CXMT, Cambricon and SMIC. The CSI Semiconductor index of 40 chip stocks climbed by 17.6% in its biggest single-day gain on record, surpassing the prior record of nearly 17% in late 2024, according to Wind Information.",
+          "The gains were widespread across mainland and Hong Kong stock indexes. The Hang Seng index rose 2%, while the CSI 300 index climbed 4%, its biggest jump since October 2024, according to Wind data.",
+          "The rally comes as governments pour support into domestic chip industries while tightening controls on sensitive technology in the global race for artificial intelligence.",
+          "The U.S. unveiled a new rule last week to further restrict Chinese companies’ access to advanced AI chips, including through overseas data centers, adding pressure on Beijing to accelerate its push for semiconductor self-sufficiency.",
+          "Friday's rally comes after the CSI 300 on Thursday sank to its lowest level since the escalation of the U.S.-China tariff war in the spring of 2025, according to Wind data.",
+          "In recent months, investors have weighed the commercial feasibility of Chinese artificial intelligence developers and tighter U.S. restrictions on advanced chips.",
+          "Chinese Premier Li Qiang oversaw a meeting Friday morning of the State Council, the country's top governing body, which saw officials pledge to strengthen the role of \"National Team\" — referring to state-backed funds — to stabilize markets and ensure ample liquidity, according to a readout released by state media Xinhua News.",
+          "The explicit reference to the \"national team\" is a first for a State Council meeting, said Bob Chen, a Shanghai-based venture capitalist and economist.",
+          "Authorities also stressed that \"capital markets are crucial to the broader economy,\" according to the readout, a rare comment from a government that has not always looked favorably on the financial sector.",
+          "\"Stock market performance is now prioritized at the highest level for the Chinese government,\" which is boosting investor confidence, Chen said.",
+          "\"That's very strong language from the top officials,\" said Zong Ke, a portfolio manager at a Shanghai-based quantitative fund.",
+          "By Ke's calculations, stock trading volumes surged rapidly after the readout was released around 1:00 p.m. local time (12:00 a.m. ET). Full-day turnover across the Shanghai, Shenzhen and Beijing exchanges was 52% higher than the previous session.",
+          "Policymakers also vowed to strengthen the role of \"stabilization funds\" like Central Huijin Investment, a state-owned investment firm that holds equity stakes on behalf of the State Council.",
+          "That message \"effectively institutionalized Central Huijin's role as a state stabilization fund,\" said Hong Hao, managing partner of Lotus Asset Management. \"And it's significantly positive news for the market.\"",
+          "Hao expects this market rally to prove more durable than the \"fleeting bounce\" triggered by Beijing's stimulus talks in the past, which wore off in days. \"This time it's for real.\"",
+          "[continua sulla fonte originale]"
+        ]
+      },
+      {
+        "title": "Former government chief of China's Guangxi sentenced to death with reprieve over graft",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXpEaENJRlIwSHl4dEZuT0pwQTVreDduek1JSVNKVTB4UkJFMDZUZFBtQUYtYVlHYVZSdklGNXNsbU1vWHc3cS02NkFGSnlSa3Z4a0dybGlwWHpXYW9TUGwyLTJjSmFNNDIzOE5iRlRCS3JBYUpFcVhxOUQwR1dNem5EZm15akU4YV9uc21tYUVwa0tXRmRkdmFuZ2FmeGlScEd6MTljM0RrSXhpazNJSVV4WVVJRDhXc1l1RHdyUWZpVEdmQkE?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:01:23 GMT",
+        "source": "Reuters",
+        "text": null
+      },
+      {
+        "title": "The US Is Squandering Its Lead Over China in Aerospace",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenc3M2hzMkpNMDdnbGs4UXNtak9EX09SbFRSTDN5XzU5OEM4MVlQMnRObnhDanVvR013WDVzNUl4b0x0TV91TV9peDI0aUgzdmZGN1BQQUJfZjRuU2tGRFhkTTczcE4tT0VYeUdIMFNic0RpYUI5YTlPb0pPMDUtTE1oUk93c1RJaHZYbThvQVB2anhtaE0tdmh1MW50NDZjYU5TVUV0US1VNlAy?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:00:24 GMT",
         "source": "Bloomberg.com",
         "text": null
       }
